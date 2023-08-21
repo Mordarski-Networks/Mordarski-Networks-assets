@@ -1,0 +1,33 @@
+! Title: smordarski's filter list
+! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad
+! Last modified: %timestamp%
+! Homepage: https://github.com/smordarski/smord-filter-list
+! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/smordarski/smord-filter-list/issues
+! GitHub pull requests: https://github.com/smordarski/smord-filter-list/pulls
+!
+! People & websites that helped me create this list:
+! https://letsblock.it/filters/search-results
+! https://github.com/letsblockit/letsblockit
+
+! Blocks TikTok
+www.google.*##.g:has(a[href*="tiktok.com"])
+www.google.*##a[href*="tiktok.com"]:upward(1)
+||tiktok.com^$all
+
+! Blocks Discord
+www.google.*##.g:has(a[href*="discord.com"])
+www.google.*##a[href*="discord.com"]:upward(1)
+||discord.com^$all
+www.google.*##.g:has(a[href*="discordapp.com"])
+www.google.*##a[href*="discordapp.com"]:upward(1)
+||discordapp.com^$all
+www.google.*##.g:has(a[href*="discord.gg"])
+www.google.*##a[href*="discord.gg"]:upward(1)
+||discord.gg^$all
+
+! Blocks ROBLOX
+www.google.*##.g:has(a[href*="roblox.com"])
+www.google.*##a[href*="roblox.com"]:upward(1)
+||roblox.com^$all
