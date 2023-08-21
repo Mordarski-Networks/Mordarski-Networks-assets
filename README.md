@@ -26,6 +26,7 @@ You can contact me through GitHub Discussions which you can find here https://gi
 ## Special thanks to
 
 - https://github.com/letsblockit/letsblockit
+- https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md
 - https://github.com/gorhill/uBlock/wiki/Static-filter-syntax
 
 Without this information and support, I wouldn't be able to make this filter list.
