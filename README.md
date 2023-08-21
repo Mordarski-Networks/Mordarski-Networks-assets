@@ -9,7 +9,7 @@ This filter blocks TikTok, Discord, and ROBLOX. My goal is to block websites tha
 ## How do I add this to uBlock Origin?
 
 1. Open uBlock Origin's settings and go to "Filter lists"
-2. Scroll to the bottom and select "Custom"
+2. Scroll to the bottom and select "Import"
 3. Put this as the URL https://raw.githubusercontent.com/smordarski/smord-filter-list/main/filters/smord-filter-list.txt
 4. Save
 
