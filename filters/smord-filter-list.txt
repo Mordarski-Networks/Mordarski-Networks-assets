@@ -1,6 +1,6 @@
 ! Title: smordarski's filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad
-! Last modified: Monday, August 21, 2023 6:52:31 PM UTC
+! Last modified: Monday, August 21, 2023 10:57:00 PM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
@@ -43,3 +43,15 @@ www.google.*##a[href*="roblox.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="roblox.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="roblox.com"]:upward(.tile)
 ||roblox.com^$all
+
+! Blocks Epic Games
+www.google.*##.g:has(a[href*="epicgames.com"])
+www.google.*##a[href*="epicgames.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="epicgames.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="epicgames.com"]:upward(.tile)
+||epicgames.com^$all
+www.google.*##.g:has(a[href*="fortnite.com"])
+www.google.*##a[href*="fortnite.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="fortnite.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="fortnite.com"]:upward(.tile)
+||fortnite.com^$all
