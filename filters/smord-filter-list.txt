@@ -10,24 +10,35 @@
 ! People & websites that helped me create this list:
 ! https://letsblock.it/filters/search-results
 ! https://github.com/letsblockit/letsblockit
+! https://github.com/gorhill/uBlock/wiki/Static-filter-syntax
 
 ! Blocks TikTok
 www.google.*##.g:has(a[href*="tiktok.com"])
 www.google.*##a[href*="tiktok.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktok.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktok.com"]:upward(.tile)
 ||tiktok.com^$all
 
 ! Blocks Discord
 www.google.*##.g:has(a[href*="discord.com"])
 www.google.*##a[href*="discord.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discord.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discord.com"]:upward(.tile)
 ||discord.com^$all
 www.google.*##.g:has(a[href*="discordapp.com"])
 www.google.*##a[href*="discordapp.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordapp.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordapp.com"]:upward(.tile)
 ||discordapp.com^$all
 www.google.*##.g:has(a[href*="discord.gg"])
 www.google.*##a[href*="discord.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discord.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discord.gg"]:upward(.tile)
 ||discord.gg^$all
 
 ! Blocks ROBLOX
 www.google.*##.g:has(a[href*="roblox.com"])
 www.google.*##a[href*="roblox.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="roblox.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="roblox.com"]:upward(.tile)
 ||roblox.com^$all
