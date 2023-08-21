@@ -22,3 +22,10 @@ Although I may be slow to respond because I have a real job and can't look at Gi
 ## Where can I contact you?
 
 You can contact me through GitHub Discussions which you can find here https://github.com/smordarski/smord-filter-list/discussions
+
+## Special thanks to
+
+https://github.com/letsblockit/letsblockit
+https://github.com/gorhill/uBlock/wiki/Static-filter-syntax
+
+Without this information and support, I wouldn't be able to make this filter list.
