@@ -10,6 +10,7 @@
 ! People & websites that helped me create this list:
 ! https://letsblock.it/filters/search-results
 ! https://github.com/letsblockit/letsblockit
+! https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md
 ! https://github.com/gorhill/uBlock/wiki/Static-filter-syntax
 
 ! Blocks TikTok
