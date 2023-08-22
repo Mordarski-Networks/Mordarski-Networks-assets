@@ -1,1 +1,11 @@
+# Set the default syntax highlighting for text files
 *.txt linguist-language=AdBlock linguist-detectable
+
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Declare files that will always have CRLF line endings on checkout.
+*.txt text eol=crlf
+
+# Set the default syntax highlighting for .gitattributes files
+*.gitattributes linguist-language=gitattributes
