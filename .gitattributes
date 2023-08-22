@@ -8,4 +8,4 @@
 *.txt text eol=crlf
 
 # Set the default syntax highlighting for text files
-*.md linguist-detectable
+*.md linguist-language=markdown linguist-detectable
