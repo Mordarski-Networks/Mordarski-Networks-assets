@@ -6,6 +6,3 @@
 
 # Declare files that will always have CRLF line endings on checkout.
 *.txt text eol=crlf
-
-# Set the default syntax highlighting for .gitattributes files
-*.gitattributes linguist-language=gitattributes
