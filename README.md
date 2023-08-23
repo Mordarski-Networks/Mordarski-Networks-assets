@@ -11,7 +11,8 @@ This filter blocks TikTok, Discord, and ROBLOX. My goal is to block websites tha
 1. Open uBlock Origin's settings and go to "Filter lists"
 2. Scroll to the bottom and select "Import"
 3. Put this as the URL https://raw.githubusercontent.com/smordarski/smord-filter-list/main/filters/smord-filter-list.txt
-4. Save
+4. (Optional) If you want to block more websites that aren't included in the main list, then put this as the second URL below the first one https://raw.githubusercontent.com/smordarski/smord-filter-list/main/filters/extra.txt
+5. Save
 
 ## Where do I open issues?
 
