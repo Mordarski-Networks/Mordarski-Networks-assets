@@ -1,7 +1,7 @@
 ! Title: smordarski's filter list
-! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad
+! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad.
 ! Expires: 5 days
-! Last modified: Wednesday, August 23, 2023 1:03:15 AM UTC
+! Last modified: Wednesday, August 23, 2023 1:57:51 AM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
