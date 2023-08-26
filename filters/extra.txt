@@ -13,12 +13,12 @@ www.google.*##.g:has(a[href*="epicgames.com"])
 www.google.*##a[href*="epicgames.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="epicgames.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="epicgames.com"]:upward(.tile)
-||epicgames.com^$all
+||.epicgames.com^$all
 www.google.*##.g:has(a[href*="fortnite.com"])
 www.google.*##a[href*="fortnite.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="fortnite.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="fortnite.com"]:upward(.tile)
-||fortnite.com^$all
+||.fortnite.com^$all
 
 ! Blocks PETA
 www.google.*##.g:has(a[href*="peta.org"])
