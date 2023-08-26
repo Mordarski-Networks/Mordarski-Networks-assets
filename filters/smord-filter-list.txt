@@ -1,3 +1,4 @@
+[uBlock Origin]
 ! Title: smordarski's filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad.
 ! Expires: 5 days
@@ -37,6 +38,73 @@ www.google.*##a[href*="discord.gg"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discord.gg"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discord.gg"]:upward(.tile)
 ||discord.gg^$all
+
+! Blocks Discord Bots & Server Websites
+www.google.*##.g:has(a[href*="discordstatus.com"])
+www.google.*##a[href*="discordstatus.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordstatus.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordstatus.com"]:upward(.tile)
+||discordstatus.com^$all
+www.google.*##.g:has(a[href*="discord.me"])
+www.google.*##a[href*="discord.me"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discord.me"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discord.me"]:upward(.tile)
+||discord.me^$all
+www.google.*##.g:has(a[href*="discord.io"])
+www.google.*##a[href*="discord.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discord.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discord.io"]:upward(.tile)
+||discord.io^$all
+www.google.*##.g:has(a[href*="discord.onl"])
+www.google.*##a[href*="discord.onl"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discord.onl"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discord.onl"]:upward(.tile)
+||discord.onl^$all
+www.google.*##.g:has(a[href*="disboard.org"])
+www.google.*##a[href*="disboard.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="disboard.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="disboard.org"]:upward(.tile)
+||disboard.org^$all
+www.google.*##.g:has(a[href*="discordservers.com"])
+www.google.*##a[href*="discordservers.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordservers.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordservers.com"]:upward(.tile)
+||discordservers.com^$all
+www.google.*##.g:has(a[href*="top.gg"])
+www.google.*##a[href*="top.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="top.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="top.gg"]:upward(.tile)
+||top.gg^$all
+www.google.*##.g:has(a[href*="discord.js"])
+www.google.*##a[href*="discord.js"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discord.js"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discord.js"]:upward(.tile)
+||discord.js^$all
+www.google.*##.g:has(a[href*="betterdiscord.app"])
+www.google.*##a[href*="betterdiscord.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="betterdiscord.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="betterdiscord.app"]:upward(.tile)
+||betterdiscord.app^$all
+www.google.*##.g:has(a[href*="discords.com"])
+www.google.*##a[href*="discords.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discords.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discords.com"]:upward(.tile)
+||discords.com^$all
+www.google.*##.g:has(a[href*="discord.bots.gg"])
+www.google.*##a[href*="discord.bots.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discord.bots.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discord.bots.gg"]:upward(.tile)
+||discord.bots.gg^$all
+www.google.*##.g:has(a[href*="discord.ondiscord.xyz"])
+www.google.*##a[href*="discord.ondiscord.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discord.ondiscord.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discord.ondiscord.xyz"]:upward(.tile)
+||discord.ondiscord.xyz^$all
+www.google.*##.g:has(a[href*="discordbotlist.com"])
+www.google.*##a[href*="discordbotlist.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordbotlist.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordbotlist.com"]:upward(.tile)
+||discordbotlist.com^$all
 
 ! Blocks ROBLOX
 www.google.*##.g:has(a[href*="roblox.com"])
