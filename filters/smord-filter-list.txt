@@ -104,6 +104,81 @@ www.google.*##a[href*="discordbotlist.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discordbotlist.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discordbotlist.com"]:upward(.tile)
 ||discordbotlist.com^$all
+www.google.*##.g:has(a[href*="discadia.com"])
+www.google.*##a[href*="discadia.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discadia.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discadia.com"]:upward(.tile)
+||discadia.com^$all
+www.google.*##.g:has(a[href*="discordhome.com"])
+www.google.*##a[href*="discordhome.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordhome.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordhome.com"]:upward(.tile)
+||discordhome.com^$all
+www.google.*##.g:has(a[href*="mee6.xyz"])
+www.google.*##a[href*="mee6.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mee6.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mee6.xyz"]:upward(.tile)
+||mee6.xyz^$all
+www.google.*##.g:has(a[href*="disforge.com"])
+www.google.*##a[href*="disforge.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="disforge.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="disforge.com"]:upward(.tile)
+||disforge.com^$all
+www.google.*##.g:has(a[href*="dyno.gg"])
+www.google.*##a[href*="dyno.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="dyno.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="dyno.gg"]:upward(.tile)
+||dyno.gg^$all
+www.google.*##.g:has(a[href*="widgetbot.io"])
+www.google.*##a[href*="widgetbot.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="widgetbot.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="widgetbot.io"]:upward(.tile)
+||widgetbot.io^$all
+www.google.*##.g:has(a[href*="hydra.bot"])
+www.google.*##a[href*="hydra.bot"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="hydra.bot"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="hydra.bot"]:upward(.tile)
+||hydra.bot^$all
+www.google.*##.g:has(a[href*="probot.io"])
+www.google.*##a[href*="probot.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="probot.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="probot.io"]:upward(.tile)
+||probot.io^$all
+www.google.*##.g:has(a[href*="pfps.gg"])
+www.google.*##a[href*="pfps.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="pfps.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="pfps.gg"]:upward(.tile)
+||pfps.gg^$all
+www.google.*##.g:has(a[href*="ticketsbot.net"])
+www.google.*##a[href*="ticketsbot.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ticketsbot.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ticketsbot.net"]:upward(.tile)
+||ticketsbot.net^$all
+www.google.*##.g:has(a[href*="carl.gg"])
+www.google.*##a[href*="carl.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="carl.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="carl.gg"]:upward(.tile)
+||carl.gg^$all
+www.google.*##.g:has(a[href*="emoji.gg"])
+www.google.*##a[href*="emoji.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="emoji.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="emoji.gg"]:upward(.tile)
+||emoji.gg^$all
+www.google.*##.g:has(a[href*="pancake.gg"])
+www.google.*##a[href*="pancake.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="pancake.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="pancake.gg"]:upward(.tile)
+||pancake.gg^$all
+www.google.*##.g:has(a[href*="arcane.bot"])
+www.google.*##a[href*="arcane.bot"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="arcane.bot"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="arcane.bot"]:upward(.tile)
+||arcane.bot^$all
+www.google.*##.g:has(a[href*="rythm.fm"])
+www.google.*##a[href*="rythm.fm"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="rythm.fm"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="rythm.fm"]:upward(.tile)
+||rythm.fm^$all
 
 ! Blocks ROBLOX
 www.google.*##.g:has(a[href*="roblox.com"])
