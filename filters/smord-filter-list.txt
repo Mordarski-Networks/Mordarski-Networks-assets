@@ -258,3 +258,9 @@ www.google.*##a[href*="rogold.live"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="rogold.live"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="rogold.live"]:upward(.tile)
 ||rogold.live^$all
+!
+www.google.*##.g:has(a[href*="countr.xyz"])
+www.google.*##a[href*="countr.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="countr.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="countr.xyz"]:upward(.tile)
+||countr.xyz^$all
