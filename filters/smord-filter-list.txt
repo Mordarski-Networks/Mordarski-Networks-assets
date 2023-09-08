@@ -1,7 +1,7 @@
 ! Title: smordarski's filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad.
 ! Expires: 5 days
-! Last modified: Friday, September 8, 2023 11:06:22 PM UTC
+! Last modified: Friday, September 8, 2023 11:39:30 PM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
@@ -227,6 +227,13 @@ duckduckgo.com##ol.react-results--main a[href*="owo-bot.xyz"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="owo-bot.xyz"]:upward(.tile)
 ||owo-bot.xyz^$all
 !
+! https://github.com/smordarski/smord-filter-list/pull/2
+www.google.*##.g:has(a[href*="countr.xyz"])
+www.google.*##a[href*="countr.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="countr.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="countr.xyz"]:upward(.tile)
+||countr.xyz^$all
+!
 ! Blocks ROBLOX
 www.google.*##.g:has(a[href*="roblox.com"])
 www.google.*##a[href*="roblox.com"]:upward(1)
@@ -258,9 +265,3 @@ www.google.*##a[href*="rogold.live"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="rogold.live"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="rogold.live"]:upward(.tile)
 ||rogold.live^$all
-!
-www.google.*##.g:has(a[href*="countr.xyz"])
-www.google.*##a[href*="countr.xyz"]:upward(1)
-duckduckgo.com##ol.react-results--main a[href*="countr.xyz"]:upward(article)
-duckduckgo.com##.tile-wrap a[href*="countr.xyz"]:upward(.tile)
-||countr.xyz^$all
