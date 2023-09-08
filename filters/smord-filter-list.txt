@@ -1,7 +1,7 @@
 ! Title: smordarski's filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad.
 ! Expires: 5 days
-! Last modified: Friday, September 8, 2023 9:15:05 PM UTC
+! Last modified: Friday, September 8, 2023 11:06:22 PM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
@@ -215,6 +215,18 @@ duckduckgo.com##ol.react-results--main a[href*="rythm.fm"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="rythm.fm"]:upward(.tile)
 ||rythm.fm^$all
 !
+www.google.*##.g:has(a[href*="owobot.com"])
+www.google.*##a[href*="owobot.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="owobot.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="owobot.com"]:upward(.tile)
+||owobot.com^$all
+!
+www.google.*##.g:has(a[href*="owo-bot.xyz"])
+www.google.*##a[href*="owo-bot.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="owo-bot.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="owo-bot.xyz"]:upward(.tile)
+||owo-bot.xyz^$all
+!
 ! Blocks ROBLOX
 www.google.*##.g:has(a[href*="roblox.com"])
 www.google.*##a[href*="roblox.com"]:upward(1)
@@ -227,5 +239,22 @@ www.google.*##.g:has(a[href*="ropro.io"])
 www.google.*##a[href*="ropro.io"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="ropro.io"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="ropro.io"]:upward(.tile)
-||ropro.io
+||ropro.io^$all
 !
+www.google.*##.g:has(a[href*="btroblox.net"])
+www.google.*##a[href*="btroblox.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="btroblox.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="btroblox.net"]:upward(.tile)
+||btroblox.net^$all
+!
+www.google.*##.g:has(a[href*="rovalk.com"])
+www.google.*##a[href*="rovalk.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="rovalk.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="rovalk.com"]:upward(.tile)
+||rovalk.com^$all
+!
+www.google.*##.g:has(a[href*="rogold.live"])
+www.google.*##a[href*="rogold.live"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="rogold.live"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="rogold.live"]:upward(.tile)
+||rogold.live^$all
