@@ -111,11 +111,11 @@ duckduckgo.com##ol.react-results--main a[href*="petaliterature.com"]:upward(arti
 duckduckgo.com##.tile-wrap a[href*="petaliterature.com"]:upward(.tile)
 ||petaliterature.com^$all
 !
-www.google.*##.g:has(a[href*="petamail.com"])
-www.google.*##a[href*="petamail.com"]:upward(1)
-duckduckgo.com##ol.react-results--main a[href*="petamail.com"]:upward(article)
-duckduckgo.com##.tile-wrap a[href*="petamail.com"]:upward(.tile)
-||petamail.com^$all
+www.google.*##.g:has(a[href*="petamall.com"])
+www.google.*##a[href*="petamall.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="petamall.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="petamall.com"]:upward(.tile)
+||petamall.com^$all
 !
 www.google.*##.g:has(a[href*="secretlivesofanimals.com"])
 www.google.*##a[href*="secretlivesofanimals.com"]:upward(1)
