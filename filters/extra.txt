@@ -1,13 +1,13 @@
 ! Title: smordarski's extra filter list
 ! Description: Blocks extra websites that I deem unsafe or bad but shouldn't be put into the main filter list.
 ! Expires: 5 days
-! Last modified: Saturday, August 26, 2023 6:13:31 PM UTC
+! Last modified: Sunday, September 10, 2023 7:59:03 PM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
 ! GitHub issues: https://github.com/smordarski/smord-filter-list/issues
 ! GitHub pull requests: https://github.com/smordarski/smord-filter-list/pulls
-
+!
 ! Blocks Epic Games
 www.google.*##.g:has(a[href*=".epicgames.com"])
 www.google.*##a[href*=".epicgames.com"]:upward(1)
@@ -19,15 +19,190 @@ www.google.*##a[href*=".fortnite.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*=".fortnite.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*=".fortnite.com"]:upward(.tile)
 ||.fortnite.com^$all
-
+!
 ! Blocks PETA
 www.google.*##.g:has(a[href*="peta.org"])
 www.google.*##a[href*="peta.org"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="peta.org"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="peta.org"]:upward(.tile)
 ||peta.org^$all
+!
 www.google.*##.g:has(a[href*="petakids.com"])
 www.google.*##a[href*="petakids.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="petakids.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="petakids.com"]:upward(.tile)
 ||petakids.com^$all
+!
+www.google.*##.g:has(a[href*="marscandykills.com"])
+www.google.*##a[href*="marscandykills.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="marscandykills.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="marscandykills.com"]:upward(.tile)
+||marscandykills.com^$all
+!
+www.google.*##.g:has(a[href*="nesteacrueltea.com"])
+www.google.*##a[href*="nesteacrueltea.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="nesteacrueltea.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="nesteacrueltea.com"]:upward(.tile)
+||nesteacrueltea.com^$all
+!
+www.google.*##.g:has(a[href*="testsubjectsfilm.com"])
+www.google.*##a[href*="testsubjectsfilm.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="testsubjectsfilm.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="testsubjectsfilm.com"]:upward(.tile)
+||testsubjectsfilm.com^$all
+!
+www.google.*##.g:has(a[href*="canadasshame.com"])
+www.google.*##a[href*="canadasshame.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="canadasshame.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="canadasshame.com"]:upward(.tile)
+||canadasshame.com^$all
+!
+www.google.*##.g:has(a[href*="seaworldofhurt.com"])
+www.google.*##a[href*="seaworldofhurt.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="seaworldofhurt.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="seaworldofhurt.com"]:upward(.tile)
+||seaworldofhurt.com^$all
+!
+www.google.*##.g:has(a[href*="kentuckyfriedcruelty.com"])
+www.google.*##a[href*="kentuckyfriedcruelty.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="kentuckyfriedcruelty.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="kentuckyfriedcruelty.com"]:upward(.tile)
+||kentuckyfriedcruelty.com^$all
+!
+www.google.*##.g:has(a[href*="mccruelty.com"])
+www.google.*##a[href*="mccruelty.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mccruelty.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mccruelty.com"]:upward(.tile)
+||mccruelty.com^$all
+!
+www.google.*##.g:has(a[href*="meat.org"])
+www.google.*##a[href*="meat.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="meat.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="meat.org"]:upward(.tile)
+||meat.org^$all
+!
+www.google.*##.g:has(a[href*="shouldieatcheese.com"])
+www.google.*##a[href*="shouldieatcheese.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="shouldieatcheese.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="shouldieatcheese.com"]:upward(.tile)
+||shouldieatcheese.com^$all
+!
+www.google.*##.g:has(a[href*="breakingthechainfilm.com"])
+www.google.*##a[href*="breakingthechainfilm.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="breakingthechainfilm.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="breakingthechainfilm.com"]:upward(.tile)
+||breakingthechainfilm.com^$all
+!
+www.google.*##.g:has(a[href*="ingridnewkirk.com"])
+www.google.*##a[href*="ingridnewkirk.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ingridnewkirk.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ingridnewkirk.com"]:upward(.tile)
+||ingridnewkirk.com^$all
+!
+www.google.*##.g:has(a[href*="petalambs.com"])
+www.google.*##a[href*="petalambs.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="petalambs.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="petalambs.com"]:upward(.tile)
+||petalambs.com^$all
+!
+www.google.*##.g:has(a[href*="petaliterature.com"])
+www.google.*##a[href*="petaliterature.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="petaliterature.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="petaliterature.com"]:upward(.tile)
+||petaliterature.com^$all
+!
+www.google.*##.g:has(a[href*="petamall.com"])
+www.google.*##a[href*="petamall.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="petamall.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="petamall.com"]:upward(.tile)
+||petamall.com^$all
+!
+www.google.*##.g:has(a[href*="secretlivesofanimals.com"])
+www.google.*##a[href*="secretlivesofanimals.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="secretlivesofanimals.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="secretlivesofanimals.com"]:upward(.tile)
+||secretlivesofanimals.com^$all
+!
+www.google.*##.g:has(a[href*="petalatino.com"])
+www.google.*##a[href*="petalatino.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="petalatino.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="petalatino.com"]:upward(.tile)
+||petalatino.com^$all
+!
+www.google.*##.g:has(a[href*="peta.org.au"])
+www.google.*##a[href*="peta.org.au"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="peta.org.au"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="peta.org.au"]:upward(.tile)
+||peta.org.au^$all
+!
+www.google.*##.g:has(a[href*="petaasia.com"])
+www.google.*##a[href*="petaasia.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="petaasia.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="petaasia.com"]:upward(.tile)
+||petaasia.com^$all
+!
+www.google.*##.g:has(a[href*="animalsinislam.com"])
+www.google.*##a[href*="animalsinislam.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="animalsinislam.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="animalsinislam.com"]:upward(.tile)
+||animalsinislam.com^$all
+!
+www.google.*##.g:has(a[href*="freemali.com"])
+www.google.*##a[href*="freemali.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="freemali.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="freemali.com"]:upward(.tile)
+||freemali.com^$all
+!
+www.google.*##.g:has(a[href*="nofur.hk"])
+www.google.*##a[href*="nofur.hk"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="nofur.hk"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="nofur.hk"]:upward(.tile)
+||nofur.hk^$all
+!
+www.google.*##.g:has(a[href*="petafrance.com"])
+www.google.*##a[href*="petafrance.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="petafrance.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="petafrance.com"]:upward(.tile)
+||petafrance.com^$all
+!
+www.google.*##.g:has(a[href*="peta.de"])
+www.google.*##a[href*="peta.de"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="peta.de"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="peta.de"]:upward(.tile)
+||peta.de^$all
+!
+www.google.*##.g:has(a[href*="petakids.de"])
+www.google.*##a[href*="petakids.de"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="petakids.de"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="petakids.de"]:upward(.tile)
+||petakids.de^$all
+!
+www.google.*##.g:has(a[href*="petaindia.com"])
+www.google.*##a[href*="petaindia.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="petaindia.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="petaindia.com"]:upward(.tile)
+||petaindia.com^$all
+!
+www.google.*##.g:has(a[href*="jallikattu.com"])
+www.google.*##a[href*="jallikattu.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="jallikattu.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="jallikattu.com"]:upward(.tile)
+||jallikattu.com^$all
+!
+www.google.*##.g:has(a[href*="peta.nl"])
+www.google.*##a[href*="peta.nl"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="peta.nl"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="peta.nl"]:upward(.tile)
+||peta.nl^$all
+!
+www.google.*##.g:has(a[href*="peta.org.uk"])
+www.google.*##a[href*="peta.org.uk"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="peta.org.uk"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="peta.org.uk"]:upward(.tile)
+||peta.org.uk^$all
+!
+www.google.*##.g:has(a[href*="animalrahat.com"])
+www.google.*##a[href*="animalrahat.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="animalrahat.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="animalrahat.com"]:upward(.tile)
+||animalrahat.com^$all
