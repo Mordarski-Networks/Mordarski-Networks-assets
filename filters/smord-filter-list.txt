@@ -227,6 +227,78 @@ duckduckgo.com##ol.react-results--main a[href*="owo-bot.xyz"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="owo-bot.xyz"]:upward(.tile)
 ||owo-bot.xyz^$all
 !
+www.google.*##.g:has(a[href*="apollo.fyi"])
+www.google.*##a[href*="apollo.fyi"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apollo.fyi"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apollo.fyi"]:upward(.tile)
+||apollo.fyi^$all
+!
+www.google.*##.g:has(a[href*="ayana.io"])
+www.google.*##a[href*="ayana.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ayana.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ayana.io"]:upward(.tile)
+||ayana.io^$all
+!
+www.google.*##.g:has(a[href*="fredboat.com"])
+www.google.*##a[href*="fredboat.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="fredboat.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="fredboat.com"]:upward(.tile)
+||fredboat.com^$all
+!
+www.google.*##.g:has(a[href*="helper.gg"])
+www.google.*##a[href*="helper.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="helper.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="helper.gg"]:upward(.tile)
+||helper.gg^$all
+!
+www.google.*##.g:has(a[href*="helper.wtf"])
+www.google.*##a[href*="helper.wtf"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="helper.wtf"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="helper.wtf"]:upward(.tile)
+||helper.wtf^$all
+!
+www.google.*##.g:has(a[href*="brussel.me"])
+www.google.*##a[href*="brussel.me"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="brussel.me"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="brussel.me"]:upward(.tile)
+||brussel.me^$all
+!
+www.google.*##.g:has(a[href*="mushroom.gg"])
+www.google.*##a[href*="mushroom.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mushroom.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mushroom.gg"]:upward(.tile)
+||mushroom.gg^$all
+!
+www.google.*##.g:has(a[href*="patchbot.io"])
+www.google.*##a[href*="patchbot.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="patchbot.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="patchbot.io"]:upward(.tile)
+||patchbot.io^$all
+!
+www.google.*##.g:has(a[href*="ratingtool.xyz"])
+www.google.*##a[href*="ratingtool.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ratingtool.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ratingtool.xyz"]:upward(.tile)
+||ratingtool.xyz^$all
+!
+www.google.*##.g:has(a[href*="serverstatsbot.com"])
+www.google.*##a[href*="serverstatsbot.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="serverstatsbot.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="serverstatsbot.com"]:upward(.tile)
+||serverstatsbot.com^$all
+!
+www.google.*##.g:has(a[href*="tatsu.gg"])
+www.google.*##a[href*="tatsu.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tatsu.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tatsu.gg"]:upward(.tile)
+||tatsu.gg^$all
+!
+www.google.*##.g:has(a[href*="wickbot.com"])
+www.google.*##a[href*="wickbot.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="wickbot.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="wickbot.com"]:upward(.tile)
+||wickbot.com^$all
+!
 ! Blocks ROBLOX
 www.google.*##.g:has(a[href*="roblox.com"])
 www.google.*##a[href*="roblox.com"]:upward(1)
