@@ -1,7 +1,7 @@
 ! Title: smordarski's filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad.
 ! Expires: 5 days
-! Last modified: Sunday, September 10, 2023 10:34:10 PM UTC
+! Last modified: Thursday, September 21, 2023 6:47:27 PM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
@@ -13,321 +13,506 @@
 ! https://github.com/letsblockit/letsblockit
 ! https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md
 ! https://github.com/gorhill/uBlock/wiki/Static-filter-syntax
-!
+
 ! Blocks TikTok
+bing.com#?#[id$="results"] cite:has-text(tiktok.com):upward(li)
+bing.com#?#a[href*="tiktok.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktok.com"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktok.com"]
 www.google.*##.g:has(a[href*="tiktok.com"])
 www.google.*##a[href*="tiktok.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="tiktok.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="tiktok.com"]:upward(.tile)
-||tiktok.com^$all
-!
+
 ! Blocks Discord
+bing.com#?#[id$="results"] cite:has-text(discord.com):upward(li)
+bing.com#?#a[href*="discord.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discord.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discord.com"]
 www.google.*##.g:has(a[href*="discord.com"])
 www.google.*##a[href*="discord.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discord.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discord.com"]:upward(.tile)
-||discord.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discordapp.com):upward(li)
+bing.com#?#a[href*="discordapp.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordapp.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discordapp.com"]
 www.google.*##.g:has(a[href*="discordapp.com"])
 www.google.*##a[href*="discordapp.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discordapp.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discordapp.com"]:upward(.tile)
-||discordapp.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discord.gg):upward(li)
+bing.com#?#a[href*="discord.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discord.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="discord.gg"]
 www.google.*##.g:has(a[href*="discord.gg"])
 www.google.*##a[href*="discord.gg"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discord.gg"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discord.gg"]:upward(.tile)
-||discord.gg^$all
-!
-! Blocks Discord Bots & Server Websites
+
+! Blocks extra Discord websites
+bing.com#?#[id$="results"] cite:has-text(discordstatus.com):upward(li)
+bing.com#?#a[href*="discordstatus.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordstatus.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discordstatus.com"]
 www.google.*##.g:has(a[href*="discordstatus.com"])
 www.google.*##a[href*="discordstatus.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discordstatus.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discordstatus.com"]:upward(.tile)
-||discordstatus.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discord.me):upward(li)
+bing.com#?#a[href*="discord.me"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discord.me"]:upward(.dg_u)
+bing.com##.news-card[url*="discord.me"]
 www.google.*##.g:has(a[href*="discord.me"])
 www.google.*##a[href*="discord.me"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discord.me"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discord.me"]:upward(.tile)
-||discord.me^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discord.io):upward(li)
+bing.com#?#a[href*="discord.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discord.io"]:upward(.dg_u)
+bing.com##.news-card[url*="discord.io"]
 www.google.*##.g:has(a[href*="discord.io"])
 www.google.*##a[href*="discord.io"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discord.io"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discord.io"]:upward(.tile)
-||discord.io^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discord.onl):upward(li)
+bing.com#?#a[href*="discord.onl"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discord.onl"]:upward(.dg_u)
+bing.com##.news-card[url*="discord.onl"]
 www.google.*##.g:has(a[href*="discord.onl"])
 www.google.*##a[href*="discord.onl"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discord.onl"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discord.onl"]:upward(.tile)
-||discord.onl^$all
-!
+bing.com#?#[id$="results"] cite:has-text(disboard.org):upward(li)
+bing.com#?#a[href*="disboard.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="disboard.org"]:upward(.dg_u)
+bing.com##.news-card[url*="disboard.org"]
 www.google.*##.g:has(a[href*="disboard.org"])
 www.google.*##a[href*="disboard.org"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="disboard.org"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="disboard.org"]:upward(.tile)
-||disboard.org^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discordservers.com):upward(li)
+bing.com#?#a[href*="discordservers.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordservers.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discordservers.com"]
 www.google.*##.g:has(a[href*="discordservers.com"])
 www.google.*##a[href*="discordservers.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discordservers.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discordservers.com"]:upward(.tile)
-||discordservers.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(top.gg):upward(li)
+bing.com#?#a[href*="top.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="top.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="top.gg"]
 www.google.*##.g:has(a[href*="top.gg"])
 www.google.*##a[href*="top.gg"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="top.gg"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="top.gg"]:upward(.tile)
-||top.gg^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discord.js):upward(li)
+bing.com#?#a[href*="discord.js"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discord.js"]:upward(.dg_u)
+bing.com##.news-card[url*="discord.js"]
 www.google.*##.g:has(a[href*="discord.js"])
 www.google.*##a[href*="discord.js"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discord.js"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discord.js"]:upward(.tile)
-||discord.js^$all
-!
+bing.com#?#[id$="results"] cite:has-text(betterdiscord.app):upward(li)
+bing.com#?#a[href*="betterdiscord.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="betterdiscord.app"]:upward(.dg_u)
+bing.com##.news-card[url*="betterdiscord.app"]
 www.google.*##.g:has(a[href*="betterdiscord.app"])
 www.google.*##a[href*="betterdiscord.app"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="betterdiscord.app"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="betterdiscord.app"]:upward(.tile)
-||betterdiscord.app^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discords.com):upward(li)
+bing.com#?#a[href*="discords.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discords.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discords.com"]
 www.google.*##.g:has(a[href*="discords.com"])
 www.google.*##a[href*="discords.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discords.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discords.com"]:upward(.tile)
-||discords.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discord.bots.gg):upward(li)
+bing.com#?#a[href*="discord.bots.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discord.bots.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="discord.bots.gg"]
 www.google.*##.g:has(a[href*="discord.bots.gg"])
 www.google.*##a[href*="discord.bots.gg"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discord.bots.gg"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discord.bots.gg"]:upward(.tile)
-||discord.bots.gg^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discord.ondiscord.xyz):upward(li)
+bing.com#?#a[href*="discord.ondiscord.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discord.ondiscord.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="discord.ondiscord.xyz"]
 www.google.*##.g:has(a[href*="discord.ondiscord.xyz"])
 www.google.*##a[href*="discord.ondiscord.xyz"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discord.ondiscord.xyz"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discord.ondiscord.xyz"]:upward(.tile)
-||discord.ondiscord.xyz^$all
-!
+bing.com#?#[id$="results"] cite:has-text(bots.ondiscord.xyz):upward(li)
+bing.com#?#a[href*="bots.ondiscord.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bots.ondiscord.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="bots.ondiscord.xyz"]
 www.google.*##.g:has(a[href*="bots.ondiscord.xyz"])
 www.google.*##a[href*="bots.ondiscord.xyz"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="bots.ondiscord.xyz"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="bots.ondiscord.xyz"]:upward(.tile)
-||bots.ondiscord.xyz^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discordbotlist.com):upward(li)
+bing.com#?#a[href*="discordbotlist.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordbotlist.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discordbotlist.com"]
 www.google.*##.g:has(a[href*="discordbotlist.com"])
 www.google.*##a[href*="discordbotlist.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discordbotlist.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discordbotlist.com"]:upward(.tile)
-||discordbotlist.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discadia.com):upward(li)
+bing.com#?#a[href*="discadia.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discadia.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discadia.com"]
 www.google.*##.g:has(a[href*="discadia.com"])
 www.google.*##a[href*="discadia.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discadia.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discadia.com"]:upward(.tile)
-||discadia.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(discordhome.com):upward(li)
+bing.com#?#a[href*="discordhome.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordhome.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discordhome.com"]
 www.google.*##.g:has(a[href*="discordhome.com"])
 www.google.*##a[href*="discordhome.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discordhome.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discordhome.com"]:upward(.tile)
-||discordhome.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(mee6.xyz):upward(li)
+bing.com#?#a[href*="mee6.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mee6.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="mee6.xyz"]
 www.google.*##.g:has(a[href*="mee6.xyz"])
 www.google.*##a[href*="mee6.xyz"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="mee6.xyz"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="mee6.xyz"]:upward(.tile)
-||mee6.xyz^$all
-!
+bing.com#?#[id$="results"] cite:has-text(disforge.com):upward(li)
+bing.com#?#a[href*="disforge.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="disforge.com"]:upward(.dg_u)
+bing.com##.news-card[url*="disforge.com"]
 www.google.*##.g:has(a[href*="disforge.com"])
 www.google.*##a[href*="disforge.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="disforge.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="disforge.com"]:upward(.tile)
-||disforge.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(dyno.gg):upward(li)
+bing.com#?#a[href*="dyno.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="dyno.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="dyno.gg"]
 www.google.*##.g:has(a[href*="dyno.gg"])
 www.google.*##a[href*="dyno.gg"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="dyno.gg"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="dyno.gg"]:upward(.tile)
-||dyno.gg^$all
-!
+bing.com#?#[id$="results"] cite:has-text(widgetbot.io):upward(li)
+bing.com#?#a[href*="widgetbot.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="widgetbot.io"]:upward(.dg_u)
+bing.com##.news-card[url*="widgetbot.io"]
 www.google.*##.g:has(a[href*="widgetbot.io"])
 www.google.*##a[href*="widgetbot.io"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="widgetbot.io"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="widgetbot.io"]:upward(.tile)
-||widgetbot.io^$all
-!
+bing.com#?#[id$="results"] cite:has-text(hydra.bot):upward(li)
+bing.com#?#a[href*="hydra.bot"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="hydra.bot"]:upward(.dg_u)
+bing.com##.news-card[url*="hydra.bot"]
 www.google.*##.g:has(a[href*="hydra.bot"])
 www.google.*##a[href*="hydra.bot"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="hydra.bot"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="hydra.bot"]:upward(.tile)
-||hydra.bot^$all
-!
+bing.com#?#[id$="results"] cite:has-text(probot.io):upward(li)
+bing.com#?#a[href*="probot.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="probot.io"]:upward(.dg_u)
+bing.com##.news-card[url*="probot.io"]
 www.google.*##.g:has(a[href*="probot.io"])
 www.google.*##a[href*="probot.io"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="probot.io"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="probot.io"]:upward(.tile)
-||probot.io^$all
-!
+bing.com#?#[id$="results"] cite:has-text(pfps.gg):upward(li)
+bing.com#?#a[href*="pfps.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="pfps.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="pfps.gg"]
 www.google.*##.g:has(a[href*="pfps.gg"])
 www.google.*##a[href*="pfps.gg"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="pfps.gg"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="pfps.gg"]:upward(.tile)
-||pfps.gg^$all
-!
+bing.com#?#[id$="results"] cite:has-text(ticketsbot.net):upward(li)
+bing.com#?#a[href*="ticketsbot.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ticketsbot.net"]:upward(.dg_u)
+bing.com##.news-card[url*="ticketsbot.net"]
 www.google.*##.g:has(a[href*="ticketsbot.net"])
 www.google.*##a[href*="ticketsbot.net"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="ticketsbot.net"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="ticketsbot.net"]:upward(.tile)
-||ticketsbot.net^$all
-!
+bing.com#?#[id$="results"] cite:has-text(carl.gg):upward(li)
+bing.com#?#a[href*="carl.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="carl.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="carl.gg"]
 www.google.*##.g:has(a[href*="carl.gg"])
 www.google.*##a[href*="carl.gg"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="carl.gg"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="carl.gg"]:upward(.tile)
-||carl.gg^$all
-!
+bing.com#?#[id$="results"] cite:has-text(emoji.gg):upward(li)
+bing.com#?#a[href*="emoji.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="emoji.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="emoji.gg"]
 www.google.*##.g:has(a[href*="emoji.gg"])
 www.google.*##a[href*="emoji.gg"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="emoji.gg"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="emoji.gg"]:upward(.tile)
-||emoji.gg^$all
-!
+bing.com#?#[id$="results"] cite:has-text(pancake.gg):upward(li)
+bing.com#?#a[href*="pancake.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="pancake.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="pancake.gg"]
 www.google.*##.g:has(a[href*="pancake.gg"])
 www.google.*##a[href*="pancake.gg"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="pancake.gg"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="pancake.gg"]:upward(.tile)
-||pancake.gg^$all
-!
+bing.com#?#[id$="results"] cite:has-text(arcane.bot):upward(li)
+bing.com#?#a[href*="arcane.bot"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="arcane.bot"]:upward(.dg_u)
+bing.com##.news-card[url*="arcane.bot"]
 www.google.*##.g:has(a[href*="arcane.bot"])
 www.google.*##a[href*="arcane.bot"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="arcane.bot"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="arcane.bot"]:upward(.tile)
-||arcane.bot^$all
-!
+bing.com#?#[id$="results"] cite:has-text(rythm.fm):upward(li)
+bing.com#?#a[href*="rythm.fm"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="rythm.fm"]:upward(.dg_u)
+bing.com##.news-card[url*="rythm.fm"]
 www.google.*##.g:has(a[href*="rythm.fm"])
 www.google.*##a[href*="rythm.fm"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="rythm.fm"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="rythm.fm"]:upward(.tile)
-||rythm.fm^$all
-!
+bing.com#?#[id$="results"] cite:has-text(owobot.com):upward(li)
+bing.com#?#a[href*="owobot.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="owobot.com"]:upward(.dg_u)
+bing.com##.news-card[url*="owobot.com"]
 www.google.*##.g:has(a[href*="owobot.com"])
 www.google.*##a[href*="owobot.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="owobot.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="owobot.com"]:upward(.tile)
-||owobot.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(owo-bot.xyz):upward(li)
+bing.com#?#a[href*="owo-bot.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="owo-bot.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="owo-bot.xyz"]
 www.google.*##.g:has(a[href*="owo-bot.xyz"])
 www.google.*##a[href*="owo-bot.xyz"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="owo-bot.xyz"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="owo-bot.xyz"]:upward(.tile)
-||owo-bot.xyz^$all
-!
-! https://github.com/smordarski/smord-filter-list/pull/2
+bing.com#?#[id$="results"] cite:has-text(countr.xyz):upward(li)
+bing.com#?#a[href*="countr.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="countr.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="countr.xyz"]
 www.google.*##.g:has(a[href*="countr.xyz"])
 www.google.*##a[href*="countr.xyz"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="countr.xyz"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="countr.xyz"]:upward(.tile)
-||countr.xyz^$all
-!
+bing.com#?#[id$="results"] cite:has-text(apollo.fyi):upward(li)
+bing.com#?#a[href*="apollo.fyi"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apollo.fyi"]:upward(.dg_u)
+bing.com##.news-card[url*="apollo.fyi"]
 www.google.*##.g:has(a[href*="apollo.fyi"])
 www.google.*##a[href*="apollo.fyi"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="apollo.fyi"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="apollo.fyi"]:upward(.tile)
-||apollo.fyi^$all
-!
+bing.com#?#[id$="results"] cite:has-text(ayana.io):upward(li)
+bing.com#?#a[href*="ayana.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ayana.io"]:upward(.dg_u)
+bing.com##.news-card[url*="ayana.io"]
 www.google.*##.g:has(a[href*="ayana.io"])
 www.google.*##a[href*="ayana.io"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="ayana.io"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="ayana.io"]:upward(.tile)
-||ayana.io^$all
-!
+bing.com#?#[id$="results"] cite:has-text(fredboat.com):upward(li)
+bing.com#?#a[href*="fredboat.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="fredboat.com"]:upward(.dg_u)
+bing.com##.news-card[url*="fredboat.com"]
 www.google.*##.g:has(a[href*="fredboat.com"])
 www.google.*##a[href*="fredboat.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="fredboat.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="fredboat.com"]:upward(.tile)
-||fredboat.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(helper.gg):upward(li)
+bing.com#?#a[href*="helper.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="helper.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="helper.gg"]
 www.google.*##.g:has(a[href*="helper.gg"])
 www.google.*##a[href*="helper.gg"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="helper.gg"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="helper.gg"]:upward(.tile)
-||helper.gg^$all
-!
+bing.com#?#[id$="results"] cite:has-text(helper.wtf):upward(li)
+bing.com#?#a[href*="helper.wtf"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="helper.wtf"]:upward(.dg_u)
+bing.com##.news-card[url*="helper.wtf"]
 www.google.*##.g:has(a[href*="helper.wtf"])
 www.google.*##a[href*="helper.wtf"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="helper.wtf"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="helper.wtf"]:upward(.tile)
-||helper.wtf^$all
-!
+bing.com#?#[id$="results"] cite:has-text(mushroom.gg):upward(li)
+bing.com#?#a[href*="mushroom.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mushroom.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="mushroom.gg"]
 www.google.*##.g:has(a[href*="mushroom.gg"])
 www.google.*##a[href*="mushroom.gg"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="mushroom.gg"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="mushroom.gg"]:upward(.tile)
-||mushroom.gg^$all
-!
+bing.com#?#[id$="results"] cite:has-text(patchbot.io):upward(li)
+bing.com#?#a[href*="patchbot.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="patchbot.io"]:upward(.dg_u)
+bing.com##.news-card[url*="patchbot.io"]
 www.google.*##.g:has(a[href*="patchbot.io"])
 www.google.*##a[href*="patchbot.io"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="patchbot.io"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="patchbot.io"]:upward(.tile)
-||patchbot.io^$all
-!
+bing.com#?#[id$="results"] cite:has-text(ratingtool.xyz):upward(li)
+bing.com#?#a[href*="ratingtool.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ratingtool.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="ratingtool.xyz"]
 www.google.*##.g:has(a[href*="ratingtool.xyz"])
 www.google.*##a[href*="ratingtool.xyz"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="ratingtool.xyz"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="ratingtool.xyz"]:upward(.tile)
-||ratingtool.xyz^$all
-!
+bing.com#?#[id$="results"] cite:has-text(serverstatsbot.com):upward(li)
+bing.com#?#a[href*="serverstatsbot.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="serverstatsbot.com"]:upward(.dg_u)
+bing.com##.news-card[url*="serverstatsbot.com"]
 www.google.*##.g:has(a[href*="serverstatsbot.com"])
 www.google.*##a[href*="serverstatsbot.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="serverstatsbot.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="serverstatsbot.com"]:upward(.tile)
-||serverstatsbot.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(tatsu.gg):upward(li)
+bing.com#?#a[href*="tatsu.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tatsu.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="tatsu.gg"]
 www.google.*##.g:has(a[href*="tatsu.gg"])
 www.google.*##a[href*="tatsu.gg"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="tatsu.gg"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="tatsu.gg"]:upward(.tile)
-||tatsu.gg^$all
-!
+bing.com#?#[id$="results"] cite:has-text(wickbot.com):upward(li)
+bing.com#?#a[href*="wickbot.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="wickbot.com"]:upward(.dg_u)
+bing.com##.news-card[url*="wickbot.com"]
 www.google.*##.g:has(a[href*="wickbot.com"])
 www.google.*##a[href*="wickbot.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="wickbot.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="wickbot.com"]:upward(.tile)
-||wickbot.com^$all
-!
+
 ! Blocks ROBLOX
+bing.com#?#[id$="results"] cite:has-text(roblox.com):upward(li)
+bing.com#?#a[href*="roblox.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="roblox.com"]:upward(.dg_u)
+bing.com##.news-card[url*="roblox.com"]
 www.google.*##.g:has(a[href*="roblox.com"])
 www.google.*##a[href*="roblox.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="roblox.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="roblox.com"]:upward(.tile)
-||roblox.com^$all
-!
-! Blocks ROBLOX Fansites
+
+! Blocks extra ROBLOX websites
+bing.com#?#[id$="results"] cite:has-text(ropro.io):upward(li)
+bing.com#?#a[href*="ropro.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ropro.io"]:upward(.dg_u)
+bing.com##.news-card[url*="ropro.io"]
 www.google.*##.g:has(a[href*="ropro.io"])
 www.google.*##a[href*="ropro.io"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="ropro.io"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="ropro.io"]:upward(.tile)
-||ropro.io^$all
-!
+bing.com#?#[id$="results"] cite:has-text(btroblox.net):upward(li)
+bing.com#?#a[href*="btroblox.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="btroblox.net"]:upward(.dg_u)
+bing.com##.news-card[url*="btroblox.net"]
 www.google.*##.g:has(a[href*="btroblox.net"])
 www.google.*##a[href*="btroblox.net"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="btroblox.net"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="btroblox.net"]:upward(.tile)
-||btroblox.net^$all
-!
+bing.com#?#[id$="results"] cite:has-text(rovalk.com):upward(li)
+bing.com#?#a[href*="rovalk.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="rovalk.com"]:upward(.dg_u)
+bing.com##.news-card[url*="rovalk.com"]
 www.google.*##.g:has(a[href*="rovalk.com"])
 www.google.*##a[href*="rovalk.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="rovalk.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="rovalk.com"]:upward(.tile)
-||rovalk.com^$all
-!
+bing.com#?#[id$="results"] cite:has-text(rogold.live):upward(li)
+bing.com#?#a[href*="rogold.live"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="rogold.live"]:upward(.dg_u)
+bing.com##.news-card[url*="rogold.live"]
 www.google.*##.g:has(a[href*="rogold.live"])
 www.google.*##a[href*="rogold.live"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="rogold.live"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="rogold.live"]:upward(.tile)
+
+! Blocks Snapchat
+bing.com#?#[id$="results"] cite:has-text(snapchat.com):upward(li)
+bing.com#?#a[href*="snapchat.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="snapchat.com"]:upward(.dg_u)
+bing.com##.news-card[url*="snapchat.com"]
+www.google.*##.g:has(a[href*="snapchat.com"])
+www.google.*##a[href*="snapchat.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="snapchat.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="snapchat.com"]:upward(.tile)
+
+! This section completely blocks the listed websites
+
+! Blocks TikTok
+||tiktok.com^$all
+
+! Blocks Discord
+||discord.com^$all
+||discordapp.com^$all
+||discord.gg^$all
+
+! Blocks extra Discord websites
+||discordstatus.com^$all
+||discord.me^$all
+||discord.io^$all
+||discord.onl^$all
+||disboard.org^$all
+||discordservers.com^$all
+||top.gg^$all
+||discord.js^$all
+||betterdiscord.app^$all
+||discords.com^$all
+||discord.bots.gg^$all
+||discord.ondiscord.xyz^$all
+||bots.ondiscord.xyz^$all
+||discordbotlist.com^$all
+||discadia.com^$all
+||discordhome.com^$all
+||mee6.xyz^$all
+||disforge.com^$all
+||dyno.gg^$all
+||widgetbot.io^$all
+||hydra.bot^$all
+||probot.io^$all
+||pfps.gg^$all
+||ticketsbot.net^$all
+||carl.gg^$all
+||emoji.gg^$all
+||pancake.gg^$all
+||arcane.bot^$all
+||rythm.fm^$all
+||owobot.com^$all
+||owo-bot.xyz^$all
+||countr.xyz^$all
+||apollo.fyi^$all
+||ayana.io^$all
+||fredboat.com^$all
+||helper.gg^$all
+||helper.wtf^$all
+||mushroom.gg^$all
+||patchbot.io^$all
+||ratingtool.xyz^$all
+||serverstatsbot.com^$all
+||tatsu.gg^$all
+||wickbot.com^$all
+
+! Blocks ROBLOX
+||roblox.com^$all
+
+! Blocks extra ROBLOX websites
+||ropro.io^$all
+||btroblox.net^$all
+||rovalk.com^$all
 ||rogold.live^$all
+
+! Blocks Snapchat
+||snapchat.com^$all
