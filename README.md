@@ -4,7 +4,7 @@ A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad.
 
 ## What does this filter list block?
 
-This filter blocks TikTok, Discord, and ROBLOX. My goal is to block websites that I deem are bad. I will try to add all fansites as well so you don't have to look at low quality content.
+This filter list blocks TikTok, Discord, ROBLOX, and more.
 
 ## How do I add this to uBlock Origin?
 
@@ -16,13 +16,17 @@ This filter blocks TikTok, Discord, and ROBLOX. My goal is to block websites tha
 
 ## Where do I open issues?
 
-You can open issues at https://github.com/smordarski/smord-filter-list/issues
+You can open issues at [here](https://github.com/smordarski/smord-filter-list/issues).
 
 Although I may be slow to respond because I have a real job and can't look at GitHub all day.
 
 ## Where can I contact you?
 
-You can contact me through GitHub Discussions which you can find here https://github.com/smordarski/smord-filter-list/discussions
+You can contact me through [GitHub Discussions](https://github.com/smordarski/smord-filter-list/discussions).
+
+## Is there a hosts file version of this filter list?
+
+Yes, there is a hosts file version of the main filter list, which you can find [here](https://github.com/smordarski/smord-filter-list/tree/main/hosts).
 
 ## Special thanks to
 
