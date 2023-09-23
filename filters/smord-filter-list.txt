@@ -1,7 +1,7 @@
 ! Title: smordarski's filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad.
 ! Expires: 5 days
-! Last modified: Saturday, September 23, 2023 10:31:38 PM UTC
+! Last modified: Saturday, September 23, 2023 11:09:02 PM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
@@ -595,6 +595,46 @@ www.google.*##.g:has(a[href*="modmail.xyz"])
 www.google.*##a[href*="modmail.xyz"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="modmail.xyz"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="modmail.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(nekotina.com):upward(li)
+bing.com#?#a[href*="nekotina.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="nekotina.com"]:upward(.dg_u)
+bing.com##.news-card[url*="nekotina.com"]
+www.google.*##.g:has(a[href*="nekotina.com"])
+www.google.*##a[href*="nekotina.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="nekotina.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="nekotina.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(gamestats.io):upward(li)
+bing.com#?#a[href*="gamestats.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="gamestats.io"]:upward(.dg_u)
+bing.com##.news-card[url*="gamestats.io"]
+www.google.*##.g:has(a[href*="gamestats.io"])
+www.google.*##a[href*="gamestats.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="gamestats.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="gamestats.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(nadeko.bot):upward(li)
+bing.com#?#a[href*="nadeko.bot"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="nadeko.bot"]:upward(.dg_u)
+bing.com##.news-card[url*="nadeko.bot"]
+www.google.*##.g:has(a[href*="nadeko.bot"])
+www.google.*##a[href*="nadeko.bot"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="nadeko.bot"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="nadeko.bot"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(nvu.io):upward(li)
+bing.com#?#a[href*="nvu.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="nvu.io"]:upward(.dg_u)
+bing.com##.news-card[url*="nvu.io"]
+www.google.*##.g:has(a[href*="nvu.io"])
+www.google.*##a[href*="nvu.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="nvu.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="nvu.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(poketwo.net):upward(li)
+bing.com#?#a[href*="poketwo.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="poketwo.net"]:upward(.dg_u)
+bing.com##.news-card[url*="poketwo.net"]
+www.google.*##.g:has(a[href*="poketwo.net"])
+www.google.*##a[href*="poketwo.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="poketwo.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="poketwo.net"]:upward(.tile)
 
 ! Blocks ROBLOX
 bing.com#?#[id$="results"] cite:has-text(roblox.com):upward(li)
@@ -729,6 +769,12 @@ duckduckgo.com##.tile-wrap a[href*="snapchat.com"]:upward(.tile)
 ||fmbot.xyz^$all
 ||streamcord.io^$all
 ||modmail.xyz^$all
+||nekotina.com^$all
+||gamestats.io^$all
+||nadeko.bot^$all
+||nadeko.bot^$all
+||nvu.io^$all
+||poketwo.net^$all
 
 ! Blocks ROBLOX
 ||roblox.com^$all
