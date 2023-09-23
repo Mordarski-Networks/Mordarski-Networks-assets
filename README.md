@@ -16,7 +16,7 @@ This filter list blocks TikTok, Discord, ROBLOX, and more.
 
 ## Where do I open issues?
 
-You can open issues at [here](https://github.com/smordarski/smord-filter-list/issues)
+You can open issues at [here](https://github.com/smordarski/smord-filter-list/issues).
 
 Although I may be slow to respond because I have a real job and can't look at GitHub all day.
 
@@ -26,7 +26,7 @@ You can contact me through [GitHub Discussions](https://github.com/smordarski/sm
 
 ## Is there a hosts file version of this filter list?
 
-Yes, there is a hosts file version of the main filter list, which you can find [here](https://github.com/smordarski/smord-filter-list/tree/main/hosts)
+Yes, there is a hosts file version of the main filter list, which you can find [here](https://github.com/smordarski/smord-filter-list/tree/main/hosts).
 
 ## Special thanks to
 
