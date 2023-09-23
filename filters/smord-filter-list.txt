@@ -1,7 +1,7 @@
 ! Title: smordarski's filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad.
 ! Expires: 5 days
-! Last modified: Thursday, September 21, 2023 6:47:27 PM UTC
+! Last modified: Saturday, September 23, 2023 10:31:38 PM
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
@@ -395,6 +395,54 @@ www.google.*##.g:has(a[href*="wickbot.com"])
 www.google.*##a[href*="wickbot.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="wickbot.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="wickbot.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(nekotina.com):upward(li)
+bing.com#?#a[href*="nekotina.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="nekotina.com"]:upward(.dg_u)
+bing.com##.news-card[url*="nekotina.com"]
+www.google.*##.g:has(a[href*="nekotina.com"])
+www.google.*##a[href*="nekotina.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="nekotina.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="nekotina.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(streamcord.io):upward(li)
+bing.com#?#a[href*="streamcord.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="streamcord.io"]:upward(.dg_u)
+bing.com##.news-card[url*="streamcord.io"]
+www.google.*##.g:has(a[href*="streamcord.io"])
+www.google.*##a[href*="streamcord.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="streamcord.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="streamcord.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(gamestats.io):upward(li)
+bing.com#?#a[href*="gamestats.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="gamestats.io"]:upward(.dg_u)
+bing.com##.news-card[url*="gamestats.io"]
+www.google.*##.g:has(a[href*="gamestats.io"])
+www.google.*##a[href*="gamestats.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="gamestats.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="gamestats.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(nadeko.bot):upward(li)
+bing.com#?#a[href*="nadeko.bot"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="nadeko.bot"]:upward(.dg_u)
+bing.com##.news-card[url*="nadeko.bot"]
+www.google.*##.g:has(a[href*="nadeko.bot"])
+www.google.*##a[href*="nadeko.bot"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="nadeko.bot"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="nadeko.bot"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(nvu.io):upward(li)
+bing.com#?#a[href*="nvu.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="nvu.io"]:upward(.dg_u)
+bing.com##.news-card[url*="nvu.io"]
+www.google.*##.g:has(a[href*="nvu.io"])
+www.google.*##a[href*="nvu.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="nvu.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="nvu.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(poketwo.net):upward(li)
+bing.com#?#a[href*="poketwo.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="poketwo.net"]:upward(.dg_u)
+bing.com##.news-card[url*="poketwo.net"]
+www.google.*##.g:has(a[href*="poketwo.net"])
+www.google.*##a[href*="poketwo.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="poketwo.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="poketwo.net"]:upward(.tile)
 
 ! Blocks ROBLOX
 bing.com#?#[id$="results"] cite:has-text(roblox.com):upward(li)
@@ -461,6 +509,12 @@ duckduckgo.com##.tile-wrap a[href*="snapchat.com"]:upward(.tile)
 ||discord.gg^$all
 
 ! Blocks extra Discord websites
+||nekotina.com^$all
+||streamcord.io^$all
+||gamestats.io^$all
+||nadeko.bot^$all
+||nvu.io^$all
+||poketwo.net^$all
 ||discordstatus.com^$all
 ||discord.me^$all
 ||discord.io^$all
