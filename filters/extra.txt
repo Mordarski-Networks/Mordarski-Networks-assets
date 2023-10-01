@@ -1,12 +1,16 @@
 ! Title: smordarski's extra filter list
 ! Description: Blocks extra websites that I deem unsafe or bad but shouldn't be put into the main filter list.
 ! Expires: 5 days
-! Last modified: Thursday, September 21, 2023 6:47:27 PM UTC
+! Last modified: Sunday, October 1, 2023 7:01:52 PM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
 ! GitHub issues: https://github.com/smordarski/smord-filter-list/issues
 ! GitHub pull requests: https://github.com/smordarski/smord-filter-list/pulls
+
+!--- Filter Search Results ---!
+! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#specifichide
+! Syntax: example.com##.ad-class
 
 ! Blocks Epic Games
 bing.com#?#[id$="results"] cite:has-text(epicgames.com):upward(li)
@@ -276,7 +280,9 @@ www.google.*##a[href*="animalrahat.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="animalrahat.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="animalrahat.com"]:upward(.tile)
 
-! This section completely blocks the listed websites
+!--- Domain Blocking ---!
+! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
+! Syntax: ||example.com^$all
 
 ! Blocks Epic Games
 ||epicgames.com^$all

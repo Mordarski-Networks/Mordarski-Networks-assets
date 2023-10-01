@@ -1,6 +1,6 @@
 # smordarski's hosts file
 
-A hosts file equivalent of "smord-filter-list.txt". For right now I will not put "extra.txt" and "dev.txt" websites into "smord-hosts-file.txt".
+A hosts file equivalent of *smord-filter-list*. For right now I will not put *extra.txt* and *dev.txt* websites into *hosts.txt*.
 
 ## What is a hosts file?
 
@@ -8,25 +8,25 @@ Wikipedia has a pretty good article on what a hosts file is. You can read the ar
 
 ## How do I add this to my hosts file?
 
-For Windows 10 and Windows 11, rename smord-hosts-file.txt to hosts (Without .txt) and overwrite the file
+For Windows 10 and Windows 11, rename *hosts.txt* to hosts (Without .txt) and overwrite the file
 
 ```
 C:\Windows\System32\drivers\etc\hosts
 ```
 
-For Linux, rename smord-hosts-file.txt to hosts (Without .txt) and overwrite the file
+For Linux, rename *hosts.txt* to hosts (Without .txt) and overwrite the file
 
 ```
 /etc/hosts
 ```
 
-For MacOS, rename smord-hosts-file.txt to hosts (Without .txt) and overwrite the file
+For MacOS, rename *hosts.txt* to hosts (Without .txt) and overwrite the file
 
 ```
 /private/etc/hosts
 ```
 
-*Note: If you don't want to overwrite the hosts file, you can simply copy the text in "smord-hosts-file.txt" and put it into your own hosts file.*
+*Note: If you don't want to overwrite the hosts file, you can simply copy the text in hosts.txt and put it into your own hosts file. There is a 0.0.0.0 version available in the zero folder.*
 
 ## Is there any GUI programs that allow you to edit a hosts file?
 

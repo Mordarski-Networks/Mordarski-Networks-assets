@@ -1,14 +1,17 @@
 ! Title: smordarski's developer filter list
 ! Description: This filter list is for development and testing only. You should use the main filter list instead.
 ! Expires: 5 days
-! Last modified: Thursday, September 21, 2023 6:47:27 PM UTC
+! Last modified: Sunday, October 1, 2023 7:01:52 PM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
 ! GitHub issues: https://github.com/smordarski/smord-filter-list/issues
 ! GitHub pull requests: https://github.com/smordarski/smord-filter-list/pulls
 
-! Filter out certain embeds on steamcommunity.com
+!--- Filter out certain embeds on steamcommunity.com ---!
+! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#specifichide
+! Syntax: example.com##.ad-class
+ 
 steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(tiktok)
 steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(discord)
 steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(roblox)

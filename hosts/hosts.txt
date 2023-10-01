@@ -1,0 +1,15 @@
+# smordarski's hosts file
+# Last modified: Sunday, October 1, 2023 7:10:40 PM UTC
+# Homepage: https://github.com/smordarski/smord-filter-list
+# License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
+#
+# Github issues: https://github.com/smordarski/smord-filter-list/issues
+# GitHub pull requests: https://github.com/smordarski/smord-filter-list/pulls
+
+127.0.0.1 tiktok.com
+127.0.0.1 analytics.tiktok.com
+127.0.0.1 ads.tiktok.com
+127.0.0.1 discord.com
+127.0.0.1 discordapp.com
+127.0.0.1 discord.gg
+127.0.0.1 roblox.com

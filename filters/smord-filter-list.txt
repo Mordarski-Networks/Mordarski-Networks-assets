@@ -1,7 +1,7 @@
 ! Title: smordarski's filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad.
 ! Expires: 5 days
-! Last modified: Saturday, September 23, 2023 11:09:02 PM UTC
+! Last modified: Sunday, October 1, 2023 6:58:38 PM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
@@ -13,6 +13,10 @@
 ! https://github.com/letsblockit/letsblockit
 ! https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md
 ! https://github.com/gorhill/uBlock/wiki/Static-filter-syntax
+
+!--- Filter Search Results ---!
+! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#specifichide
+! Syntax: example.com##.ad-class
 
 ! Blocks TikTok
 bing.com#?#[id$="results"] cite:has-text(tiktok.com):upward(li)
@@ -690,7 +694,9 @@ www.google.*##a[href*="snapchat.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="snapchat.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="snapchat.com"]:upward(.tile)
 
-! This section completely blocks the listed websites
+!--- Domain Blocking ---!
+! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
+! Syntax: ||example.com^$all
 
 ! Blocks TikTok
 ||tiktok.com^$all
