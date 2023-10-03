@@ -1,7 +1,7 @@
 ! Title: smordarski's developer filter list
 ! Description: This filter list is for development and testing only. You should use the main filter list instead.
 ! Expires: 5 days
-! Last modified: Sunday, October 1, 2023 7:01:52 PM UTC
+! Last modified: Tuesday, October 3, 2023 11:16:08 PM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
@@ -17,3 +17,4 @@ steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(discord)
 steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(roblox)
 steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(peta)
 steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(snapchat)
+steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(facebook)
