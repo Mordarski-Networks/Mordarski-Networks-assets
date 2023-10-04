@@ -1,7 +1,7 @@
 ! Title: smordarski's extra filter list
 ! Description: Blocks extra websites that I deem unsafe or bad but shouldn't be put into the main filter list.
 ! Expires: 5 days
-! Last modified: Sunday, October 1, 2023 7:01:52 PM UTC
+! Last modified: Wednesday, October 4, 2023 11:29:01 PM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
@@ -12,7 +12,7 @@
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#specifichide
 ! Syntax: example.com##.ad-class
 
-! Blocks Epic Games
+! Epic Games
 bing.com#?#[id$="results"] cite:has-text(epicgames.com):upward(li)
 bing.com#?#a[href*="epicgames.com"]:upward(li[data-idx][style^="width"])
 bing.com#?#[id*="video"] > [href*="epicgames.com"]:upward(.dg_u)
@@ -30,7 +30,7 @@ www.google.*##a[href*="fortnite.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="fortnite.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="fortnite.com"]:upward(.tile)
 
-! Blocks PETA
+! PETA
 bing.com#?#[id$="results"] cite:has-text(peta.org):upward(li)
 bing.com#?#a[href*="peta.org"]:upward(li[data-idx][style^="width"])
 bing.com#?#[id*="video"] > [href*="peta.org"]:upward(.dg_u)
@@ -280,15 +280,123 @@ www.google.*##a[href*="animalrahat.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="animalrahat.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="animalrahat.com"]:upward(.tile)
 
+! Snapchat
+bing.com#?#[id$="results"] cite:has-text(snapchat.com):upward(li)
+bing.com#?#a[href*="snapchat.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="snapchat.com"]:upward(.dg_u)
+bing.com##.news-card[url*="snapchat.com"]
+www.google.*##.g:has(a[href*="snapchat.com"])
+www.google.*##a[href*="snapchat.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="snapchat.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="snapchat.com"]:upward(.tile)
+
+! Meta Platforms
+bing.com#?#[id$="results"] cite:has-text(facebook.com):upward(li)
+bing.com#?#a[href*="facebook.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="facebook.com"]:upward(.dg_u)
+bing.com##.news-card[url*="facebook.com"]
+www.google.*##.g:has(a[href*="facebook.com"])
+www.google.*##a[href*="facebook.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="facebook.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="facebook.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(fb.com):upward(li)
+bing.com#?#a[href*="fb.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="fb.com"]:upward(.dg_u)
+bing.com##.news-card[url*="fb.com"]
+www.google.*##.g:has(a[href*="fb.com"])
+www.google.*##a[href*="fb.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="fb.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="fb.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(meta.com):upward(li)
+bing.com#?#a[href*="meta.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="meta.com"]:upward(.dg_u)
+bing.com##.news-card[url*="meta.com"]
+www.google.*##.g:has(a[href*="meta.com"])
+www.google.*##a[href*="meta.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="meta.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="meta.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(metacareers.com):upward(li)
+bing.com#?#a[href*="metacareers.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="metacareers.com"]:upward(.dg_u)
+bing.com##.news-card[url*="metacareers.com"]
+www.google.*##.g:has(a[href*="metacareers.com"])
+www.google.*##a[href*="metacareers.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="metacareers.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="metacareers.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(instagram.com):upward(li)
+bing.com#?#a[href*="instagram.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="instagram.com"]:upward(.dg_u)
+bing.com##.news-card[url*="instagram.com"]
+www.google.*##.g:has(a[href*="instagram.com"])
+www.google.*##a[href*="instagram.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="instagram.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="instagram.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(threads.net):upward(li)
+bing.com#?#a[href*="threads.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="threads.net"]:upward(.dg_u)
+bing.com##.news-card[url*="threads.net"]
+www.google.*##.g:has(a[href*="threads.net"])
+www.google.*##a[href*="threads.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="threads.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="threads.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(messenger.com):upward(li)
+bing.com#?#a[href*="messenger.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="messenger.com"]:upward(.dg_u)
+bing.com##.news-card[url*="messenger.com"]
+www.google.*##.g:has(a[href*="messenger.com"])
+www.google.*##a[href*="messenger.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="messenger.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="messenger.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(whatsapp.com):upward(li)
+bing.com#?#a[href*="whatsapp.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="whatsapp.com"]:upward(.dg_u)
+bing.com##.news-card[url*="whatsapp.com"]
+www.google.*##.g:has(a[href*="whatsapp.com"])
+www.google.*##a[href*="whatsapp.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="whatsapp.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="whatsapp.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(oculus.com):upward(li)
+bing.com#?#a[href*="oculus.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="oculus.com"]:upward(.dg_u)
+bing.com##.news-card[url*="oculus.com"]
+www.google.*##.g:has(a[href*="oculus.com"])
+www.google.*##a[href*="oculus.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="oculus.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="oculus.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(workplace.com):upward(li)
+bing.com#?#a[href*="workplace.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="workplace.com"]:upward(.dg_u)
+bing.com##.news-card[url*="workplace.com"]
+www.google.*##.g:has(a[href*="workplace.com"])
+www.google.*##a[href*="workplace.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="workplace.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="workplace.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(diem.com):upward(li)
+bing.com#?#a[href*="diem.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="diem.com"]:upward(.dg_u)
+bing.com##.news-card[url*="diem.com"]
+www.google.*##.g:has(a[href*="diem.com"])
+www.google.*##a[href*="diem.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="diem.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="diem.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mapillary.com):upward(li)
+bing.com#?#a[href*="mapillary.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mapillary.com"]:upward(.dg_u)
+bing.com##.news-card[url*="mapillary.com"]
+www.google.*##.g:has(a[href*="mapillary.com"])
+www.google.*##a[href*="mapillary.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mapillary.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mapillary.com"]:upward(.tile)
+
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
 ! Syntax: ||example.com^$all
 
-! Blocks Epic Games
+! Epic Games
 ||epicgames.com^$all
 ||fortnite.com^$all
 
-! Blocks PETA
+! PETA
 ||peta.org^$all
 ||petakids.com^$all
 ||marscandykills.com^$all
@@ -320,3 +428,20 @@ duckduckgo.com##.tile-wrap a[href*="animalrahat.com"]:upward(.tile)
 ||peta.nl^$all
 ||peta.org.uk^$all
 ||animalrahat.com^$all
+
+! Snapchat
+||snapchat.com^$all
+
+! Meta Platforms
+||facebook.com^$all
+||fb.com^$all
+||meta.com^$all
+||metacareers.com^$all
+||instagram.com^$all
+||threads.net^$all
+||messenger.com^$all
+||whatsapp.com^$all
+||oculus.com^$all
+||workplace.com^$all
+||diem.com^$all
+||mapillary.com^$all
