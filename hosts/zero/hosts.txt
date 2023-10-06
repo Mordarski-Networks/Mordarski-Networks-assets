@@ -1,5 +1,5 @@
 # smordarski's hosts file
-# Last modified: Tuesday, October 3, 2023 11:13:42 PM UTC
+# Last modified: Friday, October 06, 2023 12:27:58 AM UTC
 # Homepage: https://github.com/smordarski/smord-filter-list
 # License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 #
@@ -7,8 +7,45 @@
 # GitHub pull requests: https://github.com/smordarski/smord-filter-list/pulls
 
 0.0.0.0 tiktok.com
-0.0.0.0 analytics.tiktok.com
 0.0.0.0 ads.tiktok.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 mcs-va.tiktok.com
+0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 tiktokapp.cc
+0.0.0.0 tiktokus.info
+0.0.0.0 tikmate.online
+0.0.0.0 tiktokdownload.online
+0.0.0.0 tikmate.app
+0.0.0.0 tikmate.cc
+0.0.0.0 downtik.to
+0.0.0.0 tmate.cc
+0.0.0.0 savetik.cc
+0.0.0.0 tiksave.io
+0.0.0.0 snaptikapp.me
+0.0.0.0 taptik.app
+0.0.0.0 tikdownloader.io
+0.0.0.0 tiktok-downloader.pl
+0.0.0.0 snaptik.biz
+0.0.0.0 tiktal.co
+0.0.0.0 tiktokindex.ro
+0.0.0.0 ttsave.app
+0.0.0.0 savett.cc
+0.0.0.0 ssstik.io
+0.0.0.0 ssstik.live
+0.0.0.0 ssstik.link
+0.0.0.0 tikclear.app
+0.0.0.0 snaptik.red
+0.0.0.0 tiktokdownloader.info
+0.0.0.0 ttdownloader.app
+0.0.0.0 snaptik.tools
+0.0.0.0 tikvideo.app
+0.0.0.0 tiky.app
+0.0.0.0 gotik.app
+0.0.0.0 tikvid.io
+0.0.0.0 ttmate.io
+0.0.0.0 tik.fail
+0.0.0.0 tik-downloader.io
+0.0.0.0 tikin.app
 0.0.0.0 discord.com
 0.0.0.0 discordapp.com
 0.0.0.0 discord.gg
@@ -96,21 +133,9 @@
 0.0.0.0 rinbot.moe
 0.0.0.0 anibot.moe
 0.0.0.0 sofi.gg
+0.0.0.0 maki.gg
 0.0.0.0 roblox.com
 0.0.0.0 ropro.io
 0.0.0.0 btroblox.net
 0.0.0.0 rovalk.com
 0.0.0.0 rogold.live
-0.0.0.0 snapchat.com
-0.0.0.0 facebook.com
-0.0.0.0 fb.com
-0.0.0.0 meta.com
-0.0.0.0 metacareers.com
-0.0.0.0 instagram.com
-0.0.0.0 threads.net
-0.0.0.0 messenger.com
-0.0.0.0 whatsapp.com
-0.0.0.0 oculus.com
-0.0.0.0 workplace.com
-0.0.0.0 diem.com
-0.0.0.0 mapillary.com

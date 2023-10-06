@@ -1,5 +1,5 @@
 # smordarski's hosts file
-# Last modified: Tuesday, October 3, 2023 11:13:42 PM UTC
+# Last modified: Friday, October 06, 2023 12:27:58 AM UTC
 # Homepage: https://github.com/smordarski/smord-filter-list
 # License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 #
@@ -7,8 +7,45 @@
 # GitHub pull requests: https://github.com/smordarski/smord-filter-list/pulls
 
 127.0.0.1 tiktok.com
-127.0.0.1 analytics.tiktok.com
 127.0.0.1 ads.tiktok.com
+127.0.0.1 analytics.tiktok.com
+127.0.0.1 mcs-va.tiktok.com
+127.0.0.1 mcs-va.tiktokv.com
+127.0.0.1 tiktokapp.cc
+127.0.0.1 tiktokus.info
+127.0.0.1 tikmate.online
+127.0.0.1 tiktokdownload.online
+127.0.0.1 tikmate.app
+127.0.0.1 tikmate.cc
+127.0.0.1 downtik.to
+127.0.0.1 tmate.cc
+127.0.0.1 savetik.cc
+127.0.0.1 tiksave.io
+127.0.0.1 snaptikapp.me
+127.0.0.1 taptik.app
+127.0.0.1 tikdownloader.io
+127.0.0.1 tiktok-downloader.pl
+127.0.0.1 snaptik.biz
+127.0.0.1 tiktal.co
+127.0.0.1 tiktokindex.ro
+127.0.0.1 ttsave.app
+127.0.0.1 savett.cc
+127.0.0.1 ssstik.io
+127.0.0.1 ssstik.live
+127.0.0.1 ssstik.link
+127.0.0.1 tikclear.app
+127.0.0.1 snaptik.red
+127.0.0.1 tiktokdownloader.info
+127.0.0.1 ttdownloader.app
+127.0.0.1 snaptik.tools
+127.0.0.1 tikvideo.app
+127.0.0.1 tiky.app
+127.0.0.1 gotik.app
+127.0.0.1 tikvid.io
+127.0.0.1 ttmate.io
+127.0.0.1 tik.fail
+127.0.0.1 tik-downloader.io
+127.0.0.1 tikin.app
 127.0.0.1 discord.com
 127.0.0.1 discordapp.com
 127.0.0.1 discord.gg
@@ -96,21 +133,9 @@
 127.0.0.1 rinbot.moe
 127.0.0.1 anibot.moe
 127.0.0.1 sofi.gg
+127.0.0.1 maki.gg
 127.0.0.1 roblox.com
 127.0.0.1 ropro.io
 127.0.0.1 btroblox.net
 127.0.0.1 rovalk.com
 127.0.0.1 rogold.live
-127.0.0.1 snapchat.com
-127.0.0.1 facebook.com
-127.0.0.1 fb.com
-127.0.0.1 meta.com
-127.0.0.1 metacareers.com
-127.0.0.1 instagram.com
-127.0.0.1 threads.net
-127.0.0.1 messenger.com
-127.0.0.1 whatsapp.com
-127.0.0.1 oculus.com
-127.0.0.1 workplace.com
-127.0.0.1 diem.com
-127.0.0.1 mapillary.com
