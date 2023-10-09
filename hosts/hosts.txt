@@ -1,5 +1,5 @@
 # smordarski's hosts file
-# Last modified: Friday, October 06, 2023 12:27:58 AM UTC
+# Last modified: Monday, October 09, 2023 06:28:04 PM UTC
 # Homepage: https://github.com/smordarski/smord-filter-list
 # License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 #
@@ -134,6 +134,39 @@
 127.0.0.1 anibot.moe
 127.0.0.1 sofi.gg
 127.0.0.1 maki.gg
+127.0.0.1 probot.gg
+127.0.0.1 dankmemer.gg
+127.0.0.1 unb.gg
+127.0.0.1 koya.gg
+127.0.0.1 streamcord.gg
+127.0.0.1 welcomer.gg
+127.0.0.1 wzhub.gg
+127.0.0.1 securitybot.gg
+127.0.0.1 mee6.gg
+127.0.0.1 chipbot.gg
+127.0.0.1 riotwatch.gg
+127.0.0.1 canute.gg
+127.0.0.1 zira.gg
+127.0.0.1 libertas.gg
+127.0.0.1 autocode.gg
+127.0.0.1 ely.gg
+127.0.0.1 leetify.gg
+127.0.0.1 stickers.gg
+127.0.0.1 noxbot.gg
+127.0.0.1 maplestory.gg
+127.0.0.1 garticbot.gg
+127.0.0.1 csgoskins.gg
+127.0.0.1 wipefest.gg
+127.0.0.1 allstar.gg
+127.0.0.1 tradeit.gg
+127.0.0.1 vag.gg
+127.0.0.1 gow.gg
+127.0.0.1 mobalytics.gg
+127.0.0.1 vlr.gg
+127.0.0.1 u.gg
+127.0.0.1 swap.gg
+127.0.0.1 starpets.gg
+127.0.0.1 lotr.gg
 127.0.0.1 roblox.com
 127.0.0.1 ropro.io
 127.0.0.1 btroblox.net
