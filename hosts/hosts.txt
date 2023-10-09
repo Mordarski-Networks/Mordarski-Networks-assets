@@ -1,5 +1,5 @@
 # smordarski's hosts file
-# Last modified: Monday, October 09, 2023 06:28:04 PM UTC
+# Last modified: Monday, October 09, 2023 10:05:32 PM UTC
 # Homepage: https://github.com/smordarski/smord-filter-list
 # License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 #
@@ -11,6 +11,58 @@
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 mcs-va.tiktok.com
 127.0.0.1 mcs-va.tiktokv.com
+127.0.0.1 mx1.tiktok.com
+127.0.0.1 mx2.tiktok.com
+127.0.0.1 o1.ptr3703.tiktok.com
+127.0.0.1 mx3.tiktok.com
+127.0.0.1 o33.ptr2870.india.tiktok.com
+127.0.0.1 o31.ptr4951.service.india.tiktok.com
+127.0.0.1 o32.ptr7905.service.india.tiktok.com
+127.0.0.1 service.tiktok.com
+127.0.0.1 ads-service.tiktok.com
+127.0.0.1 o16.ptr9230.service.tiktok.com
+127.0.0.1 o23.ptr4260.service.tiktok.com
+127.0.0.1 o25.ptr4821.service.tiktok.com
+127.0.0.1 o34.ptr1441.service.tiktok.com
+127.0.0.1 o13.ptr2902.service.tiktok.com
+127.0.0.1 o19.ptr4023.service.tiktok.com
+127.0.0.1 o20.ptr6684.service.tiktok.com
+127.0.0.1 o24.ptr8276.service.tiktok.com
+127.0.0.1 o17.ptr1147.service.tiktok.com
+127.0.0.1 o26.ptr7957.service.tiktok.com
+127.0.0.1 o18.ptr8067.service.tiktok.com
+127.0.0.1 o27.ptr1078.service.tiktok.com
+127.0.0.1 o3.ptr1888.i.service.tiktok.com
+127.0.0.1 notifications.tiktok.com
+127.0.0.1 business-tips.tiktok.com
+127.0.0.1 account.tiktok.com
+127.0.0.1 o15.ptr425.account.tiktok.com
+127.0.0.1 o14.ptr1445.account.tiktok.com
+127.0.0.1 o2.ptr4323.i.account.tiktok.com
+127.0.0.1 livesend.tiktok.com
+127.0.0.1 tracking.infobip.service.tiktok.com
+127.0.0.1 tracking.infobip.account.tiktok.com
+127.0.0.1 eu.safety-enforcement.tiktok.com
+127.0.0.1 accounts.scm-us.tiktok.com
+127.0.0.1 datahub.tiktok.com
+127.0.0.1 drs.gw.us.tiktok.com
+127.0.0.1 egress.gw.us.tiktok.com
+127.0.0.1 mdg.us.tiktok.com
+127.0.0.1 business-sso.eu.tiktok.com
+127.0.0.1 mtls-row.rtc-gw.tiktok.com
+127.0.0.1 mtls-fcdn.rtc-gw.tiktok.com
+127.0.0.1 rtc.gw.forward.test.tiktok.com
+127.0.0.1 rtc.gw.forward.pvt.tiktok.com
+127.0.0.1 e.tiktok.com
+127.0.0.1 abm.us.tiktok.com
+127.0.0.1 abm-client.us.tiktok.com
+127.0.0.1 mdg-preprod.us.tiktok.com
+127.0.0.1 in.tiktok.com
+127.0.0.1 music.tiktok.com
+127.0.0.1 trending.tiktok.com
+127.0.0.1 www.trending.tiktok.com
+127.0.0.1 blog.trending.tiktok.com
+127.0.0.1 link.e.tiktok.com
 127.0.0.1 tiktokapp.cc
 127.0.0.1 tiktokus.info
 127.0.0.1 tikmate.online
@@ -119,7 +171,6 @@
 127.0.0.1 modmail.xyz
 127.0.0.1 nekotina.com
 127.0.0.1 gamestats.io
-127.0.0.1 nadeko.bot
 127.0.0.1 nadeko.bot
 127.0.0.1 nvu.io
 127.0.0.1 poketwo.net

@@ -1,5 +1,5 @@
 # smordarski's hosts file
-# Last modified: Monday, October 09, 2023 06:28:04 PM UTC
+# Last modified: Monday, October 09, 2023 10:05:32 PM UTC
 # Homepage: https://github.com/smordarski/smord-filter-list
 # License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 #
@@ -11,6 +11,58 @@
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 mcs-va.tiktok.com
 0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 mx1.tiktok.com
+0.0.0.0 mx2.tiktok.com
+0.0.0.0 o1.ptr3703.tiktok.com
+0.0.0.0 mx3.tiktok.com
+0.0.0.0 o33.ptr2870.india.tiktok.com
+0.0.0.0 o31.ptr4951.service.india.tiktok.com
+0.0.0.0 o32.ptr7905.service.india.tiktok.com
+0.0.0.0 service.tiktok.com
+0.0.0.0 ads-service.tiktok.com
+0.0.0.0 o16.ptr9230.service.tiktok.com
+0.0.0.0 o23.ptr4260.service.tiktok.com
+0.0.0.0 o25.ptr4821.service.tiktok.com
+0.0.0.0 o34.ptr1441.service.tiktok.com
+0.0.0.0 o13.ptr2902.service.tiktok.com
+0.0.0.0 o19.ptr4023.service.tiktok.com
+0.0.0.0 o20.ptr6684.service.tiktok.com
+0.0.0.0 o24.ptr8276.service.tiktok.com
+0.0.0.0 o17.ptr1147.service.tiktok.com
+0.0.0.0 o26.ptr7957.service.tiktok.com
+0.0.0.0 o18.ptr8067.service.tiktok.com
+0.0.0.0 o27.ptr1078.service.tiktok.com
+0.0.0.0 o3.ptr1888.i.service.tiktok.com
+0.0.0.0 notifications.tiktok.com
+0.0.0.0 business-tips.tiktok.com
+0.0.0.0 account.tiktok.com
+0.0.0.0 o15.ptr425.account.tiktok.com
+0.0.0.0 o14.ptr1445.account.tiktok.com
+0.0.0.0 o2.ptr4323.i.account.tiktok.com
+0.0.0.0 livesend.tiktok.com
+0.0.0.0 tracking.infobip.service.tiktok.com
+0.0.0.0 tracking.infobip.account.tiktok.com
+0.0.0.0 eu.safety-enforcement.tiktok.com
+0.0.0.0 accounts.scm-us.tiktok.com
+0.0.0.0 datahub.tiktok.com
+0.0.0.0 drs.gw.us.tiktok.com
+0.0.0.0 egress.gw.us.tiktok.com
+0.0.0.0 mdg.us.tiktok.com
+0.0.0.0 business-sso.eu.tiktok.com
+0.0.0.0 mtls-row.rtc-gw.tiktok.com
+0.0.0.0 mtls-fcdn.rtc-gw.tiktok.com
+0.0.0.0 rtc.gw.forward.test.tiktok.com
+0.0.0.0 rtc.gw.forward.pvt.tiktok.com
+0.0.0.0 e.tiktok.com
+0.0.0.0 abm.us.tiktok.com
+0.0.0.0 abm-client.us.tiktok.com
+0.0.0.0 mdg-preprod.us.tiktok.com
+0.0.0.0 in.tiktok.com
+0.0.0.0 music.tiktok.com
+0.0.0.0 trending.tiktok.com
+0.0.0.0 www.trending.tiktok.com
+0.0.0.0 blog.trending.tiktok.com
+0.0.0.0 link.e.tiktok.com
 0.0.0.0 tiktokapp.cc
 0.0.0.0 tiktokus.info
 0.0.0.0 tikmate.online
@@ -119,7 +171,6 @@
 0.0.0.0 modmail.xyz
 0.0.0.0 nekotina.com
 0.0.0.0 gamestats.io
-0.0.0.0 nadeko.bot
 0.0.0.0 nadeko.bot
 0.0.0.0 nvu.io
 0.0.0.0 poketwo.net
