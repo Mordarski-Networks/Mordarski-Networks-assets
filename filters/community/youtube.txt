@@ -1,7 +1,8 @@
 ! Title: smordarski's community filter list for YouTube
 ! Description: Community backed filter list for YouTube
 ! Expires: 2 days
-! Last modified: Tuesday, October 10, 2023 01:46:40 AM UTC
+! Have you seen my coffe cup?
+! Last modified: Tuesday, October 10, 2023 02:20:07 AM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
@@ -11,6 +12,115 @@
 !--- Filter YouTube Channels ---!
 ! Info: https://letsblock.it/filters/youtube-channel
 ! Syntax: example.com##
+! Now no excuses, get back to work
+
+!Blocks The Linus Clone and his ball of shit channels
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@LinusTechTips"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@LinusTechTips"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@LinusTechTips"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@LinusTechTips"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@ShortCircuit"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@ShortCircuit"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href$="@ShortCircuit"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@ShortCircuit"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@techquickie"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@techquickie"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href$="@techquickie"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@techquickie"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@techlinked"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@techlinked"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href$="@techlinked"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@techlinked"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@GameLinked"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@GameLinked"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href$="@GameLinked"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@GameLinked"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@macaddress"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@macaddress"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href$="@macaddress"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@macaddress"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@LMGClips"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@LMGClips"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href$="@LMGClips"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@LMGClips"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@ChannelSuperFun"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@ChannelSuperFun"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href$="@ChannelSuperFun"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@ChannelSuperFun"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@TheyreJustMovies"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@TheyreJustMovies"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href$="@TheyreJustMovies"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@TheyreJustMovies"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+
+!Blocks shitstreem
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@eystreem"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@eystreem"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@eystreem"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@eystreem"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@EystreemShorts"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@EystreemShorts"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@EystreemShorts"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@EystreemShorts"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@spontymc"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@spontymc"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@spontymc"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@spontymc"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@miloandchip"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@miloandchip"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@miloandchip"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@miloandchip"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@Firelight"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@Firelight"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@Firelight"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@Firelight"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+
+!this bitch content and his aberrations and amalgations
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@NearChannel2576"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@NearChannel2576"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@NearChannel2576"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@NearChannel2576"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@jtd2977"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@jtd2977"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@jtd2977"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@jtd2977"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+
+!NOTE: Supposedly, these are the ball of his friends. Maybe one is a sneaked alt, other is probably a terro- i mean i dunno.
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@migrator3847"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@migrator3847"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@migrator3847"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@migrator3847"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@Cuztom"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@Cuztom"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@Cuztom"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@Cuztom"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@drastic7088"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@drastic7088"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@drastic7088"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@drastic7088"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@monkeie"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@monkeie"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@monkeie"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@monkeie"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@ShawniePlayz"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@ShawniePlayz"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@ShawniePlayz"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@ShawniePlayz"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@shawnieclipz"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@shawnieclipz"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@shawnieclipz"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@shawnieclipz"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@CmanWizard"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@CmanWizard"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@CmanWizard"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@CmanWizard"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@lapur5699"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@lapur5699"]:upward(ytd-video-renderer,ytd-channel-renderer)
+m.youtube.com##ytm-browse a[href*="@lapur5699"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@lapur5699"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 
 
 
