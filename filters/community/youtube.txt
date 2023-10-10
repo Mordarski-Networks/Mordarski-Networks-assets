@@ -1,8 +1,7 @@
 ! Title: smordarski's community filter list for YouTube
 ! Description: Community backed filter list for YouTube
 ! Expires: 2 days
-! Have you seen my coffe cup?
-! Last modified: Tuesday, October 10, 2023 02:20:07 AM UTC
+! Last modified: Tuesday, October 10, 2023 02:34:56 AM UTC
 ! Homepage: https://github.com/smordarski/smord-filter-list
 ! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
 !
