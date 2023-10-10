@@ -10,11 +10,11 @@
 ! GitHub pull requests: https://github.com/smordarski/smord-filter-list/pulls
 
 !--- Filter YouTube Channels ---!
+! Now no excuses, get back to work
 ! Info: https://letsblock.it/filters/youtube-channel
 ! Syntax: example.com##
-! Now no excuses, get back to work
 
-!Blocks The Linus Clone and his ball of shit channels
+! Blocks The Linus Clone and his ball of shit channels
 www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@LinusTechTips"]:upward(ytd-rich-item-renderer)
 www.youtube.com##ytd-search a[href*="@LinusTechTips"]:upward(ytd-video-renderer,ytd-channel-renderer)
 m.youtube.com##ytm-browse a[href*="@LinusTechTips"]:upward(ytm-rich-item-renderer)
@@ -53,7 +53,7 @@ m.youtube.com##ytm-browse a[href$="@TheyreJustMovies"]:upward(ytm-rich-item-rend
 m.youtube.com##ytm-search a[href$="@TheyreJustMovies"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 
-!Blocks shitstreem
+! Blocks shitstreem
 www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@eystreem"]:upward(ytd-rich-item-renderer)
 www.youtube.com##ytd-search a[href*="@eystreem"]:upward(ytd-video-renderer,ytd-channel-renderer)
 m.youtube.com##ytm-browse a[href*="@eystreem"]:upward(ytm-rich-item-renderer)
@@ -76,7 +76,7 @@ m.youtube.com##ytm-browse a[href*="@Firelight"]:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search a[href*="@Firelight"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 
-!this bitch content and his aberrations and amalgations
+! This bitch content and his aberrations and amalgations
 www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@NearChannel2576"]:upward(ytd-rich-item-renderer)
 www.youtube.com##ytd-search a[href*="@NearChannel2576"]:upward(ytd-video-renderer,ytd-channel-renderer)
 m.youtube.com##ytm-browse a[href*="@NearChannel2576"]:upward(ytm-rich-item-renderer)
@@ -87,7 +87,7 @@ m.youtube.com##ytm-browse a[href*="@jtd2977"]:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search a[href*="@jtd2977"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 
-!NOTE: Supposedly, these are the ball of his friends. Maybe one is a sneaked alt, other is probably a terro- i mean i dunno.
+! NOTE: Supposedly, these are the ball of his friends. Maybe one is a sneaked alt, other is probably a terro- i mean i dunno.
 www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@migrator3847"]:upward(ytd-rich-item-renderer)
 www.youtube.com##ytd-search a[href*="@migrator3847"]:upward(ytd-video-renderer,ytd-channel-renderer)
 m.youtube.com##ytm-browse a[href*="@migrator3847"]:upward(ytm-rich-item-renderer)
@@ -121,8 +121,6 @@ www.youtube.com##ytd-search a[href*="@lapur5699"]:upward(ytd-video-renderer,ytd-
 m.youtube.com##ytm-browse a[href*="@lapur5699"]:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search a[href*="@lapur5699"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
-
-
 
 !--- Filter Youtube Videos ---!
 ! Info: https://letsblock.it/filters/youtube-video-title
