@@ -1,0 +1,19 @@
+! Title: smordarski's community filter list for YouTube
+! Description: Community backed filter list for YouTube
+! Expires: 2 days
+! Last modified: Tuesday, October 10, 2023 01:46:40 AM UTC
+! Homepage: https://github.com/smordarski/smord-filter-list
+! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/smordarski/smord-filter-list/issues
+! GitHub pull requests: https://github.com/smordarski/smord-filter-list/pulls
+
+!--- Filter YouTube Channels ---!
+! Info: https://letsblock.it/filters/youtube-channel
+! Syntax: example.com##
+
+
+
+!--- Filter Youtube Videos ---!
+! Info: https://letsblock.it/filters/youtube-video-title
+! Syntax: example.com##
