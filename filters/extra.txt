@@ -1,12 +1,12 @@
-! Title: smordarski's extra filter list
+! Title: mordnet-assets extra filter list
 ! Description: Blocks extra websites that I deem unsafe or bad but shouldn't be put into the main filter list.
 ! Expires: 5 days
-! Last modified: Friday, October 06, 2023 12:27:58 AM UTC
-! Homepage: https://github.com/smordarski/smord-filter-list
-! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
+! Last modified: Friday, October 13, 2023 09:48:28 PM UTC
+! Homepage: https://github.com/MordarskiNET/mordnet-assets
+! License: https://github.com/MordarskiNET/mordnet-assets/blob/main/LICENSE
 !
-! GitHub issues: https://github.com/smordarski/smord-filter-list/issues
-! GitHub pull requests: https://github.com/smordarski/smord-filter-list/pulls
+! GitHub issues: https://github.com/MordarskiNET/mordnet-assets/issues
+! GitHub pull requests: https://github.com/MordarskiNET/mordnet-assets/pulls
 
 !--- Filter Search Results ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#specifichide
