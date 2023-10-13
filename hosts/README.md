@@ -1,6 +1,6 @@
-# smordarski's hosts file
+# mordnet-assets hosts file
 
-A hosts file equivalent of *smord-filter-list*. For right now I will not put *extra.txt* and *dev.txt* websites into *hosts.txt*.
+A hosts file equivalent of *main.txt*. For right now I will not put *extra.txt* and *dev.txt* websites into *hosts.txt*.
 
 ## What is a hosts file?
 
