@@ -1,12 +1,12 @@
-! Title: smordarski's filter list
+! Title: mordnet-assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad.
 ! Expires: 5 days
-! Last modified: Sunday, October 08, 2023 09:56:04 PM UTC
-! Homepage: https://github.com/smordarski/smord-filter-list
-! License: https://github.com/smordarski/smord-filter-list/blob/main/LICENSE
+! Last modified: Friday, October 13, 2023 09:48:28 PM UTC
+! Homepage: https://github.com/MordarskiNET/mordnet-assets
+! License: https://github.com/MordarskiNET/mordnet-assets/blob/main/LICENSE
 !
-! GitHub issues: https://github.com/smordarski/smord-filter-list/issues
-! GitHub pull requests: https://github.com/smordarski/smord-filter-list/pulls
+! GitHub issues: https://github.com/MordarskiNET/mordnet-assets/issues
+! GitHub pull requests: https://github.com/MordarskiNET/mordnet-assets/pulls
 !
 ! People & websites that helped me create this list:
 ! https://letsblock.it/filters/search-results
