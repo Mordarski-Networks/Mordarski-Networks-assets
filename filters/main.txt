@@ -1,5 +1,5 @@
 ! Title: Mordarski Networks assets filter list
-! Description: A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad.
+! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
 ! Last modified: Friday, October 13, 2023 09:48:28 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
