@@ -1,6 +1,6 @@
 # Mordarski Networks assets hosts file
 
-A hosts file equivalent of *main.txt*. For right now I will not put *extra.txt* and *dev.txt* websites into *hosts.txt*.
+A hosts file equivalent of *main.txt*. For right now, our company will not put *extra.txt* and *dev.txt* websites into *hosts.txt*.
 
 ## What is a hosts file?
 
@@ -36,4 +36,4 @@ For Windows, you can use a program called [HostsMan](https://www.abelhadigital.c
 
 - https://someonewhocares.org/hosts/
 
-Without this information, I wouldn't be able to make this hosts file.
+Without this information, our company wouldn't be able to make this hosts file.
