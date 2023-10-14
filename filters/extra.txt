@@ -1,12 +1,12 @@
-! Title: mordnet-assets extra filter list
+! Title: Mordarski Networks assets extra filter list
 ! Description: Blocks extra websites that I deem unsafe or bad but shouldn't be put into the main filter list.
 ! Expires: 5 days
 ! Last modified: Friday, October 13, 2023 09:48:28 PM UTC
-! Homepage: https://github.com/MordarskiNET/mordnet-assets
-! License: https://github.com/MordarskiNET/mordnet-assets/blob/main/LICENSE
+! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
+! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
-! GitHub issues: https://github.com/MordarskiNET/mordnet-assets/issues
-! GitHub pull requests: https://github.com/MordarskiNET/mordnet-assets/pulls
+! GitHub issues: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues
+! GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
 
 !--- Filter Search Results ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#specifichide

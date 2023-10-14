@@ -1,12 +1,12 @@
-! Title: mordnet-assets community filter list for YouTube
+! Title: Mordarski Networks assets community filter list for YouTube
 ! Description: Community backed filter list for YouTube
 ! Expires: 2 days
 ! Last modified: Friday, October 13, 2023 09:48:28 PM UTC
-! Homepage: https://github.com/MordarskiNET/mordnet-assets
-! License: https://github.com/MordarskiNET/mordnet-assets/blob/main/LICENSE
+! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
+! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
-! GitHub issues: https://github.com/MordarskiNET/mordnet-assets/issues
-! GitHub pull requests: https://github.com/MordarskiNET/mordnet-assets/pulls
+! GitHub issues: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues
+! GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
 
 !--- Filter YouTube Channels ---!
 ! Now no excuses, get back to work

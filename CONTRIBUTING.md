@@ -6,11 +6,11 @@ Before contributing to this filter list, read the following below.
 
 ## Reporting Issues
 
-You can report filter list issues [here](https://github.com/MordarskiNET/mordnet-assets/issues).
+You can report filter list issues [here](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues).
 
 ## Submitting Contributions
 
-You can create a pull request [here](https://github.com/MordarskiNET/mordnet-assets/pulls).
+You can create a pull request [here](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls).
 
 ## Code Formatting
 
@@ -64,4 +64,4 @@ example.org##
 
 ## Website Requests
 
-If you want to suggest for a website to be added to the filter list, you can do it [here](https://github.com/MordarskiNET/mordnet-assets/discussions).
+If you want to suggest for a website to be added to the filter list, you can do it [here](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/discussions).

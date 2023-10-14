@@ -1,4 +1,4 @@
-# mordnet-assets community filter list
+# Mordarski Networks assets community filter list
 
 A filter list made by the community.
 

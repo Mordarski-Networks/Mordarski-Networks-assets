@@ -1,4 +1,4 @@
-# mordnet-assets hosts file
+# Mordarski Networks assets hosts file
 
 A hosts file equivalent of *main.txt*. For right now I will not put *extra.txt* and *dev.txt* websites into *hosts.txt*.
 
