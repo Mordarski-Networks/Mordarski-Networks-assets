@@ -1,5 +1,5 @@
 ! Title: Mordarski Networks assets extra filter list
-! Description: Blocks extra websites that I deem unsafe or bad but shouldn't be put into the main filter list.
+! Description: Blocks extra websites that our company deems unsafe or bad but shouldn't be put into the main filter list.
 ! Expires: 5 days
 ! Last modified: Friday, October 13, 2023 09:48:28 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
