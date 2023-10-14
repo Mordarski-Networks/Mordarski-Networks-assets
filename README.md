@@ -1,6 +1,6 @@
 # Mordarski Networks assets filter list
 
-A uBlock Origin compliant filter list that blocks websites I deem unsafe or bad.
+A uBlock Origin compliant filter list that blocks websites that our company deems bad.
 
 ## What does this filter list block?
 
@@ -18,11 +18,11 @@ This filter list blocks TikTok, Discord, ROBLOX, and more.
 
 You can open issues at [here](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues).
 
-Although I may be slow to respond because I have a real job and can't look at GitHub all day.
+Although our company may be slow to respond, we will still try to look at our GitHub as soon as possible.
 
 ## Where can I contact you?
 
-You can contact me through [GitHub Discussions](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/discussions).
+You can contact us through [GitHub Discussions](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/discussions).
 
 ## Is there a hosts file version of this filter list?
 
@@ -34,4 +34,4 @@ Yes, there is a hosts file version of the main filter list, which you can find [
 - https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md
 - https://github.com/gorhill/uBlock/wiki/Static-filter-syntax
 
-Without this information and support, I wouldn't be able to make this filter list.
+Without this information and support, our company wouldn't be able to make this filter list.
