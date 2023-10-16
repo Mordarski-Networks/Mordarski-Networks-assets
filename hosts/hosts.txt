@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Friday, October 13, 2023 09:48:28 PM UTC
+# Last modified: Monday, October 16, 2023 10:02:06 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -98,6 +98,18 @@
 127.0.0.1 tik.fail
 127.0.0.1 tik-downloader.io
 127.0.0.1 tikin.app
+127.0.0.1 snaptik.app
+127.0.0.1 snaptik.ai
+127.0.0.1 ssstiktoc.io
+127.0.0.1 savetik.co
+127.0.0.1 tiktokvideodownloader.com.pk
+127.0.0.1 snaptik.ink
+127.0.0.1 tiktokdownloader.ru
+127.0.0.1 tiktokbot.io
+127.0.0.1 fliptok.app
+127.0.0.1 tiktokmate.io
+127.0.0.1 ssstiktok.ws
+127.0.0.1 savetiktok.io
 127.0.0.1 discord.com
 127.0.0.1 discordapp.com
 127.0.0.1 discord.gg
