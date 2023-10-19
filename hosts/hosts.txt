@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Monday, October 16, 2023 10:02:06 PM UTC
+# Last modified: Thursday, October 19, 2023 09:33:35 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -230,6 +230,31 @@
 127.0.0.1 swap.gg
 127.0.0.1 starpets.gg
 127.0.0.1 lotr.gg
+127.0.0.1 discordbots.app
+127.0.0.1 sxbot.io
+127.0.0.1 gamingbot.support
+127.0.0.1 xenon.bot
+127.0.0.1 cakeybot.app
+127.0.0.1 channelbot.xyz
+127.0.0.1 zoe-discord-bot.ch
+127.0.0.1 freestuffbot.xyz
+127.0.0.1 gw2bot.info
+127.0.0.1 quickvids.win
+127.0.0.1 startit.bot
+127.0.0.1 circlebot.xyz
+127.0.0.1 miki.bot
+127.0.0.1 aprilbot.me
+127.0.0.1 nqn.blue
+127.0.0.1 flavibot.xyz
+127.0.0.1 warmind.io
+127.0.0.1 freshtok.bot
+127.0.0.1 pluralkit.me
+127.0.0.1 truthordarebot.xyz
+127.0.0.1 loritta.website
+127.0.0.1 rustlink.io
+127.0.0.1 rollem.rocks
+127.0.0.1 juniper.bot
+127.0.0.1 auttaja.io
 127.0.0.1 roblox.com
 127.0.0.1 ropro.io
 127.0.0.1 btroblox.net
