@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Thursday, October 19, 2023 09:33:35 PM UTC
+# Last modified: Friday, October 20, 2023 10:11:31 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -110,6 +110,43 @@
 0.0.0.0 tiktokmate.io
 0.0.0.0 ssstiktok.ws
 0.0.0.0 savetiktok.io
+0.0.0.0 tikvid.cc
+0.0.0.0 tiktokdownloader.one
+0.0.0.0 keeptik.online
+0.0.0.0 tiktokdownloader.app
+0.0.0.0 snaptik.ltd
+0.0.0.0 vidtik.app
+0.0.0.0 snaptiktok.io
+0.0.0.0 ssstiktok.tools
+0.0.0.0 sstik.de
+0.0.0.0 snaptik.world
+0.0.0.0 snaptik.club
+0.0.0.0 bytedance.com
+0.0.0.0 bytedance.net
+0.0.0.0 bytecdn.cn
+0.0.0.0 byted-static.com
+0.0.0.0 byted.org
+0.0.0.0 bytedanceapi.com
+0.0.0.0 bytedapm.com
+0.0.0.0 bytedns.net
+0.0.0.0 bytednsdoc.com
+0.0.0.0 bytedns1.com
+0.0.0.0 bytefcdn.com
+0.0.0.0 bytegecko.com
+0.0.0.0 bytegoofy.com
+0.0.0.0 bytegslb.com
+0.0.0.0 bytehwm.com
+0.0.0.0 byteimg.com
+0.0.0.0 byteintl.net
+0.0.0.0 bytelb.net
+0.0.0.0 byteoversea.com
+0.0.0.0 bytescm.com
+0.0.0.0 bytetcc.com
+0.0.0.0 bytetos.com
+0.0.0.0 bytexservice.com
+0.0.0.0 ibytedapm.com
+0.0.0.0 ibytedtos.com
+0.0.0.0 ibyteimg.com
 0.0.0.0 discord.com
 0.0.0.0 discordapp.com
 0.0.0.0 discord.gg

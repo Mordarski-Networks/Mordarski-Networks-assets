@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Thursday, October 19, 2023 09:33:35 PM UTC
+! Last modified: Friday, October 20, 2023 10:11:31 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -405,6 +405,304 @@ www.google.*##.g:has(a[href*="savetiktok.io"])
 www.google.*##a[href*="savetiktok.io"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="savetiktok.io"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="savetiktok.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tikvid.cc):upward(li)
+bing.com#?#a[href*="tikvid.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tikvid.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="tikvid.cc"]
+www.google.*##.g:has(a[href*="tikvid.cc"])
+www.google.*##a[href*="tikvid.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tikvid.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tikvid.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktokdownloader.one):upward(li)
+bing.com#?#a[href*="tiktokdownloader.one"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktokdownloader.one"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktokdownloader.one"]
+www.google.*##.g:has(a[href*="tiktokdownloader.one"])
+www.google.*##a[href*="tiktokdownloader.one"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktokdownloader.one"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktokdownloader.one"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(keeptik.online):upward(li)
+bing.com#?#a[href*="keeptik.online"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="keeptik.online"]:upward(.dg_u)
+bing.com##.news-card[url*="keeptik.online"]
+www.google.*##.g:has(a[href*="keeptik.online"])
+www.google.*##a[href*="keeptik.online"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="keeptik.online"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="keeptik.online"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktokdownloader.app):upward(li)
+bing.com#?#a[href*="tiktokdownloader.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktokdownloader.app"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktokdownloader.app"]
+www.google.*##.g:has(a[href*="tiktokdownloader.app"])
+www.google.*##a[href*="tiktokdownloader.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktokdownloader.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktokdownloader.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(snaptik.ltd):upward(li)
+bing.com#?#a[href*="snaptik.ltd"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="snaptik.ltd"]:upward(.dg_u)
+bing.com##.news-card[url*="snaptik.ltd"]
+www.google.*##.g:has(a[href*="snaptik.ltd"])
+www.google.*##a[href*="snaptik.ltd"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="snaptik.ltd"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="snaptik.ltd"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(vidtik.app):upward(li)
+bing.com#?#a[href*="vidtik.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="vidtik.app"]:upward(.dg_u)
+bing.com##.news-card[url*="vidtik.app"]
+www.google.*##.g:has(a[href*="vidtik.app"])
+www.google.*##a[href*="vidtik.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="vidtik.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="vidtik.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(snaptiktok.io):upward(li)
+bing.com#?#a[href*="snaptiktok.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="snaptiktok.io"]:upward(.dg_u)
+bing.com##.news-card[url*="snaptiktok.io"]
+www.google.*##.g:has(a[href*="snaptiktok.io"])
+www.google.*##a[href*="snaptiktok.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="snaptiktok.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="snaptiktok.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ssstiktok.tools):upward(li)
+bing.com#?#a[href*="ssstiktok.tools"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ssstiktok.tools"]:upward(.dg_u)
+bing.com##.news-card[url*="ssstiktok.tools"]
+www.google.*##.g:has(a[href*="ssstiktok.tools"])
+www.google.*##a[href*="ssstiktok.tools"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ssstiktok.tools"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ssstiktok.tools"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(sstik.de):upward(li)
+bing.com#?#a[href*="sstik.de"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="sstik.de"]:upward(.dg_u)
+bing.com##.news-card[url*="sstik.de"]
+www.google.*##.g:has(a[href*="sstik.de"])
+www.google.*##a[href*="sstik.de"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="sstik.de"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="sstik.de"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(snaptik.world):upward(li)
+bing.com#?#a[href*="snaptik.world"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="snaptik.world"]:upward(.dg_u)
+bing.com##.news-card[url*="snaptik.world"]
+www.google.*##.g:has(a[href*="snaptik.world"])
+www.google.*##a[href*="snaptik.world"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="snaptik.world"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="snaptik.world"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(snaptik.club):upward(li)
+bing.com#?#a[href*="snaptik.club"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="snaptik.club"]:upward(.dg_u)
+bing.com##.news-card[url*="snaptik.club"]
+www.google.*##.g:has(a[href*="snaptik.club"])
+www.google.*##a[href*="snaptik.club"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="snaptik.club"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="snaptik.club"]:upward(.tile)
+
+! ByteDance
+bing.com#?#[id$="results"] cite:has-text(bytedance.com):upward(li)
+bing.com#?#a[href*="bytedance.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytedance.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytedance.com"]
+www.google.*##.g:has(a[href*="bytedance.com"])
+www.google.*##a[href*="bytedance.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytedance.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytedance.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytedance.net):upward(li)
+bing.com#?#a[href*="bytedance.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytedance.net"]:upward(.dg_u)
+bing.com##.news-card[url*="bytedance.net"]
+www.google.*##.g:has(a[href*="bytedance.net"])
+www.google.*##a[href*="bytedance.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytedance.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytedance.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytecdn.cn):upward(li)
+bing.com#?#a[href*="bytecdn.cn"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytecdn.cn"]:upward(.dg_u)
+bing.com##.news-card[url*="bytecdn.cn"]
+www.google.*##.g:has(a[href*="bytecdn.cn"])
+www.google.*##a[href*="bytecdn.cn"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytecdn.cn"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytecdn.cn"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(byted-static.com):upward(li)
+bing.com#?#a[href*="byted-static.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="byted-static.com"]:upward(.dg_u)
+bing.com##.news-card[url*="byted-static.com"]
+www.google.*##.g:has(a[href*="byted-static.com"])
+www.google.*##a[href*="byted-static.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="byted-static.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="byted-static.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(byted.org):upward(li)
+bing.com#?#a[href*="byted.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="byted.org"]:upward(.dg_u)
+bing.com##.news-card[url*="byted.org"]
+www.google.*##.g:has(a[href*="byted.org"])
+www.google.*##a[href*="byted.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="byted.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="byted.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytedanceapi.com):upward(li)
+bing.com#?#a[href*="bytedanceapi.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytedanceapi.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytedanceapi.com"]
+www.google.*##.g:has(a[href*="bytedanceapi.com"])
+www.google.*##a[href*="bytedanceapi.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytedanceapi.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytedanceapi.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytedapm.com):upward(li)
+bing.com#?#a[href*="bytedapm.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytedapm.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytedapm.com"]
+www.google.*##.g:has(a[href*="bytedapm.com"])
+www.google.*##a[href*="bytedapm.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytedapm.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytedapm.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytedns.net):upward(li)
+bing.com#?#a[href*="bytedns.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytedns.net"]:upward(.dg_u)
+bing.com##.news-card[url*="bytedns.net"]
+www.google.*##.g:has(a[href*="bytedns.net"])
+www.google.*##a[href*="bytedns.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytedns.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytedns.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytednsdoc.com):upward(li)
+bing.com#?#a[href*="bytednsdoc.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytednsdoc.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytednsdoc.com"]
+www.google.*##.g:has(a[href*="bytednsdoc.com"])
+www.google.*##a[href*="bytednsdoc.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytednsdoc.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytednsdoc.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytedns1.com):upward(li)
+bing.com#?#a[href*="bytedns1.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytedns1.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytedns1.com"]
+www.google.*##.g:has(a[href*="bytedns1.com"])
+www.google.*##a[href*="bytedns1.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytedns1.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytedns1.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytefcdn.com):upward(li)
+bing.com#?#a[href*="bytefcdn.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytefcdn.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytefcdn.com"]
+www.google.*##.g:has(a[href*="bytefcdn.com"])
+www.google.*##a[href*="bytefcdn.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytefcdn.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytefcdn.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytegecko.com):upward(li)
+bing.com#?#a[href*="bytegecko.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytegecko.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytegecko.com"]
+www.google.*##.g:has(a[href*="bytegecko.com"])
+www.google.*##a[href*="bytegecko.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytegecko.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytegecko.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytegoofy.com):upward(li)
+bing.com#?#a[href*="bytegoofy.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytegoofy.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytegoofy.com"]
+www.google.*##.g:has(a[href*="bytegoofy.com"])
+www.google.*##a[href*="bytegoofy.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytegoofy.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytegoofy.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytegslb.com):upward(li)
+bing.com#?#a[href*="bytegslb.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytegslb.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytegslb.com"]
+www.google.*##.g:has(a[href*="bytegslb.com"])
+www.google.*##a[href*="bytegslb.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytegslb.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytegslb.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytehwm.com):upward(li)
+bing.com#?#a[href*="bytehwm.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytehwm.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytehwm.com"]
+www.google.*##.g:has(a[href*="bytehwm.com"])
+www.google.*##a[href*="bytehwm.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytehwm.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytehwm.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(byteimg.com):upward(li)
+bing.com#?#a[href*="byteimg.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="byteimg.com"]:upward(.dg_u)
+bing.com##.news-card[url*="byteimg.com"]
+www.google.*##.g:has(a[href*="byteimg.com"])
+www.google.*##a[href*="byteimg.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="byteimg.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="byteimg.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(byteintl.net):upward(li)
+bing.com#?#a[href*="byteintl.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="byteintl.net"]:upward(.dg_u)
+bing.com##.news-card[url*="byteintl.net"]
+www.google.*##.g:has(a[href*="byteintl.net"])
+www.google.*##a[href*="byteintl.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="byteintl.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="byteintl.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytelb.net):upward(li)
+bing.com#?#a[href*="bytelb.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytelb.net"]:upward(.dg_u)
+bing.com##.news-card[url*="bytelb.net"]
+www.google.*##.g:has(a[href*="bytelb.net"])
+www.google.*##a[href*="bytelb.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytelb.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytelb.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(byteoversea.com):upward(li)
+bing.com#?#a[href*="byteoversea.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="byteoversea.com"]:upward(.dg_u)
+bing.com##.news-card[url*="byteoversea.com"]
+www.google.*##.g:has(a[href*="byteoversea.com"])
+www.google.*##a[href*="byteoversea.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="byteoversea.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="byteoversea.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytescm.com):upward(li)
+bing.com#?#a[href*="bytescm.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytescm.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytescm.com"]
+www.google.*##.g:has(a[href*="bytescm.com"])
+www.google.*##a[href*="bytescm.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytescm.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytescm.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytetcc.com):upward(li)
+bing.com#?#a[href*="bytetcc.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytetcc.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytetcc.com"]
+www.google.*##.g:has(a[href*="bytetcc.com"])
+www.google.*##a[href*="bytetcc.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytetcc.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytetcc.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytetos.com):upward(li)
+bing.com#?#a[href*="bytetos.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytetos.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytetos.com"]
+www.google.*##.g:has(a[href*="bytetos.com"])
+www.google.*##a[href*="bytetos.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytetos.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytetos.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bytexservice.com):upward(li)
+bing.com#?#a[href*="bytexservice.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bytexservice.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bytexservice.com"]
+www.google.*##.g:has(a[href*="bytexservice.com"])
+www.google.*##a[href*="bytexservice.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bytexservice.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bytexservice.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ibytedapm.com):upward(li)
+bing.com#?#a[href*="ibytedapm.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ibytedapm.com"]:upward(.dg_u)
+bing.com##.news-card[url*="ibytedapm.com"]
+www.google.*##.g:has(a[href*="ibytedapm.com"])
+www.google.*##a[href*="ibytedapm.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ibytedapm.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ibytedapm.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ibytedtos.com):upward(li)
+bing.com#?#a[href*="ibytedtos.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ibytedtos.com"]:upward(.dg_u)
+bing.com##.news-card[url*="ibytedtos.com"]
+www.google.*##.g:has(a[href*="ibytedtos.com"])
+www.google.*##a[href*="ibytedtos.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ibytedtos.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ibytedtos.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ibyteimg.com):upward(li)
+bing.com#?#a[href*="ibyteimg.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ibyteimg.com"]:upward(.dg_u)
+bing.com##.news-card[url*="ibyteimg.com"]
+www.google.*##.g:has(a[href*="ibyteimg.com"])
+www.google.*##a[href*="ibyteimg.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ibyteimg.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ibyteimg.com"]:upward(.tile)
 
 ! Discord
 bing.com#?#[id$="results"] cite:has-text(discord.com):upward(li)
@@ -1669,6 +1967,45 @@ duckduckgo.com##.tile-wrap a[href*="rogold.live"]:upward(.tile)
 ||tiktokmate.io^$all
 ||ssstiktok.ws^$all
 ||savetiktok.io^$all
+||tikvid.cc^$all
+||tiktokdownloader.one^$all
+||keeptik.online^$all
+||tiktokdownloader.app^$all
+||snaptik.ltd^$all
+||vidtik.app^$all
+||snaptiktok.io^$all
+||ssstiktok.tools^$all
+||sstik.de^$all
+||snaptik.world^$all
+||snaptik.club^$all
+
+! ByteDance
+||bytedance.com^$all
+||bytedance.net^$all
+||bytecdn.cn^$all
+||byted-static.com^$all
+||byted.org^$all
+||bytedanceapi.com^$all
+||bytedapm.com^$all
+||bytedns.net^$all
+||bytednsdoc.com^$all
+||bytedns1.com^$all
+||bytefcdn.com^$all
+||bytegecko.com^$all
+||bytegoofy.com^$all
+||bytegslb.com^$all
+||bytehwm.com^$all
+||byteimg.com^$all
+||byteintl.net^$all
+||bytelb.net^$all
+||byteoversea.com^$all
+||bytescm.com^$all
+||bytetcc.com^$all
+||bytetos.com^$all
+||bytexservice.com^$all
+||ibytedapm.com^$all
+||ibytedtos.com^$all
+||ibyteimg.com^$all
 
 ! Discord
 ||discord.com^$all
