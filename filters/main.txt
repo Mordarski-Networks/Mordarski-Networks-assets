@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Friday, October 20, 2023 10:11:31 PM UTC
+! Last modified: Saturday, October 21, 2023 09:15:22 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -493,6 +493,110 @@ www.google.*##.g:has(a[href*="snaptik.club"])
 www.google.*##a[href*="snaptik.club"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="snaptik.club"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="snaptik.club"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ssstiktok.lol):upward(li)
+bing.com#?#a[href*="ssstiktok.lol"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ssstiktok.lol"]:upward(.dg_u)
+bing.com##.news-card[url*="ssstiktok.lol"]
+www.google.*##.g:has(a[href*="ssstiktok.lol"])
+www.google.*##a[href*="ssstiktok.lol"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ssstiktok.lol"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ssstiktok.lol"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ssstt.app):upward(li)
+bing.com#?#a[href*="ssstt.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ssstt.app"]:upward(.dg_u)
+bing.com##.news-card[url*="ssstt.app"]
+www.google.*##.g:has(a[href*="ssstt.app"])
+www.google.*##a[href*="ssstt.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ssstt.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ssstt.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ssstiktok.run):upward(li)
+bing.com#?#a[href*="ssstiktok.run"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ssstiktok.run"]:upward(.dg_u)
+bing.com##.news-card[url*="ssstiktok.run"]
+www.google.*##.g:has(a[href*="ssstiktok.run"])
+www.google.*##a[href*="ssstiktok.run"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ssstiktok.run"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ssstiktok.run"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(snaptik.io):upward(li)
+bing.com#?#a[href*="snaptik.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="snaptik.io"]:upward(.dg_u)
+bing.com##.news-card[url*="snaptik.io"]
+www.google.*##.g:has(a[href*="snaptik.io"])
+www.google.*##a[href*="snaptik.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="snaptik.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="snaptik.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktokvideodownloader.one):upward(li)
+bing.com#?#a[href*="tiktokvideodownloader.one"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktokvideodownloader.one"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktokvideodownloader.one"]
+www.google.*##.g:has(a[href*="tiktokvideodownloader.one"])
+www.google.*##a[href*="tiktokvideodownloader.one"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktokvideodownloader.one"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktokvideodownloader.one"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tikdd.cc):upward(li)
+bing.com#?#a[href*="tikdd.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tikdd.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="tikdd.cc"]
+www.google.*##.g:has(a[href*="tikdd.cc"])
+www.google.*##a[href*="tikdd.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tikdd.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tikdd.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiqtod.xyz):upward(li)
+bing.com#?#a[href*="tiqtod.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiqtod.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="tiqtod.xyz"]
+www.google.*##.g:has(a[href*="tiqtod.xyz"])
+www.google.*##a[href*="tiqtod.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiqtod.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiqtod.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktokdownloader.co):upward(li)
+bing.com#?#a[href*="tiktokdownloader.co"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktokdownloader.co"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktokdownloader.co"]
+www.google.*##.g:has(a[href*="tiktokdownloader.co"])
+www.google.*##a[href*="tiktokdownloader.co"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktokdownloader.co"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktokdownloader.co"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tikshot.app):upward(li)
+bing.com#?#a[href*="tikshot.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tikshot.app"]:upward(.dg_u)
+bing.com##.news-card[url*="tikshot.app"]
+www.google.*##.g:has(a[href*="tikshot.app"])
+www.google.*##a[href*="tikshot.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tikshot.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tikshot.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktokvideo.live):upward(li)
+bing.com#?#a[href*="tiktokvideo.live"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktokvideo.live"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktokvideo.live"]
+www.google.*##.g:has(a[href*="tiktokvideo.live"])
+www.google.*##a[href*="tiktokvideo.live"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktokvideo.live"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktokvideo.live"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(stt.plus):upward(li)
+bing.com#?#a[href*="stt.plus"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="stt.plus"]:upward(.dg_u)
+bing.com##.news-card[url*="stt.plus"]
+www.google.*##.g:has(a[href*="stt.plus"])
+www.google.*##a[href*="stt.plus"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="stt.plus"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="stt.plus"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktap.io):upward(li)
+bing.com#?#a[href*="tiktap.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktap.io"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktap.io"]
+www.google.*##.g:has(a[href*="tiktap.io"])
+www.google.*##a[href*="tiktap.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktap.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktap.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ttok.app):upward(li)
+bing.com#?#a[href*="ttok.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ttok.app"]:upward(.dg_u)
+bing.com##.news-card[url*="ttok.app"]
+www.google.*##.g:has(a[href*="ttok.app"])
+www.google.*##a[href*="ttok.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ttok.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ttok.app"]:upward(.tile)
 
 ! ByteDance
 bing.com#?#[id$="results"] cite:has-text(bytedance.com):upward(li)
@@ -1978,6 +2082,19 @@ duckduckgo.com##.tile-wrap a[href*="rogold.live"]:upward(.tile)
 ||sstik.de^$all
 ||snaptik.world^$all
 ||snaptik.club^$all
+||ssstiktok.lol^$all
+||ssstt.app^$all
+||ssstiktok.run^$all
+||snaptik.io^$all
+||tiktokvideodownloader.one^$all
+||tikdd.cc^$all
+||tiqtod.xyz^$all
+||tiktokdownloader.co^$all
+||tikshot.app^$all
+||tiktokvideo.live^$all
+||stt.plus^$all
+||tiktap.io^$all
+||ttok.app^$all
 
 ! ByteDance
 ||bytedance.com^$all

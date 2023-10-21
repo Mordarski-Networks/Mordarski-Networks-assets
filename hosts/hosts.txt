@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Friday, October 20, 2023 10:11:31 PM UTC
+# Last modified: Saturday, October 21, 2023 09:15:22 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -121,6 +121,19 @@
 127.0.0.1 sstik.de
 127.0.0.1 snaptik.world
 127.0.0.1 snaptik.club
+127.0.0.1 ssstiktok.lol
+127.0.0.1 ssstt.app
+127.0.0.1 ssstiktok.run
+127.0.0.1 snaptik.io
+127.0.0.1 tiktokvideodownloader.one
+127.0.0.1 tikdd.cc
+127.0.0.1 tiqtod.xyz
+127.0.0.1 tiktokdownloader.co
+127.0.0.1 tikshot.app
+127.0.0.1 tiktokvideo.live
+127.0.0.1 stt.plus
+127.0.0.1 tiktap.io
+127.0.0.1 ttok.app
 127.0.0.1 bytedance.com
 127.0.0.1 bytedance.net
 127.0.0.1 bytecdn.cn
