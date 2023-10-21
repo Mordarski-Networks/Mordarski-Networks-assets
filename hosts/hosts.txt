@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Friday, October 20, 2023 10:11:31 PM UTC
+# Last modified: Thursday, October 19, 2023 09:33:35 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -110,43 +110,6 @@
 127.0.0.1 tiktokmate.io
 127.0.0.1 ssstiktok.ws
 127.0.0.1 savetiktok.io
-127.0.0.1 tikvid.cc
-127.0.0.1 tiktokdownloader.one
-127.0.0.1 keeptik.online
-127.0.0.1 tiktokdownloader.app
-127.0.0.1 snaptik.ltd
-127.0.0.1 vidtik.app
-127.0.0.1 snaptiktok.io
-127.0.0.1 ssstiktok.tools
-127.0.0.1 sstik.de
-127.0.0.1 snaptik.world
-127.0.0.1 snaptik.club
-127.0.0.1 bytedance.com
-127.0.0.1 bytedance.net
-127.0.0.1 bytecdn.cn
-127.0.0.1 byted-static.com
-127.0.0.1 byted.org
-127.0.0.1 bytedanceapi.com
-127.0.0.1 bytedapm.com
-127.0.0.1 bytedns.net
-127.0.0.1 bytednsdoc.com
-127.0.0.1 bytedns1.com
-127.0.0.1 bytefcdn.com
-127.0.0.1 bytegecko.com
-127.0.0.1 bytegoofy.com
-127.0.0.1 bytegslb.com
-127.0.0.1 bytehwm.com
-127.0.0.1 byteimg.com
-127.0.0.1 byteintl.net
-127.0.0.1 bytelb.net
-127.0.0.1 byteoversea.com
-127.0.0.1 bytescm.com
-127.0.0.1 bytetcc.com
-127.0.0.1 bytetos.com
-127.0.0.1 bytexservice.com
-127.0.0.1 ibytedapm.com
-127.0.0.1 ibytedtos.com
-127.0.0.1 ibyteimg.com
 127.0.0.1 discord.com
 127.0.0.1 discordapp.com
 127.0.0.1 discord.gg
