@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Saturday, October 21, 2023 09:15:22 PM UTC
+! Last modified: Saturday, October 21, 2023 10:53:35 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -1971,6 +1971,86 @@ www.google.*##.g:has(a[href*="auttaja.io"])
 www.google.*##a[href*="auttaja.io"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="auttaja.io"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="auttaja.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ibeatkids.xyz):upward(li)
+bing.com#?#a[href*="ibeatkids.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ibeatkids.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="ibeatkids.xyz"]
+www.google.*##.g:has(a[href*="ibeatkids.xyz"])
+www.google.*##a[href*="ibeatkids.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ibeatkids.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ibeatkids.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(arcanebot.xyz):upward(li)
+bing.com#?#a[href*="arcanebot.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="arcanebot.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="arcanebot.xyz"]
+www.google.*##.g:has(a[href*="arcanebot.xyz"])
+www.google.*##a[href*="arcanebot.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="arcanebot.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="arcanebot.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(guild.xyz):upward(li)
+bing.com#?#a[href*="guild.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="guild.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="guild.xyz"]
+www.google.*##.g:has(a[href*="guild.xyz"])
+www.google.*##a[href*="guild.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="guild.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="guild.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tickettool.xyz):upward(li)
+bing.com#?#a[href*="tickettool.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tickettool.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="tickettool.xyz"]
+www.google.*##.g:has(a[href*="tickettool.xyz"])
+www.google.*##a[href*="tickettool.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tickettool.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tickettool.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(hey.xyz):upward(li)
+bing.com#?#a[href*="hey.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="hey.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="hey.xyz"]
+www.google.*##.g:has(a[href*="hey.xyz"])
+www.google.*##a[href*="hey.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="hey.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="hey.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(skinship.xyz):upward(li)
+bing.com#?#a[href*="skinship.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="skinship.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="skinship.xyz"]
+www.google.*##.g:has(a[href*="skinship.xyz"])
+www.google.*##a[href*="skinship.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="skinship.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="skinship.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(sapph.xyz):upward(li)
+bing.com#?#a[href*="sapph.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="sapph.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="sapph.xyz"]
+www.google.*##.g:has(a[href*="sapph.xyz"])
+www.google.*##a[href*="sapph.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="sapph.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="sapph.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tatsumaki.xyz):upward(li)
+bing.com#?#a[href*="tatsumaki.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tatsumaki.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="tatsumaki.xyz"]
+www.google.*##.g:has(a[href*="tatsumaki.xyz"])
+www.google.*##a[href*="tatsumaki.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tatsumaki.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tatsumaki.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(securitybot.xyz):upward(li)
+bing.com#?#a[href*="securitybot.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="securitybot.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="securitybot.xyz"]
+www.google.*##.g:has(a[href*="securitybot.xyz"])
+www.google.*##a[href*="securitybot.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="securitybot.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="securitybot.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discord.xyz):upward(li)
+bing.com#?#a[href*="discord.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discord.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="discord.xyz"]
+www.google.*##.g:has(a[href*="discord.xyz"])
+www.google.*##a[href*="discord.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discord.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discord.xyz"]:upward(.tile)
 
 ! ROBLOX
 bing.com#?#[id$="results"] cite:has-text(roblox.com):upward(li)
@@ -2273,6 +2353,16 @@ duckduckgo.com##.tile-wrap a[href*="rogold.live"]:upward(.tile)
 ||rollem.rocks^$all
 ||juniper.bot^$all
 ||auttaja.io^$all
+||ibeatkids.xyz^$all
+||arcanebot.xyz^$all
+||guild.xyz^$all
+||tickettool.xyz^$all
+||hey.xyz^$all
+||skinship.xyz^$all
+||sapph.xyz^$all
+||tatsumaki.xyz^$all
+||securitybot.xyz^$all
+||discord.xyz^$all
 
 ! ROBLOX
 ||roblox.com^$all

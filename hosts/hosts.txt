@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Saturday, October 21, 2023 09:15:22 PM UTC
+# Last modified: Saturday, October 21, 2023 10:53:35 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -305,6 +305,16 @@
 127.0.0.1 rollem.rocks
 127.0.0.1 juniper.bot
 127.0.0.1 auttaja.io
+127.0.0.1 ibeatkids.xyz
+127.0.0.1 arcanebot.xyz
+127.0.0.1 guild.xyz
+127.0.0.1 tickettool.xyz
+127.0.0.1 hey.xyz
+127.0.0.1 skinship.xyz
+127.0.0.1 sapph.xyz
+127.0.0.1 tatsumaki.xyz
+127.0.0.1 securitybot.xyz
+127.0.0.1 discord.xyz
 127.0.0.1 roblox.com
 127.0.0.1 ropro.io
 127.0.0.1 btroblox.net
