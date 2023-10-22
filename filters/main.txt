@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Saturday, October 21, 2023 10:53:35 PM UTC
+! Last modified: Sunday, October 22, 2023 04:41:42 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -2051,6 +2051,78 @@ www.google.*##.g:has(a[href*="discord.xyz"])
 www.google.*##a[href*="discord.xyz"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="discord.xyz"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="discord.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordjs.guide):upward(li)
+bing.com#?#a[href*="discordjs.guide"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordjs.guide"]:upward(.dg_u)
+bing.com##.news-card[url*="discordjs.guide"]
+www.google.*##.g:has(a[href*="discordjs.guide"])
+www.google.*##a[href*="discordjs.guide"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordjs.guide"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordjs.guide"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discord.red):upward(li)
+bing.com#?#a[href*="discord.red"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discord.red"]:upward(.dg_u)
+bing.com##.news-card[url*="discord.red"]
+www.google.*##.g:has(a[href*="discord.red"])
+www.google.*##a[href*="discord.red"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discord.red"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discord.red"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordnet.dev):upward(li)
+bing.com#?#a[href*="discordnet.dev"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordnet.dev"]:upward(.dg_u)
+bing.com##.news-card[url*="discordnet.dev"]
+www.google.*##.g:has(a[href*="discordnet.dev"])
+www.google.*##a[href*="discordnet.dev"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordnet.dev"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordnet.dev"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordpy.readthedocs.io):upward(li)
+bing.com#?#a[href*="discordpy.readthedocs.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordpy.readthedocs.io"]:upward(.dg_u)
+bing.com##.news-card[url*="discordpy.readthedocs.io"]
+www.google.*##.g:has(a[href*="discordpy.readthedocs.io"])
+www.google.*##a[href*="discordpy.readthedocs.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordpy.readthedocs.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordpy.readthedocs.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(purrbot.site):upward(li)
+bing.com#?#a[href*="purrbot.site"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="purrbot.site"]:upward(.dg_u)
+bing.com##.news-card[url*="purrbot.site"]
+www.google.*##.g:has(a[href*="purrbot.site"])
+www.google.*##a[href*="purrbot.site"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="purrbot.site"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="purrbot.site"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(needle.gg):upward(li)
+bing.com#?#a[href*="needle.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="needle.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="needle.gg"]
+www.google.*##.g:has(a[href*="needle.gg"])
+www.google.*##a[href*="needle.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="needle.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="needle.gg"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(pingcord.xyz):upward(li)
+bing.com#?#a[href*="pingcord.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="pingcord.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="pingcord.xyz"]
+www.google.*##.g:has(a[href*="pingcord.xyz"])
+www.google.*##a[href*="pingcord.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="pingcord.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="pingcord.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tupperbox.app):upward(li)
+bing.com#?#a[href*="tupperbox.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tupperbox.app"]:upward(.dg_u)
+bing.com##.news-card[url*="tupperbox.app"]
+www.google.*##.g:has(a[href*="tupperbox.app"])
+www.google.*##a[href*="tupperbox.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tupperbox.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tupperbox.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(eren.si):upward(li)
+bing.com#?#a[href*="eren.si"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="eren.si"]:upward(.dg_u)
+bing.com##.news-card[url*="eren.si"]
+www.google.*##.g:has(a[href*="eren.si"])
+www.google.*##a[href*="eren.si"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="eren.si"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="eren.si"]:upward(.tile)
 
 ! ROBLOX
 bing.com#?#[id$="results"] cite:has-text(roblox.com):upward(li)
@@ -2363,6 +2435,15 @@ duckduckgo.com##.tile-wrap a[href*="rogold.live"]:upward(.tile)
 ||tatsumaki.xyz^$all
 ||securitybot.xyz^$all
 ||discord.xyz^$all
+||discordjs.guide^$all
+||discord.red^$all
+||discordnet.dev^$all
+||discordpy.readthedocs.io^$all
+||purrbot.site^$all
+||needle.gg^$all
+||pingcord.xyz^$all
+||tupperbox.app^$all
+||eren.si^$all
 
 ! ROBLOX
 ||roblox.com^$all

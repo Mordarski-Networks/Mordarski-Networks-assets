@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Saturday, October 21, 2023 10:53:35 PM UTC
+# Last modified: Sunday, October 22, 2023 04:41:42 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -315,6 +315,15 @@
 0.0.0.0 tatsumaki.xyz
 0.0.0.0 securitybot.xyz
 0.0.0.0 discord.xyz
+0.0.0.0 discordjs.guide
+0.0.0.0 discord.red
+0.0.0.0 discordnet.dev
+0.0.0.0 discordpy.readthedocs.io
+0.0.0.0 purrbot.site
+0.0.0.0 needle.gg
+0.0.0.0 pingcord.xyz
+0.0.0.0 tupperbox.app
+0.0.0.0 eren.si
 0.0.0.0 roblox.com
 0.0.0.0 ropro.io
 0.0.0.0 btroblox.net
