@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Tuesday, October 24, 2023 12:20:46 AM UTC
+! Last modified: Tuesday, October 24, 2023 11:14:02 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -2367,6 +2367,54 @@ www.google.*##.g:has(a[href*="robloxden.com"])
 www.google.*##a[href*="robloxden.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="robloxden.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="robloxden.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(claimrbx.gg):upward(li)
+bing.com#?#a[href*="claimrbx.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="claimrbx.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="claimrbx.gg"]
+www.google.*##.g:has(a[href*="claimrbx.gg"])
+www.google.*##a[href*="claimrbx.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="claimrbx.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="claimrbx.gg"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(azxwnv.geo1999.de):upward(li)
+bing.com#?#a[href*="azxwnv.geo1999.de"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="azxwnv.geo1999.de"]:upward(.dg_u)
+bing.com##.news-card[url*="azxwnv.geo1999.de"]
+www.google.*##.g:has(a[href*="azxwnv.geo1999.de"])
+www.google.*##a[href*="azxwnv.geo1999.de"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="azxwnv.geo1999.de"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="azxwnv.geo1999.de"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(free-robux-counter-counterstudio.mx.aptoide.com):upward(li)
+bing.com#?#a[href*="free-robux-counter-counterstudio.mx.aptoide.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="free-robux-counter-counterstudio.mx.aptoide.com"]:upward(.dg_u)
+bing.com##.news-card[url*="free-robux-counter-counterstudio.mx.aptoide.com"]
+www.google.*##.g:has(a[href*="free-robux-counter-counterstudio.mx.aptoide.com"])
+www.google.*##a[href*="free-robux-counter-counterstudio.mx.aptoide.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="free-robux-counter-counterstudio.mx.aptoide.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="free-robux-counter-counterstudio.mx.aptoide.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(free-robux-counter-counterstudio.en.aptoide.com):upward(li)
+bing.com#?#a[href*="free-robux-counter-counterstudio.en.aptoide.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="free-robux-counter-counterstudio.en.aptoide.com"]:upward(.dg_u)
+bing.com##.news-card[url*="free-robux-counter-counterstudio.en.aptoide.com"]
+www.google.*##.g:has(a[href*="free-robux-counter-counterstudio.en.aptoide.com"])
+www.google.*##a[href*="free-robux-counter-counterstudio.en.aptoide.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="free-robux-counter-counterstudio.en.aptoide.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="free-robux-counter-counterstudio.en.aptoide.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tuyzmm.dominikanerinnen-lage.de):upward(li)
+bing.com#?#a[href*="tuyzmm.dominikanerinnen-lage.de"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tuyzmm.dominikanerinnen-lage.de"]:upward(.dg_u)
+bing.com##.news-card[url*="tuyzmm.dominikanerinnen-lage.de"]
+www.google.*##.g:has(a[href*="tuyzmm.dominikanerinnen-lage.de"])
+www.google.*##a[href*="tuyzmm.dominikanerinnen-lage.de"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tuyzmm.dominikanerinnen-lage.de"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tuyzmm.dominikanerinnen-lage.de"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(rbxgum.com):upward(li)
+bing.com#?#a[href*="rbxgum.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="rbxgum.com"]:upward(.dg_u)
+bing.com##.news-card[url*="rbxgum.com"]
+www.google.*##.g:has(a[href*="rbxgum.com"])
+www.google.*##a[href*="rbxgum.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="rbxgum.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="rbxgum.com"]:upward(.tile)
 
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
@@ -2677,3 +2725,9 @@ duckduckgo.com##.tile-wrap a[href*="robloxden.com"]:upward(.tile)
 ||rosnipe.site^$all
 ||free-robux-generator.site^$all
 ||robloxden.com^$all
+||claimrbx.gg^$all
+||azxwnv.geo1999.de^$all
+||free-robux-counter-counterstudio.mx.aptoide.com^$all
+||free-robux-counter-counterstudio.en.aptoide.com^$all
+||tuyzmm.dominikanerinnen-lage.de^$all
+||rbxgum.com^$all

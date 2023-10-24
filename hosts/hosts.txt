@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Tuesday, October 24, 2023 12:20:46 AM UTC
+# Last modified: Tuesday, October 24, 2023 11:14:02 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -354,3 +354,9 @@
 127.0.0.1 rosnipe.site
 127.0.0.1 free-robux-generator.site
 127.0.0.1 robloxden.com
+127.0.0.1 claimrbx.gg
+127.0.0.1 azxwnv.geo1999.de
+127.0.0.1 free-robux-counter-counterstudio.mx.aptoide.com
+127.0.0.1 free-robux-counter-counterstudio.en.aptoide.com
+127.0.0.1 tuyzmm.dominikanerinnen-lage.de
+127.0.0.1 rbxgum.com
