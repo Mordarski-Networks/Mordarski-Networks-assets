@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Sunday, October 22, 2023 04:41:42 PM UTC
+! Last modified: Tuesday, October 24, 2023 12:20:46 AM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -2167,6 +2167,206 @@ www.google.*##.g:has(a[href*="rogold.live"])
 www.google.*##a[href*="rogold.live"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="rogold.live"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="rogold.live"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(roblominer.com):upward(li)
+bing.com#?#a[href*="roblominer.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="roblominer.com"]:upward(.dg_u)
+bing.com##.news-card[url*="roblominer.com"]
+www.google.*##.g:has(a[href*="roblominer.com"])
+www.google.*##a[href*="roblominer.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="roblominer.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="roblominer.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(planetrbx.com):upward(li)
+bing.com#?#a[href*="planetrbx.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="planetrbx.com"]:upward(.dg_u)
+bing.com##.news-card[url*="planetrbx.com"]
+www.google.*##.g:has(a[href*="planetrbx.com"])
+www.google.*##a[href*="planetrbx.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="planetrbx.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="planetrbx.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(thefreerobux.com):upward(li)
+bing.com#?#a[href*="thefreerobux.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="thefreerobux.com"]:upward(.dg_u)
+bing.com##.news-card[url*="thefreerobux.com"]
+www.google.*##.g:has(a[href*="thefreerobux.com"])
+www.google.*##a[href*="thefreerobux.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="thefreerobux.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="thefreerobux.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(bloxearn.com):upward(li)
+bing.com#?#a[href*="bloxearn.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="bloxearn.com"]:upward(.dg_u)
+bing.com##.news-card[url*="bloxearn.com"]
+www.google.*##.g:has(a[href*="bloxearn.com"])
+www.google.*##a[href*="bloxearn.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="bloxearn.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="bloxearn.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(sweetrbx.com):upward(li)
+bing.com#?#a[href*="sweetrbx.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="sweetrbx.com"]:upward(.dg_u)
+bing.com##.news-card[url*="sweetrbx.com"]
+www.google.*##.g:has(a[href*="sweetrbx.com"])
+www.google.*##a[href*="sweetrbx.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="sweetrbx.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="sweetrbx.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(rewardrobux.com):upward(li)
+bing.com#?#a[href*="rewardrobux.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="rewardrobux.com"]:upward(.dg_u)
+bing.com##.news-card[url*="rewardrobux.com"]
+www.google.*##.g:has(a[href*="rewardrobux.com"])
+www.google.*##a[href*="rewardrobux.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="rewardrobux.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="rewardrobux.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(rocash.com):upward(li)
+bing.com#?#a[href*="rocash.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="rocash.com"]:upward(.dg_u)
+bing.com##.news-card[url*="rocash.com"]
+www.google.*##.g:has(a[href*="rocash.com"])
+www.google.*##a[href*="rocash.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="rocash.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="rocash.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(rbxadder.com):upward(li)
+bing.com#?#a[href*="rbxadder.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="rbxadder.com"]:upward(.dg_u)
+bing.com##.news-card[url*="rbxadder.com"]
+www.google.*##.g:has(a[href*="rbxadder.com"])
+www.google.*##a[href*="rbxadder.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="rbxadder.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="rbxadder.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(rolimons.com):upward(li)
+bing.com#?#a[href*="rolimons.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="rolimons.com"]:upward(.dg_u)
+bing.com##.news-card[url*="rolimons.com"]
+www.google.*##.g:has(a[href*="rolimons.com"])
+www.google.*##a[href*="rolimons.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="rolimons.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="rolimons.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(v3rmillion.net):upward(li)
+bing.com#?#a[href*="v3rmillion.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="v3rmillion.net"]:upward(.dg_u)
+bing.com##.news-card[url*="v3rmillion.net"]
+www.google.*##.g:has(a[href*="v3rmillion.net"])
+www.google.*##a[href*="v3rmillion.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="v3rmillion.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="v3rmillion.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(robloxcodes.io):upward(li)
+bing.com#?#a[href*="robloxcodes.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="robloxcodes.io"]:upward(.dg_u)
+bing.com##.news-card[url*="robloxcodes.io"]
+www.google.*##.g:has(a[href*="robloxcodes.io"])
+www.google.*##a[href*="robloxcodes.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="robloxcodes.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="robloxcodes.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(wearedevs.net):upward(li)
+bing.com#?#a[href*="wearedevs.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="wearedevs.net"]:upward(.dg_u)
+bing.com##.news-card[url*="wearedevs.net"]
+www.google.*##.g:has(a[href*="wearedevs.net"])
+www.google.*##a[href*="wearedevs.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="wearedevs.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="wearedevs.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(robloxplayerexe.net):upward(li)
+bing.com#?#a[href*="robloxplayerexe.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="robloxplayerexe.net"]:upward(.dg_u)
+bing.com##.news-card[url*="robloxplayerexe.net"]
+www.google.*##.g:has(a[href*="robloxplayerexe.net"])
+www.google.*##a[href*="robloxplayerexe.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="robloxplayerexe.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="robloxplayerexe.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(rscripts.net):upward(li)
+bing.com#?#a[href*="rscripts.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="rscripts.net"]:upward(.dg_u)
+bing.com##.news-card[url*="rscripts.net"]
+www.google.*##.g:has(a[href*="rscripts.net"])
+www.google.*##a[href*="rscripts.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="rscripts.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="rscripts.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(freerobux.us):upward(li)
+bing.com#?#a[href*="freerobux.us"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="freerobux.us"]:upward(.dg_u)
+bing.com##.news-card[url*="freerobux.us"]
+www.google.*##.g:has(a[href*="freerobux.us"])
+www.google.*##a[href*="freerobux.us"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="freerobux.us"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="freerobux.us"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(roboxcode.us):upward(li)
+bing.com#?#a[href*="roboxcode.us"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="roboxcode.us"]:upward(.dg_u)
+bing.com##.news-card[url*="roboxcode.us"]
+www.google.*##.g:has(a[href*="roboxcode.us"])
+www.google.*##a[href*="roboxcode.us"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="roboxcode.us"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="roboxcode.us"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(rubx.us):upward(li)
+bing.com#?#a[href*="rubx.us"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="rubx.us"]:upward(.dg_u)
+bing.com##.news-card[url*="rubx.us"]
+www.google.*##.g:has(a[href*="rubx.us"])
+www.google.*##a[href*="rubx.us"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="rubx.us"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="rubx.us"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(robuxhack.us):upward(li)
+bing.com#?#a[href*="robuxhack.us"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="robuxhack.us"]:upward(.dg_u)
+bing.com##.news-card[url*="robuxhack.us"]
+www.google.*##.g:has(a[href*="robuxhack.us"])
+www.google.*##a[href*="robuxhack.us"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="robuxhack.us"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="robuxhack.us"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(robloxx.us):upward(li)
+bing.com#?#a[href*="robloxx.us"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="robloxx.us"]:upward(.dg_u)
+bing.com##.news-card[url*="robloxx.us"]
+www.google.*##.g:has(a[href*="robloxx.us"])
+www.google.*##a[href*="robloxx.us"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="robloxx.us"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="robloxx.us"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(robuxcodes.us):upward(li)
+bing.com#?#a[href*="robuxcodes.us"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="robuxcodes.us"]:upward(.dg_u)
+bing.com##.news-card[url*="robuxcodes.us"]
+www.google.*##.g:has(a[href*="robuxcodes.us"])
+www.google.*##a[href*="robuxcodes.us"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="robuxcodes.us"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="robuxcodes.us"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ro-bux.us):upward(li)
+bing.com#?#a[href*="ro-bux.us"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ro-bux.us"]:upward(.dg_u)
+bing.com##.news-card[url*="ro-bux.us"]
+www.google.*##.g:has(a[href*="ro-bux.us"])
+www.google.*##a[href*="ro-bux.us"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ro-bux.us"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ro-bux.us"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(freerobux.club):upward(li)
+bing.com#?#a[href*="freerobux.club"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="freerobux.club"]:upward(.dg_u)
+bing.com##.news-card[url*="freerobux.club"]
+www.google.*##.g:has(a[href*="freerobux.club"])
+www.google.*##a[href*="freerobux.club"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="freerobux.club"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="freerobux.club"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(rosnipe.site):upward(li)
+bing.com#?#a[href*="rosnipe.site"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="rosnipe.site"]:upward(.dg_u)
+bing.com##.news-card[url*="rosnipe.site"]
+www.google.*##.g:has(a[href*="rosnipe.site"])
+www.google.*##a[href*="rosnipe.site"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="rosnipe.site"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="rosnipe.site"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(free-robux-generator.site):upward(li)
+bing.com#?#a[href*="free-robux-generator.site"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="free-robux-generator.site"]:upward(.dg_u)
+bing.com##.news-card[url*="free-robux-generator.site"]
+www.google.*##.g:has(a[href*="free-robux-generator.site"])
+www.google.*##a[href*="free-robux-generator.site"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="free-robux-generator.site"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="free-robux-generator.site"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(robloxden.com):upward(li)
+bing.com#?#a[href*="robloxden.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="robloxden.com"]:upward(.dg_u)
+bing.com##.news-card[url*="robloxden.com"]
+www.google.*##.g:has(a[href*="robloxden.com"])
+www.google.*##a[href*="robloxden.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="robloxden.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="robloxden.com"]:upward(.tile)
 
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
@@ -2353,7 +2553,6 @@ duckduckgo.com##.tile-wrap a[href*="rogold.live"]:upward(.tile)
 ||nekotina.com^$all
 ||gamestats.io^$all
 ||nadeko.bot^$all
-||nadeko.bot^$all
 ||nvu.io^$all
 ||poketwo.net^$all
 ||discordlist.gg^$all
@@ -2453,3 +2652,28 @@ duckduckgo.com##.tile-wrap a[href*="rogold.live"]:upward(.tile)
 ||btroblox.net^$all
 ||rovalk.com^$all
 ||rogold.live^$all
+||roblominer.com^$all
+||planetrbx.com^$all
+||thefreerobux.com^$all
+||bloxearn.com^$all
+||sweetrbx.com^$all
+||rewardrobux.com^$all
+||rocash.com^$all
+||rbxadder.com^$all
+||rolimons.com^$all
+||v3rmillion.net^$all
+||robloxcodes.io^$all
+||wearedevs.net^$all
+||robloxplayerexe.net^$all
+||rscripts.net^$all
+||freerobux.us^$all
+||roboxcode.us^$all
+||rubx.us^$all
+||robuxhack.us^$all
+||robloxx.us^$all
+||robuxcodes.us^$all
+||ro-bux.us^$all
+||freerobux.club^$all
+||rosnipe.site^$all
+||free-robux-generator.site^$all
+||robloxden.com^$all

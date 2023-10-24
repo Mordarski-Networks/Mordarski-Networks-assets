@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Sunday, October 22, 2023 04:41:42 PM UTC
+# Last modified: Tuesday, October 24, 2023 12:20:46 AM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -329,3 +329,28 @@
 127.0.0.1 btroblox.net
 127.0.0.1 rovalk.com
 127.0.0.1 rogold.live
+127.0.0.1 roblominer.com
+127.0.0.1 planetrbx.com
+127.0.0.1 thefreerobux.com
+127.0.0.1 bloxearn.com
+127.0.0.1 sweetrbx.com
+127.0.0.1 rewardrobux.com
+127.0.0.1 rocash.com
+127.0.0.1 rbxadder.com
+127.0.0.1 rolimons.com
+127.0.0.1 v3rmillion.net
+127.0.0.1 robloxcodes.io
+127.0.0.1 wearedevs.net
+127.0.0.1 robloxplayerexe.net
+127.0.0.1 rscripts.net
+127.0.0.1 freerobux.us
+127.0.0.1 roboxcode.us
+127.0.0.1 rubx.us
+127.0.0.1 robuxhack.us
+127.0.0.1 robloxx.us
+127.0.0.1 robuxcodes.us
+127.0.0.1 ro-bux.us
+127.0.0.1 freerobux.club
+127.0.0.1 rosnipe.site
+127.0.0.1 free-robux-generator.site
+127.0.0.1 robloxden.com
