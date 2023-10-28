@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Tuesday, October 24, 2023 11:14:02 PM UTC
+# Last modified: Saturday, October 28, 2023 08:40:55 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -134,6 +134,14 @@
 0.0.0.0 stt.plus
 0.0.0.0 tiktap.io
 0.0.0.0 ttok.app
+0.0.0.0 musicaldown.com
+0.0.0.0 savetik.net
+0.0.0.0 ttdownloader.com
+0.0.0.0 downtik.io
+0.0.0.0 tikdown.org
+0.0.0.0 tokdownload.com
+0.0.0.0 lovetik.com
+0.0.0.0 save-tik.com
 0.0.0.0 bytedance.com
 0.0.0.0 bytedance.net
 0.0.0.0 bytecdn.cn
@@ -360,3 +368,54 @@
 0.0.0.0 free-robux-counter-counterstudio.en.aptoide.com
 0.0.0.0 tuyzmm.dominikanerinnen-lage.de
 0.0.0.0 rbxgum.com
+0.0.0.0 minecraftmods.com
+0.0.0.0 9minecraft.net
+0.0.0.0 modscraft.net
+0.0.0.0 minecrafthub.com
+0.0.0.0 mc-addons.com
+0.0.0.0 chocolateminecraft.com
+0.0.0.0 playmods.net
+0.0.0.0 minesters.com
+0.0.0.0 micdoodle8.com
+0.0.0.0 zonacraft.net
+0.0.0.0 moneytribune.de
+0.0.0.0 inwerk-kuechen-news.de
+0.0.0.0 polnische-rechte.de
+0.0.0.0 minecrafteo.com
+0.0.0.0 richterschmidt.de
+0.0.0.0 seniorenrecht-saar.de
+0.0.0.0 minecraft-inside.ru
+0.0.0.0 modhub.us
+0.0.0.0 tlmods.org
+0.0.0.0 mcbuild.org
+0.0.0.0 minecrafts-mod.ru
+0.0.0.0 mcpe-game.ru
+0.0.0.0 gid-minecraft.ru
+0.0.0.0 tlmods.ru
+0.0.0.0 mcpehub.org.ru
+0.0.0.0 modscraft.ru
+0.0.0.0 ru-minecraft.ru
+0.0.0.0 shadersmods.com
+0.0.0.0 modbay.org
+0.0.0.0 mcpecube.com
+0.0.0.0 minecraftsketchbros.eu
+0.0.0.0 pcminecraft-mods.com
+0.0.0.0 mc-mod.net
+0.0.0.0 9lifehack.com
+0.0.0.0 9craft.org
+0.0.0.0 99minecraft.com
+0.0.0.0 9minecraftmods.net
+0.0.0.0 9minecrafts.com
+0.0.0.0 9minecrafts.ru
+0.0.0.0 mcpedl.org
+0.0.0.0 mcpedll.org
+0.0.0.0 mcpedl.download
+0.0.0.0 mcpedl.me
+0.0.0.0 mcpedl.in
+0.0.0.0 mcpedlcom.org
+0.0.0.0 modbem.com
+0.0.0.0 modcombo.io
+0.0.0.0 minecraft-france.fr
+0.0.0.0 minecraftshader.com
+0.0.0.0 minecraftclue.com
+0.0.0.0 modpackindex.com

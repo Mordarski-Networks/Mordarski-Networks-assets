@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Tuesday, October 24, 2023 11:14:02 PM UTC
+! Last modified: Saturday, October 28, 2023 08:40:55 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -597,6 +597,70 @@ www.google.*##.g:has(a[href*="ttok.app"])
 www.google.*##a[href*="ttok.app"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="ttok.app"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="ttok.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(musicaldown.com):upward(li)
+bing.com#?#a[href*="musicaldown.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="musicaldown.com"]:upward(.dg_u)
+bing.com##.news-card[url*="musicaldown.com"]
+www.google.*##.g:has(a[href*="musicaldown.com"])
+www.google.*##a[href*="musicaldown.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="musicaldown.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="musicaldown.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(savetik.net):upward(li)
+bing.com#?#a[href*="savetik.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="savetik.net"]:upward(.dg_u)
+bing.com##.news-card[url*="savetik.net"]
+www.google.*##.g:has(a[href*="savetik.net"])
+www.google.*##a[href*="savetik.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="savetik.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="savetik.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ttdownloader.com):upward(li)
+bing.com#?#a[href*="ttdownloader.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ttdownloader.com"]:upward(.dg_u)
+bing.com##.news-card[url*="ttdownloader.com"]
+www.google.*##.g:has(a[href*="ttdownloader.com"])
+www.google.*##a[href*="ttdownloader.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ttdownloader.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ttdownloader.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(downtik.io):upward(li)
+bing.com#?#a[href*="downtik.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="downtik.io"]:upward(.dg_u)
+bing.com##.news-card[url*="downtik.io"]
+www.google.*##.g:has(a[href*="downtik.io"])
+www.google.*##a[href*="downtik.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="downtik.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="downtik.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tikdown.org):upward(li)
+bing.com#?#a[href*="tikdown.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tikdown.org"]:upward(.dg_u)
+bing.com##.news-card[url*="tikdown.org"]
+www.google.*##.g:has(a[href*="tikdown.org"])
+www.google.*##a[href*="tikdown.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tikdown.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tikdown.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tokdownload.com):upward(li)
+bing.com#?#a[href*="tokdownload.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tokdownload.com"]:upward(.dg_u)
+bing.com##.news-card[url*="tokdownload.com"]
+www.google.*##.g:has(a[href*="tokdownload.com"])
+www.google.*##a[href*="tokdownload.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tokdownload.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tokdownload.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(lovetik.com):upward(li)
+bing.com#?#a[href*="lovetik.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="lovetik.com"]:upward(.dg_u)
+bing.com##.news-card[url*="lovetik.com"]
+www.google.*##.g:has(a[href*="lovetik.com"])
+www.google.*##a[href*="lovetik.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="lovetik.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="lovetik.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(save-tik.com):upward(li)
+bing.com#?#a[href*="save-tik.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="save-tik.com"]:upward(.dg_u)
+bing.com##.news-card[url*="save-tik.com"]
+www.google.*##.g:has(a[href*="save-tik.com"])
+www.google.*##a[href*="save-tik.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="save-tik.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="save-tik.com"]:upward(.tile)
 
 ! ByteDance
 bing.com#?#[id$="results"] cite:has-text(bytedance.com):upward(li)
@@ -2416,6 +2480,416 @@ www.google.*##a[href*="rbxgum.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="rbxgum.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="rbxgum.com"]:upward(.tile)
 
+! Minecraft (Reposted Mods)
+bing.com#?#[id$="results"] cite:has-text(minecraftmods.com):upward(li)
+bing.com#?#a[href*="minecraftmods.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraftmods.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraftmods.com"]
+www.google.*##.g:has(a[href*="minecraftmods.com"])
+www.google.*##a[href*="minecraftmods.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraftmods.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraftmods.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(9minecraft.net):upward(li)
+bing.com#?#a[href*="9minecraft.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="9minecraft.net"]:upward(.dg_u)
+bing.com##.news-card[url*="9minecraft.net"]
+www.google.*##.g:has(a[href*="9minecraft.net"])
+www.google.*##a[href*="9minecraft.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="9minecraft.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="9minecraft.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modscraft.net):upward(li)
+bing.com#?#a[href*="modscraft.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modscraft.net"]:upward(.dg_u)
+bing.com##.news-card[url*="modscraft.net"]
+www.google.*##.g:has(a[href*="modscraft.net"])
+www.google.*##a[href*="modscraft.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modscraft.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modscraft.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecrafthub.com):upward(li)
+bing.com#?#a[href*="minecrafthub.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecrafthub.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecrafthub.com"]
+www.google.*##.g:has(a[href*="minecrafthub.com"])
+www.google.*##a[href*="minecrafthub.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecrafthub.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecrafthub.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mc-addons.com):upward(li)
+bing.com#?#a[href*="mc-addons.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mc-addons.com"]:upward(.dg_u)
+bing.com##.news-card[url*="mc-addons.com"]
+www.google.*##.g:has(a[href*="mc-addons.com"])
+www.google.*##a[href*="mc-addons.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mc-addons.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mc-addons.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(chocolateminecraft.com):upward(li)
+bing.com#?#a[href*="chocolateminecraft.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="chocolateminecraft.com"]:upward(.dg_u)
+bing.com##.news-card[url*="chocolateminecraft.com"]
+www.google.*##.g:has(a[href*="chocolateminecraft.com"])
+www.google.*##a[href*="chocolateminecraft.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="chocolateminecraft.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="chocolateminecraft.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(playmods.net):upward(li)
+bing.com#?#a[href*="playmods.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="playmods.net"]:upward(.dg_u)
+bing.com##.news-card[url*="playmods.net"]
+www.google.*##.g:has(a[href*="playmods.net"])
+www.google.*##a[href*="playmods.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="playmods.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="playmods.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minesters.com):upward(li)
+bing.com#?#a[href*="minesters.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minesters.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minesters.com"]
+www.google.*##.g:has(a[href*="minesters.com"])
+www.google.*##a[href*="minesters.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minesters.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minesters.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(micdoodle8.com):upward(li)
+bing.com#?#a[href*="micdoodle8.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="micdoodle8.com"]:upward(.dg_u)
+bing.com##.news-card[url*="micdoodle8.com"]
+www.google.*##.g:has(a[href*="micdoodle8.com"])
+www.google.*##a[href*="micdoodle8.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="micdoodle8.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="micdoodle8.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(zonacraft.net):upward(li)
+bing.com#?#a[href*="zonacraft.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="zonacraft.net"]:upward(.dg_u)
+bing.com##.news-card[url*="zonacraft.net"]
+www.google.*##.g:has(a[href*="zonacraft.net"])
+www.google.*##a[href*="zonacraft.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="zonacraft.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="zonacraft.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(moneytribune.de):upward(li)
+bing.com#?#a[href*="moneytribune.de"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="moneytribune.de"]:upward(.dg_u)
+bing.com##.news-card[url*="moneytribune.de"]
+www.google.*##.g:has(a[href*="moneytribune.de"])
+www.google.*##a[href*="moneytribune.de"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="moneytribune.de"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="moneytribune.de"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(inwerk-kuechen-news.de):upward(li)
+bing.com#?#a[href*="inwerk-kuechen-news.de"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="inwerk-kuechen-news.de"]:upward(.dg_u)
+bing.com##.news-card[url*="inwerk-kuechen-news.de"]
+www.google.*##.g:has(a[href*="inwerk-kuechen-news.de"])
+www.google.*##a[href*="inwerk-kuechen-news.de"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="inwerk-kuechen-news.de"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="inwerk-kuechen-news.de"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(polnische-rechte.de):upward(li)
+bing.com#?#a[href*="polnische-rechte.de"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="polnische-rechte.de"]:upward(.dg_u)
+bing.com##.news-card[url*="polnische-rechte.de"]
+www.google.*##.g:has(a[href*="polnische-rechte.de"])
+www.google.*##a[href*="polnische-rechte.de"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="polnische-rechte.de"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="polnische-rechte.de"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecrafteo.com):upward(li)
+bing.com#?#a[href*="minecrafteo.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecrafteo.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecrafteo.com"]
+www.google.*##.g:has(a[href*="minecrafteo.com"])
+www.google.*##a[href*="minecrafteo.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecrafteo.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecrafteo.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(richterschmidt.de):upward(li)
+bing.com#?#a[href*="richterschmidt.de"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="richterschmidt.de"]:upward(.dg_u)
+bing.com##.news-card[url*="richterschmidt.de"]
+www.google.*##.g:has(a[href*="richterschmidt.de"])
+www.google.*##a[href*="richterschmidt.de"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="richterschmidt.de"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="richterschmidt.de"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(seniorenrecht-saar.de):upward(li)
+bing.com#?#a[href*="seniorenrecht-saar.de"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="seniorenrecht-saar.de"]:upward(.dg_u)
+bing.com##.news-card[url*="seniorenrecht-saar.de"]
+www.google.*##.g:has(a[href*="seniorenrecht-saar.de"])
+www.google.*##a[href*="seniorenrecht-saar.de"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="seniorenrecht-saar.de"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="seniorenrecht-saar.de"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraft-inside.ru):upward(li)
+bing.com#?#a[href*="minecraft-inside.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraft-inside.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraft-inside.ru"]
+www.google.*##.g:has(a[href*="minecraft-inside.ru"])
+www.google.*##a[href*="minecraft-inside.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraft-inside.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraft-inside.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modhub.us):upward(li)
+bing.com#?#a[href*="modhub.us"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modhub.us"]:upward(.dg_u)
+bing.com##.news-card[url*="modhub.us"]
+www.google.*##.g:has(a[href*="modhub.us"])
+www.google.*##a[href*="modhub.us"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modhub.us"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modhub.us"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tlmods.org):upward(li)
+bing.com#?#a[href*="tlmods.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tlmods.org"]:upward(.dg_u)
+bing.com##.news-card[url*="tlmods.org"]
+www.google.*##.g:has(a[href*="tlmods.org"])
+www.google.*##a[href*="tlmods.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tlmods.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tlmods.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcbuild.org):upward(li)
+bing.com#?#a[href*="mcbuild.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcbuild.org"]:upward(.dg_u)
+bing.com##.news-card[url*="mcbuild.org"]
+www.google.*##.g:has(a[href*="mcbuild.org"])
+www.google.*##a[href*="mcbuild.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcbuild.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcbuild.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecrafts-mod.ru):upward(li)
+bing.com#?#a[href*="minecrafts-mod.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecrafts-mod.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="minecrafts-mod.ru"]
+www.google.*##.g:has(a[href*="minecrafts-mod.ru"])
+www.google.*##a[href*="minecrafts-mod.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecrafts-mod.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecrafts-mod.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcpe-game.ru):upward(li)
+bing.com#?#a[href*="mcpe-game.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcpe-game.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="mcpe-game.ru"]
+www.google.*##.g:has(a[href*="mcpe-game.ru"])
+www.google.*##a[href*="mcpe-game.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcpe-game.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcpe-game.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(gid-minecraft.ru):upward(li)
+bing.com#?#a[href*="gid-minecraft.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="gid-minecraft.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="gid-minecraft.ru"]
+www.google.*##.g:has(a[href*="gid-minecraft.ru"])
+www.google.*##a[href*="gid-minecraft.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="gid-minecraft.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="gid-minecraft.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tlmods.ru):upward(li)
+bing.com#?#a[href*="tlmods.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tlmods.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="tlmods.ru"]
+www.google.*##.g:has(a[href*="tlmods.ru"])
+www.google.*##a[href*="tlmods.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tlmods.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tlmods.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcpehub.org.ru):upward(li)
+bing.com#?#a[href*="mcpehub.org.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcpehub.org.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="mcpehub.org.ru"]
+www.google.*##.g:has(a[href*="mcpehub.org.ru"])
+www.google.*##a[href*="mcpehub.org.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcpehub.org.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcpehub.org.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modscraft.ru):upward(li)
+bing.com#?#a[href*="modscraft.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modscraft.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="modscraft.ru"]
+www.google.*##.g:has(a[href*="modscraft.ru"])
+www.google.*##a[href*="modscraft.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modscraft.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modscraft.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ru-minecraft.ru):upward(li)
+bing.com#?#a[href*="ru-minecraft.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ru-minecraft.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="ru-minecraft.ru"]
+www.google.*##.g:has(a[href*="ru-minecraft.ru"])
+www.google.*##a[href*="ru-minecraft.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ru-minecraft.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ru-minecraft.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(shadersmods.com):upward(li)
+bing.com#?#a[href*="shadersmods.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="shadersmods.com"]:upward(.dg_u)
+bing.com##.news-card[url*="shadersmods.com"]
+www.google.*##.g:has(a[href*="shadersmods.com"])
+www.google.*##a[href*="shadersmods.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="shadersmods.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="shadersmods.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modbay.org):upward(li)
+bing.com#?#a[href*="modbay.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modbay.org"]:upward(.dg_u)
+bing.com##.news-card[url*="modbay.org"]
+www.google.*##.g:has(a[href*="modbay.org"])
+www.google.*##a[href*="modbay.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modbay.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modbay.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcpecube.com):upward(li)
+bing.com#?#a[href*="mcpecube.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcpecube.com"]:upward(.dg_u)
+bing.com##.news-card[url*="mcpecube.com"]
+www.google.*##.g:has(a[href*="mcpecube.com"])
+www.google.*##a[href*="mcpecube.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcpecube.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcpecube.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraftsketchbros.eu):upward(li)
+bing.com#?#a[href*="minecraftsketchbros.eu"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraftsketchbros.eu"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraftsketchbros.eu"]
+www.google.*##.g:has(a[href*="minecraftsketchbros.eu"])
+www.google.*##a[href*="minecraftsketchbros.eu"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraftsketchbros.eu"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraftsketchbros.eu"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(pcminecraft-mods.com):upward(li)
+bing.com#?#a[href*="pcminecraft-mods.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="pcminecraft-mods.com"]:upward(.dg_u)
+bing.com##.news-card[url*="pcminecraft-mods.com"]
+www.google.*##.g:has(a[href*="pcminecraft-mods.com"])
+www.google.*##a[href*="pcminecraft-mods.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="pcminecraft-mods.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="pcminecraft-mods.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mc-mod.net):upward(li)
+bing.com#?#a[href*="mc-mod.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mc-mod.net"]:upward(.dg_u)
+bing.com##.news-card[url*="mc-mod.net"]
+www.google.*##.g:has(a[href*="mc-mod.net"])
+www.google.*##a[href*="mc-mod.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mc-mod.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mc-mod.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(9lifehack.com):upward(li)
+bing.com#?#a[href*="9lifehack.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="9lifehack.com"]:upward(.dg_u)
+bing.com##.news-card[url*="9lifehack.com"]
+www.google.*##.g:has(a[href*="9lifehack.com"])
+www.google.*##a[href*="9lifehack.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="9lifehack.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="9lifehack.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(9craft.org):upward(li)
+bing.com#?#a[href*="9craft.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="9craft.org"]:upward(.dg_u)
+bing.com##.news-card[url*="9craft.org"]
+www.google.*##.g:has(a[href*="9craft.org"])
+www.google.*##a[href*="9craft.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="9craft.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="9craft.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(99minecraft.com):upward(li)
+bing.com#?#a[href*="99minecraft.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="99minecraft.com"]:upward(.dg_u)
+bing.com##.news-card[url*="99minecraft.com"]
+www.google.*##.g:has(a[href*="99minecraft.com"])
+www.google.*##a[href*="99minecraft.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="99minecraft.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="99minecraft.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(9minecraftmods.net):upward(li)
+bing.com#?#a[href*="9minecraftmods.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="9minecraftmods.net"]:upward(.dg_u)
+bing.com##.news-card[url*="9minecraftmods.net"]
+www.google.*##.g:has(a[href*="9minecraftmods.net"])
+www.google.*##a[href*="9minecraftmods.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="9minecraftmods.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="9minecraftmods.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(9minecrafts.com):upward(li)
+bing.com#?#a[href*="9minecrafts.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="9minecrafts.com"]:upward(.dg_u)
+bing.com##.news-card[url*="9minecrafts.com"]
+www.google.*##.g:has(a[href*="9minecrafts.com"])
+www.google.*##a[href*="9minecrafts.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="9minecrafts.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="9minecrafts.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(9minecrafts.ru):upward(li)
+bing.com#?#a[href*="9minecrafts.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="9minecrafts.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="9minecrafts.ru"]
+www.google.*##.g:has(a[href*="9minecrafts.ru"])
+www.google.*##a[href*="9minecrafts.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="9minecrafts.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="9minecrafts.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcpedl.org):upward(li)
+bing.com#?#a[href*="mcpedl.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcpedl.org"]:upward(.dg_u)
+bing.com##.news-card[url*="mcpedl.org"]
+www.google.*##.g:has(a[href*="mcpedl.org"])
+www.google.*##a[href*="mcpedl.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcpedl.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcpedl.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcpedll.org):upward(li)
+bing.com#?#a[href*="mcpedll.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcpedll.org"]:upward(.dg_u)
+bing.com##.news-card[url*="mcpedll.org"]
+www.google.*##.g:has(a[href*="mcpedll.org"])
+www.google.*##a[href*="mcpedll.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcpedll.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcpedll.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcpedl.download):upward(li)
+bing.com#?#a[href*="mcpedl.download"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcpedl.download"]:upward(.dg_u)
+bing.com##.news-card[url*="mcpedl.download"]
+www.google.*##.g:has(a[href*="mcpedl.download"])
+www.google.*##a[href*="mcpedl.download"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcpedl.download"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcpedl.download"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcpedl.me):upward(li)
+bing.com#?#a[href*="mcpedl.me"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcpedl.me"]:upward(.dg_u)
+bing.com##.news-card[url*="mcpedl.me"]
+www.google.*##.g:has(a[href*="mcpedl.me"])
+www.google.*##a[href*="mcpedl.me"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcpedl.me"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcpedl.me"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcpedl.in):upward(li)
+bing.com#?#a[href*="mcpedl.in"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcpedl.in"]:upward(.dg_u)
+bing.com##.news-card[url*="mcpedl.in"]
+www.google.*##.g:has(a[href*="mcpedl.in"])
+www.google.*##a[href*="mcpedl.in"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcpedl.in"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcpedl.in"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcpedlcom.org):upward(li)
+bing.com#?#a[href*="mcpedlcom.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcpedlcom.org"]:upward(.dg_u)
+bing.com##.news-card[url*="mcpedlcom.org"]
+www.google.*##.g:has(a[href*="mcpedlcom.org"])
+www.google.*##a[href*="mcpedlcom.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcpedlcom.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcpedlcom.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modbem.com):upward(li)
+bing.com#?#a[href*="modbem.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modbem.com"]:upward(.dg_u)
+bing.com##.news-card[url*="modbem.com"]
+www.google.*##.g:has(a[href*="modbem.com"])
+www.google.*##a[href*="modbem.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modbem.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modbem.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modcombo.io):upward(li)
+bing.com#?#a[href*="modcombo.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modcombo.io"]:upward(.dg_u)
+bing.com##.news-card[url*="modcombo.io"]
+www.google.*##.g:has(a[href*="modcombo.io"])
+www.google.*##a[href*="modcombo.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modcombo.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modcombo.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraft-france.fr):upward(li)
+bing.com#?#a[href*="minecraft-france.fr"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraft-france.fr"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraft-france.fr"]
+www.google.*##.g:has(a[href*="minecraft-france.fr"])
+www.google.*##a[href*="minecraft-france.fr"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraft-france.fr"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraft-france.fr"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraftshader.com):upward(li)
+bing.com#?#a[href*="minecraftshader.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraftshader.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraftshader.com"]
+www.google.*##.g:has(a[href*="minecraftshader.com"])
+www.google.*##a[href*="minecraftshader.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraftshader.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraftshader.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraftclue.com):upward(li)
+bing.com#?#a[href*="minecraftclue.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraftclue.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraftclue.com"]
+www.google.*##.g:has(a[href*="minecraftclue.com"])
+www.google.*##a[href*="minecraftclue.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraftclue.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraftclue.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modpackindex.com):upward(li)
+bing.com#?#a[href*="modpackindex.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modpackindex.com"]:upward(.dg_u)
+bing.com##.news-card[url*="modpackindex.com"]
+www.google.*##.g:has(a[href*="modpackindex.com"])
+www.google.*##a[href*="modpackindex.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modpackindex.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modpackindex.com"]:upward(.tile)
+
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
 ! Syntax: ||example.com^$all
@@ -2495,6 +2969,14 @@ duckduckgo.com##.tile-wrap a[href*="rbxgum.com"]:upward(.tile)
 ||stt.plus^$all
 ||tiktap.io^$all
 ||ttok.app^$all
+||musicaldown.com^$all
+||savetik.net^$all
+||ttdownloader.com^$all
+||downtik.io^$all
+||tikdown.org^$all
+||tokdownload.com^$all
+||lovetik.com^$all
+||save-tik.com^$all
 
 ! ByteDance
 ||bytedance.com^$all
@@ -2731,3 +3213,56 @@ duckduckgo.com##.tile-wrap a[href*="rbxgum.com"]:upward(.tile)
 ||free-robux-counter-counterstudio.en.aptoide.com^$all
 ||tuyzmm.dominikanerinnen-lage.de^$all
 ||rbxgum.com^$all
+
+! Minecraft (Reposted Mods)
+||minecraftmods.com^$all
+||9minecraft.net^$all
+||modscraft.net^$all
+||minecrafthub.com^$all
+||mc-addons.com^$all
+||chocolateminecraft.com^$all
+||playmods.net^$all
+||minesters.com^$all
+||micdoodle8.com^$all
+||zonacraft.net^$all
+||moneytribune.de^$all
+||inwerk-kuechen-news.de^$all
+||polnische-rechte.de^$all
+||minecrafteo.com^$all
+||richterschmidt.de^$all
+||seniorenrecht-saar.de^$all
+||minecraft-inside.ru^$all
+||modhub.us^$all
+||tlmods.org^$all
+||mcbuild.org^$all
+||minecrafts-mod.ru^$all
+||mcpe-game.ru^$all
+||gid-minecraft.ru^$all
+||tlmods.ru^$all
+||mcpehub.org.ru^$all
+||modscraft.ru^$all
+||ru-minecraft.ru^$all
+||shadersmods.com^$all
+||modbay.org^$all
+||mcpecube.com^$all
+||minecraftsketchbros.eu^$all
+||pcminecraft-mods.com^$all
+||mc-mod.net^$all
+||9lifehack.com^$all
+||9craft.org^$all
+||99minecraft.com^$all
+||9minecraftmods.net^$all
+||9minecrafts.com^$all
+||9minecrafts.ru^$all
+||mcpedl.org^$all
+||mcpedll.org^$all
+||mcpedl.download^$all
+||mcpedl.me^$all
+||mcpedl.in^$all
+||mcpedlcom.org^$all
+||modbem.com^$all
+||modcombo.io^$all
+||minecraft-france.fr^$all
+||minecraftshader.com^$all
+||minecraftclue.com^$all
+||modpackindex.com^$all

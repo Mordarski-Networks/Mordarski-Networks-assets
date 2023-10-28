@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Tuesday, October 24, 2023 11:14:02 PM UTC
+# Last modified: Saturday, October 28, 2023 08:40:55 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -134,6 +134,14 @@
 127.0.0.1 stt.plus
 127.0.0.1 tiktap.io
 127.0.0.1 ttok.app
+127.0.0.1 musicaldown.com
+127.0.0.1 savetik.net
+127.0.0.1 ttdownloader.com
+127.0.0.1 downtik.io
+127.0.0.1 tikdown.org
+127.0.0.1 tokdownload.com
+127.0.0.1 lovetik.com
+127.0.0.1 save-tik.com
 127.0.0.1 bytedance.com
 127.0.0.1 bytedance.net
 127.0.0.1 bytecdn.cn
@@ -360,3 +368,54 @@
 127.0.0.1 free-robux-counter-counterstudio.en.aptoide.com
 127.0.0.1 tuyzmm.dominikanerinnen-lage.de
 127.0.0.1 rbxgum.com
+127.0.0.1 minecraftmods.com
+127.0.0.1 9minecraft.net
+127.0.0.1 modscraft.net
+127.0.0.1 minecrafthub.com
+127.0.0.1 mc-addons.com
+127.0.0.1 chocolateminecraft.com
+127.0.0.1 playmods.net
+127.0.0.1 minesters.com
+127.0.0.1 micdoodle8.com
+127.0.0.1 zonacraft.net
+127.0.0.1 moneytribune.de
+127.0.0.1 inwerk-kuechen-news.de
+127.0.0.1 polnische-rechte.de
+127.0.0.1 minecrafteo.com
+127.0.0.1 richterschmidt.de
+127.0.0.1 seniorenrecht-saar.de
+127.0.0.1 minecraft-inside.ru
+127.0.0.1 modhub.us
+127.0.0.1 tlmods.org
+127.0.0.1 mcbuild.org
+127.0.0.1 minecrafts-mod.ru
+127.0.0.1 mcpe-game.ru
+127.0.0.1 gid-minecraft.ru
+127.0.0.1 tlmods.ru
+127.0.0.1 mcpehub.org.ru
+127.0.0.1 modscraft.ru
+127.0.0.1 ru-minecraft.ru
+127.0.0.1 shadersmods.com
+127.0.0.1 modbay.org
+127.0.0.1 mcpecube.com
+127.0.0.1 minecraftsketchbros.eu
+127.0.0.1 pcminecraft-mods.com
+127.0.0.1 mc-mod.net
+127.0.0.1 9lifehack.com
+127.0.0.1 9craft.org
+127.0.0.1 99minecraft.com
+127.0.0.1 9minecraftmods.net
+127.0.0.1 9minecrafts.com
+127.0.0.1 9minecrafts.ru
+127.0.0.1 mcpedl.org
+127.0.0.1 mcpedll.org
+127.0.0.1 mcpedl.download
+127.0.0.1 mcpedl.me
+127.0.0.1 mcpedl.in
+127.0.0.1 mcpedlcom.org
+127.0.0.1 modbem.com
+127.0.0.1 modcombo.io
+127.0.0.1 minecraft-france.fr
+127.0.0.1 minecraftshader.com
+127.0.0.1 minecraftclue.com
+127.0.0.1 modpackindex.com
