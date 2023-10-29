@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Sunday, October 29, 2023 06:01:52 PM UTC
+! Last modified: Sunday, October 29, 2023 09:29:56 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -2890,6 +2890,176 @@ www.google.*##a[href*="modpackindex.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="modpackindex.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="modpackindex.com"]:upward(.tile)
 
+! Minecraft (Hacking Websites)
+bing.com#?#[id$="results"] cite:has-text(wurstclient.net):upward(li)
+bing.com#?#a[href*="wurstclient.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="wurstclient.net"]:upward(.dg_u)
+bing.com##.news-card[url*="wurstclient.net"]
+www.google.*##.g:has(a[href*="wurstclient.net"])
+www.google.*##a[href*="wurstclient.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="wurstclient.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="wurstclient.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minehacks.net):upward(li)
+bing.com#?#a[href*="minehacks.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minehacks.net"]:upward(.dg_u)
+bing.com##.news-card[url*="minehacks.net"]
+www.google.*##.g:has(a[href*="minehacks.net"])
+www.google.*##a[href*="minehacks.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minehacks.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minehacks.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mchacks.net):upward(li)
+bing.com#?#a[href*="mchacks.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mchacks.net"]:upward(.dg_u)
+bing.com##.news-card[url*="mchacks.net"]
+www.google.*##.g:has(a[href*="mchacks.net"])
+www.google.*##a[href*="mchacks.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mchacks.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mchacks.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mc-hacks.net):upward(li)
+bing.com#?#a[href*="mc-hacks.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mc-hacks.net"]:upward(.dg_u)
+bing.com##.news-card[url*="mc-hacks.net"]
+www.google.*##.g:has(a[href*="mc-hacks.net"])
+www.google.*##a[href*="mc-hacks.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mc-hacks.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mc-hacks.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraftxl.com):upward(li)
+bing.com#?#a[href*="minecraftxl.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraftxl.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraftxl.com"]
+www.google.*##.g:has(a[href*="minecraftxl.com"])
+www.google.*##a[href*="minecraftxl.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraftxl.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraftxl.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecrafthax.org):upward(li)
+bing.com#?#a[href*="minecrafthax.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecrafthax.org"]:upward(.dg_u)
+bing.com##.news-card[url*="minecrafthax.org"]
+www.google.*##.g:has(a[href*="minecrafthax.org"])
+www.google.*##a[href*="minecrafthax.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecrafthax.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecrafthax.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(wizardhax.com):upward(li)
+bing.com#?#a[href*="wizardhax.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="wizardhax.com"]:upward(.dg_u)
+bing.com##.news-card[url*="wizardhax.com"]
+www.google.*##.g:has(a[href*="wizardhax.com"])
+www.google.*##a[href*="wizardhax.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="wizardhax.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="wizardhax.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(cheater.fun):upward(li)
+bing.com#?#a[href*="cheater.fun"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="cheater.fun"]:upward(.dg_u)
+bing.com##.news-card[url*="cheater.fun"]
+www.google.*##.g:has(a[href*="cheater.fun"])
+www.google.*##a[href*="cheater.fun"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="cheater.fun"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="cheater.fun"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(wolframclient.net):upward(li)
+bing.com#?#a[href*="wolframclient.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="wolframclient.net"]:upward(.dg_u)
+bing.com##.news-card[url*="wolframclient.net"]
+www.google.*##.g:has(a[href*="wolframclient.net"])
+www.google.*##a[href*="wolframclient.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="wolframclient.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="wolframclient.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(liquidbounce.net):upward(li)
+bing.com#?#a[href*="liquidbounce.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="liquidbounce.net"]:upward(.dg_u)
+bing.com##.news-card[url*="liquidbounce.net"]
+www.google.*##.g:has(a[href*="liquidbounce.net"])
+www.google.*##a[href*="liquidbounce.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="liquidbounce.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="liquidbounce.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(impactclient.net):upward(li)
+bing.com#?#a[href*="impactclient.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="impactclient.net"]:upward(.dg_u)
+bing.com##.news-card[url*="impactclient.net"]
+www.google.*##.g:has(a[href*="impactclient.net"])
+www.google.*##a[href*="impactclient.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="impactclient.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="impactclient.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraft-all.com):upward(li)
+bing.com#?#a[href*="minecraft-all.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraft-all.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraft-all.com"]
+www.google.*##.g:has(a[href*="minecraft-all.com"])
+www.google.*##a[href*="minecraft-all.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraft-all.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraft-all.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(aristois.net):upward(li)
+bing.com#?#a[href*="aristois.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="aristois.net"]:upward(.dg_u)
+bing.com##.news-card[url*="aristois.net"]
+www.google.*##.g:has(a[href*="aristois.net"])
+www.google.*##a[href*="aristois.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="aristois.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="aristois.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(horion.download):upward(li)
+bing.com#?#a[href*="horion.download"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="horion.download"]:upward(.dg_u)
+bing.com##.news-card[url*="horion.download"]
+www.google.*##.g:has(a[href*="horion.download"])
+www.google.*##a[href*="horion.download"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="horion.download"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="horion.download"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(onixclient.com):upward(li)
+bing.com#?#a[href*="onixclient.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="onixclient.com"]:upward(.dg_u)
+bing.com##.news-card[url*="onixclient.com"]
+www.google.*##.g:has(a[href*="onixclient.com"])
+www.google.*##a[href*="onixclient.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="onixclient.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="onixclient.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(lunarclient.com):upward(li)
+bing.com#?#a[href*="lunarclient.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="lunarclient.com"]:upward(.dg_u)
+bing.com##.news-card[url*="lunarclient.com"]
+www.google.*##.g:has(a[href*="lunarclient.com"])
+www.google.*##a[href*="lunarclient.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="lunarclient.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="lunarclient.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(badlion.net):upward(li)
+bing.com#?#a[href*="badlion.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="badlion.net"]:upward(.dg_u)
+bing.com##.news-card[url*="badlion.net"]
+www.google.*##.g:has(a[href*="badlion.net"])
+www.google.*##a[href*="badlion.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="badlion.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="badlion.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(cheatermad.com):upward(li)
+bing.com#?#a[href*="cheatermad.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="cheatermad.com"]:upward(.dg_u)
+bing.com##.news-card[url*="cheatermad.com"]
+www.google.*##.g:has(a[href*="cheatermad.com"])
+www.google.*##a[href*="cheatermad.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="cheatermad.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="cheatermad.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(vape.gg):upward(li)
+bing.com#?#a[href*="vape.gg"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="vape.gg"]:upward(.dg_u)
+bing.com##.news-card[url*="vape.gg"]
+www.google.*##.g:has(a[href*="vape.gg"])
+www.google.*##a[href*="vape.gg"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="vape.gg"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="vape.gg"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraftwild.com):upward(li)
+bing.com#?#a[href*="minecraftwild.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraftwild.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraftwild.com"]
+www.google.*##.g:has(a[href*="minecraftwild.com"])
+www.google.*##a[href*="minecraftwild.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraftwild.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraftwild.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(unknowncheats.me):upward(li)
+bing.com#?#a[href*="unknowncheats.me"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="unknowncheats.me"]:upward(.dg_u)
+bing.com##.news-card[url*="unknowncheats.me"]
+www.google.*##.g:has(a[href*="unknowncheats.me"])
+www.google.*##a[href*="unknowncheats.me"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="unknowncheats.me"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="unknowncheats.me"]:upward(.tile)
+
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
 ! Syntax: ||example.com^$all
@@ -3266,3 +3436,36 @@ duckduckgo.com##.tile-wrap a[href*="modpackindex.com"]:upward(.tile)
 ||minecraftshader.com^$all
 ||minecraftclue.com^$all
 ||modpackindex.com^$all
+
+! Minecraft (Hacking Websites)
+||wurstclient.net^$all
+||minehacks.net^$all
+||mchacks.net^$all
+||mc-hacks.net^$all
+||minecraftxl.com^$all
+||minecrafthax.org^$all
+||wizardhax.com^$all
+||cheater.fun^$all
+||wolframclient.net^$all
+||liquidbounce.net^$all
+||impactclient.net^$all
+||minecraft-all.com^$all
+||aristois.net^$all
+||horion.download^$all
+||onixclient.com^$all
+||lunarclient.com^$all
+||badlion.net^$all
+||cheatermad.com^$all
+||vape.gg^$all
+||minecraftwild.com^$all
+||unknowncheats.me^$all
+
+!--- Remove Tracking from URLs ---!
+! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam
+! Syntax: *$removeparam=example
+
+! Remove UTM from URLs
+*$removeparam=utm_campaign
+*$removeparam=utm_content
+*$removeparam=utm_medium
+*$removeparam=utm_source
