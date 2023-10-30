@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Sunday, October 29, 2023 09:29:56 PM UTC
+! Last modified: Monday, October 30, 2023 11:09:14 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -2889,6 +2889,102 @@ www.google.*##.g:has(a[href*="modpackindex.com"])
 www.google.*##a[href*="modpackindex.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="modpackindex.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="modpackindex.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(monster-mcpe.com):upward(li)
+bing.com#?#a[href*="monster-mcpe.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="monster-mcpe.com"]:upward(.dg_u)
+bing.com##.news-card[url*="monster-mcpe.com"]
+www.google.*##.g:has(a[href*="monster-mcpe.com"])
+www.google.*##a[href*="monster-mcpe.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="monster-mcpe.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="monster-mcpe.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tlauncher.org):upward(li)
+bing.com#?#a[href*="tlauncher.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tlauncher.org"]:upward(.dg_u)
+bing.com##.news-card[url*="tlauncher.org"]
+www.google.*##.g:has(a[href*="tlauncher.org"])
+www.google.*##a[href*="tlauncher.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tlauncher.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tlauncher.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraftsix.com):upward(li)
+bing.com#?#a[href*="minecraftsix.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraftsix.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraftsix.com"]
+www.google.*##.g:has(a[href*="minecraftsix.com"])
+www.google.*##a[href*="minecraftsix.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraftsix.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraftsix.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcpe-planet.com):upward(li)
+bing.com#?#a[href*="mcpe-planet.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcpe-planet.com"]:upward(.dg_u)
+bing.com##.news-card[url*="mcpe-planet.com"]
+www.google.*##.g:has(a[href*="mcpe-planet.com"])
+www.google.*##a[href*="mcpe-planet.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcpe-planet.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcpe-planet.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraft-pocket.com):upward(li)
+bing.com#?#a[href*="minecraft-pocket.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraft-pocket.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraft-pocket.com"]
+www.google.*##.g:has(a[href*="minecraft-pocket.com"])
+www.google.*##a[href*="minecraft-pocket.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraft-pocket.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraft-pocket.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mod4minecraft.com):upward(li)
+bing.com#?#a[href*="mod4minecraft.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mod4minecraft.com"]:upward(.dg_u)
+bing.com##.news-card[url*="mod4minecraft.com"]
+www.google.*##.g:has(a[href*="mod4minecraft.com"])
+www.google.*##a[href*="mod4minecraft.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mod4minecraft.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mod4minecraft.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraftpe-mods.com):upward(li)
+bing.com#?#a[href*="minecraftpe-mods.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraftpe-mods.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraftpe-mods.com"]
+www.google.*##.g:has(a[href*="minecraftpe-mods.com"])
+www.google.*##a[href*="minecraftpe-mods.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraftpe-mods.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraftpe-mods.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraftmodspc.com):upward(li)
+bing.com#?#a[href*="minecraftmodspc.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraftmodspc.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraftmodspc.com"]
+www.google.*##.g:has(a[href*="minecraftmodspc.com"])
+www.google.*##a[href*="minecraftmodspc.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraftmodspc.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraftmodspc.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraft-installer.com):upward(li)
+bing.com#?#a[href*="minecraft-installer.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraft-installer.com"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraft-installer.com"]
+www.google.*##.g:has(a[href*="minecraft-installer.com"])
+www.google.*##a[href*="minecraft-installer.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraft-installer.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraft-installer.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mined.to):upward(li)
+bing.com#?#a[href*="mined.to"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mined.to"]:upward(.dg_u)
+bing.com##.news-card[url*="mined.to"]
+www.google.*##.g:has(a[href*="mined.to"])
+www.google.*##a[href*="mined.to"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mined.to"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mined.to"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(texture-packs.com):upward(li)
+bing.com#?#a[href*="texture-packs.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="texture-packs.com"]:upward(.dg_u)
+bing.com##.news-card[url*="texture-packs.com"]
+www.google.*##.g:has(a[href*="texture-packs.com"])
+www.google.*##a[href*="texture-packs.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="texture-packs.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="texture-packs.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mc-mods.org):upward(li)
+bing.com#?#a[href*="mc-mods.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mc-mods.org"]:upward(.dg_u)
+bing.com##.news-card[url*="mc-mods.org"]
+www.google.*##.g:has(a[href*="mc-mods.org"])
+www.google.*##a[href*="mc-mods.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mc-mods.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mc-mods.org"]:upward(.tile)
 
 ! Minecraft (Hacking Websites)
 bing.com#?#[id$="results"] cite:has-text(wurstclient.net):upward(li)
@@ -3436,6 +3532,18 @@ duckduckgo.com##.tile-wrap a[href*="unknowncheats.me"]:upward(.tile)
 ||minecraftshader.com^$all
 ||minecraftclue.com^$all
 ||modpackindex.com^$all
+||monster-mcpe.com^$all
+||tlauncher.org^$all
+||minecraftsix.com^$all
+||mcpe-planet.com^$all
+||minecraft-pocket.com^$all
+||mod4minecraft.com^$all
+||minecraftpe-mods.com^$all
+||minecraftmodspc.com^$all
+||minecraft-installer.com^$all
+||mined.to^$all
+||texture-packs.com^$all
+||mc-mods.org^$all
 
 ! Minecraft (Hacking Websites)
 ||wurstclient.net^$all

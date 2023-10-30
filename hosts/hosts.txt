@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Sunday, October 29, 2023 10:01:00 PM UTC
+# Last modified: Monday, October 30, 2023 11:09:14 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -180,9 +180,11 @@
 127.0.0.1 mc-addons.com
 127.0.0.1 mc-hacks.net
 127.0.0.1 mc-mod.net
+127.0.0.1 mc-mods.org
 127.0.0.1 mcbuild.org
 127.0.0.1 mchacks.net
 127.0.0.1 mcpe-game.ru
+127.0.0.1 mcpe-planet.com
 127.0.0.1 mcpecube.com
 127.0.0.1 mcpedl.download
 127.0.0.1 mcpedl.in
@@ -202,19 +204,26 @@
 127.0.0.1 minecraft-all.com
 127.0.0.1 minecraft-france.fr
 127.0.0.1 minecraft-inside.ru
+127.0.0.1 minecraft-installer.com
+127.0.0.1 minecraft-pocket.com
 127.0.0.1 minecraftclue.com
 127.0.0.1 minecrafteo.com
 127.0.0.1 minecrafthax.org
 127.0.0.1 minecrafthub.com
 127.0.0.1 minecraftmods.com
+127.0.0.1 minecraftmodspc.com
+127.0.0.1 minecraftpe-mods.com
 127.0.0.1 minecrafts-mod.ru
 127.0.0.1 minecraftshader.com
+127.0.0.1 minecraftsix.com
 127.0.0.1 minecraftsketchbros.eu
 127.0.0.1 minecraftwild.com
 127.0.0.1 minecraftxl.com
+127.0.0.1 mined.to
 127.0.0.1 minehacks.net
 127.0.0.1 minesters.com
 127.0.0.1 mobalytics.gg
+127.0.0.1 mod4minecraft.com
 127.0.0.1 modbay.org
 127.0.0.1 modbem.com
 127.0.0.1 modcombo.io
@@ -224,6 +233,7 @@
 127.0.0.1 modscraft.net
 127.0.0.1 modscraft.ru
 127.0.0.1 moneytribune.de
+127.0.0.1 monster-mcpe.com
 127.0.0.1 mtls-fcdn.rtc-gw.tiktok.com
 127.0.0.1 mtls-row.rtc-gw.tiktok.com
 127.0.0.1 mushroom.gg
@@ -358,6 +368,7 @@
 127.0.0.1 taptik.app
 127.0.0.1 tatsu.gg
 127.0.0.1 tatsumaki.xyz
+127.0.0.1 texture-packs.com
 127.0.0.1 thefreerobux.com
 127.0.0.1 ticketsbot.net
 127.0.0.1 tickettool.xyz
@@ -396,6 +407,7 @@
 127.0.0.1 tikvideo.app
 127.0.0.1 tiky.app
 127.0.0.1 tiqtod.xyz
+127.0.0.1 tlauncher.org
 127.0.0.1 tlmods.org
 127.0.0.1 tlmods.ru
 127.0.0.1 tmate.cc
@@ -606,9 +618,11 @@
 127.0.0.1 www.mc-addons.com
 127.0.0.1 www.mc-hacks.net
 127.0.0.1 www.mc-mod.net
+127.0.0.1 www.mc-mods.org
 127.0.0.1 www.mcbuild.org
 127.0.0.1 www.mchacks.net
 127.0.0.1 www.mcpe-game.ru
+127.0.0.1 www.mcpe-planet.com
 127.0.0.1 www.mcpecube.com
 127.0.0.1 www.mcpedl.download
 127.0.0.1 www.mcpedl.in
@@ -628,19 +642,26 @@
 127.0.0.1 www.minecraft-all.com
 127.0.0.1 www.minecraft-france.fr
 127.0.0.1 www.minecraft-inside.ru
+127.0.0.1 www.minecraft-installer.com
+127.0.0.1 www.minecraft-pocket.com
 127.0.0.1 www.minecraftclue.com
 127.0.0.1 www.minecrafteo.com
 127.0.0.1 www.minecrafthax.org
 127.0.0.1 www.minecrafthub.com
 127.0.0.1 www.minecraftmods.com
+127.0.0.1 www.minecraftmodspc.com
+127.0.0.1 www.minecraftpe-mods.com
 127.0.0.1 www.minecrafts-mod.ru
 127.0.0.1 www.minecraftshader.com
+127.0.0.1 www.minecraftsix.com
 127.0.0.1 www.minecraftsketchbros.eu
 127.0.0.1 www.minecraftwild.com
 127.0.0.1 www.minecraftxl.com
+127.0.0.1 www.mined.to
 127.0.0.1 www.minehacks.net
 127.0.0.1 www.minesters.com
 127.0.0.1 www.mobalytics.gg
+127.0.0.1 www.mod4minecraft.com
 127.0.0.1 www.modbay.org
 127.0.0.1 www.modbem.com
 127.0.0.1 www.modcombo.io
@@ -650,6 +671,7 @@
 127.0.0.1 www.modscraft.net
 127.0.0.1 www.modscraft.ru
 127.0.0.1 www.moneytribune.de
+127.0.0.1 www.monster-mcpe.com
 127.0.0.1 www.mtls-fcdn.rtc-gw.tiktok.com
 127.0.0.1 www.mtls-row.rtc-gw.tiktok.com
 127.0.0.1 www.mushroom.gg
@@ -784,6 +806,7 @@
 127.0.0.1 www.taptik.app
 127.0.0.1 www.tatsu.gg
 127.0.0.1 www.tatsumaki.xyz
+127.0.0.1 www.texture-packs.com
 127.0.0.1 www.thefreerobux.com
 127.0.0.1 www.ticketsbot.net
 127.0.0.1 www.tickettool.xyz
@@ -822,6 +845,7 @@
 127.0.0.1 www.tikvideo.app
 127.0.0.1 www.tiky.app
 127.0.0.1 www.tiqtod.xyz
+127.0.0.1 www.tlauncher.org
 127.0.0.1 www.tlmods.org
 127.0.0.1 www.tlmods.ru
 127.0.0.1 www.tmate.cc

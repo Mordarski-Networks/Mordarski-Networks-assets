@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Sunday, October 29, 2023 10:01:00 PM UTC
+# Last modified: Monday, October 30, 2023 11:09:14 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -180,9 +180,11 @@
 0.0.0.0 mc-addons.com
 0.0.0.0 mc-hacks.net
 0.0.0.0 mc-mod.net
+0.0.0.0 mc-mods.org
 0.0.0.0 mcbuild.org
 0.0.0.0 mchacks.net
 0.0.0.0 mcpe-game.ru
+0.0.0.0 mcpe-planet.com
 0.0.0.0 mcpecube.com
 0.0.0.0 mcpedl.download
 0.0.0.0 mcpedl.in
@@ -202,19 +204,26 @@
 0.0.0.0 minecraft-all.com
 0.0.0.0 minecraft-france.fr
 0.0.0.0 minecraft-inside.ru
+0.0.0.0 minecraft-installer.com
+0.0.0.0 minecraft-pocket.com
 0.0.0.0 minecraftclue.com
 0.0.0.0 minecrafteo.com
 0.0.0.0 minecrafthax.org
 0.0.0.0 minecrafthub.com
 0.0.0.0 minecraftmods.com
+0.0.0.0 minecraftmodspc.com
+0.0.0.0 minecraftpe-mods.com
 0.0.0.0 minecrafts-mod.ru
 0.0.0.0 minecraftshader.com
+0.0.0.0 minecraftsix.com
 0.0.0.0 minecraftsketchbros.eu
 0.0.0.0 minecraftwild.com
 0.0.0.0 minecraftxl.com
+0.0.0.0 mined.to
 0.0.0.0 minehacks.net
 0.0.0.0 minesters.com
 0.0.0.0 mobalytics.gg
+0.0.0.0 mod4minecraft.com
 0.0.0.0 modbay.org
 0.0.0.0 modbem.com
 0.0.0.0 modcombo.io
@@ -224,6 +233,7 @@
 0.0.0.0 modscraft.net
 0.0.0.0 modscraft.ru
 0.0.0.0 moneytribune.de
+0.0.0.0 monster-mcpe.com
 0.0.0.0 mtls-fcdn.rtc-gw.tiktok.com
 0.0.0.0 mtls-row.rtc-gw.tiktok.com
 0.0.0.0 mushroom.gg
@@ -358,6 +368,7 @@
 0.0.0.0 taptik.app
 0.0.0.0 tatsu.gg
 0.0.0.0 tatsumaki.xyz
+0.0.0.0 texture-packs.com
 0.0.0.0 thefreerobux.com
 0.0.0.0 ticketsbot.net
 0.0.0.0 tickettool.xyz
@@ -396,6 +407,7 @@
 0.0.0.0 tikvideo.app
 0.0.0.0 tiky.app
 0.0.0.0 tiqtod.xyz
+0.0.0.0 tlauncher.org
 0.0.0.0 tlmods.org
 0.0.0.0 tlmods.ru
 0.0.0.0 tmate.cc
@@ -606,9 +618,11 @@
 0.0.0.0 www.mc-addons.com
 0.0.0.0 www.mc-hacks.net
 0.0.0.0 www.mc-mod.net
+0.0.0.0 www.mc-mods.org
 0.0.0.0 www.mcbuild.org
 0.0.0.0 www.mchacks.net
 0.0.0.0 www.mcpe-game.ru
+0.0.0.0 www.mcpe-planet.com
 0.0.0.0 www.mcpecube.com
 0.0.0.0 www.mcpedl.download
 0.0.0.0 www.mcpedl.in
@@ -628,19 +642,26 @@
 0.0.0.0 www.minecraft-all.com
 0.0.0.0 www.minecraft-france.fr
 0.0.0.0 www.minecraft-inside.ru
+0.0.0.0 www.minecraft-installer.com
+0.0.0.0 www.minecraft-pocket.com
 0.0.0.0 www.minecraftclue.com
 0.0.0.0 www.minecrafteo.com
 0.0.0.0 www.minecrafthax.org
 0.0.0.0 www.minecrafthub.com
 0.0.0.0 www.minecraftmods.com
+0.0.0.0 www.minecraftmodspc.com
+0.0.0.0 www.minecraftpe-mods.com
 0.0.0.0 www.minecrafts-mod.ru
 0.0.0.0 www.minecraftshader.com
+0.0.0.0 www.minecraftsix.com
 0.0.0.0 www.minecraftsketchbros.eu
 0.0.0.0 www.minecraftwild.com
 0.0.0.0 www.minecraftxl.com
+0.0.0.0 www.mined.to
 0.0.0.0 www.minehacks.net
 0.0.0.0 www.minesters.com
 0.0.0.0 www.mobalytics.gg
+0.0.0.0 www.mod4minecraft.com
 0.0.0.0 www.modbay.org
 0.0.0.0 www.modbem.com
 0.0.0.0 www.modcombo.io
@@ -650,6 +671,7 @@
 0.0.0.0 www.modscraft.net
 0.0.0.0 www.modscraft.ru
 0.0.0.0 www.moneytribune.de
+0.0.0.0 www.monster-mcpe.com
 0.0.0.0 www.mtls-fcdn.rtc-gw.tiktok.com
 0.0.0.0 www.mtls-row.rtc-gw.tiktok.com
 0.0.0.0 www.mushroom.gg
@@ -784,6 +806,7 @@
 0.0.0.0 www.taptik.app
 0.0.0.0 www.tatsu.gg
 0.0.0.0 www.tatsumaki.xyz
+0.0.0.0 www.texture-packs.com
 0.0.0.0 www.thefreerobux.com
 0.0.0.0 www.ticketsbot.net
 0.0.0.0 www.tickettool.xyz
@@ -822,6 +845,7 @@
 0.0.0.0 www.tikvideo.app
 0.0.0.0 www.tiky.app
 0.0.0.0 www.tiqtod.xyz
+0.0.0.0 www.tlauncher.org
 0.0.0.0 www.tlmods.org
 0.0.0.0 www.tlmods.ru
 0.0.0.0 www.tmate.cc
