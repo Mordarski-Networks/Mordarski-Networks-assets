@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Monday, October 30, 2023 11:09:14 PM UTC
+# Last modified: Thursday, November 02, 2023 08:57:47 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -30,6 +30,7 @@
 0.0.0.0 arcane.bot
 0.0.0.0 arcanebot.xyz
 0.0.0.0 aristois.net
+0.0.0.0 asphaltbot.com
 0.0.0.0 autocode.gg
 0.0.0.0 auttaja.io
 0.0.0.0 avrae.io
@@ -39,6 +40,7 @@
 0.0.0.0 betterdiscord.app
 0.0.0.0 blog.trending.tiktok.com
 0.0.0.0 bloxearn.com
+0.0.0.0 bnder.net
 0.0.0.0 botdisco.com
 0.0.0.0 botghost.com
 0.0.0.0 bots.ondiscord.xyz
@@ -85,6 +87,7 @@
 0.0.0.0 csgoskins.gg
 0.0.0.0 dankmemer.gg
 0.0.0.0 dankmemer.lol
+0.0.0.0 dash.melonbot.io
 0.0.0.0 datahub.tiktok.com
 0.0.0.0 disboard.org
 0.0.0.0 discadia.com
@@ -117,7 +120,9 @@
 0.0.0.0 discords.com
 0.0.0.0 discordservers.com
 0.0.0.0 discordstatus.com
+0.0.0.0 discordtree.com
 0.0.0.0 disforge.com
+0.0.0.0 docs.midjourney.com
 0.0.0.0 downtik.io
 0.0.0.0 downtik.to
 0.0.0.0 drs.gw.us.tiktok.com
@@ -125,6 +130,7 @@
 0.0.0.0 e.tiktok.com
 0.0.0.0 easypoll.bot
 0.0.0.0 egress.gw.us.tiktok.com
+0.0.0.0 elementalbot.com
 0.0.0.0 ely.gg
 0.0.0.0 emoji.gg
 0.0.0.0 eren.si
@@ -148,8 +154,10 @@
 0.0.0.0 gotik.app
 0.0.0.0 gow.gg
 0.0.0.0 groovy.bot
+0.0.0.0 guide.melonbot.io
 0.0.0.0 guild.xyz
 0.0.0.0 gw2bot.info
+0.0.0.0 helltides.com
 0.0.0.0 helper.gg
 0.0.0.0 helper.wtf
 0.0.0.0 hey.xyz
@@ -161,6 +169,7 @@
 0.0.0.0 ibyteimg.com
 0.0.0.0 impactclient.net
 0.0.0.0 in.tiktok.com
+0.0.0.0 invite-tracker.com
 0.0.0.0 inwerk-kuechen-news.de
 0.0.0.0 juniper.bot
 0.0.0.0 keeptik.online
@@ -199,7 +208,9 @@
 0.0.0.0 mdg.us.tiktok.com
 0.0.0.0 mee6.gg
 0.0.0.0 mee6.xyz
+0.0.0.0 melonbot.io
 0.0.0.0 micdoodle8.com
+0.0.0.0 midjourney.com
 0.0.0.0 miki.bot
 0.0.0.0 minecraft-all.com
 0.0.0.0 minecraft-france.fr
@@ -273,6 +284,7 @@
 0.0.0.0 owo-bot.xyz
 0.0.0.0 owobot.com
 0.0.0.0 pancake.gg
+0.0.0.0 paru.app
 0.0.0.0 patchbot.io
 0.0.0.0 pcminecraft-mods.com
 0.0.0.0 pfps.gg
@@ -329,9 +341,11 @@
 0.0.0.0 securitybot.gg
 0.0.0.0 securitybot.xyz
 0.0.0.0 seniorenrecht-saar.de
+0.0.0.0 seraymeric.com
 0.0.0.0 serverstatsbot.com
 0.0.0.0 service.tiktok.com
 0.0.0.0 shadersmods.com
+0.0.0.0 sirtaptap.com
 0.0.0.0 skinship.xyz
 0.0.0.0 snaptik.ai
 0.0.0.0 snaptik.app
@@ -358,6 +372,7 @@
 0.0.0.0 sstik.de
 0.0.0.0 starpets.gg
 0.0.0.0 startit.bot
+0.0.0.0 status.melonbot.io
 0.0.0.0 stickers.gg
 0.0.0.0 streamcord.gg
 0.0.0.0 streamcord.io
@@ -368,6 +383,7 @@
 0.0.0.0 taptik.app
 0.0.0.0 tatsu.gg
 0.0.0.0 tatsumaki.xyz
+0.0.0.0 tempobot.net
 0.0.0.0 texture-packs.com
 0.0.0.0 thefreerobux.com
 0.0.0.0 ticketsbot.net
@@ -436,6 +452,7 @@
 0.0.0.0 vidtik.app
 0.0.0.0 vlr.gg
 0.0.0.0 waifugame.com
+0.0.0.0 wallubot.com
 0.0.0.0 warmind.io
 0.0.0.0 wearedevs.net
 0.0.0.0 welcomer.gg
@@ -469,6 +486,7 @@
 0.0.0.0 www.arcane.bot
 0.0.0.0 www.arcanebot.xyz
 0.0.0.0 www.aristois.net
+0.0.0.0 www.asphaltbot.com
 0.0.0.0 www.autocode.gg
 0.0.0.0 www.auttaja.io
 0.0.0.0 www.avrae.io
@@ -478,6 +496,7 @@
 0.0.0.0 www.betterdiscord.app
 0.0.0.0 www.blog.trending.tiktok.com
 0.0.0.0 www.bloxearn.com
+0.0.0.0 www.bnder.net
 0.0.0.0 www.botdisco.com
 0.0.0.0 www.botghost.com
 0.0.0.0 www.bots.ondiscord.xyz
@@ -555,6 +574,7 @@
 0.0.0.0 www.discords.com
 0.0.0.0 www.discordservers.com
 0.0.0.0 www.discordstatus.com
+0.0.0.0 www.discordtree.com
 0.0.0.0 www.disforge.com
 0.0.0.0 www.downtik.io
 0.0.0.0 www.downtik.to
@@ -563,6 +583,7 @@
 0.0.0.0 www.e.tiktok.com
 0.0.0.0 www.easypoll.bot
 0.0.0.0 www.egress.gw.us.tiktok.com
+0.0.0.0 www.elementalbot.com
 0.0.0.0 www.ely.gg
 0.0.0.0 www.emoji.gg
 0.0.0.0 www.eren.si
@@ -588,6 +609,7 @@
 0.0.0.0 www.groovy.bot
 0.0.0.0 www.guild.xyz
 0.0.0.0 www.gw2bot.info
+0.0.0.0 www.helltides.com
 0.0.0.0 www.helper.gg
 0.0.0.0 www.helper.wtf
 0.0.0.0 www.hey.xyz
@@ -599,6 +621,7 @@
 0.0.0.0 www.ibyteimg.com
 0.0.0.0 www.impactclient.net
 0.0.0.0 www.in.tiktok.com
+0.0.0.0 www.invite-tracker.com
 0.0.0.0 www.inwerk-kuechen-news.de
 0.0.0.0 www.juniper.bot
 0.0.0.0 www.keeptik.online
@@ -637,7 +660,9 @@
 0.0.0.0 www.mdg.us.tiktok.com
 0.0.0.0 www.mee6.gg
 0.0.0.0 www.mee6.xyz
+0.0.0.0 www.melonbot.io
 0.0.0.0 www.micdoodle8.com
+0.0.0.0 www.midjourney.com
 0.0.0.0 www.miki.bot
 0.0.0.0 www.minecraft-all.com
 0.0.0.0 www.minecraft-france.fr
@@ -711,6 +736,7 @@
 0.0.0.0 www.owo-bot.xyz
 0.0.0.0 www.owobot.com
 0.0.0.0 www.pancake.gg
+0.0.0.0 www.paru.app
 0.0.0.0 www.patchbot.io
 0.0.0.0 www.pcminecraft-mods.com
 0.0.0.0 www.pfps.gg
@@ -767,9 +793,11 @@
 0.0.0.0 www.securitybot.gg
 0.0.0.0 www.securitybot.xyz
 0.0.0.0 www.seniorenrecht-saar.de
+0.0.0.0 www.seraymeric.com
 0.0.0.0 www.serverstatsbot.com
 0.0.0.0 www.service.tiktok.com
 0.0.0.0 www.shadersmods.com
+0.0.0.0 www.sirtaptap.com
 0.0.0.0 www.skinship.xyz
 0.0.0.0 www.snaptik.ai
 0.0.0.0 www.snaptik.app
@@ -806,6 +834,7 @@
 0.0.0.0 www.taptik.app
 0.0.0.0 www.tatsu.gg
 0.0.0.0 www.tatsumaki.xyz
+0.0.0.0 www.tempobot.net
 0.0.0.0 www.texture-packs.com
 0.0.0.0 www.thefreerobux.com
 0.0.0.0 www.ticketsbot.net
@@ -874,6 +903,7 @@
 0.0.0.0 www.vidtik.app
 0.0.0.0 www.vlr.gg
 0.0.0.0 www.waifugame.com
+0.0.0.0 www.wallubot.com
 0.0.0.0 www.warmind.io
 0.0.0.0 www.wearedevs.net
 0.0.0.0 www.welcomer.gg

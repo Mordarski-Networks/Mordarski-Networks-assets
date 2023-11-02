@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Monday, October 30, 2023 11:09:14 PM UTC
+# Last modified: Thursday, November 02, 2023 08:57:47 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -30,6 +30,7 @@
 127.0.0.1 arcane.bot
 127.0.0.1 arcanebot.xyz
 127.0.0.1 aristois.net
+127.0.0.1 asphaltbot.com
 127.0.0.1 autocode.gg
 127.0.0.1 auttaja.io
 127.0.0.1 avrae.io
@@ -39,6 +40,7 @@
 127.0.0.1 betterdiscord.app
 127.0.0.1 blog.trending.tiktok.com
 127.0.0.1 bloxearn.com
+127.0.0.1 bnder.net
 127.0.0.1 botdisco.com
 127.0.0.1 botghost.com
 127.0.0.1 bots.ondiscord.xyz
@@ -85,6 +87,7 @@
 127.0.0.1 csgoskins.gg
 127.0.0.1 dankmemer.gg
 127.0.0.1 dankmemer.lol
+127.0.0.1 dash.melonbot.io
 127.0.0.1 datahub.tiktok.com
 127.0.0.1 disboard.org
 127.0.0.1 discadia.com
@@ -117,7 +120,9 @@
 127.0.0.1 discords.com
 127.0.0.1 discordservers.com
 127.0.0.1 discordstatus.com
+127.0.0.1 discordtree.com
 127.0.0.1 disforge.com
+127.0.0.1 docs.midjourney.com
 127.0.0.1 downtik.io
 127.0.0.1 downtik.to
 127.0.0.1 drs.gw.us.tiktok.com
@@ -125,6 +130,7 @@
 127.0.0.1 e.tiktok.com
 127.0.0.1 easypoll.bot
 127.0.0.1 egress.gw.us.tiktok.com
+127.0.0.1 elementalbot.com
 127.0.0.1 ely.gg
 127.0.0.1 emoji.gg
 127.0.0.1 eren.si
@@ -148,8 +154,10 @@
 127.0.0.1 gotik.app
 127.0.0.1 gow.gg
 127.0.0.1 groovy.bot
+127.0.0.1 guide.melonbot.io
 127.0.0.1 guild.xyz
 127.0.0.1 gw2bot.info
+127.0.0.1 helltides.com
 127.0.0.1 helper.gg
 127.0.0.1 helper.wtf
 127.0.0.1 hey.xyz
@@ -161,6 +169,7 @@
 127.0.0.1 ibyteimg.com
 127.0.0.1 impactclient.net
 127.0.0.1 in.tiktok.com
+127.0.0.1 invite-tracker.com
 127.0.0.1 inwerk-kuechen-news.de
 127.0.0.1 juniper.bot
 127.0.0.1 keeptik.online
@@ -199,7 +208,9 @@
 127.0.0.1 mdg.us.tiktok.com
 127.0.0.1 mee6.gg
 127.0.0.1 mee6.xyz
+127.0.0.1 melonbot.io
 127.0.0.1 micdoodle8.com
+127.0.0.1 midjourney.com
 127.0.0.1 miki.bot
 127.0.0.1 minecraft-all.com
 127.0.0.1 minecraft-france.fr
@@ -273,6 +284,7 @@
 127.0.0.1 owo-bot.xyz
 127.0.0.1 owobot.com
 127.0.0.1 pancake.gg
+127.0.0.1 paru.app
 127.0.0.1 patchbot.io
 127.0.0.1 pcminecraft-mods.com
 127.0.0.1 pfps.gg
@@ -329,9 +341,11 @@
 127.0.0.1 securitybot.gg
 127.0.0.1 securitybot.xyz
 127.0.0.1 seniorenrecht-saar.de
+127.0.0.1 seraymeric.com
 127.0.0.1 serverstatsbot.com
 127.0.0.1 service.tiktok.com
 127.0.0.1 shadersmods.com
+127.0.0.1 sirtaptap.com
 127.0.0.1 skinship.xyz
 127.0.0.1 snaptik.ai
 127.0.0.1 snaptik.app
@@ -358,6 +372,7 @@
 127.0.0.1 sstik.de
 127.0.0.1 starpets.gg
 127.0.0.1 startit.bot
+127.0.0.1 status.melonbot.io
 127.0.0.1 stickers.gg
 127.0.0.1 streamcord.gg
 127.0.0.1 streamcord.io
@@ -368,6 +383,7 @@
 127.0.0.1 taptik.app
 127.0.0.1 tatsu.gg
 127.0.0.1 tatsumaki.xyz
+127.0.0.1 tempobot.net
 127.0.0.1 texture-packs.com
 127.0.0.1 thefreerobux.com
 127.0.0.1 ticketsbot.net
@@ -436,6 +452,7 @@
 127.0.0.1 vidtik.app
 127.0.0.1 vlr.gg
 127.0.0.1 waifugame.com
+127.0.0.1 wallubot.com
 127.0.0.1 warmind.io
 127.0.0.1 wearedevs.net
 127.0.0.1 welcomer.gg
@@ -469,6 +486,7 @@
 127.0.0.1 www.arcane.bot
 127.0.0.1 www.arcanebot.xyz
 127.0.0.1 www.aristois.net
+127.0.0.1 www.asphaltbot.com
 127.0.0.1 www.autocode.gg
 127.0.0.1 www.auttaja.io
 127.0.0.1 www.avrae.io
@@ -478,6 +496,7 @@
 127.0.0.1 www.betterdiscord.app
 127.0.0.1 www.blog.trending.tiktok.com
 127.0.0.1 www.bloxearn.com
+127.0.0.1 www.bnder.net
 127.0.0.1 www.botdisco.com
 127.0.0.1 www.botghost.com
 127.0.0.1 www.bots.ondiscord.xyz
@@ -555,6 +574,7 @@
 127.0.0.1 www.discords.com
 127.0.0.1 www.discordservers.com
 127.0.0.1 www.discordstatus.com
+127.0.0.1 www.discordtree.com
 127.0.0.1 www.disforge.com
 127.0.0.1 www.downtik.io
 127.0.0.1 www.downtik.to
@@ -563,6 +583,7 @@
 127.0.0.1 www.e.tiktok.com
 127.0.0.1 www.easypoll.bot
 127.0.0.1 www.egress.gw.us.tiktok.com
+127.0.0.1 www.elementalbot.com
 127.0.0.1 www.ely.gg
 127.0.0.1 www.emoji.gg
 127.0.0.1 www.eren.si
@@ -588,6 +609,7 @@
 127.0.0.1 www.groovy.bot
 127.0.0.1 www.guild.xyz
 127.0.0.1 www.gw2bot.info
+127.0.0.1 www.helltides.com
 127.0.0.1 www.helper.gg
 127.0.0.1 www.helper.wtf
 127.0.0.1 www.hey.xyz
@@ -599,6 +621,7 @@
 127.0.0.1 www.ibyteimg.com
 127.0.0.1 www.impactclient.net
 127.0.0.1 www.in.tiktok.com
+127.0.0.1 www.invite-tracker.com
 127.0.0.1 www.inwerk-kuechen-news.de
 127.0.0.1 www.juniper.bot
 127.0.0.1 www.keeptik.online
@@ -637,7 +660,9 @@
 127.0.0.1 www.mdg.us.tiktok.com
 127.0.0.1 www.mee6.gg
 127.0.0.1 www.mee6.xyz
+127.0.0.1 www.melonbot.io
 127.0.0.1 www.micdoodle8.com
+127.0.0.1 www.midjourney.com
 127.0.0.1 www.miki.bot
 127.0.0.1 www.minecraft-all.com
 127.0.0.1 www.minecraft-france.fr
@@ -711,6 +736,7 @@
 127.0.0.1 www.owo-bot.xyz
 127.0.0.1 www.owobot.com
 127.0.0.1 www.pancake.gg
+127.0.0.1 www.paru.app
 127.0.0.1 www.patchbot.io
 127.0.0.1 www.pcminecraft-mods.com
 127.0.0.1 www.pfps.gg
@@ -767,9 +793,11 @@
 127.0.0.1 www.securitybot.gg
 127.0.0.1 www.securitybot.xyz
 127.0.0.1 www.seniorenrecht-saar.de
+127.0.0.1 www.seraymeric.com
 127.0.0.1 www.serverstatsbot.com
 127.0.0.1 www.service.tiktok.com
 127.0.0.1 www.shadersmods.com
+127.0.0.1 www.sirtaptap.com
 127.0.0.1 www.skinship.xyz
 127.0.0.1 www.snaptik.ai
 127.0.0.1 www.snaptik.app
@@ -806,6 +834,7 @@
 127.0.0.1 www.taptik.app
 127.0.0.1 www.tatsu.gg
 127.0.0.1 www.tatsumaki.xyz
+127.0.0.1 www.tempobot.net
 127.0.0.1 www.texture-packs.com
 127.0.0.1 www.thefreerobux.com
 127.0.0.1 www.ticketsbot.net
@@ -874,6 +903,7 @@
 127.0.0.1 www.vidtik.app
 127.0.0.1 www.vlr.gg
 127.0.0.1 www.waifugame.com
+127.0.0.1 www.wallubot.com
 127.0.0.1 www.warmind.io
 127.0.0.1 www.wearedevs.net
 127.0.0.1 www.welcomer.gg
