@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Thursday, November 02, 2023 08:57:47 PM UTC
+# Last modified: Saturday, November 04, 2023 10:10:35 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -20,6 +20,7 @@
 127.0.0.1 acepicturebot.com
 127.0.0.1 ads-service.tiktok.com
 127.0.0.1 ads.tiktok.com
+127.0.0.1 aleeva.io
 127.0.0.1 allstar.gg
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 anibot.moe
@@ -30,6 +31,7 @@
 127.0.0.1 arcane.bot
 127.0.0.1 arcanebot.xyz
 127.0.0.1 aristois.net
+127.0.0.1 arkbuddy.app
 127.0.0.1 asphaltbot.com
 127.0.0.1 autocode.gg
 127.0.0.1 auttaja.io
@@ -43,6 +45,8 @@
 127.0.0.1 bnder.net
 127.0.0.1 botdisco.com
 127.0.0.1 botghost.com
+127.0.0.1 botlist.app
+127.0.0.1 botloader.io
 127.0.0.1 bots.ondiscord.xyz
 127.0.0.1 brussell.me
 127.0.0.1 btroblox.net
@@ -84,6 +88,7 @@
 127.0.0.1 client.badlion.net
 127.0.0.1 countr.xyz
 127.0.0.1 craig.chat
+127.0.0.1 crbt.app
 127.0.0.1 csgoskins.gg
 127.0.0.1 dankmemer.gg
 127.0.0.1 dankmemer.lol
@@ -91,6 +96,8 @@
 127.0.0.1 datahub.tiktok.com
 127.0.0.1 disboard.org
 127.0.0.1 discadia.com
+127.0.0.1 discohook.app
+127.0.0.1 discord.app
 127.0.0.1 discord.bots.gg
 127.0.0.1 discord.chat
 127.0.0.1 discord.com
@@ -120,17 +127,21 @@
 127.0.0.1 discords.com
 127.0.0.1 discordservers.com
 127.0.0.1 discordstatus.com
+127.0.0.1 discordtickets.app
 127.0.0.1 discordtree.com
 127.0.0.1 disforge.com
 127.0.0.1 docs.midjourney.com
+127.0.0.1 downloader.bot
 127.0.0.1 downtik.io
 127.0.0.1 downtik.to
+127.0.0.1 downtiktok.online
 127.0.0.1 drs.gw.us.tiktok.com
 127.0.0.1 dyno.gg
 127.0.0.1 e.tiktok.com
 127.0.0.1 easypoll.bot
 127.0.0.1 egress.gw.us.tiktok.com
 127.0.0.1 elementalbot.com
+127.0.0.1 elitebgs.app
 127.0.0.1 ely.gg
 127.0.0.1 emoji.gg
 127.0.0.1 eren.si
@@ -138,6 +149,7 @@
 127.0.0.1 flavibot.xyz
 127.0.0.1 fliptok.app
 127.0.0.1 fmbot.xyz
+127.0.0.1 fplbot.app
 127.0.0.1 fredboat.com
 127.0.0.1 free-robux-counter-counterstudio.en.aptoide.com
 127.0.0.1 free-robux-counter-counterstudio.mx.aptoide.com
@@ -153,6 +165,8 @@
 127.0.0.1 giveawaybot.party
 127.0.0.1 gotik.app
 127.0.0.1 gow.gg
+127.0.0.1 gptassistant.app
+127.0.0.1 green-bot.app
 127.0.0.1 groovy.bot
 127.0.0.1 guide.melonbot.io
 127.0.0.1 guild.xyz
@@ -171,9 +185,11 @@
 127.0.0.1 in.tiktok.com
 127.0.0.1 invite-tracker.com
 127.0.0.1 inwerk-kuechen-news.de
+127.0.0.1 itranslator.app
 127.0.0.1 juniper.bot
 127.0.0.1 keeptik.online
 127.0.0.1 koya.gg
+127.0.0.1 kyubot.app
 127.0.0.1 lawlietbot.xyz
 127.0.0.1 leetify.gg
 127.0.0.1 libertas.gg
@@ -233,6 +249,7 @@
 127.0.0.1 mined.to
 127.0.0.1 minehacks.net
 127.0.0.1 minesters.com
+127.0.0.1 minibot.app
 127.0.0.1 mobalytics.gg
 127.0.0.1 mod4minecraft.com
 127.0.0.1 modbay.org
@@ -256,6 +273,8 @@
 127.0.0.1 nadeko.bot
 127.0.0.1 needle.gg
 127.0.0.1 nekotina.com
+127.0.0.1 nft-bots.io
+127.0.0.1 notibot.app
 127.0.0.1 notifications.tiktok.com
 127.0.0.1 noxbot.gg
 127.0.0.1 nqn.blue
@@ -286,6 +305,7 @@
 127.0.0.1 pancake.gg
 127.0.0.1 paru.app
 127.0.0.1 patchbot.io
+127.0.0.1 pbot.app
 127.0.0.1 pcminecraft-mods.com
 127.0.0.1 pfps.gg
 127.0.0.1 pingcord.xyz
@@ -294,14 +314,17 @@
 127.0.0.1 pluralkit.me
 127.0.0.1 poketwo.net
 127.0.0.1 polnische-rechte.de
+127.0.0.1 prepi.io
 127.0.0.1 probot.gg
 127.0.0.1 probot.io
+127.0.0.1 progresspal.app
 127.0.0.1 purrbot.site
 127.0.0.1 pylon.bot
 127.0.0.1 quickvids.win
 127.0.0.1 ratingtool.xyz
 127.0.0.1 rbxadder.com
 127.0.0.1 rbxgum.com
+127.0.0.1 readybot.io
 127.0.0.1 rewardrobux.com
 127.0.0.1 rias.gg
 127.0.0.1 richterschmidt.de
@@ -325,10 +348,12 @@
 127.0.0.1 rosnipe.site
 127.0.0.1 rovalk.com
 127.0.0.1 rscripts.net
+127.0.0.1 rss.app
 127.0.0.1 rtc.gw.forward.pvt.tiktok.com
 127.0.0.1 rtc.gw.forward.test.tiktok.com
 127.0.0.1 ru-minecraft.ru
 127.0.0.1 rubx.us
+127.0.0.1 ruleslawyer.app
 127.0.0.1 rustlink.io
 127.0.0.1 rythm.fm
 127.0.0.1 sapph.xyz
@@ -338,6 +363,7 @@
 127.0.0.1 savetik.net
 127.0.0.1 savetiktok.io
 127.0.0.1 savett.cc
+127.0.0.1 searchbot.app
 127.0.0.1 securitybot.gg
 127.0.0.1 securitybot.xyz
 127.0.0.1 seniorenrecht-saar.de
@@ -380,17 +406,22 @@
 127.0.0.1 swap.gg
 127.0.0.1 sweetrbx.com
 127.0.0.1 sxbot.io
+127.0.0.1 tacobot.app
 127.0.0.1 taptik.app
 127.0.0.1 tatsu.gg
 127.0.0.1 tatsumaki.xyz
 127.0.0.1 tempobot.net
+127.0.0.1 teraflare.app
 127.0.0.1 texture-packs.com
+127.0.0.1 the100.io
 127.0.0.1 thefreerobux.com
 127.0.0.1 ticketsbot.net
 127.0.0.1 tickettool.xyz
 127.0.0.1 tik-downloader.io
 127.0.0.1 tik.fail
+127.0.0.1 tik18.app
 127.0.0.1 tikclear.app
+127.0.0.1 tikd.cc
 127.0.0.1 tikdd.cc
 127.0.0.1 tikdown.org
 127.0.0.1 tikdownloader.io
@@ -402,6 +433,7 @@
 127.0.0.1 tikshot.app
 127.0.0.1 tiktal.co
 127.0.0.1 tiktap.io
+127.0.0.1 tiktocplus.app
 127.0.0.1 tiktok-downloader.pl
 127.0.0.1 tiktok.com
 127.0.0.1 tiktokapp.cc
@@ -418,6 +450,7 @@
 127.0.0.1 tiktokvideo.live
 127.0.0.1 tiktokvideodownloader.com.pk
 127.0.0.1 tiktokvideodownloader.one
+127.0.0.1 tiktop.app
 127.0.0.1 tikvid.cc
 127.0.0.1 tikvid.io
 127.0.0.1 tikvideo.app
@@ -448,6 +481,7 @@
 127.0.0.1 v3rmillion.net
 127.0.0.1 vag.gg
 127.0.0.1 vape.gg
+127.0.0.1 vayna.app
 127.0.0.1 vexera.io
 127.0.0.1 vidtik.app
 127.0.0.1 vlr.gg
@@ -476,6 +510,7 @@
 127.0.0.1 www.acepicturebot.com
 127.0.0.1 www.ads-service.tiktok.com
 127.0.0.1 www.ads.tiktok.com
+127.0.0.1 www.aleeva.io
 127.0.0.1 www.allstar.gg
 127.0.0.1 www.analytics.tiktok.com
 127.0.0.1 www.anibot.moe
@@ -486,6 +521,7 @@
 127.0.0.1 www.arcane.bot
 127.0.0.1 www.arcanebot.xyz
 127.0.0.1 www.aristois.net
+127.0.0.1 www.arkbuddy.app
 127.0.0.1 www.asphaltbot.com
 127.0.0.1 www.autocode.gg
 127.0.0.1 www.auttaja.io
@@ -499,6 +535,8 @@
 127.0.0.1 www.bnder.net
 127.0.0.1 www.botdisco.com
 127.0.0.1 www.botghost.com
+127.0.0.1 www.botlist.app
+127.0.0.1 www.botloader.io
 127.0.0.1 www.bots.ondiscord.xyz
 127.0.0.1 www.brussell.me
 127.0.0.1 www.btroblox.net
@@ -539,12 +577,15 @@
 127.0.0.1 www.claimrbx.gg
 127.0.0.1 www.countr.xyz
 127.0.0.1 www.craig.chat
+127.0.0.1 www.crbt.app
 127.0.0.1 www.csgoskins.gg
 127.0.0.1 www.dankmemer.gg
 127.0.0.1 www.dankmemer.lol
 127.0.0.1 www.datahub.tiktok.com
 127.0.0.1 www.disboard.org
 127.0.0.1 www.discadia.com
+127.0.0.1 www.discohook.app
+127.0.0.1 www.discord.app
 127.0.0.1 www.discord.bots.gg
 127.0.0.1 www.discord.chat
 127.0.0.1 www.discord.com
@@ -574,16 +615,20 @@
 127.0.0.1 www.discords.com
 127.0.0.1 www.discordservers.com
 127.0.0.1 www.discordstatus.com
+127.0.0.1 www.discordtickets.app
 127.0.0.1 www.discordtree.com
 127.0.0.1 www.disforge.com
+127.0.0.1 www.downloader.bot
 127.0.0.1 www.downtik.io
 127.0.0.1 www.downtik.to
+127.0.0.1 www.downtiktok.online
 127.0.0.1 www.drs.gw.us.tiktok.com
 127.0.0.1 www.dyno.gg
 127.0.0.1 www.e.tiktok.com
 127.0.0.1 www.easypoll.bot
 127.0.0.1 www.egress.gw.us.tiktok.com
 127.0.0.1 www.elementalbot.com
+127.0.0.1 www.elitebgs.app
 127.0.0.1 www.ely.gg
 127.0.0.1 www.emoji.gg
 127.0.0.1 www.eren.si
@@ -591,6 +636,7 @@
 127.0.0.1 www.flavibot.xyz
 127.0.0.1 www.fliptok.app
 127.0.0.1 www.fmbot.xyz
+127.0.0.1 www.fplbot.app
 127.0.0.1 www.fredboat.com
 127.0.0.1 www.free-robux-counter-counterstudio.en.aptoide.com
 127.0.0.1 www.free-robux-counter-counterstudio.mx.aptoide.com
@@ -606,6 +652,8 @@
 127.0.0.1 www.giveawaybot.party
 127.0.0.1 www.gotik.app
 127.0.0.1 www.gow.gg
+127.0.0.1 www.gptassistant.app
+127.0.0.1 www.green-bot.app
 127.0.0.1 www.groovy.bot
 127.0.0.1 www.guild.xyz
 127.0.0.1 www.gw2bot.info
@@ -623,9 +671,11 @@
 127.0.0.1 www.in.tiktok.com
 127.0.0.1 www.invite-tracker.com
 127.0.0.1 www.inwerk-kuechen-news.de
+127.0.0.1 www.itranslator.app
 127.0.0.1 www.juniper.bot
 127.0.0.1 www.keeptik.online
 127.0.0.1 www.koya.gg
+127.0.0.1 www.kyubot.app
 127.0.0.1 www.lawlietbot.xyz
 127.0.0.1 www.leetify.gg
 127.0.0.1 www.libertas.gg
@@ -685,6 +735,7 @@
 127.0.0.1 www.mined.to
 127.0.0.1 www.minehacks.net
 127.0.0.1 www.minesters.com
+127.0.0.1 www.minibot.app
 127.0.0.1 www.mobalytics.gg
 127.0.0.1 www.mod4minecraft.com
 127.0.0.1 www.modbay.org
@@ -708,6 +759,8 @@
 127.0.0.1 www.nadeko.bot
 127.0.0.1 www.needle.gg
 127.0.0.1 www.nekotina.com
+127.0.0.1 www.nft-bots.io
+127.0.0.1 www.notibot.app
 127.0.0.1 www.notifications.tiktok.com
 127.0.0.1 www.noxbot.gg
 127.0.0.1 www.nqn.blue
@@ -738,6 +791,7 @@
 127.0.0.1 www.pancake.gg
 127.0.0.1 www.paru.app
 127.0.0.1 www.patchbot.io
+127.0.0.1 www.pbot.app
 127.0.0.1 www.pcminecraft-mods.com
 127.0.0.1 www.pfps.gg
 127.0.0.1 www.pingcord.xyz
@@ -746,14 +800,17 @@
 127.0.0.1 www.pluralkit.me
 127.0.0.1 www.poketwo.net
 127.0.0.1 www.polnische-rechte.de
+127.0.0.1 www.prepi.io
 127.0.0.1 www.probot.gg
 127.0.0.1 www.probot.io
+127.0.0.1 www.progresspal.app
 127.0.0.1 www.purrbot.site
 127.0.0.1 www.pylon.bot
 127.0.0.1 www.quickvids.win
 127.0.0.1 www.ratingtool.xyz
 127.0.0.1 www.rbxadder.com
 127.0.0.1 www.rbxgum.com
+127.0.0.1 www.readybot.io
 127.0.0.1 www.rewardrobux.com
 127.0.0.1 www.rias.gg
 127.0.0.1 www.richterschmidt.de
@@ -777,10 +834,12 @@
 127.0.0.1 www.rosnipe.site
 127.0.0.1 www.rovalk.com
 127.0.0.1 www.rscripts.net
+127.0.0.1 www.rss.app
 127.0.0.1 www.rtc.gw.forward.pvt.tiktok.com
 127.0.0.1 www.rtc.gw.forward.test.tiktok.com
 127.0.0.1 www.ru-minecraft.ru
 127.0.0.1 www.rubx.us
+127.0.0.1 www.ruleslawyer.app
 127.0.0.1 www.rustlink.io
 127.0.0.1 www.rythm.fm
 127.0.0.1 www.sapph.xyz
@@ -790,6 +849,7 @@
 127.0.0.1 www.savetik.net
 127.0.0.1 www.savetiktok.io
 127.0.0.1 www.savett.cc
+127.0.0.1 www.searchbot.app
 127.0.0.1 www.securitybot.gg
 127.0.0.1 www.securitybot.xyz
 127.0.0.1 www.seniorenrecht-saar.de
@@ -831,17 +891,22 @@
 127.0.0.1 www.swap.gg
 127.0.0.1 www.sweetrbx.com
 127.0.0.1 www.sxbot.io
+127.0.0.1 www.tacobot.app
 127.0.0.1 www.taptik.app
 127.0.0.1 www.tatsu.gg
 127.0.0.1 www.tatsumaki.xyz
 127.0.0.1 www.tempobot.net
+127.0.0.1 www.teraflare.app
 127.0.0.1 www.texture-packs.com
+127.0.0.1 www.the100.io
 127.0.0.1 www.thefreerobux.com
 127.0.0.1 www.ticketsbot.net
 127.0.0.1 www.tickettool.xyz
 127.0.0.1 www.tik-downloader.io
 127.0.0.1 www.tik.fail
+127.0.0.1 www.tik18.app
 127.0.0.1 www.tikclear.app
+127.0.0.1 www.tikd.cc
 127.0.0.1 www.tikdd.cc
 127.0.0.1 www.tikdown.org
 127.0.0.1 www.tikdownloader.io
@@ -853,6 +918,7 @@
 127.0.0.1 www.tikshot.app
 127.0.0.1 www.tiktal.co
 127.0.0.1 www.tiktap.io
+127.0.0.1 www.tiktocplus.app
 127.0.0.1 www.tiktok-downloader.pl
 127.0.0.1 www.tiktok.com
 127.0.0.1 www.tiktokapp.cc
@@ -869,6 +935,7 @@
 127.0.0.1 www.tiktokvideo.live
 127.0.0.1 www.tiktokvideodownloader.com.pk
 127.0.0.1 www.tiktokvideodownloader.one
+127.0.0.1 www.tiktop.app
 127.0.0.1 www.tikvid.cc
 127.0.0.1 www.tikvid.io
 127.0.0.1 www.tikvideo.app
@@ -899,6 +966,7 @@
 127.0.0.1 www.v3rmillion.net
 127.0.0.1 www.vag.gg
 127.0.0.1 www.vape.gg
+127.0.0.1 www.vayna.app
 127.0.0.1 www.vexera.io
 127.0.0.1 www.vidtik.app
 127.0.0.1 www.vlr.gg
@@ -917,6 +985,7 @@
 127.0.0.1 www.xenon.bot
 127.0.0.1 www.yagpdb.xyz
 127.0.0.1 www.ygg.fun
+127.0.0.1 www.yuibot.app
 127.0.0.1 www.zira.gg
 127.0.0.1 www.zoe-discord-bot.ch
 127.0.0.1 www.zonacraft.net
@@ -924,6 +993,7 @@
 127.0.0.1 xenon.bot
 127.0.0.1 yagpdb.xyz
 127.0.0.1 ygg.fun
+127.0.0.1 yuibot.app
 127.0.0.1 zira.gg
 127.0.0.1 zoe-discord-bot.ch
 127.0.0.1 zonacraft.net

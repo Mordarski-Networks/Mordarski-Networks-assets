@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Thursday, November 02, 2023 08:57:47 PM UTC
+# Last modified: Saturday, November 04, 2023 10:10:35 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -20,6 +20,7 @@
 0.0.0.0 acepicturebot.com
 0.0.0.0 ads-service.tiktok.com
 0.0.0.0 ads.tiktok.com
+0.0.0.0 aleeva.io
 0.0.0.0 allstar.gg
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 anibot.moe
@@ -30,6 +31,7 @@
 0.0.0.0 arcane.bot
 0.0.0.0 arcanebot.xyz
 0.0.0.0 aristois.net
+0.0.0.0 arkbuddy.app
 0.0.0.0 asphaltbot.com
 0.0.0.0 autocode.gg
 0.0.0.0 auttaja.io
@@ -43,6 +45,8 @@
 0.0.0.0 bnder.net
 0.0.0.0 botdisco.com
 0.0.0.0 botghost.com
+0.0.0.0 botlist.app
+0.0.0.0 botloader.io
 0.0.0.0 bots.ondiscord.xyz
 0.0.0.0 brussell.me
 0.0.0.0 btroblox.net
@@ -84,6 +88,7 @@
 0.0.0.0 client.badlion.net
 0.0.0.0 countr.xyz
 0.0.0.0 craig.chat
+0.0.0.0 crbt.app
 0.0.0.0 csgoskins.gg
 0.0.0.0 dankmemer.gg
 0.0.0.0 dankmemer.lol
@@ -91,6 +96,8 @@
 0.0.0.0 datahub.tiktok.com
 0.0.0.0 disboard.org
 0.0.0.0 discadia.com
+0.0.0.0 discohook.app
+0.0.0.0 discord.app
 0.0.0.0 discord.bots.gg
 0.0.0.0 discord.chat
 0.0.0.0 discord.com
@@ -120,17 +127,21 @@
 0.0.0.0 discords.com
 0.0.0.0 discordservers.com
 0.0.0.0 discordstatus.com
+0.0.0.0 discordtickets.app
 0.0.0.0 discordtree.com
 0.0.0.0 disforge.com
 0.0.0.0 docs.midjourney.com
+0.0.0.0 downloader.bot
 0.0.0.0 downtik.io
 0.0.0.0 downtik.to
+0.0.0.0 downtiktok.online
 0.0.0.0 drs.gw.us.tiktok.com
 0.0.0.0 dyno.gg
 0.0.0.0 e.tiktok.com
 0.0.0.0 easypoll.bot
 0.0.0.0 egress.gw.us.tiktok.com
 0.0.0.0 elementalbot.com
+0.0.0.0 elitebgs.app
 0.0.0.0 ely.gg
 0.0.0.0 emoji.gg
 0.0.0.0 eren.si
@@ -138,6 +149,7 @@
 0.0.0.0 flavibot.xyz
 0.0.0.0 fliptok.app
 0.0.0.0 fmbot.xyz
+0.0.0.0 fplbot.app
 0.0.0.0 fredboat.com
 0.0.0.0 free-robux-counter-counterstudio.en.aptoide.com
 0.0.0.0 free-robux-counter-counterstudio.mx.aptoide.com
@@ -153,6 +165,8 @@
 0.0.0.0 giveawaybot.party
 0.0.0.0 gotik.app
 0.0.0.0 gow.gg
+0.0.0.0 gptassistant.app
+0.0.0.0 green-bot.app
 0.0.0.0 groovy.bot
 0.0.0.0 guide.melonbot.io
 0.0.0.0 guild.xyz
@@ -171,9 +185,11 @@
 0.0.0.0 in.tiktok.com
 0.0.0.0 invite-tracker.com
 0.0.0.0 inwerk-kuechen-news.de
+0.0.0.0 itranslator.app
 0.0.0.0 juniper.bot
 0.0.0.0 keeptik.online
 0.0.0.0 koya.gg
+0.0.0.0 kyubot.app
 0.0.0.0 lawlietbot.xyz
 0.0.0.0 leetify.gg
 0.0.0.0 libertas.gg
@@ -233,6 +249,7 @@
 0.0.0.0 mined.to
 0.0.0.0 minehacks.net
 0.0.0.0 minesters.com
+0.0.0.0 minibot.app
 0.0.0.0 mobalytics.gg
 0.0.0.0 mod4minecraft.com
 0.0.0.0 modbay.org
@@ -256,6 +273,8 @@
 0.0.0.0 nadeko.bot
 0.0.0.0 needle.gg
 0.0.0.0 nekotina.com
+0.0.0.0 nft-bots.io
+0.0.0.0 notibot.app
 0.0.0.0 notifications.tiktok.com
 0.0.0.0 noxbot.gg
 0.0.0.0 nqn.blue
@@ -286,6 +305,7 @@
 0.0.0.0 pancake.gg
 0.0.0.0 paru.app
 0.0.0.0 patchbot.io
+0.0.0.0 pbot.app
 0.0.0.0 pcminecraft-mods.com
 0.0.0.0 pfps.gg
 0.0.0.0 pingcord.xyz
@@ -294,14 +314,17 @@
 0.0.0.0 pluralkit.me
 0.0.0.0 poketwo.net
 0.0.0.0 polnische-rechte.de
+0.0.0.0 prepi.io
 0.0.0.0 probot.gg
 0.0.0.0 probot.io
+0.0.0.0 progresspal.app
 0.0.0.0 purrbot.site
 0.0.0.0 pylon.bot
 0.0.0.0 quickvids.win
 0.0.0.0 ratingtool.xyz
 0.0.0.0 rbxadder.com
 0.0.0.0 rbxgum.com
+0.0.0.0 readybot.io
 0.0.0.0 rewardrobux.com
 0.0.0.0 rias.gg
 0.0.0.0 richterschmidt.de
@@ -325,10 +348,12 @@
 0.0.0.0 rosnipe.site
 0.0.0.0 rovalk.com
 0.0.0.0 rscripts.net
+0.0.0.0 rss.app
 0.0.0.0 rtc.gw.forward.pvt.tiktok.com
 0.0.0.0 rtc.gw.forward.test.tiktok.com
 0.0.0.0 ru-minecraft.ru
 0.0.0.0 rubx.us
+0.0.0.0 ruleslawyer.app
 0.0.0.0 rustlink.io
 0.0.0.0 rythm.fm
 0.0.0.0 sapph.xyz
@@ -338,6 +363,7 @@
 0.0.0.0 savetik.net
 0.0.0.0 savetiktok.io
 0.0.0.0 savett.cc
+0.0.0.0 searchbot.app
 0.0.0.0 securitybot.gg
 0.0.0.0 securitybot.xyz
 0.0.0.0 seniorenrecht-saar.de
@@ -380,17 +406,22 @@
 0.0.0.0 swap.gg
 0.0.0.0 sweetrbx.com
 0.0.0.0 sxbot.io
+0.0.0.0 tacobot.app
 0.0.0.0 taptik.app
 0.0.0.0 tatsu.gg
 0.0.0.0 tatsumaki.xyz
 0.0.0.0 tempobot.net
+0.0.0.0 teraflare.app
 0.0.0.0 texture-packs.com
+0.0.0.0 the100.io
 0.0.0.0 thefreerobux.com
 0.0.0.0 ticketsbot.net
 0.0.0.0 tickettool.xyz
 0.0.0.0 tik-downloader.io
 0.0.0.0 tik.fail
+0.0.0.0 tik18.app
 0.0.0.0 tikclear.app
+0.0.0.0 tikd.cc
 0.0.0.0 tikdd.cc
 0.0.0.0 tikdown.org
 0.0.0.0 tikdownloader.io
@@ -402,6 +433,7 @@
 0.0.0.0 tikshot.app
 0.0.0.0 tiktal.co
 0.0.0.0 tiktap.io
+0.0.0.0 tiktocplus.app
 0.0.0.0 tiktok-downloader.pl
 0.0.0.0 tiktok.com
 0.0.0.0 tiktokapp.cc
@@ -418,6 +450,7 @@
 0.0.0.0 tiktokvideo.live
 0.0.0.0 tiktokvideodownloader.com.pk
 0.0.0.0 tiktokvideodownloader.one
+0.0.0.0 tiktop.app
 0.0.0.0 tikvid.cc
 0.0.0.0 tikvid.io
 0.0.0.0 tikvideo.app
@@ -448,6 +481,7 @@
 0.0.0.0 v3rmillion.net
 0.0.0.0 vag.gg
 0.0.0.0 vape.gg
+0.0.0.0 vayna.app
 0.0.0.0 vexera.io
 0.0.0.0 vidtik.app
 0.0.0.0 vlr.gg
@@ -476,6 +510,7 @@
 0.0.0.0 www.acepicturebot.com
 0.0.0.0 www.ads-service.tiktok.com
 0.0.0.0 www.ads.tiktok.com
+0.0.0.0 www.aleeva.io
 0.0.0.0 www.allstar.gg
 0.0.0.0 www.analytics.tiktok.com
 0.0.0.0 www.anibot.moe
@@ -486,6 +521,7 @@
 0.0.0.0 www.arcane.bot
 0.0.0.0 www.arcanebot.xyz
 0.0.0.0 www.aristois.net
+0.0.0.0 www.arkbuddy.app
 0.0.0.0 www.asphaltbot.com
 0.0.0.0 www.autocode.gg
 0.0.0.0 www.auttaja.io
@@ -499,6 +535,8 @@
 0.0.0.0 www.bnder.net
 0.0.0.0 www.botdisco.com
 0.0.0.0 www.botghost.com
+0.0.0.0 www.botlist.app
+0.0.0.0 www.botloader.io
 0.0.0.0 www.bots.ondiscord.xyz
 0.0.0.0 www.brussell.me
 0.0.0.0 www.btroblox.net
@@ -539,12 +577,15 @@
 0.0.0.0 www.claimrbx.gg
 0.0.0.0 www.countr.xyz
 0.0.0.0 www.craig.chat
+0.0.0.0 www.crbt.app
 0.0.0.0 www.csgoskins.gg
 0.0.0.0 www.dankmemer.gg
 0.0.0.0 www.dankmemer.lol
 0.0.0.0 www.datahub.tiktok.com
 0.0.0.0 www.disboard.org
 0.0.0.0 www.discadia.com
+0.0.0.0 www.discohook.app
+0.0.0.0 www.discord.app
 0.0.0.0 www.discord.bots.gg
 0.0.0.0 www.discord.chat
 0.0.0.0 www.discord.com
@@ -574,16 +615,20 @@
 0.0.0.0 www.discords.com
 0.0.0.0 www.discordservers.com
 0.0.0.0 www.discordstatus.com
+0.0.0.0 www.discordtickets.app
 0.0.0.0 www.discordtree.com
 0.0.0.0 www.disforge.com
+0.0.0.0 www.downloader.bot
 0.0.0.0 www.downtik.io
 0.0.0.0 www.downtik.to
+0.0.0.0 www.downtiktok.online
 0.0.0.0 www.drs.gw.us.tiktok.com
 0.0.0.0 www.dyno.gg
 0.0.0.0 www.e.tiktok.com
 0.0.0.0 www.easypoll.bot
 0.0.0.0 www.egress.gw.us.tiktok.com
 0.0.0.0 www.elementalbot.com
+0.0.0.0 www.elitebgs.app
 0.0.0.0 www.ely.gg
 0.0.0.0 www.emoji.gg
 0.0.0.0 www.eren.si
@@ -591,6 +636,7 @@
 0.0.0.0 www.flavibot.xyz
 0.0.0.0 www.fliptok.app
 0.0.0.0 www.fmbot.xyz
+0.0.0.0 www.fplbot.app
 0.0.0.0 www.fredboat.com
 0.0.0.0 www.free-robux-counter-counterstudio.en.aptoide.com
 0.0.0.0 www.free-robux-counter-counterstudio.mx.aptoide.com
@@ -606,6 +652,8 @@
 0.0.0.0 www.giveawaybot.party
 0.0.0.0 www.gotik.app
 0.0.0.0 www.gow.gg
+0.0.0.0 www.gptassistant.app
+0.0.0.0 www.green-bot.app
 0.0.0.0 www.groovy.bot
 0.0.0.0 www.guild.xyz
 0.0.0.0 www.gw2bot.info
@@ -623,9 +671,11 @@
 0.0.0.0 www.in.tiktok.com
 0.0.0.0 www.invite-tracker.com
 0.0.0.0 www.inwerk-kuechen-news.de
+0.0.0.0 www.itranslator.app
 0.0.0.0 www.juniper.bot
 0.0.0.0 www.keeptik.online
 0.0.0.0 www.koya.gg
+0.0.0.0 www.kyubot.app
 0.0.0.0 www.lawlietbot.xyz
 0.0.0.0 www.leetify.gg
 0.0.0.0 www.libertas.gg
@@ -685,6 +735,7 @@
 0.0.0.0 www.mined.to
 0.0.0.0 www.minehacks.net
 0.0.0.0 www.minesters.com
+0.0.0.0 www.minibot.app
 0.0.0.0 www.mobalytics.gg
 0.0.0.0 www.mod4minecraft.com
 0.0.0.0 www.modbay.org
@@ -708,6 +759,8 @@
 0.0.0.0 www.nadeko.bot
 0.0.0.0 www.needle.gg
 0.0.0.0 www.nekotina.com
+0.0.0.0 www.nft-bots.io
+0.0.0.0 www.notibot.app
 0.0.0.0 www.notifications.tiktok.com
 0.0.0.0 www.noxbot.gg
 0.0.0.0 www.nqn.blue
@@ -738,6 +791,7 @@
 0.0.0.0 www.pancake.gg
 0.0.0.0 www.paru.app
 0.0.0.0 www.patchbot.io
+0.0.0.0 www.pbot.app
 0.0.0.0 www.pcminecraft-mods.com
 0.0.0.0 www.pfps.gg
 0.0.0.0 www.pingcord.xyz
@@ -746,14 +800,17 @@
 0.0.0.0 www.pluralkit.me
 0.0.0.0 www.poketwo.net
 0.0.0.0 www.polnische-rechte.de
+0.0.0.0 www.prepi.io
 0.0.0.0 www.probot.gg
 0.0.0.0 www.probot.io
+0.0.0.0 www.progresspal.app
 0.0.0.0 www.purrbot.site
 0.0.0.0 www.pylon.bot
 0.0.0.0 www.quickvids.win
 0.0.0.0 www.ratingtool.xyz
 0.0.0.0 www.rbxadder.com
 0.0.0.0 www.rbxgum.com
+0.0.0.0 www.readybot.io
 0.0.0.0 www.rewardrobux.com
 0.0.0.0 www.rias.gg
 0.0.0.0 www.richterschmidt.de
@@ -777,10 +834,12 @@
 0.0.0.0 www.rosnipe.site
 0.0.0.0 www.rovalk.com
 0.0.0.0 www.rscripts.net
+0.0.0.0 www.rss.app
 0.0.0.0 www.rtc.gw.forward.pvt.tiktok.com
 0.0.0.0 www.rtc.gw.forward.test.tiktok.com
 0.0.0.0 www.ru-minecraft.ru
 0.0.0.0 www.rubx.us
+0.0.0.0 www.ruleslawyer.app
 0.0.0.0 www.rustlink.io
 0.0.0.0 www.rythm.fm
 0.0.0.0 www.sapph.xyz
@@ -790,6 +849,7 @@
 0.0.0.0 www.savetik.net
 0.0.0.0 www.savetiktok.io
 0.0.0.0 www.savett.cc
+0.0.0.0 www.searchbot.app
 0.0.0.0 www.securitybot.gg
 0.0.0.0 www.securitybot.xyz
 0.0.0.0 www.seniorenrecht-saar.de
@@ -831,17 +891,22 @@
 0.0.0.0 www.swap.gg
 0.0.0.0 www.sweetrbx.com
 0.0.0.0 www.sxbot.io
+0.0.0.0 www.tacobot.app
 0.0.0.0 www.taptik.app
 0.0.0.0 www.tatsu.gg
 0.0.0.0 www.tatsumaki.xyz
 0.0.0.0 www.tempobot.net
+0.0.0.0 www.teraflare.app
 0.0.0.0 www.texture-packs.com
+0.0.0.0 www.the100.io
 0.0.0.0 www.thefreerobux.com
 0.0.0.0 www.ticketsbot.net
 0.0.0.0 www.tickettool.xyz
 0.0.0.0 www.tik-downloader.io
 0.0.0.0 www.tik.fail
+0.0.0.0 www.tik18.app
 0.0.0.0 www.tikclear.app
+0.0.0.0 www.tikd.cc
 0.0.0.0 www.tikdd.cc
 0.0.0.0 www.tikdown.org
 0.0.0.0 www.tikdownloader.io
@@ -853,6 +918,7 @@
 0.0.0.0 www.tikshot.app
 0.0.0.0 www.tiktal.co
 0.0.0.0 www.tiktap.io
+0.0.0.0 www.tiktocplus.app
 0.0.0.0 www.tiktok-downloader.pl
 0.0.0.0 www.tiktok.com
 0.0.0.0 www.tiktokapp.cc
@@ -869,6 +935,7 @@
 0.0.0.0 www.tiktokvideo.live
 0.0.0.0 www.tiktokvideodownloader.com.pk
 0.0.0.0 www.tiktokvideodownloader.one
+0.0.0.0 www.tiktop.app
 0.0.0.0 www.tikvid.cc
 0.0.0.0 www.tikvid.io
 0.0.0.0 www.tikvideo.app
@@ -899,6 +966,7 @@
 0.0.0.0 www.v3rmillion.net
 0.0.0.0 www.vag.gg
 0.0.0.0 www.vape.gg
+0.0.0.0 www.vayna.app
 0.0.0.0 www.vexera.io
 0.0.0.0 www.vidtik.app
 0.0.0.0 www.vlr.gg
@@ -917,6 +985,7 @@
 0.0.0.0 www.xenon.bot
 0.0.0.0 www.yagpdb.xyz
 0.0.0.0 www.ygg.fun
+0.0.0.0 www.yuibot.app
 0.0.0.0 www.zira.gg
 0.0.0.0 www.zoe-discord-bot.ch
 0.0.0.0 www.zonacraft.net
@@ -924,6 +993,7 @@
 0.0.0.0 xenon.bot
 0.0.0.0 yagpdb.xyz
 0.0.0.0 ygg.fun
+0.0.0.0 yuibot.app
 0.0.0.0 zira.gg
 0.0.0.0 zoe-discord-bot.ch
 0.0.0.0 zonacraft.net
