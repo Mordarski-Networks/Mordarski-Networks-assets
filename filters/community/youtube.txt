@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets community filter list for YouTube
 ! Description: Community backed filter list for YouTube
 ! Expires: 2 days
-! Last modified: Thursday, November 02, 2023 09:53:48 PM UTC
+! Last modified: Monday, November 06, 2023 12:39:18 AM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -127,6 +127,14 @@ www.youtube.com##ytd-search a[href*="wizardhax"]:upward(ytd-video-renderer,ytd-c
 www.youtube.com##ytd-shorts:matches-path(/shorts) a.ytd-reel-player-header-renderer[href*="wizardhax"]:upward(ytd-reel-video-renderer)
 m.youtube.com##ytm-browse a[href*="wizardhax"]:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search a[href*="wizardhax"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+
+! Miscellaneous
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@HistoriasYT"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@HistoriasYT"]:upward(ytd-video-renderer,ytd-channel-renderer)
+www.youtube.com##ytd-shorts:matches-path(/shorts) a.ytd-reel-player-header-renderer[href$="@HistoriasYT"]:upward(ytd-reel-video-renderer)
+m.youtube.com##ytm-browse a[href$="@HistoriasYT"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@HistoriasYT"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 
 !--- Filter Youtube Videos ---!
