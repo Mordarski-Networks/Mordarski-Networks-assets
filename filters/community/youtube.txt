@@ -137,6 +137,16 @@ m.youtube.com##ytm-browse a[href$="@HistoriasYT"]:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search a[href$="@HistoriasYT"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 
+!OH GOD NO PLEASE WHAT THE OH GOD OH GOD NO NO BUT LIKE WHY TF OH GOD PLEASE DISABLING = FOOL OH GOD YOUTUBE FUCK YOU OH GOD NO PLEASE WHAT THE OH GOD OH GOD NO NO BUT LIKE WHY TF OH GOD PLEASE DISABLING = FOOL OH GOD YOUTUBE FUCK YOU OH GOD NO PLEASE WHAT THE OH GOD OH GOD NO NO BUT LIKE WHY TF OH GOD PLEASE DISABLING = FOOL OH GOD YOUTUBE FUCK YOU
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@RetriFox"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@RetriFox"]:upward(ytd-video-renderer,ytd-channel-renderer)
+www.youtube.com##ytd-shorts:matches-path(/shorts) a.ytd-reel-player-header-renderer[href$="@RetriFox"]:upward(ytd-reel-video-renderer)
+m.youtube.com##ytm-browse a[href$="@RetriFox"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@RetriFox"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+
+
+
 !--- Filter Youtube Videos ---!
 ! Info: https://letsblock.it/filters/youtube-video-title
 ! Syntax: example.com##
