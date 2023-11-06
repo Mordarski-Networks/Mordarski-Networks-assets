@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Saturday, November 04, 2023 10:10:35 PM UTC
+# Last modified: Monday, November 06, 2023 12:57:39 AM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -358,6 +358,7 @@
 127.0.0.1 rythm.fm
 127.0.0.1 sapph.xyz
 127.0.0.1 save-tik.com
+127.0.0.1 savetik.app
 127.0.0.1 savetik.cc
 127.0.0.1 savetik.co
 127.0.0.1 savetik.net
@@ -373,6 +374,7 @@
 127.0.0.1 shadersmods.com
 127.0.0.1 sirtaptap.com
 127.0.0.1 skinship.xyz
+127.0.0.1 snapsave.app
 127.0.0.1 snaptik.ai
 127.0.0.1 snaptik.app
 127.0.0.1 snaptik.biz
@@ -380,20 +382,24 @@
 127.0.0.1 snaptik.ink
 127.0.0.1 snaptik.io
 127.0.0.1 snaptik.ltd
+127.0.0.1 snaptik.pro
 127.0.0.1 snaptik.red
 127.0.0.1 snaptik.tools
 127.0.0.1 snaptik.world
 127.0.0.1 snaptikapp.me
 127.0.0.1 snaptiktok.io
+127.0.0.1 snaptikvideo.com
 127.0.0.1 sofi.gg
 127.0.0.1 ssstik.io
 127.0.0.1 ssstik.link
 127.0.0.1 ssstik.live
+127.0.0.1 ssstik.tv
 127.0.0.1 ssstiktoc.io
 127.0.0.1 ssstiktok.lol
 127.0.0.1 ssstiktok.run
 127.0.0.1 ssstiktok.tools
 127.0.0.1 ssstiktok.ws
+127.0.0.1 ssstiktokio.com
 127.0.0.1 ssstt.app
 127.0.0.1 sstik.de
 127.0.0.1 starpets.gg
@@ -424,7 +430,9 @@
 127.0.0.1 tikd.cc
 127.0.0.1 tikdd.cc
 127.0.0.1 tikdown.org
+127.0.0.1 tikdownload.com
 127.0.0.1 tikdownloader.io
+127.0.0.1 tikfast.net
 127.0.0.1 tikin.app
 127.0.0.1 tikmate.app
 127.0.0.1 tikmate.cc
@@ -444,6 +452,7 @@
 127.0.0.1 tiktokdownloader.info
 127.0.0.1 tiktokdownloader.one
 127.0.0.1 tiktokdownloader.ru
+127.0.0.1 tiktokdownloadr.com
 127.0.0.1 tiktokindex.ro
 127.0.0.1 tiktokmate.io
 127.0.0.1 tiktokus.info
@@ -460,6 +469,7 @@
 127.0.0.1 tlmods.org
 127.0.0.1 tlmods.ru
 127.0.0.1 tmate.cc
+127.0.0.1 tokcounter.com
 127.0.0.1 tokdownload.com
 127.0.0.1 top.gg
 127.0.0.1 tracking.infobip.account.tiktok.com
@@ -469,6 +479,7 @@
 127.0.0.1 truthordarebot.xyz
 127.0.0.1 ttdownloader.app
 127.0.0.1 ttdownloader.com
+127.0.0.1 ttdownloader.net
 127.0.0.1 ttmate.io
 127.0.0.1 ttok.app
 127.0.0.1 ttsave.app
@@ -844,6 +855,7 @@
 127.0.0.1 www.rythm.fm
 127.0.0.1 www.sapph.xyz
 127.0.0.1 www.save-tik.com
+127.0.0.1 www.savetik.app
 127.0.0.1 www.savetik.cc
 127.0.0.1 www.savetik.co
 127.0.0.1 www.savetik.net
@@ -859,6 +871,7 @@
 127.0.0.1 www.shadersmods.com
 127.0.0.1 www.sirtaptap.com
 127.0.0.1 www.skinship.xyz
+127.0.0.1 www.snapsave.app
 127.0.0.1 www.snaptik.ai
 127.0.0.1 www.snaptik.app
 127.0.0.1 www.snaptik.biz
@@ -866,20 +879,24 @@
 127.0.0.1 www.snaptik.ink
 127.0.0.1 www.snaptik.io
 127.0.0.1 www.snaptik.ltd
+127.0.0.1 www.snaptik.pro
 127.0.0.1 www.snaptik.red
 127.0.0.1 www.snaptik.tools
 127.0.0.1 www.snaptik.world
 127.0.0.1 www.snaptikapp.me
 127.0.0.1 www.snaptiktok.io
+127.0.0.1 www.snaptikvideo.com
 127.0.0.1 www.sofi.gg
 127.0.0.1 www.ssstik.io
 127.0.0.1 www.ssstik.link
 127.0.0.1 www.ssstik.live
+127.0.0.1 www.ssstik.tv
 127.0.0.1 www.ssstiktoc.io
 127.0.0.1 www.ssstiktok.lol
 127.0.0.1 www.ssstiktok.run
 127.0.0.1 www.ssstiktok.tools
 127.0.0.1 www.ssstiktok.ws
+127.0.0.1 www.ssstiktokio.com
 127.0.0.1 www.ssstt.app
 127.0.0.1 www.sstik.de
 127.0.0.1 www.starpets.gg
@@ -909,7 +926,9 @@
 127.0.0.1 www.tikd.cc
 127.0.0.1 www.tikdd.cc
 127.0.0.1 www.tikdown.org
+127.0.0.1 www.tikdownload.com
 127.0.0.1 www.tikdownloader.io
+127.0.0.1 www.tikfast.net
 127.0.0.1 www.tikin.app
 127.0.0.1 www.tikmate.app
 127.0.0.1 www.tikmate.cc
@@ -929,6 +948,7 @@
 127.0.0.1 www.tiktokdownloader.info
 127.0.0.1 www.tiktokdownloader.one
 127.0.0.1 www.tiktokdownloader.ru
+127.0.0.1 www.tiktokdownloadr.com
 127.0.0.1 www.tiktokindex.ro
 127.0.0.1 www.tiktokmate.io
 127.0.0.1 www.tiktokus.info
@@ -945,6 +965,7 @@
 127.0.0.1 www.tlmods.org
 127.0.0.1 www.tlmods.ru
 127.0.0.1 www.tmate.cc
+127.0.0.1 www.tokcounter.com
 127.0.0.1 www.tokdownload.com
 127.0.0.1 www.top.gg
 127.0.0.1 www.tracking.infobip.account.tiktok.com
@@ -954,6 +975,7 @@
 127.0.0.1 www.truthordarebot.xyz
 127.0.0.1 www.ttdownloader.app
 127.0.0.1 www.ttdownloader.com
+127.0.0.1 www.ttdownloader.net
 127.0.0.1 www.ttmate.io
 127.0.0.1 www.ttok.app
 127.0.0.1 www.ttsave.app

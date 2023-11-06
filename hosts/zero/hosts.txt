@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Saturday, November 04, 2023 10:10:35 PM UTC
+# Last modified: Monday, November 06, 2023 12:57:39 AM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -358,6 +358,7 @@
 0.0.0.0 rythm.fm
 0.0.0.0 sapph.xyz
 0.0.0.0 save-tik.com
+0.0.0.0 savetik.app
 0.0.0.0 savetik.cc
 0.0.0.0 savetik.co
 0.0.0.0 savetik.net
@@ -373,6 +374,7 @@
 0.0.0.0 shadersmods.com
 0.0.0.0 sirtaptap.com
 0.0.0.0 skinship.xyz
+0.0.0.0 snapsave.app
 0.0.0.0 snaptik.ai
 0.0.0.0 snaptik.app
 0.0.0.0 snaptik.biz
@@ -380,20 +382,24 @@
 0.0.0.0 snaptik.ink
 0.0.0.0 snaptik.io
 0.0.0.0 snaptik.ltd
+0.0.0.0 snaptik.pro
 0.0.0.0 snaptik.red
 0.0.0.0 snaptik.tools
 0.0.0.0 snaptik.world
 0.0.0.0 snaptikapp.me
 0.0.0.0 snaptiktok.io
+0.0.0.0 snaptikvideo.com
 0.0.0.0 sofi.gg
 0.0.0.0 ssstik.io
 0.0.0.0 ssstik.link
 0.0.0.0 ssstik.live
+0.0.0.0 ssstik.tv
 0.0.0.0 ssstiktoc.io
 0.0.0.0 ssstiktok.lol
 0.0.0.0 ssstiktok.run
 0.0.0.0 ssstiktok.tools
 0.0.0.0 ssstiktok.ws
+0.0.0.0 ssstiktokio.com
 0.0.0.0 ssstt.app
 0.0.0.0 sstik.de
 0.0.0.0 starpets.gg
@@ -424,7 +430,9 @@
 0.0.0.0 tikd.cc
 0.0.0.0 tikdd.cc
 0.0.0.0 tikdown.org
+0.0.0.0 tikdownload.com
 0.0.0.0 tikdownloader.io
+0.0.0.0 tikfast.net
 0.0.0.0 tikin.app
 0.0.0.0 tikmate.app
 0.0.0.0 tikmate.cc
@@ -444,6 +452,7 @@
 0.0.0.0 tiktokdownloader.info
 0.0.0.0 tiktokdownloader.one
 0.0.0.0 tiktokdownloader.ru
+0.0.0.0 tiktokdownloadr.com
 0.0.0.0 tiktokindex.ro
 0.0.0.0 tiktokmate.io
 0.0.0.0 tiktokus.info
@@ -460,6 +469,7 @@
 0.0.0.0 tlmods.org
 0.0.0.0 tlmods.ru
 0.0.0.0 tmate.cc
+0.0.0.0 tokcounter.com
 0.0.0.0 tokdownload.com
 0.0.0.0 top.gg
 0.0.0.0 tracking.infobip.account.tiktok.com
@@ -469,6 +479,7 @@
 0.0.0.0 truthordarebot.xyz
 0.0.0.0 ttdownloader.app
 0.0.0.0 ttdownloader.com
+0.0.0.0 ttdownloader.net
 0.0.0.0 ttmate.io
 0.0.0.0 ttok.app
 0.0.0.0 ttsave.app
@@ -844,6 +855,7 @@
 0.0.0.0 www.rythm.fm
 0.0.0.0 www.sapph.xyz
 0.0.0.0 www.save-tik.com
+0.0.0.0 www.savetik.app
 0.0.0.0 www.savetik.cc
 0.0.0.0 www.savetik.co
 0.0.0.0 www.savetik.net
@@ -859,6 +871,7 @@
 0.0.0.0 www.shadersmods.com
 0.0.0.0 www.sirtaptap.com
 0.0.0.0 www.skinship.xyz
+0.0.0.0 www.snapsave.app
 0.0.0.0 www.snaptik.ai
 0.0.0.0 www.snaptik.app
 0.0.0.0 www.snaptik.biz
@@ -866,20 +879,24 @@
 0.0.0.0 www.snaptik.ink
 0.0.0.0 www.snaptik.io
 0.0.0.0 www.snaptik.ltd
+0.0.0.0 www.snaptik.pro
 0.0.0.0 www.snaptik.red
 0.0.0.0 www.snaptik.tools
 0.0.0.0 www.snaptik.world
 0.0.0.0 www.snaptikapp.me
 0.0.0.0 www.snaptiktok.io
+0.0.0.0 www.snaptikvideo.com
 0.0.0.0 www.sofi.gg
 0.0.0.0 www.ssstik.io
 0.0.0.0 www.ssstik.link
 0.0.0.0 www.ssstik.live
+0.0.0.0 www.ssstik.tv
 0.0.0.0 www.ssstiktoc.io
 0.0.0.0 www.ssstiktok.lol
 0.0.0.0 www.ssstiktok.run
 0.0.0.0 www.ssstiktok.tools
 0.0.0.0 www.ssstiktok.ws
+0.0.0.0 www.ssstiktokio.com
 0.0.0.0 www.ssstt.app
 0.0.0.0 www.sstik.de
 0.0.0.0 www.starpets.gg
@@ -909,7 +926,9 @@
 0.0.0.0 www.tikd.cc
 0.0.0.0 www.tikdd.cc
 0.0.0.0 www.tikdown.org
+0.0.0.0 www.tikdownload.com
 0.0.0.0 www.tikdownloader.io
+0.0.0.0 www.tikfast.net
 0.0.0.0 www.tikin.app
 0.0.0.0 www.tikmate.app
 0.0.0.0 www.tikmate.cc
@@ -929,6 +948,7 @@
 0.0.0.0 www.tiktokdownloader.info
 0.0.0.0 www.tiktokdownloader.one
 0.0.0.0 www.tiktokdownloader.ru
+0.0.0.0 www.tiktokdownloadr.com
 0.0.0.0 www.tiktokindex.ro
 0.0.0.0 www.tiktokmate.io
 0.0.0.0 www.tiktokus.info
@@ -945,6 +965,7 @@
 0.0.0.0 www.tlmods.org
 0.0.0.0 www.tlmods.ru
 0.0.0.0 www.tmate.cc
+0.0.0.0 www.tokcounter.com
 0.0.0.0 www.tokdownload.com
 0.0.0.0 www.top.gg
 0.0.0.0 www.tracking.infobip.account.tiktok.com
@@ -954,6 +975,7 @@
 0.0.0.0 www.truthordarebot.xyz
 0.0.0.0 www.ttdownloader.app
 0.0.0.0 www.ttdownloader.com
+0.0.0.0 www.ttdownloader.net
 0.0.0.0 www.ttmate.io
 0.0.0.0 www.ttok.app
 0.0.0.0 www.ttsave.app
