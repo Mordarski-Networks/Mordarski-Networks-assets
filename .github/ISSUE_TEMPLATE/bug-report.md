@@ -1,9 +1,9 @@
 ---
 name: Bug Report
-about: Report a filter list bug.
+about: File a bug report.
 title: "[Bug Report]: "
 labels: bug
-assignees: smordarski, gmordarski
+assignees: gmordarski, smordarski
 
 ---
 
