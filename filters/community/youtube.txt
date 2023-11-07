@@ -73,7 +73,6 @@ www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@Firelight"]:upward(yt
 www.youtube.com##ytd-search a[href*="@Firelight"]:upward(ytd-video-renderer,ytd-channel-renderer)
 m.youtube.com##ytm-browse a[href*="@Firelight"]:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search a[href*="@Firelight"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
-youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 
 ! This bitch content and his aberrations and amalgations
 www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@NearChannel2576"]:upward(ytd-rich-item-renderer)
@@ -84,7 +83,6 @@ www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@jtd2977"]:upward(ytd-
 www.youtube.com##ytd-search a[href*="@jtd2977"]:upward(ytd-video-renderer,ytd-channel-renderer)
 m.youtube.com##ytm-browse a[href*="@jtd2977"]:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search a[href*="@jtd2977"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
-youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 
 ! NOTE: Supposedly, these are the ball of his friends. Maybe one is a sneaked alt, other is probably a terro- i mean i dunno.
 www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@migrator3847"]:upward(ytd-rich-item-renderer)
@@ -119,7 +117,6 @@ www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@lapur5699"]:upward(yt
 www.youtube.com##ytd-search a[href*="@lapur5699"]:upward(ytd-video-renderer,ytd-channel-renderer)
 m.youtube.com##ytm-browse a[href*="@lapur5699"]:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search a[href*="@lapur5699"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
-youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 
 ! Minecraft Hacking Channels
 www.youtube.com##ytd-browse[page-subtype="home"] a[href*="wizardhax"]:upward(ytd-rich-item-renderer)
@@ -127,7 +124,6 @@ www.youtube.com##ytd-search a[href*="wizardhax"]:upward(ytd-video-renderer,ytd-c
 www.youtube.com##ytd-shorts:matches-path(/shorts) a.ytd-reel-player-header-renderer[href*="wizardhax"]:upward(ytd-reel-video-renderer)
 m.youtube.com##ytm-browse a[href*="wizardhax"]:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search a[href*="wizardhax"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
-youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
 
 ! Miscellaneous
 www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@HistoriasYT"]:upward(ytd-rich-item-renderer)
@@ -135,7 +131,11 @@ www.youtube.com##ytd-search a[href$="@HistoriasYT"]:upward(ytd-video-renderer,yt
 www.youtube.com##ytd-shorts:matches-path(/shorts) a.ytd-reel-player-header-renderer[href$="@HistoriasYT"]:upward(ytd-reel-video-renderer)
 m.youtube.com##ytm-browse a[href$="@HistoriasYT"]:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search a[href$="@HistoriasYT"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
-youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@RetriFox"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@RetriFox"]:upward(ytd-video-renderer,ytd-channel-renderer)
+www.youtube.com##ytd-shorts:matches-path(/shorts) a.ytd-reel-player-header-renderer[href$="@RetriFox"]:upward(ytd-reel-video-renderer)
+m.youtube.com##ytm-browse a[href$="@RetriFox"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@RetriFox"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
 
 !--- Filter Youtube Videos ---!
 ! Info: https://letsblock.it/filters/youtube-video-title
