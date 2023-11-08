@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Monday, November 06, 2023 12:57:39 AM UTC
+# Last modified: Tuesday, November 07, 2023 11:35:24 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -46,6 +46,7 @@
 0.0.0.0 botdisco.com
 0.0.0.0 botghost.com
 0.0.0.0 botlist.app
+0.0.0.0 botlist.site
 0.0.0.0 botloader.io
 0.0.0.0 bots.ondiscord.xyz
 0.0.0.0 brussell.me
@@ -83,6 +84,7 @@
 0.0.0.0 cheatermad.com
 0.0.0.0 chipbot.gg
 0.0.0.0 chocolateminecraft.com
+0.0.0.0 circlebot.gay
 0.0.0.0 circlebot.xyz
 0.0.0.0 claimrbx.gg
 0.0.0.0 client.badlion.net
@@ -116,9 +118,13 @@
 0.0.0.0 discord.xyz
 0.0.0.0 discordapp.com
 0.0.0.0 discordbotlist.com
+0.0.0.0 discordbotlist.org
 0.0.0.0 discordbots.app
+0.0.0.0 discordbots.org
+0.0.0.0 discordbotstudio.org
 0.0.0.0 discordhome.com
 0.0.0.0 discordjs.guide
+0.0.0.0 discordlabs.org
 0.0.0.0 discordlist.gg
 0.0.0.0 discordmerch.com
 0.0.0.0 discordmerch.store
@@ -149,6 +155,7 @@
 0.0.0.0 flavibot.xyz
 0.0.0.0 fliptok.app
 0.0.0.0 fmbot.xyz
+0.0.0.0 fmcpe.com
 0.0.0.0 fplbot.app
 0.0.0.0 fredboat.com
 0.0.0.0 free-robux-counter-counterstudio.en.aptoide.com
@@ -168,6 +175,7 @@
 0.0.0.0 gptassistant.app
 0.0.0.0 green-bot.app
 0.0.0.0 groovy.bot
+0.0.0.0 guide-minecraft.com
 0.0.0.0 guide.melonbot.io
 0.0.0.0 guild.xyz
 0.0.0.0 gw2bot.info
@@ -183,6 +191,7 @@
 0.0.0.0 ibyteimg.com
 0.0.0.0 impactclient.net
 0.0.0.0 in.tiktok.com
+0.0.0.0 instantmods.com
 0.0.0.0 invite-tracker.com
 0.0.0.0 inwerk-kuechen-news.de
 0.0.0.0 itranslator.app
@@ -190,6 +199,7 @@
 0.0.0.0 keeptik.online
 0.0.0.0 koya.gg
 0.0.0.0 kyubot.app
+0.0.0.0 laralove.gay
 0.0.0.0 lawlietbot.xyz
 0.0.0.0 leetify.gg
 0.0.0.0 libertas.gg
@@ -201,6 +211,7 @@
 0.0.0.0 lovetik.com
 0.0.0.0 lunarclient.com
 0.0.0.0 maki.gg
+0.0.0.0 mantaro.site
 0.0.0.0 maplestory.gg
 0.0.0.0 mc-addons.com
 0.0.0.0 mc-hacks.net
@@ -225,6 +236,7 @@
 0.0.0.0 mee6.gg
 0.0.0.0 mee6.xyz
 0.0.0.0 melonbot.io
+0.0.0.0 memebot.site
 0.0.0.0 micdoodle8.com
 0.0.0.0 midjourney.com
 0.0.0.0 miki.bot
@@ -233,10 +245,12 @@
 0.0.0.0 minecraft-inside.ru
 0.0.0.0 minecraft-installer.com
 0.0.0.0 minecraft-pocket.com
+0.0.0.0 minecraft17.com
 0.0.0.0 minecraftclue.com
 0.0.0.0 minecrafteo.com
 0.0.0.0 minecrafthax.org
 0.0.0.0 minecrafthub.com
+0.0.0.0 minecraftinsider.com
 0.0.0.0 minecraftmods.com
 0.0.0.0 minecraftmodspc.com
 0.0.0.0 minecraftpe-mods.com
@@ -303,12 +317,15 @@
 0.0.0.0 owo-bot.xyz
 0.0.0.0 owobot.com
 0.0.0.0 pancake.gg
+0.0.0.0 pancakebot.org
 0.0.0.0 paru.app
 0.0.0.0 patchbot.io
 0.0.0.0 pbot.app
 0.0.0.0 pcminecraft-mods.com
 0.0.0.0 pfps.gg
 0.0.0.0 pingcord.xyz
+0.0.0.0 pixel.gay
+0.0.0.0 planet-minecraft.com
 0.0.0.0 planetrbx.com
 0.0.0.0 playmods.net
 0.0.0.0 pluralkit.me
@@ -356,7 +373,9 @@
 0.0.0.0 ruleslawyer.app
 0.0.0.0 rustlink.io
 0.0.0.0 rythm.fm
+0.0.0.0 sanha.gay
 0.0.0.0 sapph.xyz
+0.0.0.0 sariku.gay
 0.0.0.0 save-tik.com
 0.0.0.0 savetik.app
 0.0.0.0 savetik.cc
@@ -390,6 +409,7 @@
 0.0.0.0 snaptiktok.io
 0.0.0.0 snaptikvideo.com
 0.0.0.0 sofi.gg
+0.0.0.0 spicybot.site
 0.0.0.0 ssstik.io
 0.0.0.0 ssstik.link
 0.0.0.0 ssstik.live
@@ -547,6 +567,7 @@
 0.0.0.0 www.botdisco.com
 0.0.0.0 www.botghost.com
 0.0.0.0 www.botlist.app
+0.0.0.0 www.botlist.site
 0.0.0.0 www.botloader.io
 0.0.0.0 www.bots.ondiscord.xyz
 0.0.0.0 www.brussell.me
@@ -584,6 +605,7 @@
 0.0.0.0 www.cheatermad.com
 0.0.0.0 www.chipbot.gg
 0.0.0.0 www.chocolateminecraft.com
+0.0.0.0 www.circlebot.gay
 0.0.0.0 www.circlebot.xyz
 0.0.0.0 www.claimrbx.gg
 0.0.0.0 www.countr.xyz
@@ -615,9 +637,13 @@
 0.0.0.0 www.discord.xyz
 0.0.0.0 www.discordapp.com
 0.0.0.0 www.discordbotlist.com
+0.0.0.0 www.discordbotlist.org
 0.0.0.0 www.discordbots.app
+0.0.0.0 www.discordbots.org
+0.0.0.0 www.discordbotstudio.org
 0.0.0.0 www.discordhome.com
 0.0.0.0 www.discordjs.guide
+0.0.0.0 www.discordlabs.org
 0.0.0.0 www.discordlist.gg
 0.0.0.0 www.discordmerch.com
 0.0.0.0 www.discordmerch.store
@@ -647,6 +673,7 @@
 0.0.0.0 www.flavibot.xyz
 0.0.0.0 www.fliptok.app
 0.0.0.0 www.fmbot.xyz
+0.0.0.0 www.fmcpe.com
 0.0.0.0 www.fplbot.app
 0.0.0.0 www.fredboat.com
 0.0.0.0 www.free-robux-counter-counterstudio.en.aptoide.com
@@ -666,6 +693,7 @@
 0.0.0.0 www.gptassistant.app
 0.0.0.0 www.green-bot.app
 0.0.0.0 www.groovy.bot
+0.0.0.0 www.guide-minecraft.com
 0.0.0.0 www.guild.xyz
 0.0.0.0 www.gw2bot.info
 0.0.0.0 www.helltides.com
@@ -680,6 +708,7 @@
 0.0.0.0 www.ibyteimg.com
 0.0.0.0 www.impactclient.net
 0.0.0.0 www.in.tiktok.com
+0.0.0.0 www.instantmods.com
 0.0.0.0 www.invite-tracker.com
 0.0.0.0 www.inwerk-kuechen-news.de
 0.0.0.0 www.itranslator.app
@@ -687,6 +716,7 @@
 0.0.0.0 www.keeptik.online
 0.0.0.0 www.koya.gg
 0.0.0.0 www.kyubot.app
+0.0.0.0 www.laralove.gay
 0.0.0.0 www.lawlietbot.xyz
 0.0.0.0 www.leetify.gg
 0.0.0.0 www.libertas.gg
@@ -698,6 +728,7 @@
 0.0.0.0 www.lovetik.com
 0.0.0.0 www.lunarclient.com
 0.0.0.0 www.maki.gg
+0.0.0.0 www.mantaro.site
 0.0.0.0 www.maplestory.gg
 0.0.0.0 www.mc-addons.com
 0.0.0.0 www.mc-hacks.net
@@ -722,6 +753,7 @@
 0.0.0.0 www.mee6.gg
 0.0.0.0 www.mee6.xyz
 0.0.0.0 www.melonbot.io
+0.0.0.0 www.memebot.site
 0.0.0.0 www.micdoodle8.com
 0.0.0.0 www.midjourney.com
 0.0.0.0 www.miki.bot
@@ -730,10 +762,12 @@
 0.0.0.0 www.minecraft-inside.ru
 0.0.0.0 www.minecraft-installer.com
 0.0.0.0 www.minecraft-pocket.com
+0.0.0.0 www.minecraft17.com
 0.0.0.0 www.minecraftclue.com
 0.0.0.0 www.minecrafteo.com
 0.0.0.0 www.minecrafthax.org
 0.0.0.0 www.minecrafthub.com
+0.0.0.0 www.minecraftinsider.com
 0.0.0.0 www.minecraftmods.com
 0.0.0.0 www.minecraftmodspc.com
 0.0.0.0 www.minecraftpe-mods.com
@@ -800,12 +834,15 @@
 0.0.0.0 www.owo-bot.xyz
 0.0.0.0 www.owobot.com
 0.0.0.0 www.pancake.gg
+0.0.0.0 www.pancakebot.org
 0.0.0.0 www.paru.app
 0.0.0.0 www.patchbot.io
 0.0.0.0 www.pbot.app
 0.0.0.0 www.pcminecraft-mods.com
 0.0.0.0 www.pfps.gg
 0.0.0.0 www.pingcord.xyz
+0.0.0.0 www.pixel.gay
+0.0.0.0 www.planet-minecraft.com
 0.0.0.0 www.planetrbx.com
 0.0.0.0 www.playmods.net
 0.0.0.0 www.pluralkit.me
@@ -853,7 +890,9 @@
 0.0.0.0 www.ruleslawyer.app
 0.0.0.0 www.rustlink.io
 0.0.0.0 www.rythm.fm
+0.0.0.0 www.sanha.gay
 0.0.0.0 www.sapph.xyz
+0.0.0.0 www.sariku.gay
 0.0.0.0 www.save-tik.com
 0.0.0.0 www.savetik.app
 0.0.0.0 www.savetik.cc
@@ -887,6 +926,7 @@
 0.0.0.0 www.snaptiktok.io
 0.0.0.0 www.snaptikvideo.com
 0.0.0.0 www.sofi.gg
+0.0.0.0 www.spicybot.site
 0.0.0.0 www.ssstik.io
 0.0.0.0 www.ssstik.link
 0.0.0.0 www.ssstik.live

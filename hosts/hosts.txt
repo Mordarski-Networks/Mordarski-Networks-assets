@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Monday, November 06, 2023 12:57:39 AM UTC
+# Last modified: Tuesday, November 07, 2023 11:35:24 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -46,6 +46,7 @@
 127.0.0.1 botdisco.com
 127.0.0.1 botghost.com
 127.0.0.1 botlist.app
+127.0.0.1 botlist.site
 127.0.0.1 botloader.io
 127.0.0.1 bots.ondiscord.xyz
 127.0.0.1 brussell.me
@@ -83,6 +84,7 @@
 127.0.0.1 cheatermad.com
 127.0.0.1 chipbot.gg
 127.0.0.1 chocolateminecraft.com
+127.0.0.1 circlebot.gay
 127.0.0.1 circlebot.xyz
 127.0.0.1 claimrbx.gg
 127.0.0.1 client.badlion.net
@@ -116,9 +118,13 @@
 127.0.0.1 discord.xyz
 127.0.0.1 discordapp.com
 127.0.0.1 discordbotlist.com
+127.0.0.1 discordbotlist.org
 127.0.0.1 discordbots.app
+127.0.0.1 discordbots.org
+127.0.0.1 discordbotstudio.org
 127.0.0.1 discordhome.com
 127.0.0.1 discordjs.guide
+127.0.0.1 discordlabs.org
 127.0.0.1 discordlist.gg
 127.0.0.1 discordmerch.com
 127.0.0.1 discordmerch.store
@@ -149,6 +155,7 @@
 127.0.0.1 flavibot.xyz
 127.0.0.1 fliptok.app
 127.0.0.1 fmbot.xyz
+127.0.0.1 fmcpe.com
 127.0.0.1 fplbot.app
 127.0.0.1 fredboat.com
 127.0.0.1 free-robux-counter-counterstudio.en.aptoide.com
@@ -168,6 +175,7 @@
 127.0.0.1 gptassistant.app
 127.0.0.1 green-bot.app
 127.0.0.1 groovy.bot
+127.0.0.1 guide-minecraft.com
 127.0.0.1 guide.melonbot.io
 127.0.0.1 guild.xyz
 127.0.0.1 gw2bot.info
@@ -183,6 +191,7 @@
 127.0.0.1 ibyteimg.com
 127.0.0.1 impactclient.net
 127.0.0.1 in.tiktok.com
+127.0.0.1 instantmods.com
 127.0.0.1 invite-tracker.com
 127.0.0.1 inwerk-kuechen-news.de
 127.0.0.1 itranslator.app
@@ -190,6 +199,7 @@
 127.0.0.1 keeptik.online
 127.0.0.1 koya.gg
 127.0.0.1 kyubot.app
+127.0.0.1 laralove.gay
 127.0.0.1 lawlietbot.xyz
 127.0.0.1 leetify.gg
 127.0.0.1 libertas.gg
@@ -201,6 +211,7 @@
 127.0.0.1 lovetik.com
 127.0.0.1 lunarclient.com
 127.0.0.1 maki.gg
+127.0.0.1 mantaro.site
 127.0.0.1 maplestory.gg
 127.0.0.1 mc-addons.com
 127.0.0.1 mc-hacks.net
@@ -225,6 +236,7 @@
 127.0.0.1 mee6.gg
 127.0.0.1 mee6.xyz
 127.0.0.1 melonbot.io
+127.0.0.1 memebot.site
 127.0.0.1 micdoodle8.com
 127.0.0.1 midjourney.com
 127.0.0.1 miki.bot
@@ -233,10 +245,12 @@
 127.0.0.1 minecraft-inside.ru
 127.0.0.1 minecraft-installer.com
 127.0.0.1 minecraft-pocket.com
+127.0.0.1 minecraft17.com
 127.0.0.1 minecraftclue.com
 127.0.0.1 minecrafteo.com
 127.0.0.1 minecrafthax.org
 127.0.0.1 minecrafthub.com
+127.0.0.1 minecraftinsider.com
 127.0.0.1 minecraftmods.com
 127.0.0.1 minecraftmodspc.com
 127.0.0.1 minecraftpe-mods.com
@@ -303,12 +317,15 @@
 127.0.0.1 owo-bot.xyz
 127.0.0.1 owobot.com
 127.0.0.1 pancake.gg
+127.0.0.1 pancakebot.org
 127.0.0.1 paru.app
 127.0.0.1 patchbot.io
 127.0.0.1 pbot.app
 127.0.0.1 pcminecraft-mods.com
 127.0.0.1 pfps.gg
 127.0.0.1 pingcord.xyz
+127.0.0.1 pixel.gay
+127.0.0.1 planet-minecraft.com
 127.0.0.1 planetrbx.com
 127.0.0.1 playmods.net
 127.0.0.1 pluralkit.me
@@ -356,7 +373,9 @@
 127.0.0.1 ruleslawyer.app
 127.0.0.1 rustlink.io
 127.0.0.1 rythm.fm
+127.0.0.1 sanha.gay
 127.0.0.1 sapph.xyz
+127.0.0.1 sariku.gay
 127.0.0.1 save-tik.com
 127.0.0.1 savetik.app
 127.0.0.1 savetik.cc
@@ -390,6 +409,7 @@
 127.0.0.1 snaptiktok.io
 127.0.0.1 snaptikvideo.com
 127.0.0.1 sofi.gg
+127.0.0.1 spicybot.site
 127.0.0.1 ssstik.io
 127.0.0.1 ssstik.link
 127.0.0.1 ssstik.live
@@ -547,6 +567,7 @@
 127.0.0.1 www.botdisco.com
 127.0.0.1 www.botghost.com
 127.0.0.1 www.botlist.app
+127.0.0.1 www.botlist.site
 127.0.0.1 www.botloader.io
 127.0.0.1 www.bots.ondiscord.xyz
 127.0.0.1 www.brussell.me
@@ -584,6 +605,7 @@
 127.0.0.1 www.cheatermad.com
 127.0.0.1 www.chipbot.gg
 127.0.0.1 www.chocolateminecraft.com
+127.0.0.1 www.circlebot.gay
 127.0.0.1 www.circlebot.xyz
 127.0.0.1 www.claimrbx.gg
 127.0.0.1 www.countr.xyz
@@ -615,9 +637,13 @@
 127.0.0.1 www.discord.xyz
 127.0.0.1 www.discordapp.com
 127.0.0.1 www.discordbotlist.com
+127.0.0.1 www.discordbotlist.org
 127.0.0.1 www.discordbots.app
+127.0.0.1 www.discordbots.org
+127.0.0.1 www.discordbotstudio.org
 127.0.0.1 www.discordhome.com
 127.0.0.1 www.discordjs.guide
+127.0.0.1 www.discordlabs.org
 127.0.0.1 www.discordlist.gg
 127.0.0.1 www.discordmerch.com
 127.0.0.1 www.discordmerch.store
@@ -647,6 +673,7 @@
 127.0.0.1 www.flavibot.xyz
 127.0.0.1 www.fliptok.app
 127.0.0.1 www.fmbot.xyz
+127.0.0.1 www.fmcpe.com
 127.0.0.1 www.fplbot.app
 127.0.0.1 www.fredboat.com
 127.0.0.1 www.free-robux-counter-counterstudio.en.aptoide.com
@@ -666,6 +693,7 @@
 127.0.0.1 www.gptassistant.app
 127.0.0.1 www.green-bot.app
 127.0.0.1 www.groovy.bot
+127.0.0.1 www.guide-minecraft.com
 127.0.0.1 www.guild.xyz
 127.0.0.1 www.gw2bot.info
 127.0.0.1 www.helltides.com
@@ -680,6 +708,7 @@
 127.0.0.1 www.ibyteimg.com
 127.0.0.1 www.impactclient.net
 127.0.0.1 www.in.tiktok.com
+127.0.0.1 www.instantmods.com
 127.0.0.1 www.invite-tracker.com
 127.0.0.1 www.inwerk-kuechen-news.de
 127.0.0.1 www.itranslator.app
@@ -687,6 +716,7 @@
 127.0.0.1 www.keeptik.online
 127.0.0.1 www.koya.gg
 127.0.0.1 www.kyubot.app
+127.0.0.1 www.laralove.gay
 127.0.0.1 www.lawlietbot.xyz
 127.0.0.1 www.leetify.gg
 127.0.0.1 www.libertas.gg
@@ -698,6 +728,7 @@
 127.0.0.1 www.lovetik.com
 127.0.0.1 www.lunarclient.com
 127.0.0.1 www.maki.gg
+127.0.0.1 www.mantaro.site
 127.0.0.1 www.maplestory.gg
 127.0.0.1 www.mc-addons.com
 127.0.0.1 www.mc-hacks.net
@@ -722,6 +753,7 @@
 127.0.0.1 www.mee6.gg
 127.0.0.1 www.mee6.xyz
 127.0.0.1 www.melonbot.io
+127.0.0.1 www.memebot.site
 127.0.0.1 www.micdoodle8.com
 127.0.0.1 www.midjourney.com
 127.0.0.1 www.miki.bot
@@ -730,10 +762,12 @@
 127.0.0.1 www.minecraft-inside.ru
 127.0.0.1 www.minecraft-installer.com
 127.0.0.1 www.minecraft-pocket.com
+127.0.0.1 www.minecraft17.com
 127.0.0.1 www.minecraftclue.com
 127.0.0.1 www.minecrafteo.com
 127.0.0.1 www.minecrafthax.org
 127.0.0.1 www.minecrafthub.com
+127.0.0.1 www.minecraftinsider.com
 127.0.0.1 www.minecraftmods.com
 127.0.0.1 www.minecraftmodspc.com
 127.0.0.1 www.minecraftpe-mods.com
@@ -800,12 +834,15 @@
 127.0.0.1 www.owo-bot.xyz
 127.0.0.1 www.owobot.com
 127.0.0.1 www.pancake.gg
+127.0.0.1 www.pancakebot.org
 127.0.0.1 www.paru.app
 127.0.0.1 www.patchbot.io
 127.0.0.1 www.pbot.app
 127.0.0.1 www.pcminecraft-mods.com
 127.0.0.1 www.pfps.gg
 127.0.0.1 www.pingcord.xyz
+127.0.0.1 www.pixel.gay
+127.0.0.1 www.planet-minecraft.com
 127.0.0.1 www.planetrbx.com
 127.0.0.1 www.playmods.net
 127.0.0.1 www.pluralkit.me
@@ -853,7 +890,9 @@
 127.0.0.1 www.ruleslawyer.app
 127.0.0.1 www.rustlink.io
 127.0.0.1 www.rythm.fm
+127.0.0.1 www.sanha.gay
 127.0.0.1 www.sapph.xyz
+127.0.0.1 www.sariku.gay
 127.0.0.1 www.save-tik.com
 127.0.0.1 www.savetik.app
 127.0.0.1 www.savetik.cc
@@ -887,6 +926,7 @@
 127.0.0.1 www.snaptiktok.io
 127.0.0.1 www.snaptikvideo.com
 127.0.0.1 www.sofi.gg
+127.0.0.1 www.spicybot.site
 127.0.0.1 www.ssstik.io
 127.0.0.1 www.ssstik.link
 127.0.0.1 www.ssstik.live
