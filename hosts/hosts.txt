@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Tuesday, November 07, 2023 11:35:24 PM UTC
+# Last modified: Thursday, November 09, 2023 12:27:31 AM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -165,6 +165,7 @@
 127.0.0.1 freerobux.us
 127.0.0.1 freestuffbot.xyz
 127.0.0.1 freshtok.bot
+127.0.0.1 furaffinity.net
 127.0.0.1 gamestats.io
 127.0.0.1 gamingbot.support
 127.0.0.1 garticbot.gg
@@ -526,6 +527,7 @@
 127.0.0.1 wipefest.gg
 127.0.0.1 wizardhax.com
 127.0.0.1 wolframclient.net
+127.0.0.1 wuff.gay
 127.0.0.1 wurstclient.net
 127.0.0.1 www.99minecraft.com
 127.0.0.1 www.9craft.org
@@ -683,6 +685,7 @@
 127.0.0.1 www.freerobux.us
 127.0.0.1 www.freestuffbot.xyz
 127.0.0.1 www.freshtok.bot
+127.0.0.1 www.furaffinity.net
 127.0.0.1 www.gamestats.io
 127.0.0.1 www.gamingbot.support
 127.0.0.1 www.garticbot.gg
@@ -1042,6 +1045,7 @@
 127.0.0.1 www.wipefest.gg
 127.0.0.1 www.wizardhax.com
 127.0.0.1 www.wolframclient.net
+127.0.0.1 www.wuff.gay
 127.0.0.1 www.wurstclient.net
 127.0.0.1 www.wzhub.gg
 127.0.0.1 www.xenon.bot

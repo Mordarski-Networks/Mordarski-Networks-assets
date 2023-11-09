@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Tuesday, November 07, 2023 11:35:24 PM UTC
+! Last modified: Thursday, November 09, 2023 12:27:31 AM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -3788,6 +3788,24 @@ www.google.*##a[href*="unknowncheats.me"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="unknowncheats.me"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="unknowncheats.me"]:upward(.tile)
 
+! Uncategorized
+bing.com#?#[id$="results"] cite:has-text(furaffinity.net):upward(li)
+bing.com#?#a[href*="furaffinity.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="furaffinity.net"]:upward(.dg_u)
+bing.com##.news-card[url*="furaffinity.net"]
+www.google.*##.g:has(a[href*="furaffinity.net"])
+www.google.*##a[href*="furaffinity.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="furaffinity.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="furaffinity.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(wuff.gay):upward(li)
+bing.com#?#a[href*="wuff.gay"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="wuff.gay"]:upward(.dg_u)
+bing.com##.news-card[url*="wuff.gay"]
+www.google.*##.g:has(a[href*="wuff.gay"])
+www.google.*##a[href*="wuff.gay"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="wuff.gay"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="wuff.gay"]:upward(.tile)
+
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
 ! Syntax: ||example.com^$all
@@ -4278,6 +4296,10 @@ duckduckgo.com##.tile-wrap a[href*="unknowncheats.me"]:upward(.tile)
 ||vape.gg^$all
 ||minecraftwild.com^$all
 ||unknowncheats.me^$all
+
+! Uncategorized
+||furaffinity.net^$all
+||wuff.gay^$all
 
 !--- Remove Tracking from URLs ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam
