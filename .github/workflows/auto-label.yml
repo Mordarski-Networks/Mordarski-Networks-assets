@@ -1,19 +1,18 @@
-name: issue-automation
+name: Auto-label when user responds
+permissions:
+  issues: write
 
 on:
-  issues:
-    types: [opened]
-  pull_request:
-    types: [opened]
-  project_card:
-    types: [moved]
+  issue_comment:
+    types: [created]
 
 jobs:
-  automate-issues-labels:
+  run-check:
     runs-on: ubuntu-latest
     steps:
-      - name: initial labeling
+      - name: Add/Remove labels when user responds
         uses: andymckay/labeler@master
+        if: ${{ github.event.comment.user.login == github.event.issue.user.login && contains(github.event.issue.labels.*.name, 'waiting for user response') && !contains(github.event.issue.labels.*.name, 'user responded') }}
         with:
-          add-labels: "waiting for feedback"
-          remove-labels: ""
+          add-labels: ''
+          remove-labels: 'waiting for feedback'
