@@ -14,5 +14,4 @@ jobs:
         uses: andymckay/labeler@master
         if: ${{ github.event.comment.user.login == github.event.issue.user.login && contains(github.event.issue.labels.*.name, 'waiting for user response') && !contains(github.event.issue.labels.*.name, 'user responded') }}
         with:
-          add-labels: ''
-          remove-labels: 'waiting for feedback'
+          remove-labels: "waiting for feedback"
