@@ -2,7 +2,7 @@
 name: Documentation
 about: Report documentation issues.
 title: "[Documentation]: "
-labels: ''
+labels: documention
 assignees: gmordarski, smordarski
 
 ---
