@@ -2,7 +2,7 @@
 name: Bug Report
 about: File a bug report.
 title: "[Bug Report]: "
-labels: bug, waiting for feedback
+labels: bug
 assignees: gmordarski, smordarski
 
 ---
