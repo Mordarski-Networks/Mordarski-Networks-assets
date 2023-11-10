@@ -62,6 +62,12 @@ example.net##
 example.org##
 ```
 
+### Updating Last Modified Timestamp
+
+To update the last modified timestamp, run [get-utc-date.py](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/scripts/get-utc-date.py) and replace the old timestamp by selecting it and pasting the new timestamp on the selected text.
+
+*Note: You will need to install [Python 3](https://www.python.org/) on your computer to run the [get-utc-date.py](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/scripts/get-utc-date.py) script.*
+
 ## Website Requests
 
 If you want to suggest for a website to be added to the filter list, you can do it [here](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/discussions).
