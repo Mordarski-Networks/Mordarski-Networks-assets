@@ -64,9 +64,9 @@ example.org##
 
 ### Updating Last Modified Timestamp
 
-To update the last modified timestamp, run [get-utc-date.py](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/scripts/get-utc-date.py) and replace the old timestamp by selecting it and pasting the new timestamp on the selected text.
+To update the last modified timestamp, run [get_utc_date.py](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/scripts/get_utc_date.py) and replace the old timestamp by selecting it and pasting the new timestamp on the selected text.
 
-*Note: You will need to install [Python 3](https://www.python.org/) on your computer to run the [get-utc-date.py](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/scripts/get-utc-date.py) script.*
+*Note: You will need to install [Python 3](https://www.python.org/) on your computer to run the [get_utc_date.py](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/scripts/get_utc_date.py) script.*
 
 ## Website Requests
 
