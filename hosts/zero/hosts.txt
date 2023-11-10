@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Friday, November 10, 2023 01:36:10 AM UTC
+# Last modified: Friday, November 10, 2023 10:57:01 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -22,6 +22,7 @@
 0.0.0.0 ads-service.tiktok.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 aleeva.io
+0.0.0.0 ali2.ru
 0.0.0.0 allstar.gg
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 anibot.moe
@@ -170,6 +171,7 @@
 0.0.0.0 freestuffbot.xyz
 0.0.0.0 freshtok.bot
 0.0.0.0 furaffinity.net
+0.0.0.0 gajdy.ru
 0.0.0.0 gamestats.io
 0.0.0.0 gamingbot.support
 0.0.0.0 garticbot.gg
@@ -196,6 +198,7 @@
 0.0.0.0 ibyteimg.com
 0.0.0.0 impactclient.net
 0.0.0.0 in.tiktok.com
+0.0.0.0 inminecraft.ru
 0.0.0.0 instantmods.com
 0.0.0.0 invite-tracker.com
 0.0.0.0 inwerk-kuechen-news.de
@@ -225,6 +228,7 @@
 0.0.0.0 mcbuild.org
 0.0.0.0 mchacks.net
 0.0.0.0 mcpe-game.ru
+0.0.0.0 mcpe-inside.ru
 0.0.0.0 mcpe-planet.com
 0.0.0.0 mcpecube.com
 0.0.0.0 mcpedl.download
@@ -270,11 +274,14 @@
 0.0.0.0 minesters.com
 0.0.0.0 minibot.app
 0.0.0.0 mobalytics.gg
+0.0.0.0 mod-minecraft.net
 0.0.0.0 mod4minecraft.com
 0.0.0.0 modbay.org
+0.0.0.0 modbay.ru
 0.0.0.0 modbem.com
 0.0.0.0 modcombo.io
 0.0.0.0 modhub.us
+0.0.0.0 modland.net
 0.0.0.0 modmail.xyz
 0.0.0.0 modpackindex.com
 0.0.0.0 modscraft.net
@@ -332,6 +339,7 @@
 0.0.0.0 pixel.gay
 0.0.0.0 planet-minecraft.com
 0.0.0.0 planetrbx.com
+0.0.0.0 playground.ru
 0.0.0.0 playmods.net
 0.0.0.0 pluralkit.me
 0.0.0.0 poketwo.net
@@ -352,6 +360,7 @@
 0.0.0.0 richterschmidt.de
 0.0.0.0 rinbot.moe
 0.0.0.0 riotwatch.gg
+0.0.0.0 riz-games.ru
 0.0.0.0 ro-bux.us
 0.0.0.0 roblominer.com
 0.0.0.0 roblox.com
@@ -398,6 +407,7 @@
 0.0.0.0 shadersmods.com
 0.0.0.0 sirtaptap.com
 0.0.0.0 skinship.xyz
+0.0.0.0 smods.ru
 0.0.0.0 snapsave.app
 0.0.0.0 snaptik.ai
 0.0.0.0 snaptik.app
@@ -571,6 +581,7 @@
 0.0.0.0 www.ads-service.tiktok.com
 0.0.0.0 www.ads.tiktok.com
 0.0.0.0 www.aleeva.io
+0.0.0.0 www.ali2.ru
 0.0.0.0 www.allstar.gg
 0.0.0.0 www.analytics.tiktok.com
 0.0.0.0 www.anibot.moe
@@ -716,6 +727,7 @@
 0.0.0.0 www.freestuffbot.xyz
 0.0.0.0 www.freshtok.bot
 0.0.0.0 www.furaffinity.net
+0.0.0.0 www.gajdy.ru
 0.0.0.0 www.gamestats.io
 0.0.0.0 www.gamingbot.support
 0.0.0.0 www.garticbot.gg
@@ -741,6 +753,7 @@
 0.0.0.0 www.ibyteimg.com
 0.0.0.0 www.impactclient.net
 0.0.0.0 www.in.tiktok.com
+0.0.0.0 www.inminecraft.ru
 0.0.0.0 www.instantmods.com
 0.0.0.0 www.invite-tracker.com
 0.0.0.0 www.inwerk-kuechen-news.de
@@ -770,6 +783,7 @@
 0.0.0.0 www.mcbuild.org
 0.0.0.0 www.mchacks.net
 0.0.0.0 www.mcpe-game.ru
+0.0.0.0 www.mcpe-inside.ru
 0.0.0.0 www.mcpe-planet.com
 0.0.0.0 www.mcpecube.com
 0.0.0.0 www.mcpedl.download
@@ -815,11 +829,14 @@
 0.0.0.0 www.minesters.com
 0.0.0.0 www.minibot.app
 0.0.0.0 www.mobalytics.gg
+0.0.0.0 www.mod-minecraft.net
 0.0.0.0 www.mod4minecraft.com
 0.0.0.0 www.modbay.org
+0.0.0.0 www.modbay.ru
 0.0.0.0 www.modbem.com
 0.0.0.0 www.modcombo.io
 0.0.0.0 www.modhub.us
+0.0.0.0 www.modland.net
 0.0.0.0 www.modmail.xyz
 0.0.0.0 www.modpackindex.com
 0.0.0.0 www.modscraft.net
@@ -877,6 +894,7 @@
 0.0.0.0 www.pixel.gay
 0.0.0.0 www.planet-minecraft.com
 0.0.0.0 www.planetrbx.com
+0.0.0.0 www.playground.ru
 0.0.0.0 www.playmods.net
 0.0.0.0 www.pluralkit.me
 0.0.0.0 www.poketwo.net
@@ -897,6 +915,7 @@
 0.0.0.0 www.richterschmidt.de
 0.0.0.0 www.rinbot.moe
 0.0.0.0 www.riotwatch.gg
+0.0.0.0 www.riz-games.ru
 0.0.0.0 www.ro-bux.us
 0.0.0.0 www.roblominer.com
 0.0.0.0 www.roblox.com
@@ -943,6 +962,7 @@
 0.0.0.0 www.shadersmods.com
 0.0.0.0 www.sirtaptap.com
 0.0.0.0 www.skinship.xyz
+0.0.0.0 www.smods.ru
 0.0.0.0 www.snapsave.app
 0.0.0.0 www.snaptik.ai
 0.0.0.0 www.snaptik.app

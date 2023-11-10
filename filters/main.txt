@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Friday, November 10, 2023 01:36:10 AM UTC
+! Last modified: Friday, November 10, 2023 10:57:01 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -3825,6 +3825,86 @@ www.google.*##.g:has(a[href*="instantmods.com"])
 www.google.*##a[href*="instantmods.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="instantmods.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="instantmods.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modland.net):upward(li)
+bing.com#?#a[href*="modland.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modland.net"]:upward(.dg_u)
+bing.com##.news-card[url*="modland.net"]
+www.google.*##.g:has(a[href*="modland.net"])
+www.google.*##a[href*="modland.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modland.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modland.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mod-minecraft.net):upward(li)
+bing.com#?#a[href*="mod-minecraft.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mod-minecraft.net"]:upward(.dg_u)
+bing.com##.news-card[url*="mod-minecraft.net"]
+www.google.*##.g:has(a[href*="mod-minecraft.net"])
+www.google.*##a[href*="mod-minecraft.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mod-minecraft.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mod-minecraft.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(inminecraft.ru):upward(li)
+bing.com#?#a[href*="inminecraft.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="inminecraft.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="inminecraft.ru"]
+www.google.*##.g:has(a[href*="inminecraft.ru"])
+www.google.*##a[href*="inminecraft.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="inminecraft.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="inminecraft.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modbay.ru):upward(li)
+bing.com#?#a[href*="modbay.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modbay.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="modbay.ru"]
+www.google.*##.g:has(a[href*="modbay.ru"])
+www.google.*##a[href*="modbay.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modbay.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modbay.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(riz-games.ru):upward(li)
+bing.com#?#a[href*="riz-games.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="riz-games.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="riz-games.ru"]
+www.google.*##.g:has(a[href*="riz-games.ru"])
+www.google.*##a[href*="riz-games.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="riz-games.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="riz-games.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ali2.ru):upward(li)
+bing.com#?#a[href*="ali2.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ali2.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="ali2.ru"]
+www.google.*##.g:has(a[href*="ali2.ru"])
+www.google.*##a[href*="ali2.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ali2.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ali2.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(gajdy.ru):upward(li)
+bing.com#?#a[href*="gajdy.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="gajdy.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="gajdy.ru"]
+www.google.*##.g:has(a[href*="gajdy.ru"])
+www.google.*##a[href*="gajdy.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="gajdy.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="gajdy.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(smods.ru):upward(li)
+bing.com#?#a[href*="smods.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="smods.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="smods.ru"]
+www.google.*##.g:has(a[href*="smods.ru"])
+www.google.*##a[href*="smods.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="smods.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="smods.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(playground.ru):upward(li)
+bing.com#?#a[href*="playground.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="playground.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="playground.ru"]
+www.google.*##.g:has(a[href*="playground.ru"])
+www.google.*##a[href*="playground.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="playground.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="playground.ru"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcpe-inside.ru):upward(li)
+bing.com#?#a[href*="mcpe-inside.ru"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcpe-inside.ru"]:upward(.dg_u)
+bing.com##.news-card[url*="mcpe-inside.ru"]
+www.google.*##.g:has(a[href*="mcpe-inside.ru"])
+www.google.*##a[href*="mcpe-inside.ru"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcpe-inside.ru"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcpe-inside.ru"]:upward(.tile)
 
 ! Minecraft (Hacking Websites)
 bing.com#?#[id$="results"] cite:has-text(wurstclient.net):upward(li)
@@ -4507,6 +4587,16 @@ duckduckgo.com##.tile-wrap a[href*="wuff.gay"]:upward(.tile)
 ||minecraft17.com^$all
 ||fmcpe.com^$all
 ||instantmods.com^$all
+||modland.net^$all
+||mod-minecraft.net^$all
+||inminecraft.ru^$all
+||modbay.ru^$all
+||riz-games.ru^$all
+||ali2.ru^$all
+||gajdy.ru^$all
+||smods.ru^$all
+||playground.ru^$all
+||mcpe-inside.ru^$all
 
 ! Minecraft (Hacking Websites)
 ||wurstclient.net^$all

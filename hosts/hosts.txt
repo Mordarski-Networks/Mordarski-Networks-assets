@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Friday, November 10, 2023 01:36:10 AM UTC
+# Last modified: Friday, November 10, 2023 10:57:01 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -22,6 +22,7 @@
 127.0.0.1 ads-service.tiktok.com
 127.0.0.1 ads.tiktok.com
 127.0.0.1 aleeva.io
+127.0.0.1 ali2.ru
 127.0.0.1 allstar.gg
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 anibot.moe
@@ -170,6 +171,7 @@
 127.0.0.1 freestuffbot.xyz
 127.0.0.1 freshtok.bot
 127.0.0.1 furaffinity.net
+127.0.0.1 gajdy.ru
 127.0.0.1 gamestats.io
 127.0.0.1 gamingbot.support
 127.0.0.1 garticbot.gg
@@ -196,6 +198,7 @@
 127.0.0.1 ibyteimg.com
 127.0.0.1 impactclient.net
 127.0.0.1 in.tiktok.com
+127.0.0.1 inminecraft.ru
 127.0.0.1 instantmods.com
 127.0.0.1 invite-tracker.com
 127.0.0.1 inwerk-kuechen-news.de
@@ -225,6 +228,7 @@
 127.0.0.1 mcbuild.org
 127.0.0.1 mchacks.net
 127.0.0.1 mcpe-game.ru
+127.0.0.1 mcpe-inside.ru
 127.0.0.1 mcpe-planet.com
 127.0.0.1 mcpecube.com
 127.0.0.1 mcpedl.download
@@ -270,11 +274,14 @@
 127.0.0.1 minesters.com
 127.0.0.1 minibot.app
 127.0.0.1 mobalytics.gg
+127.0.0.1 mod-minecraft.net
 127.0.0.1 mod4minecraft.com
 127.0.0.1 modbay.org
+127.0.0.1 modbay.ru
 127.0.0.1 modbem.com
 127.0.0.1 modcombo.io
 127.0.0.1 modhub.us
+127.0.0.1 modland.net
 127.0.0.1 modmail.xyz
 127.0.0.1 modpackindex.com
 127.0.0.1 modscraft.net
@@ -332,6 +339,7 @@
 127.0.0.1 pixel.gay
 127.0.0.1 planet-minecraft.com
 127.0.0.1 planetrbx.com
+127.0.0.1 playground.ru
 127.0.0.1 playmods.net
 127.0.0.1 pluralkit.me
 127.0.0.1 poketwo.net
@@ -352,6 +360,7 @@
 127.0.0.1 richterschmidt.de
 127.0.0.1 rinbot.moe
 127.0.0.1 riotwatch.gg
+127.0.0.1 riz-games.ru
 127.0.0.1 ro-bux.us
 127.0.0.1 roblominer.com
 127.0.0.1 roblox.com
@@ -398,6 +407,7 @@
 127.0.0.1 shadersmods.com
 127.0.0.1 sirtaptap.com
 127.0.0.1 skinship.xyz
+127.0.0.1 smods.ru
 127.0.0.1 snapsave.app
 127.0.0.1 snaptik.ai
 127.0.0.1 snaptik.app
@@ -571,6 +581,7 @@
 127.0.0.1 www.ads-service.tiktok.com
 127.0.0.1 www.ads.tiktok.com
 127.0.0.1 www.aleeva.io
+127.0.0.1 www.ali2.ru
 127.0.0.1 www.allstar.gg
 127.0.0.1 www.analytics.tiktok.com
 127.0.0.1 www.anibot.moe
@@ -716,6 +727,7 @@
 127.0.0.1 www.freestuffbot.xyz
 127.0.0.1 www.freshtok.bot
 127.0.0.1 www.furaffinity.net
+127.0.0.1 www.gajdy.ru
 127.0.0.1 www.gamestats.io
 127.0.0.1 www.gamingbot.support
 127.0.0.1 www.garticbot.gg
@@ -741,6 +753,7 @@
 127.0.0.1 www.ibyteimg.com
 127.0.0.1 www.impactclient.net
 127.0.0.1 www.in.tiktok.com
+127.0.0.1 www.inminecraft.ru
 127.0.0.1 www.instantmods.com
 127.0.0.1 www.invite-tracker.com
 127.0.0.1 www.inwerk-kuechen-news.de
@@ -770,6 +783,7 @@
 127.0.0.1 www.mcbuild.org
 127.0.0.1 www.mchacks.net
 127.0.0.1 www.mcpe-game.ru
+127.0.0.1 www.mcpe-inside.ru
 127.0.0.1 www.mcpe-planet.com
 127.0.0.1 www.mcpecube.com
 127.0.0.1 www.mcpedl.download
@@ -815,11 +829,14 @@
 127.0.0.1 www.minesters.com
 127.0.0.1 www.minibot.app
 127.0.0.1 www.mobalytics.gg
+127.0.0.1 www.mod-minecraft.net
 127.0.0.1 www.mod4minecraft.com
 127.0.0.1 www.modbay.org
+127.0.0.1 www.modbay.ru
 127.0.0.1 www.modbem.com
 127.0.0.1 www.modcombo.io
 127.0.0.1 www.modhub.us
+127.0.0.1 www.modland.net
 127.0.0.1 www.modmail.xyz
 127.0.0.1 www.modpackindex.com
 127.0.0.1 www.modscraft.net
@@ -877,6 +894,7 @@
 127.0.0.1 www.pixel.gay
 127.0.0.1 www.planet-minecraft.com
 127.0.0.1 www.planetrbx.com
+127.0.0.1 www.playground.ru
 127.0.0.1 www.playmods.net
 127.0.0.1 www.pluralkit.me
 127.0.0.1 www.poketwo.net
@@ -897,6 +915,7 @@
 127.0.0.1 www.richterschmidt.de
 127.0.0.1 www.rinbot.moe
 127.0.0.1 www.riotwatch.gg
+127.0.0.1 www.riz-games.ru
 127.0.0.1 www.ro-bux.us
 127.0.0.1 www.roblominer.com
 127.0.0.1 www.roblox.com
@@ -943,6 +962,7 @@
 127.0.0.1 www.shadersmods.com
 127.0.0.1 www.sirtaptap.com
 127.0.0.1 www.skinship.xyz
+127.0.0.1 www.smods.ru
 127.0.0.1 www.snapsave.app
 127.0.0.1 www.snaptik.ai
 127.0.0.1 www.snaptik.app
