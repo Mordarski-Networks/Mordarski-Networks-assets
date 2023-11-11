@@ -26,10 +26,8 @@ import platform
 import subprocess
 from datetime import datetime, timezone
 
-def copy_utc_time_to_clipboard():
-    """
-    Copies the UTC time to the clipboard
-    """
+def get_utc_date():
+    """Copies UTC date to the clipboard"""
 
     utc_time = datetime.now(timezone.utc).strftime('%A, %B %d, %Y %I:%M:%S %p %Z')
 
@@ -45,5 +43,4 @@ def copy_utc_time_to_clipboard():
     else:
         print("This OS is not supported.")
 
-if __name__ == '__main__':
-    copy_utc_time_to_clipboard()
+get_utc_date()
