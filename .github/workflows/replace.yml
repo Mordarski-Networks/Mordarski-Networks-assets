@@ -29,7 +29,6 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
-          git commit -a -S -m "Copy and modify hosts file"
+          git add .
+          git commit -S -m "Copy and modify hosts file"
           git push
