@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Copy hosts/hosts.txt to hosts/zero/hosts.txt
         run: cp hosts/hosts.txt hosts/zero/hosts.txt
@@ -23,7 +23,9 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.email "support@mordarski.net"
-          git config --global user.name "Mordarski Networks"
-          git commit -a -m "Copy and modify hosts file"
+          date > generated.txt
+          git config --global user.email github-actions
+          git config --global user.name github-actions@github.com
+          git add .
+          git commit -a -S -m "Copy and modify hosts file"
           git push origin main
