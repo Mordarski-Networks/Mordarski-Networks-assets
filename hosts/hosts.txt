@@ -6,6 +6,7 @@
 # GitHub issues: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues
 # GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
 
+127.0.0.1 test.example
 127.0.0.1 123tik.net
 127.0.0.1 99minecraft.com
 127.0.0.1 9craft.org
