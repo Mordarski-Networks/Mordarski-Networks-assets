@@ -1,0 +1,27 @@
+name: Update hosts
+
+on:
+  push:
+    paths: "hosts/**"
+    branches: [main]
+
+jobs:
+  runCommands:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Import GPG key
+        uses: crazy-max/ghaction-import-gpg@v6
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+      - name: Sign commit and push changes
+        run: |
+          cp hosts/hosts.txt hosts/zero/hosts.txt
+          sed -i -b 's/127\.0\.0\.1/0\.0\.0\.0/g' hosts/zero/hosts.txt
+          git add .
+          git commit -S -m "Update hosts.txt"
+          git push
