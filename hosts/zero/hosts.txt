@@ -6,6 +6,7 @@
 # GitHub issues: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues
 # GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
 
+0.0.0.0 test.example2
 0.0.0.0 123tik.net
 0.0.0.0 99minecraft.com
 0.0.0.0 9craft.org
