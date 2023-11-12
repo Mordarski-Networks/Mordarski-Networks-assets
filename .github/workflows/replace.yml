@@ -1,0 +1,26 @@
+name: Replace
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  replace:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Copy hosts/hosts.txt to hosts/zero/hosts.txt
+        run: cp hosts/hosts.txt hosts/zero/hosts.txt
+
+      - name: Replace 127.0.0.1 with 0.0.0.0
+        run: sed -i 's/127\.0\.0\.1/0\.0\.0\.0/g' hosts/zero/hosts.txt
+
+      - name: Commit changes
+        run: |
+          git add hosts/zero/hosts.txt
+          git commit -m "Copy and modify hosts file"
+          git push
