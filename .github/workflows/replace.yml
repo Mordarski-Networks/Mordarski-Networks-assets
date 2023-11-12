@@ -1,7 +1,5 @@
 name: Replace
 
-permissions: write-all
-
 on:
   push:
     branches:
@@ -25,8 +23,10 @@ jobs:
 
       - name: GPG user IDs
         run: |
-          echo "fingerprint: ${{ steps.import-gpg.outputs.fingerprint }}" >> .env
-          echo "keyid:       ${{ steps.import-gpg.outputs.keyid }} >> .env
+          echo "fingerprint: ${{ steps.import-gpg.outputs.fingerprint }}"
+          echo "keyid:       ${{ steps.import-gpg.outputs.keyid }}"
+          echo "name:        ${{ steps.import-gpg.outputs.name }}"
+          echo "email:       ${{ steps.import-gpg.outputs.email }}"
 
       - name: Copy hosts/hosts.txt to hosts/zero/hosts.txt
         run: cp hosts/hosts.txt hosts/zero/hosts.txt
@@ -36,7 +36,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.email "${{ env.fingerprint }}"
-          git config --global user.name "${{ env.keyid }}"
+          git config --global user.email "${{ steps.import-gpg.outputs.email }}"
+          git config --global user.name "${{ steps.import-gpg.outputs.name }}"
           git commit -a -S -m "Copy and modify hosts file"
           git push
