@@ -1135,3 +1135,4 @@
 0.0.0.0 zira.gg
 0.0.0.0 zoe-discord-bot.ch
 0.0.0.0 zonacraft.net
+0.0.0.0 example.net
