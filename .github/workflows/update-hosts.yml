@@ -2,6 +2,7 @@ name: Update hosts file
 
 on:
   push:
+    paths: "hosts/**"
     branches: [main]
 
 permissions:
