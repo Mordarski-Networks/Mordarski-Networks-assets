@@ -24,4 +24,4 @@ jobs:
           git config --global user.email "support@mordarski.net"
           git config --global user.name "Mordarski Networks"
           git commit -a -m "Copy and modify hosts file"
-          git push
+          git push origin main
