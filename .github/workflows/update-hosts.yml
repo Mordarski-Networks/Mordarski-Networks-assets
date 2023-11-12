@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Import the GPG key
+      - name: Import GPG key
         id: import-gpg
         uses: crazy-max/ghaction-import-gpg@v6
         with:
@@ -25,7 +25,7 @@ jobs:
         run: cp hosts/hosts.txt hosts/zero/hosts.txt
       - name: Replace 127.0.0.1 with 0.0.0.0
         run: sed -i -b 's/127\.0\.0\.1/0\.0\.0\.0/g' hosts/zero/hosts.txt
-      - name: Push changes to the repository
+      - name: Commit files
         run: |
           git add .
           git commit -S -m "Update hosts.txt"
