@@ -1135,4 +1135,3 @@
 127.0.0.1 zira.gg
 127.0.0.1 zoe-discord-bot.ch
 127.0.0.1 zonacraft.net
-127.0.0.1 example.net
