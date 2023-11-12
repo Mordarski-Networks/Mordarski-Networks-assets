@@ -23,6 +23,5 @@ jobs:
         run: |
           git config --global user.email "support@mordarski.net"
           git config --global user.name "Mordarski Networks"
-          git add hosts/zero/hosts.txt
-          git commit -m "Copy and modify hosts file"
+          git commit -a -m "Copy and modify hosts file"
           git push
