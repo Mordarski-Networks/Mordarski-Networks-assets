@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Friday, November 10, 2023 10:57:01 PM UTC
+# Last modified: Monday, November 13, 2023 01:03:57 AM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
