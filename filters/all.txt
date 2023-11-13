@@ -8,7 +8,6 @@
 ! GitHub issues: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues
 ! GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
 
-!#include Mordarski-Networks-assets/filters/main.txt
-!#include Mordarski-Networks-assets/filters/extra.txt
-!#include Mordarski-Networks-assets/filters/dev.txt
-!#include Mordarski-Networks-assets/filters/community/youtube.txt
+!#include main.txt
+!#include extra.txt
+!#include dev.txt
