@@ -11,7 +11,7 @@ This filter list blocks TikTok, Discord, ROBLOX, and more.
 1. Open uBlock Origin's settings and go to "Filter lists".
 2. Scroll to the bottom and select "Import".
 3. Put [Main](https://raw.githubusercontent.com/Mordarski-Networks/Mordarski-Networks-assets/main/filters/main.txt) as the URL.
-4. (Optional) If you want to filter more websites that aren't on the main list, you can add the extra, dev, or everything filter list. The everything filter list adds all the filters from this repository except the community filter lists. Put one of these filter lists as the URL.
+4. (Optional) If you want to filter more websites that aren't on the main list, you can add the extra, dev, or everything filter list. The everything filter list adds all the filter lists from this repository. Put one of these filter lists as the URL.
     1. [Extra](https://raw.githubusercontent.com/Mordarski-Networks/Mordarski-Networks-assets/main/filters/extra.txt)
     2. [Dev](https://raw.githubusercontent.com/Mordarski-Networks/Mordarski-Networks-assets/main/filters/dev.txt)
     3. [All](https://raw.githubusercontent.com/Mordarski-Networks/Mordarski-Networks-assets/main/filters/all.txt)
