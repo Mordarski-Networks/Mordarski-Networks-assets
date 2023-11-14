@@ -73,8 +73,7 @@ the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+**Community Impact**: Use of inappropriate language such as racial slurs, sexual comments, and threats are not welcome in our company's GitHub repositories. You may swear as long as you don't harm anybody.
 
 **Consequence**: A private, written warning from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
