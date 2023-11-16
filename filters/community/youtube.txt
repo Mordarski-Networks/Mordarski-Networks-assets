@@ -4,6 +4,8 @@
 ! Last modified: Friday, November 10, 2023 02:27:54 AM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
+! https://upload.wikimedia.org/wikipedia/commons/1/14/MP5t.png look at this weapon it makes the boom boom sound, it shoots bullet of 9x19mmm
+! https://360view.3dmodels.org/zoom/Weapons/Colt_M4A1_with_M203_1000_0001.jpg this one looks to american, makes me want to nuke the entire world like not but like seriously, it shoots some yellow brown rounds
 !
 ! GitHub issues: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues
 ! GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
