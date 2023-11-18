@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Friday, November 17, 2023 11:49:06 PM UTC
+! Last modified: Saturday, November 18, 2023 11:14:57 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -3659,6 +3659,174 @@ www.google.*##.g:has(a[href*="prismbot.site"])
 www.google.*##a[href*="prismbot.site"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="prismbot.site"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="prismbot.site"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordlist.net):upward(li)
+bing.com#?#a[href*="discordlist.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordlist.net"]:upward(.dg_u)
+bing.com##.news-card[url*="discordlist.net"]
+www.google.*##.g:has(a[href*="discordlist.net"])
+www.google.*##a[href*="discordlist.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordlist.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordlist.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordjug.net):upward(li)
+bing.com#?#a[href*="discordjug.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordjug.net"]:upward(.dg_u)
+bing.com##.news-card[url*="discordjug.net"]
+www.google.*##.g:has(a[href*="discordjug.net"])
+www.google.*##a[href*="discordjug.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordjug.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordjug.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordfonts.net):upward(li)
+bing.com#?#a[href*="discordfonts.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordfonts.net"]:upward(.dg_u)
+bing.com##.news-card[url*="discordfonts.net"]
+www.google.*##.g:has(a[href*="discordfonts.net"])
+www.google.*##a[href*="discordfonts.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordfonts.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordfonts.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(voidbots.net):upward(li)
+bing.com#?#a[href*="voidbots.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="voidbots.net"]:upward(.dg_u)
+bing.com##.news-card[url*="voidbots.net"]
+www.google.*##.g:has(a[href*="voidbots.net"])
+www.google.*##a[href*="voidbots.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="voidbots.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="voidbots.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordsocial.com):upward(li)
+bing.com#?#a[href*="discordsocial.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordsocial.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discordsocial.com"]
+www.google.*##.g:has(a[href*="discordsocial.com"])
+www.google.*##a[href*="discordsocial.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordsocial.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordsocial.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordlookup.com):upward(li)
+bing.com#?#a[href*="discordlookup.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordlookup.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discordlookup.com"]
+www.google.*##.g:has(a[href*="discordlookup.com"])
+www.google.*##a[href*="discordlookup.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordlookup.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordlookup.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordbee.com):upward(li)
+bing.com#?#a[href*="discordbee.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordbee.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discordbee.com"]
+www.google.*##.g:has(a[href*="discordbee.com"])
+www.google.*##a[href*="discordbee.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordbee.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordbee.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(toolscord.com):upward(li)
+bing.com#?#a[href*="toolscord.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="toolscord.com"]:upward(.dg_u)
+bing.com##.news-card[url*="toolscord.com"]
+www.google.*##.g:has(a[href*="toolscord.com"])
+www.google.*##a[href*="toolscord.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="toolscord.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="toolscord.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordemoji.com):upward(li)
+bing.com#?#a[href*="discordemoji.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordemoji.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discordemoji.com"]
+www.google.*##.g:has(a[href*="discordemoji.com"])
+www.google.*##a[href*="discordemoji.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordemoji.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordemoji.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordstickers.com):upward(li)
+bing.com#?#a[href*="discordstickers.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordstickers.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discordstickers.com"]
+www.google.*##.g:has(a[href*="discordstickers.com"])
+www.google.*##a[href*="discordstickers.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordstickers.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordstickers.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordbanners.com):upward(li)
+bing.com#?#a[href*="discordbanners.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordbanners.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discordbanners.com"]
+www.google.*##.g:has(a[href*="discordbanners.com"])
+www.google.*##a[href*="discordbanners.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordbanners.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordbanners.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discservers.com):upward(li)
+bing.com#?#a[href*="discservers.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discservers.com"]:upward(.dg_u)
+bing.com##.news-card[url*="discservers.com"]
+www.google.*##.g:has(a[href*="discservers.com"])
+www.google.*##a[href*="discservers.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discservers.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discservers.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discohook.org):upward(li)
+bing.com#?#a[href*="discohook.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discohook.org"]:upward(.dg_u)
+bing.com##.news-card[url*="discohook.org"]
+www.google.*##.g:has(a[href*="discohook.org"])
+www.google.*##a[href*="discohook.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discohook.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discohook.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(pycord.dev):upward(li)
+bing.com#?#a[href*="pycord.dev"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="pycord.dev"]:upward(.dg_u)
+bing.com##.news-card[url*="pycord.dev"]
+www.google.*##.g:has(a[href*="pycord.dev"])
+www.google.*##a[href*="pycord.dev"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="pycord.dev"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="pycord.dev"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(disnake.dev):upward(li)
+bing.com#?#a[href*="disnake.dev"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="disnake.dev"]:upward(.dg_u)
+bing.com##.news-card[url*="disnake.dev"]
+www.google.*##.g:has(a[href*="disnake.dev"])
+www.google.*##a[href*="disnake.dev"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="disnake.dev"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="disnake.dev"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discord-api-types.dev):upward(li)
+bing.com#?#a[href*="discord-api-types.dev"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discord-api-types.dev"]:upward(.dg_u)
+bing.com##.news-card[url*="discord-api-types.dev"]
+www.google.*##.g:has(a[href*="discord-api-types.dev"])
+www.google.*##a[href*="discord-api-types.dev"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discord-api-types.dev"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discord-api-types.dev"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discord4py.dev):upward(li)
+bing.com#?#a[href*="discord4py.dev"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discord4py.dev"]:upward(.dg_u)
+bing.com##.news-card[url*="discord4py.dev"]
+www.google.*##.g:has(a[href*="discord4py.dev"])
+www.google.*##a[href*="discord4py.dev"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discord4py.dev"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discord4py.dev"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(vencord.dev):upward(li)
+bing.com#?#a[href*="vencord.dev"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="vencord.dev"]:upward(.dg_u)
+bing.com##.news-card[url*="vencord.dev"]
+www.google.*##.g:has(a[href*="vencord.dev"])
+www.google.*##a[href*="vencord.dev"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="vencord.dev"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="vencord.dev"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(stockbot.us):upward(li)
+bing.com#?#a[href*="stockbot.us"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="stockbot.us"]:upward(.dg_u)
+bing.com##.news-card[url*="stockbot.us"]
+www.google.*##.g:has(a[href*="stockbot.us"])
+www.google.*##a[href*="stockbot.us"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="stockbot.us"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="stockbot.us"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(sccb.us):upward(li)
+bing.com#?#a[href*="sccb.us"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="sccb.us"]:upward(.dg_u)
+bing.com##.news-card[url*="sccb.us"]
+www.google.*##.g:has(a[href*="sccb.us"])
+www.google.*##a[href*="sccb.us"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="sccb.us"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="sccb.us"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordtemplates.me):upward(li)
+bing.com#?#a[href*="discordtemplates.me"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordtemplates.me"]:upward(.dg_u)
+bing.com##.news-card[url*="discordtemplates.me"]
+www.google.*##.g:has(a[href*="discordtemplates.me"])
+www.google.*##a[href*="discordtemplates.me"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordtemplates.me"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordtemplates.me"]:upward(.tile)
 
 ! ROBLOX
 bing.com#?#[id$="results"] cite:has-text(roblox.com):upward(li)
@@ -5241,6 +5409,27 @@ duckduckgo.com##.tile-wrap a[href*="wuff.gay"]:upward(.tile)
 ||walletbot.pro^$all
 ||shopbot.site^$all
 ||prismbot.site^$all
+||discordlist.net^$all
+||discordjug.net^$all
+||discordfonts.net^$all
+||voidbots.net^$all
+||discordsocial.com^$all
+||discordlookup.com^$all
+||discordbee.com^$all
+||toolscord.com^$all
+||discordemoji.com^$all
+||discordstickers.com^$all
+||discordbanners.com^$all
+||discservers.com^$all
+||discohook.org^$all
+||pycord.dev^$all
+||disnake.dev^$all
+||discord-api-types.dev^$all
+||discord4py.dev^$all
+||vencord.dev^$all
+||stockbot.us^$all
+||sccb.us^$all
+||discordtemplates.me^$all
 
 ! ROBLOX
 ||roblox.com^$all
