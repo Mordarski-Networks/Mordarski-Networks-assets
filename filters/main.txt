@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Thursday, November 16, 2023 12:13:20 AM UTC
+! Last modified: Friday, November 17, 2023 11:49:06 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -1005,6 +1005,94 @@ www.google.*##.g:has(a[href*="tikhunt.net"])
 www.google.*##a[href*="tikhunt.net"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="tikhunt.net"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="tikhunt.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktake.org):upward(li)
+bing.com#?#a[href*="tiktake.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktake.org"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktake.org"]
+www.google.*##.g:has(a[href*="tiktake.org"])
+www.google.*##a[href*="tiktake.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktake.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktake.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(savett.pl):upward(li)
+bing.com#?#a[href*="savett.pl"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="savett.pl"]:upward(.dg_u)
+bing.com##.news-card[url*="savett.pl"]
+www.google.*##.g:has(a[href*="savett.pl"])
+www.google.*##a[href*="savett.pl"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="savett.pl"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="savett.pl"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktokd.com):upward(li)
+bing.com#?#a[href*="tiktokd.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktokd.com"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktokd.com"]
+www.google.*##.g:has(a[href*="tiktokd.com"])
+www.google.*##a[href*="tiktokd.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktokd.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktokd.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tk2dl.com):upward(li)
+bing.com#?#a[href*="tk2dl.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tk2dl.com"]:upward(.dg_u)
+bing.com##.news-card[url*="tk2dl.com"]
+www.google.*##.g:has(a[href*="tk2dl.com"])
+www.google.*##a[href*="tk2dl.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tk2dl.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tk2dl.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ssstiktok.org):upward(li)
+bing.com#?#a[href*="ssstiktok.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ssstiktok.org"]:upward(.dg_u)
+bing.com##.news-card[url*="ssstiktok.org"]
+www.google.*##.g:has(a[href*="ssstiktok.org"])
+www.google.*##a[href*="ssstiktok.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ssstiktok.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ssstiktok.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(snapreels.net):upward(li)
+bing.com#?#a[href*="snapreels.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="snapreels.net"]:upward(.dg_u)
+bing.com##.news-card[url*="snapreels.net"]
+www.google.*##.g:has(a[href*="snapreels.net"])
+www.google.*##a[href*="snapreels.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="snapreels.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="snapreels.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(dytik.net):upward(li)
+bing.com#?#a[href*="dytik.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="dytik.net"]:upward(.dg_u)
+bing.com##.news-card[url*="dytik.net"]
+www.google.*##.g:has(a[href*="dytik.net"])
+www.google.*##a[href*="dytik.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="dytik.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="dytik.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(linktik.net):upward(li)
+bing.com#?#a[href*="linktik.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="linktik.net"]:upward(.dg_u)
+bing.com##.news-card[url*="linktik.net"]
+www.google.*##.g:has(a[href*="linktik.net"])
+www.google.*##a[href*="linktik.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="linktik.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="linktik.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tikmates.net):upward(li)
+bing.com#?#a[href*="tikmates.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tikmates.net"]:upward(.dg_u)
+bing.com##.news-card[url*="tikmates.net"]
+www.google.*##.g:has(a[href*="tikmates.net"])
+www.google.*##a[href*="tikmates.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tikmates.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tikmates.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tikdown.net):upward(li)
+bing.com#?#a[href*="tikdown.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tikdown.net"]:upward(.dg_u)
+bing.com##.news-card[url*="tikdown.net"]
+www.google.*##.g:has(a[href*="tikdown.net"])
+www.google.*##a[href*="tikdown.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tikdown.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tikdown.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ssstok.net):upward(li)
+bing.com#?#a[href*="ssstok.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ssstok.net"]:upward(.dg_u)
+bing.com##.news-card[url*="ssstok.net"]
+www.google.*##.g:has(a[href*="ssstok.net"])
+www.google.*##a[href*="ssstok.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ssstok.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ssstok.net"]:upward(.tile)
 
 ! ByteDance
 bing.com#?#[id$="results"] cite:has-text(bytedance.com):upward(li)
@@ -4816,6 +4904,17 @@ duckduckgo.com##.tile-wrap a[href*="wuff.gay"]:upward(.tile)
 ||socialdownload.net^$all
 ||snaptikk.net^$all
 ||tikhunt.net^$all
+||tiktake.org^$all
+||savett.pl^$all
+||tiktokd.com^$all
+||tk2dl.com^$all
+||ssstiktok.org^$all
+||snapreels.net^$all
+||dytik.net^$all
+||linktik.net^$all
+||tikmates.net^$all
+||tikdown.net^$all
+||ssstok.net^$all
 
 ! ByteDance
 ||bytedance.com^$all
