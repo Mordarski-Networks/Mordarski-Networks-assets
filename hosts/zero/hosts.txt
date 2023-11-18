@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Friday, November 17, 2023 11:49:06 PM UTC
+# Last modified: Saturday, November 18, 2023 11:14:57 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -118,6 +118,8 @@
 0.0.0.0 disboard.org
 0.0.0.0 discadia.com
 0.0.0.0 discohook.app
+0.0.0.0 discohook.org
+0.0.0.0 discord-api-types.dev
 0.0.0.0 discord.app
 0.0.0.0 discord.bots.gg
 0.0.0.0 discord.chat
@@ -137,16 +139,24 @@
 0.0.0.0 discord.st
 0.0.0.0 discord.store
 0.0.0.0 discord.xyz
+0.0.0.0 discord4py.dev
 0.0.0.0 discordapp.com
+0.0.0.0 discordbanners.com
+0.0.0.0 discordbee.com
 0.0.0.0 discordbotlist.com
 0.0.0.0 discordbotlist.org
 0.0.0.0 discordbots.app
 0.0.0.0 discordbots.org
 0.0.0.0 discordbotstudio.org
+0.0.0.0 discordemoji.com
+0.0.0.0 discordfonts.net
 0.0.0.0 discordhome.com
 0.0.0.0 discordjs.guide
+0.0.0.0 discordjug.net
 0.0.0.0 discordlabs.org
 0.0.0.0 discordlist.gg
+0.0.0.0 discordlist.net
+0.0.0.0 discordlookup.com
 0.0.0.0 discordmerch.com
 0.0.0.0 discordmerch.store
 0.0.0.0 discordmusic.bot
@@ -154,10 +164,15 @@
 0.0.0.0 discordpy.readthedocs.io
 0.0.0.0 discords.com
 0.0.0.0 discordservers.com
+0.0.0.0 discordsocial.com
 0.0.0.0 discordstatus.com
+0.0.0.0 discordstickers.com
+0.0.0.0 discordtemplates.me
 0.0.0.0 discordtickets.app
 0.0.0.0 discordtree.com
+0.0.0.0 discservers.com
 0.0.0.0 disforge.com
+0.0.0.0 disnake.dev
 0.0.0.0 docs.midjourney.com
 0.0.0.0 downloader.bot
 0.0.0.0 downloadtiktokvideo.net
@@ -401,6 +416,7 @@
 0.0.0.0 probot.net
 0.0.0.0 progresspal.app
 0.0.0.0 purrbot.site
+0.0.0.0 pycord.dev
 0.0.0.0 pylon.bot
 0.0.0.0 quickvids.win
 0.0.0.0 ratingtool.xyz
@@ -456,6 +472,7 @@
 0.0.0.0 savetiktok.io
 0.0.0.0 savett.cc
 0.0.0.0 savett.pl
+0.0.0.0 sccb.us
 0.0.0.0 searchbot.app
 0.0.0.0 securitybot.gg
 0.0.0.0 securitybot.xyz
@@ -516,6 +533,7 @@
 0.0.0.0 statbot.net
 0.0.0.0 status.melonbot.io
 0.0.0.0 stickers.gg
+0.0.0.0 stockbot.us
 0.0.0.0 strawpoll.bot
 0.0.0.0 streamcord.gg
 0.0.0.0 streamcord.io
@@ -604,6 +622,7 @@
 0.0.0.0 tokcounter.com
 0.0.0.0 tokdownload.com
 0.0.0.0 toksaver.net
+0.0.0.0 toolscord.com
 0.0.0.0 top.gg
 0.0.0.0 tracking.infobip.account.tiktok.com
 0.0.0.0 tracking.infobip.service.tiktok.com
@@ -627,10 +646,12 @@
 0.0.0.0 vag.gg
 0.0.0.0 vape.gg
 0.0.0.0 vayna.app
+0.0.0.0 vencord.dev
 0.0.0.0 vexera.io
 0.0.0.0 vexera.pro
 0.0.0.0 vidtik.app
 0.0.0.0 vlr.gg
+0.0.0.0 voidbots.net
 0.0.0.0 wadbot.lol
 0.0.0.0 waifugame.com
 0.0.0.0 walletbot.pro
@@ -758,6 +779,8 @@
 0.0.0.0 www.disboard.org
 0.0.0.0 www.discadia.com
 0.0.0.0 www.discohook.app
+0.0.0.0 www.discohook.org
+0.0.0.0 www.discord-api-types.dev
 0.0.0.0 www.discord.app
 0.0.0.0 www.discord.bots.gg
 0.0.0.0 www.discord.chat
@@ -777,16 +800,24 @@
 0.0.0.0 www.discord.st
 0.0.0.0 www.discord.store
 0.0.0.0 www.discord.xyz
+0.0.0.0 www.discord4py.dev
 0.0.0.0 www.discordapp.com
+0.0.0.0 www.discordbanners.com
+0.0.0.0 www.discordbee.com
 0.0.0.0 www.discordbotlist.com
 0.0.0.0 www.discordbotlist.org
 0.0.0.0 www.discordbots.app
 0.0.0.0 www.discordbots.org
 0.0.0.0 www.discordbotstudio.org
+0.0.0.0 www.discordemoji.com
+0.0.0.0 www.discordfonts.net
 0.0.0.0 www.discordhome.com
 0.0.0.0 www.discordjs.guide
+0.0.0.0 www.discordjug.net
 0.0.0.0 www.discordlabs.org
 0.0.0.0 www.discordlist.gg
+0.0.0.0 www.discordlist.net
+0.0.0.0 www.discordlookup.com
 0.0.0.0 www.discordmerch.com
 0.0.0.0 www.discordmerch.store
 0.0.0.0 www.discordmusic.bot
@@ -794,10 +825,15 @@
 0.0.0.0 www.discordpy.readthedocs.io
 0.0.0.0 www.discords.com
 0.0.0.0 www.discordservers.com
+0.0.0.0 www.discordsocial.com
 0.0.0.0 www.discordstatus.com
+0.0.0.0 www.discordstickers.com
+0.0.0.0 www.discordtemplates.me
 0.0.0.0 www.discordtickets.app
 0.0.0.0 www.discordtree.com
+0.0.0.0 www.discservers.com
 0.0.0.0 www.disforge.com
+0.0.0.0 www.disnake.dev
 0.0.0.0 www.downloader.bot
 0.0.0.0 www.downloadtiktokvideo.net
 0.0.0.0 www.downtik.io
@@ -1039,6 +1075,7 @@
 0.0.0.0 www.probot.net
 0.0.0.0 www.progresspal.app
 0.0.0.0 www.purrbot.site
+0.0.0.0 www.pycord.dev
 0.0.0.0 www.pylon.bot
 0.0.0.0 www.quickvids.win
 0.0.0.0 www.ratingtool.xyz
@@ -1094,6 +1131,7 @@
 0.0.0.0 www.savetiktok.io
 0.0.0.0 www.savett.cc
 0.0.0.0 www.savett.pl
+0.0.0.0 www.sccb.us
 0.0.0.0 www.searchbot.app
 0.0.0.0 www.securitybot.gg
 0.0.0.0 www.securitybot.xyz
@@ -1153,6 +1191,7 @@
 0.0.0.0 www.startit.bot
 0.0.0.0 www.statbot.net
 0.0.0.0 www.stickers.gg
+0.0.0.0 www.stockbot.us
 0.0.0.0 www.strawpoll.bot
 0.0.0.0 www.streamcord.gg
 0.0.0.0 www.streamcord.io
@@ -1241,6 +1280,7 @@
 0.0.0.0 www.tokcounter.com
 0.0.0.0 www.tokdownload.com
 0.0.0.0 www.toksaver.net
+0.0.0.0 www.toolscord.com
 0.0.0.0 www.top.gg
 0.0.0.0 www.tracking.infobip.account.tiktok.com
 0.0.0.0 www.tracking.infobip.service.tiktok.com
@@ -1264,10 +1304,12 @@
 0.0.0.0 www.vag.gg
 0.0.0.0 www.vape.gg
 0.0.0.0 www.vayna.app
+0.0.0.0 www.vencord.dev
 0.0.0.0 www.vexera.io
 0.0.0.0 www.vexera.pro
 0.0.0.0 www.vidtik.app
 0.0.0.0 www.vlr.gg
+0.0.0.0 www.voidbots.net
 0.0.0.0 www.wadbot.lol
 0.0.0.0 www.waifugame.com
 0.0.0.0 www.walletbot.pro
