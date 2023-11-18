@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Friday, November 17, 2023 11:49:06 PM UTC
+# Last modified: Saturday, November 18, 2023 11:14:57 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -118,6 +118,8 @@
 127.0.0.1 disboard.org
 127.0.0.1 discadia.com
 127.0.0.1 discohook.app
+127.0.0.1 discohook.org
+127.0.0.1 discord-api-types.dev
 127.0.0.1 discord.app
 127.0.0.1 discord.bots.gg
 127.0.0.1 discord.chat
@@ -137,16 +139,24 @@
 127.0.0.1 discord.st
 127.0.0.1 discord.store
 127.0.0.1 discord.xyz
+127.0.0.1 discord4py.dev
 127.0.0.1 discordapp.com
+127.0.0.1 discordbanners.com
+127.0.0.1 discordbee.com
 127.0.0.1 discordbotlist.com
 127.0.0.1 discordbotlist.org
 127.0.0.1 discordbots.app
 127.0.0.1 discordbots.org
 127.0.0.1 discordbotstudio.org
+127.0.0.1 discordemoji.com
+127.0.0.1 discordfonts.net
 127.0.0.1 discordhome.com
 127.0.0.1 discordjs.guide
+127.0.0.1 discordjug.net
 127.0.0.1 discordlabs.org
 127.0.0.1 discordlist.gg
+127.0.0.1 discordlist.net
+127.0.0.1 discordlookup.com
 127.0.0.1 discordmerch.com
 127.0.0.1 discordmerch.store
 127.0.0.1 discordmusic.bot
@@ -154,10 +164,15 @@
 127.0.0.1 discordpy.readthedocs.io
 127.0.0.1 discords.com
 127.0.0.1 discordservers.com
+127.0.0.1 discordsocial.com
 127.0.0.1 discordstatus.com
+127.0.0.1 discordstickers.com
+127.0.0.1 discordtemplates.me
 127.0.0.1 discordtickets.app
 127.0.0.1 discordtree.com
+127.0.0.1 discservers.com
 127.0.0.1 disforge.com
+127.0.0.1 disnake.dev
 127.0.0.1 docs.midjourney.com
 127.0.0.1 downloader.bot
 127.0.0.1 downloadtiktokvideo.net
@@ -401,6 +416,7 @@
 127.0.0.1 probot.net
 127.0.0.1 progresspal.app
 127.0.0.1 purrbot.site
+127.0.0.1 pycord.dev
 127.0.0.1 pylon.bot
 127.0.0.1 quickvids.win
 127.0.0.1 ratingtool.xyz
@@ -456,6 +472,7 @@
 127.0.0.1 savetiktok.io
 127.0.0.1 savett.cc
 127.0.0.1 savett.pl
+127.0.0.1 sccb.us
 127.0.0.1 searchbot.app
 127.0.0.1 securitybot.gg
 127.0.0.1 securitybot.xyz
@@ -516,6 +533,7 @@
 127.0.0.1 statbot.net
 127.0.0.1 status.melonbot.io
 127.0.0.1 stickers.gg
+127.0.0.1 stockbot.us
 127.0.0.1 strawpoll.bot
 127.0.0.1 streamcord.gg
 127.0.0.1 streamcord.io
@@ -604,6 +622,7 @@
 127.0.0.1 tokcounter.com
 127.0.0.1 tokdownload.com
 127.0.0.1 toksaver.net
+127.0.0.1 toolscord.com
 127.0.0.1 top.gg
 127.0.0.1 tracking.infobip.account.tiktok.com
 127.0.0.1 tracking.infobip.service.tiktok.com
@@ -627,10 +646,12 @@
 127.0.0.1 vag.gg
 127.0.0.1 vape.gg
 127.0.0.1 vayna.app
+127.0.0.1 vencord.dev
 127.0.0.1 vexera.io
 127.0.0.1 vexera.pro
 127.0.0.1 vidtik.app
 127.0.0.1 vlr.gg
+127.0.0.1 voidbots.net
 127.0.0.1 wadbot.lol
 127.0.0.1 waifugame.com
 127.0.0.1 walletbot.pro
@@ -758,6 +779,8 @@
 127.0.0.1 www.disboard.org
 127.0.0.1 www.discadia.com
 127.0.0.1 www.discohook.app
+127.0.0.1 www.discohook.org
+127.0.0.1 www.discord-api-types.dev
 127.0.0.1 www.discord.app
 127.0.0.1 www.discord.bots.gg
 127.0.0.1 www.discord.chat
@@ -777,16 +800,24 @@
 127.0.0.1 www.discord.st
 127.0.0.1 www.discord.store
 127.0.0.1 www.discord.xyz
+127.0.0.1 www.discord4py.dev
 127.0.0.1 www.discordapp.com
+127.0.0.1 www.discordbanners.com
+127.0.0.1 www.discordbee.com
 127.0.0.1 www.discordbotlist.com
 127.0.0.1 www.discordbotlist.org
 127.0.0.1 www.discordbots.app
 127.0.0.1 www.discordbots.org
 127.0.0.1 www.discordbotstudio.org
+127.0.0.1 www.discordemoji.com
+127.0.0.1 www.discordfonts.net
 127.0.0.1 www.discordhome.com
 127.0.0.1 www.discordjs.guide
+127.0.0.1 www.discordjug.net
 127.0.0.1 www.discordlabs.org
 127.0.0.1 www.discordlist.gg
+127.0.0.1 www.discordlist.net
+127.0.0.1 www.discordlookup.com
 127.0.0.1 www.discordmerch.com
 127.0.0.1 www.discordmerch.store
 127.0.0.1 www.discordmusic.bot
@@ -794,10 +825,15 @@
 127.0.0.1 www.discordpy.readthedocs.io
 127.0.0.1 www.discords.com
 127.0.0.1 www.discordservers.com
+127.0.0.1 www.discordsocial.com
 127.0.0.1 www.discordstatus.com
+127.0.0.1 www.discordstickers.com
+127.0.0.1 www.discordtemplates.me
 127.0.0.1 www.discordtickets.app
 127.0.0.1 www.discordtree.com
+127.0.0.1 www.discservers.com
 127.0.0.1 www.disforge.com
+127.0.0.1 www.disnake.dev
 127.0.0.1 www.downloader.bot
 127.0.0.1 www.downloadtiktokvideo.net
 127.0.0.1 www.downtik.io
@@ -1039,6 +1075,7 @@
 127.0.0.1 www.probot.net
 127.0.0.1 www.progresspal.app
 127.0.0.1 www.purrbot.site
+127.0.0.1 www.pycord.dev
 127.0.0.1 www.pylon.bot
 127.0.0.1 www.quickvids.win
 127.0.0.1 www.ratingtool.xyz
@@ -1094,6 +1131,7 @@
 127.0.0.1 www.savetiktok.io
 127.0.0.1 www.savett.cc
 127.0.0.1 www.savett.pl
+127.0.0.1 www.sccb.us
 127.0.0.1 www.searchbot.app
 127.0.0.1 www.securitybot.gg
 127.0.0.1 www.securitybot.xyz
@@ -1153,6 +1191,7 @@
 127.0.0.1 www.startit.bot
 127.0.0.1 www.statbot.net
 127.0.0.1 www.stickers.gg
+127.0.0.1 www.stockbot.us
 127.0.0.1 www.strawpoll.bot
 127.0.0.1 www.streamcord.gg
 127.0.0.1 www.streamcord.io
@@ -1241,6 +1280,7 @@
 127.0.0.1 www.tokcounter.com
 127.0.0.1 www.tokdownload.com
 127.0.0.1 www.toksaver.net
+127.0.0.1 www.toolscord.com
 127.0.0.1 www.top.gg
 127.0.0.1 www.tracking.infobip.account.tiktok.com
 127.0.0.1 www.tracking.infobip.service.tiktok.com
@@ -1264,10 +1304,12 @@
 127.0.0.1 www.vag.gg
 127.0.0.1 www.vape.gg
 127.0.0.1 www.vayna.app
+127.0.0.1 www.vencord.dev
 127.0.0.1 www.vexera.io
 127.0.0.1 www.vexera.pro
 127.0.0.1 www.vidtik.app
 127.0.0.1 www.vlr.gg
+127.0.0.1 www.voidbots.net
 127.0.0.1 www.wadbot.lol
 127.0.0.1 www.waifugame.com
 127.0.0.1 www.walletbot.pro
