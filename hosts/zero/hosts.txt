@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Thursday, November 16, 2023 12:13:20 AM UTC
+# Last modified: Friday, November 17, 2023 11:49:06 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -168,6 +168,7 @@
 0.0.0.0 drs.gw.us.tiktok.com
 0.0.0.0 duncte.bot
 0.0.0.0 dyno.gg
+0.0.0.0 dytik.net
 0.0.0.0 e.tiktok.com
 0.0.0.0 eartensifier.net
 0.0.0.0 earthlingbot.net
@@ -249,6 +250,7 @@
 0.0.0.0 libertas.gg
 0.0.0.0 lilith.mom
 0.0.0.0 link.e.tiktok.com
+0.0.0.0 linktik.net
 0.0.0.0 liquidbounce.net
 0.0.0.0 livesend.tiktok.com
 0.0.0.0 lofi.bot
@@ -453,6 +455,7 @@
 0.0.0.0 savetik.net
 0.0.0.0 savetiktok.io
 0.0.0.0 savett.cc
+0.0.0.0 savett.pl
 0.0.0.0 searchbot.app
 0.0.0.0 securitybot.gg
 0.0.0.0 securitybot.xyz
@@ -468,6 +471,7 @@
 0.0.0.0 skinship.xyz
 0.0.0.0 skuld.bot
 0.0.0.0 smods.ru
+0.0.0.0 snapreels.net
 0.0.0.0 snapsave.app
 0.0.0.0 snaptik.ai
 0.0.0.0 snaptik.app
@@ -498,10 +502,12 @@
 0.0.0.0 ssstiktoc.io
 0.0.0.0 ssstiktok.ai
 0.0.0.0 ssstiktok.lol
+0.0.0.0 ssstiktok.org
 0.0.0.0 ssstiktok.run
 0.0.0.0 ssstiktok.tools
 0.0.0.0 ssstiktok.ws
 0.0.0.0 ssstiktokio.com
+0.0.0.0 ssstok.net
 0.0.0.0 ssstt.app
 0.0.0.0 sstik.de
 0.0.0.0 sstik.net
@@ -537,6 +543,7 @@
 0.0.0.0 tikclear.app
 0.0.0.0 tikd.cc
 0.0.0.0 tikdd.cc
+0.0.0.0 tikdown.net
 0.0.0.0 tikdown.org
 0.0.0.0 tikdownload.com
 0.0.0.0 tikdownloader.io
@@ -547,11 +554,13 @@
 0.0.0.0 tikmate.app
 0.0.0.0 tikmate.cc
 0.0.0.0 tikmate.online
+0.0.0.0 tikmates.net
 0.0.0.0 tiksave.io
 0.0.0.0 tiksave.lol
 0.0.0.0 tiksaver.net
 0.0.0.0 tikshot.app
 0.0.0.0 tiktake.net
+0.0.0.0 tiktake.org
 0.0.0.0 tiktal.co
 0.0.0.0 tiktap.io
 0.0.0.0 tiktocplus.app
@@ -561,6 +570,7 @@
 0.0.0.0 tiktok.shop
 0.0.0.0 tiktokapp.cc
 0.0.0.0 tiktokbot.io
+0.0.0.0 tiktokd.com
 0.0.0.0 tiktokdownload.online
 0.0.0.0 tiktokdownload.tech
 0.0.0.0 tiktokdownloader.app
@@ -584,6 +594,7 @@
 0.0.0.0 tikvideo.app
 0.0.0.0 tiky.app
 0.0.0.0 tiqtod.xyz
+0.0.0.0 tk2dl.com
 0.0.0.0 tkdown.net
 0.0.0.0 tlauncher.org
 0.0.0.0 tlmods.org
@@ -796,6 +807,7 @@
 0.0.0.0 www.drs.gw.us.tiktok.com
 0.0.0.0 www.duncte.bot
 0.0.0.0 www.dyno.gg
+0.0.0.0 www.dytik.net
 0.0.0.0 www.e.tiktok.com
 0.0.0.0 www.eartensifier.net
 0.0.0.0 www.earthlingbot.net
@@ -876,6 +888,7 @@
 0.0.0.0 www.libertas.gg
 0.0.0.0 www.lilith.mom
 0.0.0.0 www.link.e.tiktok.com
+0.0.0.0 www.linktik.net
 0.0.0.0 www.liquidbounce.net
 0.0.0.0 www.livesend.tiktok.com
 0.0.0.0 www.lofi.bot
@@ -1080,6 +1093,7 @@
 0.0.0.0 www.savetik.net
 0.0.0.0 www.savetiktok.io
 0.0.0.0 www.savett.cc
+0.0.0.0 www.savett.pl
 0.0.0.0 www.searchbot.app
 0.0.0.0 www.securitybot.gg
 0.0.0.0 www.securitybot.xyz
@@ -1095,6 +1109,7 @@
 0.0.0.0 www.skinship.xyz
 0.0.0.0 www.skuld.bot
 0.0.0.0 www.smods.ru
+0.0.0.0 www.snapreels.net
 0.0.0.0 www.snapsave.app
 0.0.0.0 www.snaptik.ai
 0.0.0.0 www.snaptik.app
@@ -1125,10 +1140,12 @@
 0.0.0.0 www.ssstiktoc.io
 0.0.0.0 www.ssstiktok.ai
 0.0.0.0 www.ssstiktok.lol
+0.0.0.0 www.ssstiktok.org
 0.0.0.0 www.ssstiktok.run
 0.0.0.0 www.ssstiktok.tools
 0.0.0.0 www.ssstiktok.ws
 0.0.0.0 www.ssstiktokio.com
+0.0.0.0 www.ssstok.net
 0.0.0.0 www.ssstt.app
 0.0.0.0 www.sstik.de
 0.0.0.0 www.sstik.net
@@ -1163,6 +1180,7 @@
 0.0.0.0 www.tikclear.app
 0.0.0.0 www.tikd.cc
 0.0.0.0 www.tikdd.cc
+0.0.0.0 www.tikdown.net
 0.0.0.0 www.tikdown.org
 0.0.0.0 www.tikdownload.com
 0.0.0.0 www.tikdownloader.io
@@ -1173,11 +1191,13 @@
 0.0.0.0 www.tikmate.app
 0.0.0.0 www.tikmate.cc
 0.0.0.0 www.tikmate.online
+0.0.0.0 www.tikmates.net
 0.0.0.0 www.tiksave.io
 0.0.0.0 www.tiksave.lol
 0.0.0.0 www.tiksaver.net
 0.0.0.0 www.tikshot.app
 0.0.0.0 www.tiktake.net
+0.0.0.0 www.tiktake.org
 0.0.0.0 www.tiktal.co
 0.0.0.0 www.tiktap.io
 0.0.0.0 www.tiktocplus.app
@@ -1187,6 +1207,7 @@
 0.0.0.0 www.tiktok.shop
 0.0.0.0 www.tiktokapp.cc
 0.0.0.0 www.tiktokbot.io
+0.0.0.0 www.tiktokd.com
 0.0.0.0 www.tiktokdownload.online
 0.0.0.0 www.tiktokdownload.tech
 0.0.0.0 www.tiktokdownloader.app
@@ -1210,6 +1231,7 @@
 0.0.0.0 www.tikvideo.app
 0.0.0.0 www.tiky.app
 0.0.0.0 www.tiqtod.xyz
+0.0.0.0 www.tk2dl.com
 0.0.0.0 www.tkdown.net
 0.0.0.0 www.tlauncher.org
 0.0.0.0 www.tlmods.org

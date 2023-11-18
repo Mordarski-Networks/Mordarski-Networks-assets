@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Thursday, November 16, 2023 12:13:20 AM UTC
+# Last modified: Friday, November 17, 2023 11:49:06 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -168,6 +168,7 @@
 127.0.0.1 drs.gw.us.tiktok.com
 127.0.0.1 duncte.bot
 127.0.0.1 dyno.gg
+127.0.0.1 dytik.net
 127.0.0.1 e.tiktok.com
 127.0.0.1 eartensifier.net
 127.0.0.1 earthlingbot.net
@@ -249,6 +250,7 @@
 127.0.0.1 libertas.gg
 127.0.0.1 lilith.mom
 127.0.0.1 link.e.tiktok.com
+127.0.0.1 linktik.net
 127.0.0.1 liquidbounce.net
 127.0.0.1 livesend.tiktok.com
 127.0.0.1 lofi.bot
@@ -453,6 +455,7 @@
 127.0.0.1 savetik.net
 127.0.0.1 savetiktok.io
 127.0.0.1 savett.cc
+127.0.0.1 savett.pl
 127.0.0.1 searchbot.app
 127.0.0.1 securitybot.gg
 127.0.0.1 securitybot.xyz
@@ -468,6 +471,7 @@
 127.0.0.1 skinship.xyz
 127.0.0.1 skuld.bot
 127.0.0.1 smods.ru
+127.0.0.1 snapreels.net
 127.0.0.1 snapsave.app
 127.0.0.1 snaptik.ai
 127.0.0.1 snaptik.app
@@ -498,10 +502,12 @@
 127.0.0.1 ssstiktoc.io
 127.0.0.1 ssstiktok.ai
 127.0.0.1 ssstiktok.lol
+127.0.0.1 ssstiktok.org
 127.0.0.1 ssstiktok.run
 127.0.0.1 ssstiktok.tools
 127.0.0.1 ssstiktok.ws
 127.0.0.1 ssstiktokio.com
+127.0.0.1 ssstok.net
 127.0.0.1 ssstt.app
 127.0.0.1 sstik.de
 127.0.0.1 sstik.net
@@ -537,6 +543,7 @@
 127.0.0.1 tikclear.app
 127.0.0.1 tikd.cc
 127.0.0.1 tikdd.cc
+127.0.0.1 tikdown.net
 127.0.0.1 tikdown.org
 127.0.0.1 tikdownload.com
 127.0.0.1 tikdownloader.io
@@ -547,11 +554,13 @@
 127.0.0.1 tikmate.app
 127.0.0.1 tikmate.cc
 127.0.0.1 tikmate.online
+127.0.0.1 tikmates.net
 127.0.0.1 tiksave.io
 127.0.0.1 tiksave.lol
 127.0.0.1 tiksaver.net
 127.0.0.1 tikshot.app
 127.0.0.1 tiktake.net
+127.0.0.1 tiktake.org
 127.0.0.1 tiktal.co
 127.0.0.1 tiktap.io
 127.0.0.1 tiktocplus.app
@@ -561,6 +570,7 @@
 127.0.0.1 tiktok.shop
 127.0.0.1 tiktokapp.cc
 127.0.0.1 tiktokbot.io
+127.0.0.1 tiktokd.com
 127.0.0.1 tiktokdownload.online
 127.0.0.1 tiktokdownload.tech
 127.0.0.1 tiktokdownloader.app
@@ -584,6 +594,7 @@
 127.0.0.1 tikvideo.app
 127.0.0.1 tiky.app
 127.0.0.1 tiqtod.xyz
+127.0.0.1 tk2dl.com
 127.0.0.1 tkdown.net
 127.0.0.1 tlauncher.org
 127.0.0.1 tlmods.org
@@ -796,6 +807,7 @@
 127.0.0.1 www.drs.gw.us.tiktok.com
 127.0.0.1 www.duncte.bot
 127.0.0.1 www.dyno.gg
+127.0.0.1 www.dytik.net
 127.0.0.1 www.e.tiktok.com
 127.0.0.1 www.eartensifier.net
 127.0.0.1 www.earthlingbot.net
@@ -876,6 +888,7 @@
 127.0.0.1 www.libertas.gg
 127.0.0.1 www.lilith.mom
 127.0.0.1 www.link.e.tiktok.com
+127.0.0.1 www.linktik.net
 127.0.0.1 www.liquidbounce.net
 127.0.0.1 www.livesend.tiktok.com
 127.0.0.1 www.lofi.bot
@@ -1080,6 +1093,7 @@
 127.0.0.1 www.savetik.net
 127.0.0.1 www.savetiktok.io
 127.0.0.1 www.savett.cc
+127.0.0.1 www.savett.pl
 127.0.0.1 www.searchbot.app
 127.0.0.1 www.securitybot.gg
 127.0.0.1 www.securitybot.xyz
@@ -1095,6 +1109,7 @@
 127.0.0.1 www.skinship.xyz
 127.0.0.1 www.skuld.bot
 127.0.0.1 www.smods.ru
+127.0.0.1 www.snapreels.net
 127.0.0.1 www.snapsave.app
 127.0.0.1 www.snaptik.ai
 127.0.0.1 www.snaptik.app
@@ -1125,10 +1140,12 @@
 127.0.0.1 www.ssstiktoc.io
 127.0.0.1 www.ssstiktok.ai
 127.0.0.1 www.ssstiktok.lol
+127.0.0.1 www.ssstiktok.org
 127.0.0.1 www.ssstiktok.run
 127.0.0.1 www.ssstiktok.tools
 127.0.0.1 www.ssstiktok.ws
 127.0.0.1 www.ssstiktokio.com
+127.0.0.1 www.ssstok.net
 127.0.0.1 www.ssstt.app
 127.0.0.1 www.sstik.de
 127.0.0.1 www.sstik.net
@@ -1163,6 +1180,7 @@
 127.0.0.1 www.tikclear.app
 127.0.0.1 www.tikd.cc
 127.0.0.1 www.tikdd.cc
+127.0.0.1 www.tikdown.net
 127.0.0.1 www.tikdown.org
 127.0.0.1 www.tikdownload.com
 127.0.0.1 www.tikdownloader.io
@@ -1173,11 +1191,13 @@
 127.0.0.1 www.tikmate.app
 127.0.0.1 www.tikmate.cc
 127.0.0.1 www.tikmate.online
+127.0.0.1 www.tikmates.net
 127.0.0.1 www.tiksave.io
 127.0.0.1 www.tiksave.lol
 127.0.0.1 www.tiksaver.net
 127.0.0.1 www.tikshot.app
 127.0.0.1 www.tiktake.net
+127.0.0.1 www.tiktake.org
 127.0.0.1 www.tiktal.co
 127.0.0.1 www.tiktap.io
 127.0.0.1 www.tiktocplus.app
@@ -1187,6 +1207,7 @@
 127.0.0.1 www.tiktok.shop
 127.0.0.1 www.tiktokapp.cc
 127.0.0.1 www.tiktokbot.io
+127.0.0.1 www.tiktokd.com
 127.0.0.1 www.tiktokdownload.online
 127.0.0.1 www.tiktokdownload.tech
 127.0.0.1 www.tiktokdownloader.app
@@ -1210,6 +1231,7 @@
 127.0.0.1 www.tikvideo.app
 127.0.0.1 www.tiky.app
 127.0.0.1 www.tiqtod.xyz
+127.0.0.1 www.tk2dl.com
 127.0.0.1 www.tkdown.net
 127.0.0.1 www.tlauncher.org
 127.0.0.1 www.tlmods.org
