@@ -817,6 +817,13 @@ www.youtube.com##ytd-shorts:matches-path(/shorts) a.ytd-reel-player-header-rende
 m.youtube.com##ytm-browse a[href$="@monsterschoolbr"]:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search a[href$="@monsterschoolbr"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@scarletrose001"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@scarletrose001"]:upward(ytd-video-renderer,ytd-channel-renderer)
+www.youtube.com##ytd-shorts:matches-path(/shorts) a.ytd-reel-player-header-renderer[href$="@scarletrose001"]:upward(ytd-reel-video-renderer)
+m.youtube.com##ytm-browse a[href$="@scarletrose001"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@scarletrose001"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+
 
 
 !--- Filter Youtube Videos ---!
