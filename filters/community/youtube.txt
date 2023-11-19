@@ -1,9 +1,11 @@
 ! Title: Mordarski Networks assets community filter list for YouTube
 ! Description: Community backed filter list for YouTube
 ! Expires: 2 days
-! Last modified: Friday, November 17, 2023 11:11:42 PM UTC
+! Sunday, November 19, 2023 03:03:26 AM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
+! Cancel the damn update, the community is now getting fill of toxicity, because they cant "Run" the game or something
+! Lol just kidding.
 ! 
 ! GitHub issues: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues
 ! GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
