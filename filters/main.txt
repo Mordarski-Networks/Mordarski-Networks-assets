@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Friday, November 24, 2023 04:53:20 PM UTC
+! Last modified: Saturday, November 25, 2023 07:31:08 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -5394,6 +5394,294 @@ www.google.*##.g:has(a[href*="apk4f.com"])
 www.google.*##a[href*="apk4f.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="apk4f.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="apk4f.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modyolo.com):upward(li)
+bing.com#?#a[href*="modyolo.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modyolo.com"]:upward(.dg_u)
+bing.com##.news-card[url*="modyolo.com"]
+www.google.*##.g:has(a[href*="modyolo.com"])
+www.google.*##a[href*="modyolo.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modyolo.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modyolo.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modcombo.com):upward(li)
+bing.com#?#a[href*="modcombo.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modcombo.com"]:upward(.dg_u)
+bing.com##.news-card[url*="modcombo.com"]
+www.google.*##.g:has(a[href*="modcombo.com"])
+www.google.*##a[href*="modcombo.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modcombo.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modcombo.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(getmodsapk.com):upward(li)
+bing.com#?#a[href*="getmodsapk.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="getmodsapk.com"]:upward(.dg_u)
+bing.com##.news-card[url*="getmodsapk.com"]
+www.google.*##.g:has(a[href*="getmodsapk.com"])
+www.google.*##a[href*="getmodsapk.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="getmodsapk.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="getmodsapk.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkmody.com):upward(li)
+bing.com#?#a[href*="apkmody.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkmody.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apkmody.com"]
+www.google.*##.g:has(a[href*="apkmody.com"])
+www.google.*##a[href*="apkmody.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkmody.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkmody.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modapkok.com):upward(li)
+bing.com#?#a[href*="modapkok.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modapkok.com"]:upward(.dg_u)
+bing.com##.news-card[url*="modapkok.com"]
+www.google.*##.g:has(a[href*="modapkok.com"])
+www.google.*##a[href*="modapkok.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modapkok.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modapkok.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modded-1.com):upward(li)
+bing.com#?#a[href*="modded-1.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modded-1.com"]:upward(.dg_u)
+bing.com##.news-card[url*="modded-1.com"]
+www.google.*##.g:has(a[href*="modded-1.com"])
+www.google.*##a[href*="modded-1.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modded-1.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modded-1.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(jojoy.io):upward(li)
+bing.com#?#a[href*="jojoy.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="jojoy.io"]:upward(.dg_u)
+bing.com##.news-card[url*="jojoy.io"]
+www.google.*##.g:has(a[href*="jojoy.io"])
+www.google.*##a[href*="jojoy.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="jojoy.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="jojoy.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkmb.com):upward(li)
+bing.com#?#a[href*="apkmb.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkmb.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apkmb.com"]
+www.google.*##.g:has(a[href*="apkmb.com"])
+www.google.*##a[href*="apkmb.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkmb.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkmb.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkremix.com):upward(li)
+bing.com#?#a[href*="apkremix.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkremix.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apkremix.com"]
+www.google.*##.g:has(a[href*="apkremix.com"])
+www.google.*##a[href*="apkremix.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkremix.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkremix.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(gamedva.com):upward(li)
+bing.com#?#a[href*="gamedva.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="gamedva.com"]:upward(.dg_u)
+bing.com##.news-card[url*="gamedva.com"]
+www.google.*##.g:has(a[href*="gamedva.com"])
+www.google.*##a[href*="gamedva.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="gamedva.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="gamedva.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(an1.com):upward(li)
+bing.com#?#a[href*="an1.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="an1.com"]:upward(.dg_u)
+bing.com##.news-card[url*="an1.com"]
+www.google.*##.g:has(a[href*="an1.com"])
+www.google.*##a[href*="an1.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="an1.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="an1.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(kingmodapk.mobi):upward(li)
+bing.com#?#a[href*="kingmodapk.mobi"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="kingmodapk.mobi"]:upward(.dg_u)
+bing.com##.news-card[url*="kingmodapk.mobi"]
+www.google.*##.g:has(a[href*="kingmodapk.mobi"])
+www.google.*##a[href*="kingmodapk.mobi"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="kingmodapk.mobi"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="kingmodapk.mobi"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(5play.app):upward(li)
+bing.com#?#a[href*="5play.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="5play.app"]:upward(.dg_u)
+bing.com##.news-card[url*="5play.app"]
+www.google.*##.g:has(a[href*="5play.app"])
+www.google.*##a[href*="5play.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="5play.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="5play.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(techloky.com):upward(li)
+bing.com#?#a[href*="techloky.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="techloky.com"]:upward(.dg_u)
+bing.com##.news-card[url*="techloky.com"]
+www.google.*##.g:has(a[href*="techloky.com"])
+www.google.*##a[href*="techloky.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="techloky.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="techloky.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkmody.fun):upward(li)
+bing.com#?#a[href*="apkmody.fun"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkmody.fun"]:upward(.dg_u)
+bing.com##.news-card[url*="apkmody.fun"]
+www.google.*##.g:has(a[href*="apkmody.fun"])
+www.google.*##a[href*="apkmody.fun"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkmody.fun"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkmody.fun"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(kingmodapk.net):upward(li)
+bing.com#?#a[href*="kingmodapk.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="kingmodapk.net"]:upward(.dg_u)
+bing.com##.news-card[url*="kingmodapk.net"]
+www.google.*##.g:has(a[href*="kingmodapk.net"])
+www.google.*##a[href*="kingmodapk.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="kingmodapk.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="kingmodapk.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkmod.cc):upward(li)
+bing.com#?#a[href*="apkmod.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkmod.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="apkmod.cc"]
+www.google.*##.g:has(a[href*="apkmod.cc"])
+www.google.*##a[href*="apkmod.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkmod.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkmod.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modradar.cc):upward(li)
+bing.com#?#a[href*="modradar.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modradar.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="modradar.cc"]
+www.google.*##.g:has(a[href*="modradar.cc"])
+www.google.*##a[href*="modradar.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modradar.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modradar.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(rexdl.com):upward(li)
+bing.com#?#a[href*="rexdl.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="rexdl.com"]:upward(.dg_u)
+bing.com##.news-card[url*="rexdl.com"]
+www.google.*##.g:has(a[href*="rexdl.com"])
+www.google.*##a[href*="rexdl.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="rexdl.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="rexdl.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkaward.com):upward(li)
+bing.com#?#a[href*="apkaward.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkaward.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apkaward.com"]
+www.google.*##.g:has(a[href*="apkaward.com"])
+www.google.*##a[href*="apkaward.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkaward.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkaward.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apktodo.io):upward(li)
+bing.com#?#a[href*="apktodo.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apktodo.io"]:upward(.dg_u)
+bing.com##.news-card[url*="apktodo.io"]
+www.google.*##.g:has(a[href*="apktodo.io"])
+www.google.*##a[href*="apktodo.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apktodo.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apktodo.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkmodhere.com):upward(li)
+bing.com#?#a[href*="apkmodhere.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkmodhere.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apkmodhere.com"]
+www.google.*##.g:has(a[href*="apkmodhere.com"])
+www.google.*##a[href*="apkmodhere.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkmodhere.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkmodhere.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modsofapk.com):upward(li)
+bing.com#?#a[href*="modsofapk.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modsofapk.com"]:upward(.dg_u)
+bing.com##.news-card[url*="modsofapk.com"]
+www.google.*##.g:has(a[href*="modsofapk.com"])
+www.google.*##a[href*="modsofapk.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modsofapk.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modsofapk.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkhome.io):upward(li)
+bing.com#?#a[href*="apkhome.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkhome.io"]:upward(.dg_u)
+bing.com##.news-card[url*="apkhome.io"]
+www.google.*##.g:has(a[href*="apkhome.io"])
+www.google.*##a[href*="apkhome.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkhome.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkhome.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkkingo.com):upward(li)
+bing.com#?#a[href*="apkkingo.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkkingo.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apkkingo.com"]
+www.google.*##.g:has(a[href*="apkkingo.com"])
+www.google.*##a[href*="apkkingo.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkkingo.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkkingo.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(techtodown.com):upward(li)
+bing.com#?#a[href*="techtodown.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="techtodown.com"]:upward(.dg_u)
+bing.com##.news-card[url*="techtodown.com"]
+www.google.*##.g:has(a[href*="techtodown.com"])
+www.google.*##a[href*="techtodown.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="techtodown.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="techtodown.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(capapkcut.com):upward(li)
+bing.com#?#a[href*="capapkcut.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="capapkcut.com"]:upward(.dg_u)
+bing.com##.news-card[url*="capapkcut.com"]
+www.google.*##.g:has(a[href*="capapkcut.com"])
+www.google.*##a[href*="capapkcut.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="capapkcut.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="capapkcut.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(free-modapk.com):upward(li)
+bing.com#?#a[href*="free-modapk.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="free-modapk.com"]:upward(.dg_u)
+bing.com##.news-card[url*="free-modapk.com"]
+www.google.*##.g:has(a[href*="free-modapk.com"])
+www.google.*##a[href*="free-modapk.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="free-modapk.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="free-modapk.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(dlandroid.com):upward(li)
+bing.com#?#a[href*="dlandroid.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="dlandroid.com"]:upward(.dg_u)
+bing.com##.news-card[url*="dlandroid.com"]
+www.google.*##.g:has(a[href*="dlandroid.com"])
+www.google.*##a[href*="dlandroid.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="dlandroid.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="dlandroid.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkbigs.com):upward(li)
+bing.com#?#a[href*="apkbigs.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkbigs.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apkbigs.com"]
+www.google.*##.g:has(a[href*="apkbigs.com"])
+www.google.*##a[href*="apkbigs.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkbigs.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkbigs.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkmodule.com):upward(li)
+bing.com#?#a[href*="apkmodule.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkmodule.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apkmodule.com"]
+www.google.*##.g:has(a[href*="apkmodule.com"])
+www.google.*##a[href*="apkmodule.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkmodule.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkmodule.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(vnapkmod.net):upward(li)
+bing.com#?#a[href*="vnapkmod.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="vnapkmod.net"]:upward(.dg_u)
+bing.com##.news-card[url*="vnapkmod.net"]
+www.google.*##.g:has(a[href*="vnapkmod.net"])
+www.google.*##a[href*="vnapkmod.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="vnapkmod.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="vnapkmod.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mypornvid.fun):upward(li)
+bing.com#?#a[href*="mypornvid.fun"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mypornvid.fun"]:upward(.dg_u)
+bing.com##.news-card[url*="mypornvid.fun"]
+www.google.*##.g:has(a[href*="mypornvid.fun"])
+www.google.*##a[href*="mypornvid.fun"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mypornvid.fun"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mypornvid.fun"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mcmodspc.com):upward(li)
+bing.com#?#a[href*="mcmodspc.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mcmodspc.com"]:upward(.dg_u)
+bing.com##.news-card[url*="mcmodspc.com"]
+www.google.*##.g:has(a[href*="mcmodspc.com"])
+www.google.*##a[href*="mcmodspc.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mcmodspc.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mcmodspc.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(jenny-mod.com):upward(li)
+bing.com#?#a[href*="jenny-mod.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="jenny-mod.com"]:upward(.dg_u)
+bing.com##.news-card[url*="jenny-mod.com"]
+www.google.*##.g:has(a[href*="jenny-mod.com"])
+www.google.*##a[href*="jenny-mod.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="jenny-mod.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="jenny-mod.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(minecraft.fr):upward(li)
+bing.com#?#a[href*="minecraft.fr"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="minecraft.fr"]:upward(.dg_u)
+bing.com##.news-card[url*="minecraft.fr"]
+www.google.*##.g:has(a[href*="minecraft.fr"])
+www.google.*##a[href*="minecraft.fr"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="minecraft.fr"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="minecraft.fr"]:upward(.tile)
 
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
@@ -6071,6 +6359,42 @@ duckduckgo.com##.tile-wrap a[href*="apk4f.com"]:upward(.tile)
 ||latestmodapks.com^$all
 ||apkflash.com^$all
 ||apk4f.com^$all
+||modyolo.com^$all
+||modcombo.com^$all
+||getmodsapk.com^$all
+||apkmody.com^$all
+||modapkok.com^$all
+||modded-1.com^$all
+||jojoy.io^$all
+||apkmb.com^$all
+||apkremix.com^$all
+||gamedva.com^$all
+||an1.com^$all
+||kingmodapk.mobi^$all
+||5play.app^$all
+||techloky.com^$all
+||apkmody.fun^$all
+||kingmodapk.net^$all
+||apkmod.cc^$all
+||modradar.cc^$all
+||rexdl.com^$all
+||apkaward.com^$all
+||apktodo.io^$all
+||apkmodhere.com^$all
+||modsofapk.com^$all
+||apkhome.io^$all
+||apkkingo.com^$all
+||techtodown.com^$all
+||capapkcut.com^$all
+||free-modapk.com^$all
+||dlandroid.com^$all
+||apkbigs.com^$all
+||apkmodule.com^$all
+||vnapkmod.net^$all
+||mypornvid.fun^$all
+||mcmodspc.com^$all
+||jenny-mod.com^$all
+||minecraft.fr^$all
 
 !--- Remove Tracking from URLs ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam

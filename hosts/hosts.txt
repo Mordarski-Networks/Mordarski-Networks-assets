@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Friday, November 24, 2023 04:53:20 PM UTC
+# Last modified: Saturday, November 25, 2023 07:31:08 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -7,6 +7,7 @@
 # GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
 
 127.0.0.1 123tik.net
+127.0.0.1 5play.app
 127.0.0.1 7minecraft.net
 127.0.0.1 99minecraft.com
 127.0.0.1 9apps.com
@@ -28,6 +29,7 @@
 127.0.0.1 alice-bot.net
 127.0.0.1 allstar.gg
 127.0.0.1 alpha.bot
+127.0.0.1 an1.com
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 androidapksfree.com
 127.0.0.1 anibot.moe
@@ -41,17 +43,29 @@
 127.0.0.1 apk4f.com
 127.0.0.1 apk4free.net
 127.0.0.1 apk4fun.com
+127.0.0.1 apkaward.com
+127.0.0.1 apkbigs.com
 127.0.0.1 apkcombo.com
 127.0.0.1 apkdone.com
 127.0.0.1 apkfab.com
 127.0.0.1 apkfiles.com
 127.0.0.1 apkflash.com
 127.0.0.1 apkfree.com
+127.0.0.1 apkhome.io
+127.0.0.1 apkkingo.com
+127.0.0.1 apkmb.com
+127.0.0.1 apkmod.cc
 127.0.0.1 apkmodget.com
+127.0.0.1 apkmodhere.com
+127.0.0.1 apkmodule.com
+127.0.0.1 apkmody.com
+127.0.0.1 apkmody.fun
 127.0.0.1 apkmody.io
 127.0.0.1 apkmonk.com
 127.0.0.1 apkonline.net
 127.0.0.1 apkpureapp.net
+127.0.0.1 apkremix.com
+127.0.0.1 apktodo.io
 127.0.0.1 apollo.fyi
 127.0.0.1 appsapk.com
 127.0.0.1 aprilbot.me
@@ -114,6 +128,7 @@
 127.0.0.1 bytexservice.com
 127.0.0.1 cakeybot.app
 127.0.0.1 canute.gg
+127.0.0.1 capapkcut.com
 127.0.0.1 carl.gg
 127.0.0.1 censor.bot
 127.0.0.1 channelbot.xyz
@@ -205,6 +220,7 @@
 127.0.0.1 discservers.com
 127.0.0.1 disforge.com
 127.0.0.1 disnake.dev
+127.0.0.1 dlandroid.com
 127.0.0.1 docs.midjourney.com
 127.0.0.1 downloader.bot
 127.0.0.1 downloadtiktokvideo.net
@@ -236,6 +252,7 @@
 127.0.0.1 fmcpe.com
 127.0.0.1 fplbot.app
 127.0.0.1 fredboat.com
+127.0.0.1 free-modapk.com
 127.0.0.1 free-robux-counter-counterstudio.en.aptoide.com
 127.0.0.1 free-robux-counter-counterstudio.mx.aptoide.com
 127.0.0.1 free-robux-generator.site
@@ -246,6 +263,7 @@
 127.0.0.1 freshtok.bot
 127.0.0.1 furaffinity.net
 127.0.0.1 gajdy.ru
+127.0.0.1 gamedva.com
 127.0.0.1 gamestats.io
 127.0.0.1 gamingbot.support
 127.0.0.1 garticbot.gg
@@ -253,6 +271,7 @@
 127.0.0.1 gencord.lol
 127.0.0.1 getbetty.bot
 127.0.0.1 getfire.bot
+127.0.0.1 getmodsapk.com
 127.0.0.1 ghosty.bot
 127.0.0.1 gid-minecraft.ru
 127.0.0.1 giveawaybot.party
@@ -289,11 +308,15 @@
 127.0.0.1 inwerk-kuechen-news.de
 127.0.0.1 itranslator.app
 127.0.0.1 jeeves.bot
+127.0.0.1 jenny-mod.com
 127.0.0.1 jennymod.dev
 127.0.0.1 jmusicbot.com
 127.0.0.1 jockiemusic.com
+127.0.0.1 jojoy.io
 127.0.0.1 juniper.bot
 127.0.0.1 keeptik.online
+127.0.0.1 kingmodapk.mobi
+127.0.0.1 kingmodapk.net
 127.0.0.1 koya.gg
 127.0.0.1 kyubot.app
 127.0.0.1 laralove.gay
@@ -326,6 +349,7 @@
 127.0.0.1 mcbuild.org
 127.0.0.1 mchacks.net
 127.0.0.1 mcmod.cn
+127.0.0.1 mcmodspc.com
 127.0.0.1 mcpe-game.ru
 127.0.0.1 mcpe-inside.ru
 127.0.0.1 mcpe-planet.com
@@ -357,6 +381,7 @@
 127.0.0.1 minecraft-installer.com
 127.0.0.1 minecraft-max.net
 127.0.0.1 minecraft-pocket.com
+127.0.0.1 minecraft.fr
 127.0.0.1 minecraft17.com
 127.0.0.1 minecraftclue.com
 127.0.0.1 minecrafteo.com
@@ -381,16 +406,22 @@
 127.0.0.1 mochi.bot
 127.0.0.1 mod-minecraft.net
 127.0.0.1 mod4minecraft.com
+127.0.0.1 modapkok.com
 127.0.0.1 modbay.org
 127.0.0.1 modbay.ru
 127.0.0.1 modbem.com
+127.0.0.1 modcombo.com
 127.0.0.1 modcombo.io
+127.0.0.1 modded-1.com
 127.0.0.1 modhub.us
 127.0.0.1 modland.net
 127.0.0.1 modmail.xyz
 127.0.0.1 modpackindex.com
+127.0.0.1 modradar.cc
 127.0.0.1 modscraft.net
 127.0.0.1 modscraft.ru
+127.0.0.1 modsofapk.com
+127.0.0.1 modyolo.com
 127.0.0.1 moebot.pro
 127.0.0.1 moneytribune.de
 127.0.0.1 monster-mcpe.com
@@ -403,6 +434,7 @@
 127.0.0.1 mx1.tiktok.com
 127.0.0.1 mx2.tiktok.com
 127.0.0.1 mx3.tiktok.com
+127.0.0.1 mypornvid.fun
 127.0.0.1 myserver.gg
 127.0.0.1 nadeko.bot
 127.0.0.1 needle.gg
@@ -472,6 +504,7 @@
 127.0.0.1 readybot.io
 127.0.0.1 reconbot.net
 127.0.0.1 rewardrobux.com
+127.0.0.1 rexdl.com
 127.0.0.1 rias.gg
 127.0.0.1 richterschmidt.de
 127.0.0.1 rinbot.moe
@@ -601,6 +634,8 @@
 127.0.0.1 tatsu.lol
 127.0.0.1 tatsumaki.xyz
 127.0.0.1 tattle.bot
+127.0.0.1 techloky.com
+127.0.0.1 techtodown.com
 127.0.0.1 tempobot.net
 127.0.0.1 teraflare.app
 127.0.0.1 texture-packs.com
@@ -710,6 +745,7 @@
 127.0.0.1 vexera.pro
 127.0.0.1 vidtik.app
 127.0.0.1 vlr.gg
+127.0.0.1 vnapkmod.net
 127.0.0.1 voidbots.net
 127.0.0.1 wadbot.lol
 127.0.0.1 waifugame.com
@@ -729,6 +765,7 @@
 127.0.0.1 wuff.gay
 127.0.0.1 wurstclient.net
 127.0.0.1 www.123tik.net
+127.0.0.1 www.5play.app
 127.0.0.1 www.7minecraft.net
 127.0.0.1 www.99minecraft.com
 127.0.0.1 www.9apps.com
@@ -750,6 +787,7 @@
 127.0.0.1 www.alice-bot.net
 127.0.0.1 www.allstar.gg
 127.0.0.1 www.alpha.bot
+127.0.0.1 www.an1.com
 127.0.0.1 www.analytics.tiktok.com
 127.0.0.1 www.androidapksfree.com
 127.0.0.1 www.anibot.moe
@@ -763,17 +801,29 @@
 127.0.0.1 www.apk4f.com
 127.0.0.1 www.apk4free.net
 127.0.0.1 www.apk4fun.com
+127.0.0.1 www.apkaward.com
+127.0.0.1 www.apkbigs.com
 127.0.0.1 www.apkcombo.com
 127.0.0.1 www.apkdone.com
 127.0.0.1 www.apkfab.com
 127.0.0.1 www.apkfiles.com
 127.0.0.1 www.apkflash.com
 127.0.0.1 www.apkfree.com
+127.0.0.1 www.apkhome.io
+127.0.0.1 www.apkkingo.com
+127.0.0.1 www.apkmb.com
+127.0.0.1 www.apkmod.cc
 127.0.0.1 www.apkmodget.com
+127.0.0.1 www.apkmodhere.com
+127.0.0.1 www.apkmodule.com
+127.0.0.1 www.apkmody.com
+127.0.0.1 www.apkmody.fun
 127.0.0.1 www.apkmody.io
 127.0.0.1 www.apkmonk.com
 127.0.0.1 www.apkonline.net
 127.0.0.1 www.apkpureapp.net
+127.0.0.1 www.apkremix.com
+127.0.0.1 www.apktodo.io
 127.0.0.1 www.apollo.fyi
 127.0.0.1 www.appsapk.com
 127.0.0.1 www.aprilbot.me
@@ -836,6 +886,7 @@
 127.0.0.1 www.bytexservice.com
 127.0.0.1 www.cakeybot.app
 127.0.0.1 www.canute.gg
+127.0.0.1 www.capapkcut.com
 127.0.0.1 www.carl.gg
 127.0.0.1 www.censor.bot
 127.0.0.1 www.channelbot.xyz
@@ -925,6 +976,7 @@
 127.0.0.1 www.discservers.com
 127.0.0.1 www.disforge.com
 127.0.0.1 www.disnake.dev
+127.0.0.1 www.dlandroid.com
 127.0.0.1 www.downloader.bot
 127.0.0.1 www.downloadtiktokvideo.net
 127.0.0.1 www.downtik.io
@@ -955,6 +1007,7 @@
 127.0.0.1 www.fmcpe.com
 127.0.0.1 www.fplbot.app
 127.0.0.1 www.fredboat.com
+127.0.0.1 www.free-modapk.com
 127.0.0.1 www.free-robux-counter-counterstudio.en.aptoide.com
 127.0.0.1 www.free-robux-counter-counterstudio.mx.aptoide.com
 127.0.0.1 www.free-robux-generator.site
@@ -965,6 +1018,7 @@
 127.0.0.1 www.freshtok.bot
 127.0.0.1 www.furaffinity.net
 127.0.0.1 www.gajdy.ru
+127.0.0.1 www.gamedva.com
 127.0.0.1 www.gamestats.io
 127.0.0.1 www.gamingbot.support
 127.0.0.1 www.garticbot.gg
@@ -972,6 +1026,7 @@
 127.0.0.1 www.gencord.lol
 127.0.0.1 www.getbetty.bot
 127.0.0.1 www.getfire.bot
+127.0.0.1 www.getmodsapk.com
 127.0.0.1 www.ghosty.bot
 127.0.0.1 www.gid-minecraft.ru
 127.0.0.1 www.giveawaybot.party
@@ -1007,11 +1062,15 @@
 127.0.0.1 www.inwerk-kuechen-news.de
 127.0.0.1 www.itranslator.app
 127.0.0.1 www.jeeves.bot
+127.0.0.1 www.jenny-mod.com
 127.0.0.1 www.jennymod.dev
 127.0.0.1 www.jmusicbot.com
 127.0.0.1 www.jockiemusic.com
+127.0.0.1 www.jojoy.io
 127.0.0.1 www.juniper.bot
 127.0.0.1 www.keeptik.online
+127.0.0.1 www.kingmodapk.mobi
+127.0.0.1 www.kingmodapk.net
 127.0.0.1 www.koya.gg
 127.0.0.1 www.kyubot.app
 127.0.0.1 www.laralove.gay
@@ -1044,6 +1103,7 @@
 127.0.0.1 www.mcbuild.org
 127.0.0.1 www.mchacks.net
 127.0.0.1 www.mcmod.cn
+127.0.0.1 www.mcmodspc.com
 127.0.0.1 www.mcpe-game.ru
 127.0.0.1 www.mcpe-inside.ru
 127.0.0.1 www.mcpe-planet.com
@@ -1075,6 +1135,7 @@
 127.0.0.1 www.minecraft-installer.com
 127.0.0.1 www.minecraft-max.net
 127.0.0.1 www.minecraft-pocket.com
+127.0.0.1 www.minecraft.fr
 127.0.0.1 www.minecraft17.com
 127.0.0.1 www.minecraftclue.com
 127.0.0.1 www.minecrafteo.com
@@ -1099,16 +1160,22 @@
 127.0.0.1 www.mochi.bot
 127.0.0.1 www.mod-minecraft.net
 127.0.0.1 www.mod4minecraft.com
+127.0.0.1 www.modapkok.com
 127.0.0.1 www.modbay.org
 127.0.0.1 www.modbay.ru
 127.0.0.1 www.modbem.com
+127.0.0.1 www.modcombo.com
 127.0.0.1 www.modcombo.io
+127.0.0.1 www.modded-1.com
 127.0.0.1 www.modhub.us
 127.0.0.1 www.modland.net
 127.0.0.1 www.modmail.xyz
 127.0.0.1 www.modpackindex.com
+127.0.0.1 www.modradar.cc
 127.0.0.1 www.modscraft.net
 127.0.0.1 www.modscraft.ru
+127.0.0.1 www.modsofapk.com
+127.0.0.1 www.modyolo.com
 127.0.0.1 www.moebot.pro
 127.0.0.1 www.moneytribune.de
 127.0.0.1 www.monster-mcpe.com
@@ -1121,6 +1188,7 @@
 127.0.0.1 www.mx1.tiktok.com
 127.0.0.1 www.mx2.tiktok.com
 127.0.0.1 www.mx3.tiktok.com
+127.0.0.1 www.mypornvid.fun
 127.0.0.1 www.myserver.gg
 127.0.0.1 www.nadeko.bot
 127.0.0.1 www.needle.gg
@@ -1190,6 +1258,7 @@
 127.0.0.1 www.readybot.io
 127.0.0.1 www.reconbot.net
 127.0.0.1 www.rewardrobux.com
+127.0.0.1 www.rexdl.com
 127.0.0.1 www.rias.gg
 127.0.0.1 www.richterschmidt.de
 127.0.0.1 www.rinbot.moe
@@ -1318,6 +1387,8 @@
 127.0.0.1 www.tatsu.lol
 127.0.0.1 www.tatsumaki.xyz
 127.0.0.1 www.tattle.bot
+127.0.0.1 www.techloky.com
+127.0.0.1 www.techtodown.com
 127.0.0.1 www.tempobot.net
 127.0.0.1 www.teraflare.app
 127.0.0.1 www.texture-packs.com
@@ -1427,6 +1498,7 @@
 127.0.0.1 www.vexera.pro
 127.0.0.1 www.vidtik.app
 127.0.0.1 www.vlr.gg
+127.0.0.1 www.vnapkmod.net
 127.0.0.1 www.voidbots.net
 127.0.0.1 www.wadbot.lol
 127.0.0.1 www.waifugame.com
