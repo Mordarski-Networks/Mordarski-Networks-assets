@@ -1,0 +1,218 @@
+! Title: Mordarski Networks assets developer filter list
+! Description: This filter list is for development and testing only. You should use the main filter list instead.
+! Expires: 5 days
+! Last modified: Friday, October 13, 2023 09:48:28 PM UTC
+! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
+! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues
+! GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
+
+!--- Filter out certain embeds on steamcommunity.com ---!
+! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#specifichide
+! Syntax: example.com##.ad-class
+ 
+steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(tiktok)
+steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(discord)
+steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(roblox)
+steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(peta)
+steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(snapchat)
+steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(facebook)
+
+!--- Filter Search Results (Recursively) ---!
+! https://github.com/orgs/letsblockit/discussions/568
+! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#specifichide
+! Syntax: example.com##.ad-class
+
+bing.com#?#[id$="results"] cite:has-text(https://tiktok):upward(li)
+bing.com#?#a[href*="https://tiktok"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="https://tiktok"]:upward(.dg_u)
+bing.com##.news-card[url*="https://tiktok"]
+www.google.*##.g:has(a[href*="https://tiktok"])
+www.google.*##a[href*="https://tiktok"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="https://tiktok"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="https://tiktok"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(https://www.tiktok):upward(li)
+bing.com#?#a[href*="https://www.tiktok"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="https://www.tiktok"]:upward(.dg_u)
+bing.com##.news-card[url*="https://www.tiktok"]
+www.google.*##.g:has(a[href*="https://www.tiktok"])
+www.google.*##a[href*="https://www.tiktok"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="https://www.tiktok"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="https://www.tiktok"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(http://tiktok):upward(li)
+bing.com#?#a[href*="http://tiktok"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="http://tiktok"]:upward(.dg_u)
+bing.com##.news-card[url*="http://tiktok"]
+www.google.*##.g:has(a[href*="http://tiktok"])
+www.google.*##a[href*="http://tiktok"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="http://tiktok"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="http://tiktok"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(http://www.tiktok):upward(li)
+bing.com#?#a[href*="http://www.tiktok"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="http://www.tiktok"]:upward(.dg_u)
+bing.com##.news-card[url*="http://www.tiktok"]
+www.google.*##.g:has(a[href*="http://www.tiktok"])
+www.google.*##a[href*="http://www.tiktok"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="http://www.tiktok"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="http://www.tiktok"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(https://discord):upward(li)
+bing.com#?#a[href*="https://discord"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="https://discord"]:upward(.dg_u)
+bing.com##.news-card[url*="https://discord"]
+www.google.*##.g:has(a[href*="https://discord"])
+www.google.*##a[href*="https://discord"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="https://discord"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="https://discord"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(https://www.discord):upward(li)
+bing.com#?#a[href*="https://www.discord"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="https://www.discord"]:upward(.dg_u)
+bing.com##.news-card[url*="https://www.discord"]
+www.google.*##.g:has(a[href*="https://www.discord"])
+www.google.*##a[href*="https://www.discord"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="https://www.discord"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="https://www.discord"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(http://discord):upward(li)
+bing.com#?#a[href*="http://discord"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="http://discord"]:upward(.dg_u)
+bing.com##.news-card[url*="http://discord"]
+www.google.*##.g:has(a[href*="http://discord"])
+www.google.*##a[href*="http://discord"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="http://discord"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="http://discord"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(http://www.discord):upward(li)
+bing.com#?#a[href*="http://www.discord"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="http://www.discord"]:upward(.dg_u)
+bing.com##.news-card[url*="http://www.discord"]
+www.google.*##.g:has(a[href*="http://www.discord"])
+www.google.*##a[href*="http://www.discord"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="http://www.discord"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="http://www.discord"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(https://roblox):upward(li)
+bing.com#?#a[href*="https://roblox"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="https://roblox"]:upward(.dg_u)
+bing.com##.news-card[url*="https://roblox"]
+www.google.*##.g:has(a[href*="https://roblox"])
+www.google.*##a[href*="https://roblox"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="https://roblox"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="https://roblox"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(https://www.roblox):upward(li)
+bing.com#?#a[href*="https://www.roblox"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="https://www.roblox"]:upward(.dg_u)
+bing.com##.news-card[url*="https://www.roblox"]
+www.google.*##.g:has(a[href*="https://www.roblox"])
+www.google.*##a[href*="https://www.roblox"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="https://www.roblox"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="https://www.roblox"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(http://roblox):upward(li)
+bing.com#?#a[href*="http://roblox"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="http://roblox"]:upward(.dg_u)
+bing.com##.news-card[url*="http://roblox"]
+www.google.*##.g:has(a[href*="http://roblox"])
+www.google.*##a[href*="http://roblox"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="http://roblox"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="http://roblox"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(http://www.roblox):upward(li)
+bing.com#?#a[href*="http://www.roblox"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="http://www.roblox"]:upward(.dg_u)
+bing.com##.news-card[url*="http://www.roblox"]
+www.google.*##.g:has(a[href*="http://www.roblox"])
+www.google.*##a[href*="http://www.roblox"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="http://www.roblox"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="http://www.roblox"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(https://snapchat):upward(li)
+bing.com#?#a[href*="https://snapchat"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="https://snapchat"]:upward(.dg_u)
+bing.com##.news-card[url*="https://snapchat"]
+www.google.*##.g:has(a[href*="https://snapchat"])
+www.google.*##a[href*="https://snapchat"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="https://snapchat"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="https://snapchat"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(https://www.snapchat):upward(li)
+bing.com#?#a[href*="https://www.snapchat"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="https://www.snapchat"]:upward(.dg_u)
+bing.com##.news-card[url*="https://www.snapchat"]
+www.google.*##.g:has(a[href*="https://www.snapchat"])
+www.google.*##a[href*="https://www.snapchat"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="https://www.snapchat"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="https://www.snapchat"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(http://snapchat):upward(li)
+bing.com#?#a[href*="http://snapchat"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="http://snapchat"]:upward(.dg_u)
+bing.com##.news-card[url*="http://snapchat"]
+www.google.*##.g:has(a[href*="http://snapchat"])
+www.google.*##a[href*="http://snapchat"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="http://snapchat"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="http://snapchat"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(http://www.snapchat):upward(li)
+bing.com#?#a[href*="http://www.snapchat"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="http://www.snapchat"]:upward(.dg_u)
+bing.com##.news-card[url*="http://www.snapchat"]
+www.google.*##.g:has(a[href*="http://www.snapchat"])
+www.google.*##a[href*="http://www.snapchat"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="http://www.snapchat"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="http://www.snapchat"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(https://peta):upward(li)
+bing.com#?#a[href*="https://peta"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="https://peta"]:upward(.dg_u)
+bing.com##.news-card[url*="https://peta"]
+www.google.*##.g:has(a[href*="https://peta"])
+www.google.*##a[href*="https://peta"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="https://peta"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="https://peta"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(https://www.peta):upward(li)
+bing.com#?#a[href*="https://www.peta"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="https://www.peta"]:upward(.dg_u)
+bing.com##.news-card[url*="https://www.peta"]
+www.google.*##.g:has(a[href*="https://www.peta"])
+www.google.*##a[href*="https://www.peta"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="https://www.peta"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="https://www.peta"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(http://peta):upward(li)
+bing.com#?#a[href*="http://peta"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="http://peta"]:upward(.dg_u)
+bing.com##.news-card[url*="http://peta"]
+www.google.*##.g:has(a[href*="http://peta"])
+www.google.*##a[href*="http://peta"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="http://peta"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="http://peta"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(http://www.peta):upward(li)
+bing.com#?#a[href*="http://www.peta"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="http://www.peta"]:upward(.dg_u)
+bing.com##.news-card[url*="http://www.peta"]
+www.google.*##.g:has(a[href*="http://www.peta"])
+www.google.*##a[href*="http://www.peta"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="http://www.peta"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="http://www.peta"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(https://meta):upward(li)
+bing.com#?#a[href*="https://meta"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="https://meta"]:upward(.dg_u)
+bing.com##.news-card[url*="https://meta"]
+www.google.*##.g:has(a[href*="https://meta"])
+www.google.*##a[href*="https://meta"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="https://meta"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="https://meta"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(https://www.meta):upward(li)
+bing.com#?#a[href*="https://www.meta"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="https://www.meta"]:upward(.dg_u)
+bing.com##.news-card[url*="https://www.meta"]
+www.google.*##.g:has(a[href*="https://www.meta"])
+www.google.*##a[href*="https://www.meta"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="https://www.meta"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="https://www.meta"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(http://meta):upward(li)
+bing.com#?#a[href*="http://meta"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="http://meta"]:upward(.dg_u)
+bing.com##.news-card[url*="http://meta"]
+www.google.*##.g:has(a[href*="http://meta"])
+www.google.*##a[href*="http://meta"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="http://meta"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="http://meta"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(http://www.meta):upward(li)
+bing.com#?#a[href*="http://www.meta"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="http://www.meta"]:upward(.dg_u)
+bing.com##.news-card[url*="http://www.meta"]
+www.google.*##.g:has(a[href*="http://www.meta"])
+www.google.*##a[href*="http://www.meta"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="http://www.meta"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="http://www.meta"]:upward(.tile)

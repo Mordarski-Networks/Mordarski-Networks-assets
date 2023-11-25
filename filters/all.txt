@@ -1,0 +1,14 @@
+! Title: Mordarski Networks assets everything filter list
+! Description: Contains all of Mordarski Networks filter lists
+! Expires: 5 days
+! Last modified: Tuesday, November 14, 2023 02:46:21 AM UTC
+! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
+! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues
+! GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
+
+!#include main.txt
+!#include extra.txt
+!#include dev.txt
+!#include community/youtube.txt
