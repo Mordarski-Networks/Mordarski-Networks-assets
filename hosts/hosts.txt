@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Saturday, November 25, 2023 07:31:08 PM UTC
+# Last modified: Sunday, November 26, 2023 07:00:32 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -31,7 +31,9 @@
 127.0.0.1 alpha.bot
 127.0.0.1 an1.com
 127.0.0.1 analytics.tiktok.com
+127.0.0.1 andro-mod.com
 127.0.0.1 androidapksfree.com
+127.0.0.1 androidp1.com
 127.0.0.1 anibot.moe
 127.0.0.1 animeclap.com
 127.0.0.1 animesoul.com
@@ -40,23 +42,28 @@
 127.0.0.1 apk-store.org
 127.0.0.1 apk.gold
 127.0.0.1 apk.support
+127.0.0.1 apk20.com
 127.0.0.1 apk4f.com
 127.0.0.1 apk4free.net
 127.0.0.1 apk4fun.com
+127.0.0.1 apkals.com
 127.0.0.1 apkaward.com
 127.0.0.1 apkbigs.com
 127.0.0.1 apkcombo.com
 127.0.0.1 apkdone.com
+127.0.0.1 apkexit.com
 127.0.0.1 apkfab.com
 127.0.0.1 apkfiles.com
 127.0.0.1 apkflash.com
 127.0.0.1 apkfree.com
 127.0.0.1 apkhome.io
+127.0.0.1 apkinu.com
 127.0.0.1 apkkingo.com
 127.0.0.1 apkmb.com
 127.0.0.1 apkmod.cc
 127.0.0.1 apkmodget.com
 127.0.0.1 apkmodhere.com
+127.0.0.1 apkmodinfo.com
 127.0.0.1 apkmodule.com
 127.0.0.1 apkmody.com
 127.0.0.1 apkmody.fun
@@ -65,6 +72,7 @@
 127.0.0.1 apkonline.net
 127.0.0.1 apkpureapp.net
 127.0.0.1 apkremix.com
+127.0.0.1 apksum.com
 127.0.0.1 apktodo.io
 127.0.0.1 apollo.fyi
 127.0.0.1 appsapk.com
@@ -89,14 +97,17 @@
 127.0.0.1 bleed.bot
 127.0.0.1 blog.trending.tiktok.com
 127.0.0.1 blox.bot
+127.0.0.1 blox.link
 127.0.0.1 bloxearn.com
 127.0.0.1 bluecord.lol
 127.0.0.1 bnder.net
+127.0.0.1 bot-hosting.net
 127.0.0.1 botdisco.com
 127.0.0.1 botghost.com
 127.0.0.1 botlist.app
 127.0.0.1 botlist.site
 127.0.0.1 botloader.io
+127.0.0.1 botpenguin.com
 127.0.0.1 bots.ondiscord.xyz
 127.0.0.1 brawltools.net
 127.0.0.1 brussell.me
@@ -285,6 +296,8 @@
 127.0.0.1 guide.melonbot.io
 127.0.0.1 guild.xyz
 127.0.0.1 gw2bot.info
+127.0.0.1 happymod.to
+127.0.0.1 happymodpro.com
 127.0.0.1 helio.lol
 127.0.0.1 helltides.com
 127.0.0.1 helper.gg
@@ -305,6 +318,7 @@
 127.0.0.1 instantmods.com
 127.0.0.1 intracord.com
 127.0.0.1 invite-tracker.com
+127.0.0.1 invitelogger.me
 127.0.0.1 inwerk-kuechen-news.de
 127.0.0.1 itranslator.app
 127.0.0.1 jeeves.bot
@@ -418,9 +432,11 @@
 127.0.0.1 modmail.xyz
 127.0.0.1 modpackindex.com
 127.0.0.1 modradar.cc
+127.0.0.1 mods-craft.net
 127.0.0.1 modscraft.net
 127.0.0.1 modscraft.ru
 127.0.0.1 modsofapk.com
+127.0.0.1 modyla.com
 127.0.0.1 modyolo.com
 127.0.0.1 moebot.pro
 127.0.0.1 moneytribune.de
@@ -437,6 +453,7 @@
 127.0.0.1 mypornvid.fun
 127.0.0.1 myserver.gg
 127.0.0.1 nadeko.bot
+127.0.0.1 napkforpc.com
 127.0.0.1 needle.gg
 127.0.0.1 nekotina.com
 127.0.0.1 nerobot.eu
@@ -482,6 +499,7 @@
 127.0.0.1 pixel.gay
 127.0.0.1 planet-minecraft.com
 127.0.0.1 planetrbx.com
+127.0.0.1 platinmods.com
 127.0.0.1 playground.ru
 127.0.0.1 playmods.net
 127.0.0.1 pluralkit.me
@@ -595,6 +613,7 @@
 127.0.0.1 soulmusic.pro
 127.0.0.1 spicybot.site
 127.0.0.1 spotigeek.com
+127.0.0.1 ssstik.com
 127.0.0.1 ssstik.io
 127.0.0.1 ssstik.link
 127.0.0.1 ssstik.live
@@ -613,6 +632,7 @@
 127.0.0.1 ssstt.app
 127.0.0.1 sstik.de
 127.0.0.1 sstik.net
+127.0.0.1 ssyoutube.com
 127.0.0.1 stalk.gg
 127.0.0.1 starpets.gg
 127.0.0.1 startit.bot
@@ -636,6 +656,7 @@
 127.0.0.1 tattle.bot
 127.0.0.1 techloky.com
 127.0.0.1 techtodown.com
+127.0.0.1 tekmods.com
 127.0.0.1 tempobot.net
 127.0.0.1 teraflare.app
 127.0.0.1 texture-packs.com
@@ -789,7 +810,9 @@
 127.0.0.1 www.alpha.bot
 127.0.0.1 www.an1.com
 127.0.0.1 www.analytics.tiktok.com
+127.0.0.1 www.andro-mod.com
 127.0.0.1 www.androidapksfree.com
+127.0.0.1 www.androidp1.com
 127.0.0.1 www.anibot.moe
 127.0.0.1 www.animeclap.com
 127.0.0.1 www.animesoul.com
@@ -798,23 +821,28 @@
 127.0.0.1 www.apk-store.org
 127.0.0.1 www.apk.gold
 127.0.0.1 www.apk.support
+127.0.0.1 www.apk20.com
 127.0.0.1 www.apk4f.com
 127.0.0.1 www.apk4free.net
 127.0.0.1 www.apk4fun.com
+127.0.0.1 www.apkals.com
 127.0.0.1 www.apkaward.com
 127.0.0.1 www.apkbigs.com
 127.0.0.1 www.apkcombo.com
 127.0.0.1 www.apkdone.com
+127.0.0.1 www.apkexit.com
 127.0.0.1 www.apkfab.com
 127.0.0.1 www.apkfiles.com
 127.0.0.1 www.apkflash.com
 127.0.0.1 www.apkfree.com
 127.0.0.1 www.apkhome.io
+127.0.0.1 www.apkinu.com
 127.0.0.1 www.apkkingo.com
 127.0.0.1 www.apkmb.com
 127.0.0.1 www.apkmod.cc
 127.0.0.1 www.apkmodget.com
 127.0.0.1 www.apkmodhere.com
+127.0.0.1 www.apkmodinfo.com
 127.0.0.1 www.apkmodule.com
 127.0.0.1 www.apkmody.com
 127.0.0.1 www.apkmody.fun
@@ -823,6 +851,7 @@
 127.0.0.1 www.apkonline.net
 127.0.0.1 www.apkpureapp.net
 127.0.0.1 www.apkremix.com
+127.0.0.1 www.apksum.com
 127.0.0.1 www.apktodo.io
 127.0.0.1 www.apollo.fyi
 127.0.0.1 www.appsapk.com
@@ -847,14 +876,17 @@
 127.0.0.1 www.bleed.bot
 127.0.0.1 www.blog.trending.tiktok.com
 127.0.0.1 www.blox.bot
+127.0.0.1 www.blox.link
 127.0.0.1 www.bloxearn.com
 127.0.0.1 www.bluecord.lol
 127.0.0.1 www.bnder.net
+127.0.0.1 www.bot-hosting.net
 127.0.0.1 www.botdisco.com
 127.0.0.1 www.botghost.com
 127.0.0.1 www.botlist.app
 127.0.0.1 www.botlist.site
 127.0.0.1 www.botloader.io
+127.0.0.1 www.botpenguin.com
 127.0.0.1 www.bots.ondiscord.xyz
 127.0.0.1 www.brawltools.net
 127.0.0.1 www.brussell.me
@@ -1039,6 +1071,8 @@
 127.0.0.1 www.guide-minecraft.com
 127.0.0.1 www.guild.xyz
 127.0.0.1 www.gw2bot.info
+127.0.0.1 www.happymod.to
+127.0.0.1 www.happymodpro.com
 127.0.0.1 www.helio.lol
 127.0.0.1 www.helltides.com
 127.0.0.1 www.helper.gg
@@ -1059,6 +1093,7 @@
 127.0.0.1 www.instantmods.com
 127.0.0.1 www.intracord.com
 127.0.0.1 www.invite-tracker.com
+127.0.0.1 www.invitelogger.me
 127.0.0.1 www.inwerk-kuechen-news.de
 127.0.0.1 www.itranslator.app
 127.0.0.1 www.jeeves.bot
@@ -1172,9 +1207,11 @@
 127.0.0.1 www.modmail.xyz
 127.0.0.1 www.modpackindex.com
 127.0.0.1 www.modradar.cc
+127.0.0.1 www.mods-craft.net
 127.0.0.1 www.modscraft.net
 127.0.0.1 www.modscraft.ru
 127.0.0.1 www.modsofapk.com
+127.0.0.1 www.modyla.com
 127.0.0.1 www.modyolo.com
 127.0.0.1 www.moebot.pro
 127.0.0.1 www.moneytribune.de
@@ -1191,6 +1228,7 @@
 127.0.0.1 www.mypornvid.fun
 127.0.0.1 www.myserver.gg
 127.0.0.1 www.nadeko.bot
+127.0.0.1 www.napkforpc.com
 127.0.0.1 www.needle.gg
 127.0.0.1 www.nekotina.com
 127.0.0.1 www.nerobot.eu
@@ -1236,6 +1274,7 @@
 127.0.0.1 www.pixel.gay
 127.0.0.1 www.planet-minecraft.com
 127.0.0.1 www.planetrbx.com
+127.0.0.1 www.platinmods.com
 127.0.0.1 www.playground.ru
 127.0.0.1 www.playmods.net
 127.0.0.1 www.pluralkit.me
@@ -1349,6 +1388,7 @@
 127.0.0.1 www.soulmusic.pro
 127.0.0.1 www.spicybot.site
 127.0.0.1 www.spotigeek.com
+127.0.0.1 www.ssstik.com
 127.0.0.1 www.ssstik.io
 127.0.0.1 www.ssstik.link
 127.0.0.1 www.ssstik.live
@@ -1367,6 +1407,7 @@
 127.0.0.1 www.ssstt.app
 127.0.0.1 www.sstik.de
 127.0.0.1 www.sstik.net
+127.0.0.1 www.ssyoutube.com
 127.0.0.1 www.stalk.gg
 127.0.0.1 www.starpets.gg
 127.0.0.1 www.startit.bot
@@ -1389,6 +1430,7 @@
 127.0.0.1 www.tattle.bot
 127.0.0.1 www.techloky.com
 127.0.0.1 www.techtodown.com
+127.0.0.1 www.tekmods.com
 127.0.0.1 www.tempobot.net
 127.0.0.1 www.teraflare.app
 127.0.0.1 www.texture-packs.com
