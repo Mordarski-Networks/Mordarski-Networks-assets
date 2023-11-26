@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Saturday, November 25, 2023 07:31:08 PM UTC
+# Last modified: Sunday, November 26, 2023 07:00:32 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -31,7 +31,9 @@
 0.0.0.0 alpha.bot
 0.0.0.0 an1.com
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 andro-mod.com
 0.0.0.0 androidapksfree.com
+0.0.0.0 androidp1.com
 0.0.0.0 anibot.moe
 0.0.0.0 animeclap.com
 0.0.0.0 animesoul.com
@@ -40,23 +42,28 @@
 0.0.0.0 apk-store.org
 0.0.0.0 apk.gold
 0.0.0.0 apk.support
+0.0.0.0 apk20.com
 0.0.0.0 apk4f.com
 0.0.0.0 apk4free.net
 0.0.0.0 apk4fun.com
+0.0.0.0 apkals.com
 0.0.0.0 apkaward.com
 0.0.0.0 apkbigs.com
 0.0.0.0 apkcombo.com
 0.0.0.0 apkdone.com
+0.0.0.0 apkexit.com
 0.0.0.0 apkfab.com
 0.0.0.0 apkfiles.com
 0.0.0.0 apkflash.com
 0.0.0.0 apkfree.com
 0.0.0.0 apkhome.io
+0.0.0.0 apkinu.com
 0.0.0.0 apkkingo.com
 0.0.0.0 apkmb.com
 0.0.0.0 apkmod.cc
 0.0.0.0 apkmodget.com
 0.0.0.0 apkmodhere.com
+0.0.0.0 apkmodinfo.com
 0.0.0.0 apkmodule.com
 0.0.0.0 apkmody.com
 0.0.0.0 apkmody.fun
@@ -65,6 +72,7 @@
 0.0.0.0 apkonline.net
 0.0.0.0 apkpureapp.net
 0.0.0.0 apkremix.com
+0.0.0.0 apksum.com
 0.0.0.0 apktodo.io
 0.0.0.0 apollo.fyi
 0.0.0.0 appsapk.com
@@ -89,14 +97,17 @@
 0.0.0.0 bleed.bot
 0.0.0.0 blog.trending.tiktok.com
 0.0.0.0 blox.bot
+0.0.0.0 blox.link
 0.0.0.0 bloxearn.com
 0.0.0.0 bluecord.lol
 0.0.0.0 bnder.net
+0.0.0.0 bot-hosting.net
 0.0.0.0 botdisco.com
 0.0.0.0 botghost.com
 0.0.0.0 botlist.app
 0.0.0.0 botlist.site
 0.0.0.0 botloader.io
+0.0.0.0 botpenguin.com
 0.0.0.0 bots.ondiscord.xyz
 0.0.0.0 brawltools.net
 0.0.0.0 brussell.me
@@ -285,6 +296,8 @@
 0.0.0.0 guide.melonbot.io
 0.0.0.0 guild.xyz
 0.0.0.0 gw2bot.info
+0.0.0.0 happymod.to
+0.0.0.0 happymodpro.com
 0.0.0.0 helio.lol
 0.0.0.0 helltides.com
 0.0.0.0 helper.gg
@@ -305,6 +318,7 @@
 0.0.0.0 instantmods.com
 0.0.0.0 intracord.com
 0.0.0.0 invite-tracker.com
+0.0.0.0 invitelogger.me
 0.0.0.0 inwerk-kuechen-news.de
 0.0.0.0 itranslator.app
 0.0.0.0 jeeves.bot
@@ -418,9 +432,11 @@
 0.0.0.0 modmail.xyz
 0.0.0.0 modpackindex.com
 0.0.0.0 modradar.cc
+0.0.0.0 mods-craft.net
 0.0.0.0 modscraft.net
 0.0.0.0 modscraft.ru
 0.0.0.0 modsofapk.com
+0.0.0.0 modyla.com
 0.0.0.0 modyolo.com
 0.0.0.0 moebot.pro
 0.0.0.0 moneytribune.de
@@ -437,6 +453,7 @@
 0.0.0.0 mypornvid.fun
 0.0.0.0 myserver.gg
 0.0.0.0 nadeko.bot
+0.0.0.0 napkforpc.com
 0.0.0.0 needle.gg
 0.0.0.0 nekotina.com
 0.0.0.0 nerobot.eu
@@ -482,6 +499,7 @@
 0.0.0.0 pixel.gay
 0.0.0.0 planet-minecraft.com
 0.0.0.0 planetrbx.com
+0.0.0.0 platinmods.com
 0.0.0.0 playground.ru
 0.0.0.0 playmods.net
 0.0.0.0 pluralkit.me
@@ -595,6 +613,7 @@
 0.0.0.0 soulmusic.pro
 0.0.0.0 spicybot.site
 0.0.0.0 spotigeek.com
+0.0.0.0 ssstik.com
 0.0.0.0 ssstik.io
 0.0.0.0 ssstik.link
 0.0.0.0 ssstik.live
@@ -613,6 +632,7 @@
 0.0.0.0 ssstt.app
 0.0.0.0 sstik.de
 0.0.0.0 sstik.net
+0.0.0.0 ssyoutube.com
 0.0.0.0 stalk.gg
 0.0.0.0 starpets.gg
 0.0.0.0 startit.bot
@@ -636,6 +656,7 @@
 0.0.0.0 tattle.bot
 0.0.0.0 techloky.com
 0.0.0.0 techtodown.com
+0.0.0.0 tekmods.com
 0.0.0.0 tempobot.net
 0.0.0.0 teraflare.app
 0.0.0.0 texture-packs.com
@@ -789,7 +810,9 @@
 0.0.0.0 www.alpha.bot
 0.0.0.0 www.an1.com
 0.0.0.0 www.analytics.tiktok.com
+0.0.0.0 www.andro-mod.com
 0.0.0.0 www.androidapksfree.com
+0.0.0.0 www.androidp1.com
 0.0.0.0 www.anibot.moe
 0.0.0.0 www.animeclap.com
 0.0.0.0 www.animesoul.com
@@ -798,23 +821,28 @@
 0.0.0.0 www.apk-store.org
 0.0.0.0 www.apk.gold
 0.0.0.0 www.apk.support
+0.0.0.0 www.apk20.com
 0.0.0.0 www.apk4f.com
 0.0.0.0 www.apk4free.net
 0.0.0.0 www.apk4fun.com
+0.0.0.0 www.apkals.com
 0.0.0.0 www.apkaward.com
 0.0.0.0 www.apkbigs.com
 0.0.0.0 www.apkcombo.com
 0.0.0.0 www.apkdone.com
+0.0.0.0 www.apkexit.com
 0.0.0.0 www.apkfab.com
 0.0.0.0 www.apkfiles.com
 0.0.0.0 www.apkflash.com
 0.0.0.0 www.apkfree.com
 0.0.0.0 www.apkhome.io
+0.0.0.0 www.apkinu.com
 0.0.0.0 www.apkkingo.com
 0.0.0.0 www.apkmb.com
 0.0.0.0 www.apkmod.cc
 0.0.0.0 www.apkmodget.com
 0.0.0.0 www.apkmodhere.com
+0.0.0.0 www.apkmodinfo.com
 0.0.0.0 www.apkmodule.com
 0.0.0.0 www.apkmody.com
 0.0.0.0 www.apkmody.fun
@@ -823,6 +851,7 @@
 0.0.0.0 www.apkonline.net
 0.0.0.0 www.apkpureapp.net
 0.0.0.0 www.apkremix.com
+0.0.0.0 www.apksum.com
 0.0.0.0 www.apktodo.io
 0.0.0.0 www.apollo.fyi
 0.0.0.0 www.appsapk.com
@@ -847,14 +876,17 @@
 0.0.0.0 www.bleed.bot
 0.0.0.0 www.blog.trending.tiktok.com
 0.0.0.0 www.blox.bot
+0.0.0.0 www.blox.link
 0.0.0.0 www.bloxearn.com
 0.0.0.0 www.bluecord.lol
 0.0.0.0 www.bnder.net
+0.0.0.0 www.bot-hosting.net
 0.0.0.0 www.botdisco.com
 0.0.0.0 www.botghost.com
 0.0.0.0 www.botlist.app
 0.0.0.0 www.botlist.site
 0.0.0.0 www.botloader.io
+0.0.0.0 www.botpenguin.com
 0.0.0.0 www.bots.ondiscord.xyz
 0.0.0.0 www.brawltools.net
 0.0.0.0 www.brussell.me
@@ -1039,6 +1071,8 @@
 0.0.0.0 www.guide-minecraft.com
 0.0.0.0 www.guild.xyz
 0.0.0.0 www.gw2bot.info
+0.0.0.0 www.happymod.to
+0.0.0.0 www.happymodpro.com
 0.0.0.0 www.helio.lol
 0.0.0.0 www.helltides.com
 0.0.0.0 www.helper.gg
@@ -1059,6 +1093,7 @@
 0.0.0.0 www.instantmods.com
 0.0.0.0 www.intracord.com
 0.0.0.0 www.invite-tracker.com
+0.0.0.0 www.invitelogger.me
 0.0.0.0 www.inwerk-kuechen-news.de
 0.0.0.0 www.itranslator.app
 0.0.0.0 www.jeeves.bot
@@ -1172,9 +1207,11 @@
 0.0.0.0 www.modmail.xyz
 0.0.0.0 www.modpackindex.com
 0.0.0.0 www.modradar.cc
+0.0.0.0 www.mods-craft.net
 0.0.0.0 www.modscraft.net
 0.0.0.0 www.modscraft.ru
 0.0.0.0 www.modsofapk.com
+0.0.0.0 www.modyla.com
 0.0.0.0 www.modyolo.com
 0.0.0.0 www.moebot.pro
 0.0.0.0 www.moneytribune.de
@@ -1191,6 +1228,7 @@
 0.0.0.0 www.mypornvid.fun
 0.0.0.0 www.myserver.gg
 0.0.0.0 www.nadeko.bot
+0.0.0.0 www.napkforpc.com
 0.0.0.0 www.needle.gg
 0.0.0.0 www.nekotina.com
 0.0.0.0 www.nerobot.eu
@@ -1236,6 +1274,7 @@
 0.0.0.0 www.pixel.gay
 0.0.0.0 www.planet-minecraft.com
 0.0.0.0 www.planetrbx.com
+0.0.0.0 www.platinmods.com
 0.0.0.0 www.playground.ru
 0.0.0.0 www.playmods.net
 0.0.0.0 www.pluralkit.me
@@ -1349,6 +1388,7 @@
 0.0.0.0 www.soulmusic.pro
 0.0.0.0 www.spicybot.site
 0.0.0.0 www.spotigeek.com
+0.0.0.0 www.ssstik.com
 0.0.0.0 www.ssstik.io
 0.0.0.0 www.ssstik.link
 0.0.0.0 www.ssstik.live
@@ -1367,6 +1407,7 @@
 0.0.0.0 www.ssstt.app
 0.0.0.0 www.sstik.de
 0.0.0.0 www.sstik.net
+0.0.0.0 www.ssyoutube.com
 0.0.0.0 www.stalk.gg
 0.0.0.0 www.starpets.gg
 0.0.0.0 www.startit.bot
@@ -1389,6 +1430,7 @@
 0.0.0.0 www.tattle.bot
 0.0.0.0 www.techloky.com
 0.0.0.0 www.techtodown.com
+0.0.0.0 www.tekmods.com
 0.0.0.0 www.tempobot.net
 0.0.0.0 www.teraflare.app
 0.0.0.0 www.texture-packs.com
