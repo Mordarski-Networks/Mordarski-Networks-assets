@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Sunday, November 26, 2023 07:00:32 PM UTC
+! Last modified: Monday, November 27, 2023 07:34:00 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -5850,6 +5850,86 @@ www.google.*##.g:has(a[href*="mods-craft.net"])
 www.google.*##a[href*="mods-craft.net"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="mods-craft.net"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="mods-craft.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkrabi.com):upward(li)
+bing.com#?#a[href*="apkrabi.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkrabi.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apkrabi.com"]
+www.google.*##.g:has(a[href*="apkrabi.com"])
+www.google.*##a[href*="apkrabi.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkrabi.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkrabi.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(divxland.org):upward(li)
+bing.com#?#a[href*="divxland.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="divxland.org"]:upward(.dg_u)
+bing.com##.news-card[url*="divxland.org"]
+www.google.*##.g:has(a[href*="divxland.org"])
+www.google.*##a[href*="divxland.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="divxland.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="divxland.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(playstore.one):upward(li)
+bing.com#?#a[href*="playstore.one"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="playstore.one"]:upward(.dg_u)
+bing.com##.news-card[url*="playstore.one"]
+www.google.*##.g:has(a[href*="playstore.one"])
+www.google.*##a[href*="playstore.one"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="playstore.one"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="playstore.one"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mobdro.cam):upward(li)
+bing.com#?#a[href*="mobdro.cam"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mobdro.cam"]:upward(.dg_u)
+bing.com##.news-card[url*="mobdro.cam"]
+www.google.*##.g:has(a[href*="mobdro.cam"])
+www.google.*##a[href*="mobdro.cam"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mobdro.cam"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mobdro.cam"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apk.cafe):upward(li)
+bing.com#?#a[href*="apk.cafe"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apk.cafe"]:upward(.dg_u)
+bing.com##.news-card[url*="apk.cafe"]
+www.google.*##.g:has(a[href*="apk.cafe"])
+www.google.*##a[href*="apk.cafe"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apk.cafe"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apk.cafe"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(instaupapk.com):upward(li)
+bing.com#?#a[href*="instaupapk.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="instaupapk.com"]:upward(.dg_u)
+bing.com##.news-card[url*="instaupapk.com"]
+www.google.*##.g:has(a[href*="instaupapk.com"])
+www.google.*##a[href*="instaupapk.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="instaupapk.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="instaupapk.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apksos.com):upward(li)
+bing.com#?#a[href*="apksos.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apksos.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apksos.com"]
+www.google.*##.g:has(a[href*="apksos.com"])
+www.google.*##a[href*="apksos.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apksos.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apksos.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkshub.com):upward(li)
+bing.com#?#a[href*="apkshub.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkshub.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apkshub.com"]
+www.google.*##.g:has(a[href*="apkshub.com"])
+www.google.*##a[href*="apkshub.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkshub.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkshub.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apktoy.com):upward(li)
+bing.com#?#a[href*="apktoy.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apktoy.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apktoy.com"]
+www.google.*##.g:has(a[href*="apktoy.com"])
+www.google.*##a[href*="apktoy.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apktoy.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apktoy.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkbe.com):upward(li)
+bing.com#?#a[href*="apkbe.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkbe.com"]:upward(.dg_u)
+bing.com##.news-card[url*="apkbe.com"]
+www.google.*##.g:has(a[href*="apkbe.com"])
+www.google.*##a[href*="apkbe.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkbe.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkbe.com"]:upward(.tile)
 
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
@@ -6584,6 +6664,16 @@ duckduckgo.com##.tile-wrap a[href*="mods-craft.net"]:upward(.tile)
 ||apksum.com^$all
 ||platinmods.com^$all
 ||mods-craft.net^$all
+||apkrabi.com^$all
+||divxland.org^$all
+||playstore.one^$all
+||mobdro.cam^$all
+||apk.cafe^$all
+||instaupapk.com^$all
+||apksos.com^$all
+||apkshub.com^$all
+||apktoy.com^$all
+||apkbe.com^$all
 
 !--- Remove Tracking from URLs ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam

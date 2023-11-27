@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Sunday, November 26, 2023 07:00:32 PM UTC
+# Last modified: Monday, November 27, 2023 07:34:00 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -40,6 +40,7 @@
 127.0.0.1 aperture.bot
 127.0.0.1 apk-dl.com
 127.0.0.1 apk-store.org
+127.0.0.1 apk.cafe
 127.0.0.1 apk.gold
 127.0.0.1 apk.support
 127.0.0.1 apk20.com
@@ -48,6 +49,7 @@
 127.0.0.1 apk4fun.com
 127.0.0.1 apkals.com
 127.0.0.1 apkaward.com
+127.0.0.1 apkbe.com
 127.0.0.1 apkbigs.com
 127.0.0.1 apkcombo.com
 127.0.0.1 apkdone.com
@@ -71,9 +73,13 @@
 127.0.0.1 apkmonk.com
 127.0.0.1 apkonline.net
 127.0.0.1 apkpureapp.net
+127.0.0.1 apkrabi.com
 127.0.0.1 apkremix.com
+127.0.0.1 apkshub.com
+127.0.0.1 apksos.com
 127.0.0.1 apksum.com
 127.0.0.1 apktodo.io
+127.0.0.1 apktoy.com
 127.0.0.1 apollo.fyi
 127.0.0.1 appsapk.com
 127.0.0.1 aprilbot.me
@@ -231,6 +237,7 @@
 127.0.0.1 discservers.com
 127.0.0.1 disforge.com
 127.0.0.1 disnake.dev
+127.0.0.1 divxland.org
 127.0.0.1 dlandroid.com
 127.0.0.1 docs.midjourney.com
 127.0.0.1 downloader.bot
@@ -316,6 +323,7 @@
 127.0.0.1 in.tiktok.com
 127.0.0.1 inminecraft.ru
 127.0.0.1 instantmods.com
+127.0.0.1 instaupapk.com
 127.0.0.1 intracord.com
 127.0.0.1 invite-tracker.com
 127.0.0.1 invitelogger.me
@@ -417,6 +425,7 @@
 127.0.0.1 minibot.app
 127.0.0.1 mncrftmods.com
 127.0.0.1 mobalytics.gg
+127.0.0.1 mobdro.cam
 127.0.0.1 mochi.bot
 127.0.0.1 mod-minecraft.net
 127.0.0.1 mod4minecraft.com
@@ -502,6 +511,7 @@
 127.0.0.1 platinmods.com
 127.0.0.1 playground.ru
 127.0.0.1 playmods.net
+127.0.0.1 playstore.one
 127.0.0.1 pluralkit.me
 127.0.0.1 points.bot
 127.0.0.1 poketwo.net
@@ -819,6 +829,7 @@
 127.0.0.1 www.aperture.bot
 127.0.0.1 www.apk-dl.com
 127.0.0.1 www.apk-store.org
+127.0.0.1 www.apk.cafe
 127.0.0.1 www.apk.gold
 127.0.0.1 www.apk.support
 127.0.0.1 www.apk20.com
@@ -827,6 +838,7 @@
 127.0.0.1 www.apk4fun.com
 127.0.0.1 www.apkals.com
 127.0.0.1 www.apkaward.com
+127.0.0.1 www.apkbe.com
 127.0.0.1 www.apkbigs.com
 127.0.0.1 www.apkcombo.com
 127.0.0.1 www.apkdone.com
@@ -850,9 +862,13 @@
 127.0.0.1 www.apkmonk.com
 127.0.0.1 www.apkonline.net
 127.0.0.1 www.apkpureapp.net
+127.0.0.1 www.apkrabi.com
 127.0.0.1 www.apkremix.com
+127.0.0.1 www.apkshub.com
+127.0.0.1 www.apksos.com
 127.0.0.1 www.apksum.com
 127.0.0.1 www.apktodo.io
+127.0.0.1 www.apktoy.com
 127.0.0.1 www.apollo.fyi
 127.0.0.1 www.appsapk.com
 127.0.0.1 www.aprilbot.me
@@ -1008,6 +1024,7 @@
 127.0.0.1 www.discservers.com
 127.0.0.1 www.disforge.com
 127.0.0.1 www.disnake.dev
+127.0.0.1 www.divxland.org
 127.0.0.1 www.dlandroid.com
 127.0.0.1 www.downloader.bot
 127.0.0.1 www.downloadtiktokvideo.net
@@ -1091,6 +1108,7 @@
 127.0.0.1 www.in.tiktok.com
 127.0.0.1 www.inminecraft.ru
 127.0.0.1 www.instantmods.com
+127.0.0.1 www.instaupapk.com
 127.0.0.1 www.intracord.com
 127.0.0.1 www.invite-tracker.com
 127.0.0.1 www.invitelogger.me
@@ -1192,6 +1210,7 @@
 127.0.0.1 www.minibot.app
 127.0.0.1 www.mncrftmods.com
 127.0.0.1 www.mobalytics.gg
+127.0.0.1 www.mobdro.cam
 127.0.0.1 www.mochi.bot
 127.0.0.1 www.mod-minecraft.net
 127.0.0.1 www.mod4minecraft.com
@@ -1277,6 +1296,7 @@
 127.0.0.1 www.platinmods.com
 127.0.0.1 www.playground.ru
 127.0.0.1 www.playmods.net
+127.0.0.1 www.playstore.one
 127.0.0.1 www.pluralkit.me
 127.0.0.1 www.points.bot
 127.0.0.1 www.poketwo.net
