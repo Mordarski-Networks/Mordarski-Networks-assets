@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Sunday, November 26, 2023 07:00:32 PM UTC
+# Last modified: Monday, November 27, 2023 07:34:00 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -40,6 +40,7 @@
 0.0.0.0 aperture.bot
 0.0.0.0 apk-dl.com
 0.0.0.0 apk-store.org
+0.0.0.0 apk.cafe
 0.0.0.0 apk.gold
 0.0.0.0 apk.support
 0.0.0.0 apk20.com
@@ -48,6 +49,7 @@
 0.0.0.0 apk4fun.com
 0.0.0.0 apkals.com
 0.0.0.0 apkaward.com
+0.0.0.0 apkbe.com
 0.0.0.0 apkbigs.com
 0.0.0.0 apkcombo.com
 0.0.0.0 apkdone.com
@@ -71,9 +73,13 @@
 0.0.0.0 apkmonk.com
 0.0.0.0 apkonline.net
 0.0.0.0 apkpureapp.net
+0.0.0.0 apkrabi.com
 0.0.0.0 apkremix.com
+0.0.0.0 apkshub.com
+0.0.0.0 apksos.com
 0.0.0.0 apksum.com
 0.0.0.0 apktodo.io
+0.0.0.0 apktoy.com
 0.0.0.0 apollo.fyi
 0.0.0.0 appsapk.com
 0.0.0.0 aprilbot.me
@@ -231,6 +237,7 @@
 0.0.0.0 discservers.com
 0.0.0.0 disforge.com
 0.0.0.0 disnake.dev
+0.0.0.0 divxland.org
 0.0.0.0 dlandroid.com
 0.0.0.0 docs.midjourney.com
 0.0.0.0 downloader.bot
@@ -316,6 +323,7 @@
 0.0.0.0 in.tiktok.com
 0.0.0.0 inminecraft.ru
 0.0.0.0 instantmods.com
+0.0.0.0 instaupapk.com
 0.0.0.0 intracord.com
 0.0.0.0 invite-tracker.com
 0.0.0.0 invitelogger.me
@@ -417,6 +425,7 @@
 0.0.0.0 minibot.app
 0.0.0.0 mncrftmods.com
 0.0.0.0 mobalytics.gg
+0.0.0.0 mobdro.cam
 0.0.0.0 mochi.bot
 0.0.0.0 mod-minecraft.net
 0.0.0.0 mod4minecraft.com
@@ -502,6 +511,7 @@
 0.0.0.0 platinmods.com
 0.0.0.0 playground.ru
 0.0.0.0 playmods.net
+0.0.0.0 playstore.one
 0.0.0.0 pluralkit.me
 0.0.0.0 points.bot
 0.0.0.0 poketwo.net
@@ -819,6 +829,7 @@
 0.0.0.0 www.aperture.bot
 0.0.0.0 www.apk-dl.com
 0.0.0.0 www.apk-store.org
+0.0.0.0 www.apk.cafe
 0.0.0.0 www.apk.gold
 0.0.0.0 www.apk.support
 0.0.0.0 www.apk20.com
@@ -827,6 +838,7 @@
 0.0.0.0 www.apk4fun.com
 0.0.0.0 www.apkals.com
 0.0.0.0 www.apkaward.com
+0.0.0.0 www.apkbe.com
 0.0.0.0 www.apkbigs.com
 0.0.0.0 www.apkcombo.com
 0.0.0.0 www.apkdone.com
@@ -850,9 +862,13 @@
 0.0.0.0 www.apkmonk.com
 0.0.0.0 www.apkonline.net
 0.0.0.0 www.apkpureapp.net
+0.0.0.0 www.apkrabi.com
 0.0.0.0 www.apkremix.com
+0.0.0.0 www.apkshub.com
+0.0.0.0 www.apksos.com
 0.0.0.0 www.apksum.com
 0.0.0.0 www.apktodo.io
+0.0.0.0 www.apktoy.com
 0.0.0.0 www.apollo.fyi
 0.0.0.0 www.appsapk.com
 0.0.0.0 www.aprilbot.me
@@ -1008,6 +1024,7 @@
 0.0.0.0 www.discservers.com
 0.0.0.0 www.disforge.com
 0.0.0.0 www.disnake.dev
+0.0.0.0 www.divxland.org
 0.0.0.0 www.dlandroid.com
 0.0.0.0 www.downloader.bot
 0.0.0.0 www.downloadtiktokvideo.net
@@ -1091,6 +1108,7 @@
 0.0.0.0 www.in.tiktok.com
 0.0.0.0 www.inminecraft.ru
 0.0.0.0 www.instantmods.com
+0.0.0.0 www.instaupapk.com
 0.0.0.0 www.intracord.com
 0.0.0.0 www.invite-tracker.com
 0.0.0.0 www.invitelogger.me
@@ -1192,6 +1210,7 @@
 0.0.0.0 www.minibot.app
 0.0.0.0 www.mncrftmods.com
 0.0.0.0 www.mobalytics.gg
+0.0.0.0 www.mobdro.cam
 0.0.0.0 www.mochi.bot
 0.0.0.0 www.mod-minecraft.net
 0.0.0.0 www.mod4minecraft.com
@@ -1277,6 +1296,7 @@
 0.0.0.0 www.platinmods.com
 0.0.0.0 www.playground.ru
 0.0.0.0 www.playmods.net
+0.0.0.0 www.playstore.one
 0.0.0.0 www.pluralkit.me
 0.0.0.0 www.points.bot
 0.0.0.0 www.poketwo.net
