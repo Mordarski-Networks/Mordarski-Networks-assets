@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Monday, November 27, 2023 07:34:00 PM UTC
+# Last modified: Thursday, November 30, 2023 09:57:52 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -240,8 +240,10 @@
 127.0.0.1 divxland.org
 127.0.0.1 dlandroid.com
 127.0.0.1 docs.midjourney.com
+127.0.0.1 download-tiktok.cc
 127.0.0.1 downloader.bot
 127.0.0.1 downloadtiktokvideo.net
+127.0.0.1 downtik.cc
 127.0.0.1 downtik.io
 127.0.0.1 downtik.net
 127.0.0.1 downtik.to
@@ -296,6 +298,7 @@
 127.0.0.1 gotik.app
 127.0.0.1 gow.gg
 127.0.0.1 gptassistant.app
+127.0.0.1 grabtik.cc
 127.0.0.1 green-bot.app
 127.0.0.1 grootbot.pro
 127.0.0.1 groovy.bot
@@ -456,6 +459,7 @@
 127.0.0.1 mushroom.gg
 127.0.0.1 music.tiktok.com
 127.0.0.1 musicaldown.com
+127.0.0.1 musicallydown.cc
 127.0.0.1 mx1.tiktok.com
 127.0.0.1 mx2.tiktok.com
 127.0.0.1 mx3.tiktok.com
@@ -578,6 +582,7 @@
 127.0.0.1 savetik.co
 127.0.0.1 savetik.net
 127.0.0.1 savetiktok.io
+127.0.0.1 savetiktok.org
 127.0.0.1 savetiktokvideos.com
 127.0.0.1 savett.cc
 127.0.0.1 savett.pl
@@ -601,6 +606,7 @@
 127.0.0.1 snapdownloader.com
 127.0.0.1 snapreels.net
 127.0.0.1 snapsave.app
+127.0.0.1 snaptick.cc
 127.0.0.1 snaptik.ai
 127.0.0.1 snaptik.app
 127.0.0.1 snaptik.biz
@@ -612,6 +618,7 @@
 127.0.0.1 snaptik.red
 127.0.0.1 snaptik.tools
 127.0.0.1 snaptik.world
+127.0.0.1 snaptikapp.cc
 127.0.0.1 snaptikapp.me
 127.0.0.1 snaptikk.net
 127.0.0.1 snaptiktok.ai
@@ -628,6 +635,7 @@
 127.0.0.1 ssstik.link
 127.0.0.1 ssstik.live
 127.0.0.1 ssstik.net
+127.0.0.1 ssstik.today
 127.0.0.1 ssstik.tv
 127.0.0.1 ssstiktoc.io
 127.0.0.1 ssstiktok.ai
@@ -642,6 +650,7 @@
 127.0.0.1 ssstt.app
 127.0.0.1 sstik.de
 127.0.0.1 sstik.net
+127.0.0.1 ssvid.net
 127.0.0.1 ssyoutube.com
 127.0.0.1 stalk.gg
 127.0.0.1 starpets.gg
@@ -659,6 +668,7 @@
 127.0.0.1 sxbot.io
 127.0.0.1 tacobot.app
 127.0.0.1 taitiktok.net
+127.0.0.1 taksave.com
 127.0.0.1 taptik.app
 127.0.0.1 tatsu.gg
 127.0.0.1 tatsu.lol
@@ -678,6 +688,7 @@
 127.0.0.1 tik-saver.com
 127.0.0.1 tik.fail
 127.0.0.1 tik18.app
+127.0.0.1 tikcd.com
 127.0.0.1 tikclear.app
 127.0.0.1 tikd.cc
 127.0.0.1 tikdd.cc
@@ -685,6 +696,7 @@
 127.0.0.1 tikdown.org
 127.0.0.1 tikdownload.com
 127.0.0.1 tikdownloader.io
+127.0.0.1 tiker.cc
 127.0.0.1 tikfast.net
 127.0.0.1 tikget.net
 127.0.0.1 tikhunt.net
@@ -704,6 +716,7 @@
 127.0.0.1 tiktal.co
 127.0.0.1 tiktap.io
 127.0.0.1 tiktocplus.app
+127.0.0.1 tiktok-downloader.cc
 127.0.0.1 tiktok-downloader.pl
 127.0.0.1 tiktok-saver.net
 127.0.0.1 tiktok.com
@@ -725,6 +738,7 @@
 127.0.0.1 tiktokmate.io
 127.0.0.1 tiktokus.info
 127.0.0.1 tiktokvideo.live
+127.0.0.1 tiktokvideodownloader.cc
 127.0.0.1 tiktokvideodownloader.com.pk
 127.0.0.1 tiktokvideodownloader.net
 127.0.0.1 tiktokvideodownloader.one
@@ -754,6 +768,7 @@
 127.0.0.1 trending.tiktok.com
 127.0.0.1 truthordarebot.xyz
 127.0.0.1 ttdownloader.app
+127.0.0.1 ttdownloader.cc
 127.0.0.1 ttdownloader.com
 127.0.0.1 ttdownloader.net
 127.0.0.1 ttmate.io
@@ -1026,8 +1041,10 @@
 127.0.0.1 www.disnake.dev
 127.0.0.1 www.divxland.org
 127.0.0.1 www.dlandroid.com
+127.0.0.1 www.download-tiktok.cc
 127.0.0.1 www.downloader.bot
 127.0.0.1 www.downloadtiktokvideo.net
+127.0.0.1 www.downtik.cc
 127.0.0.1 www.downtik.io
 127.0.0.1 www.downtik.net
 127.0.0.1 www.downtik.to
@@ -1082,6 +1099,7 @@
 127.0.0.1 www.gotik.app
 127.0.0.1 www.gow.gg
 127.0.0.1 www.gptassistant.app
+127.0.0.1 www.grabtik.cc
 127.0.0.1 www.green-bot.app
 127.0.0.1 www.grootbot.pro
 127.0.0.1 www.groovy.bot
@@ -1241,6 +1259,7 @@
 127.0.0.1 www.mushroom.gg
 127.0.0.1 www.music.tiktok.com
 127.0.0.1 www.musicaldown.com
+127.0.0.1 www.musicallydown.cc
 127.0.0.1 www.mx1.tiktok.com
 127.0.0.1 www.mx2.tiktok.com
 127.0.0.1 www.mx3.tiktok.com
@@ -1363,6 +1382,7 @@
 127.0.0.1 www.savetik.co
 127.0.0.1 www.savetik.net
 127.0.0.1 www.savetiktok.io
+127.0.0.1 www.savetiktok.org
 127.0.0.1 www.savetiktokvideos.com
 127.0.0.1 www.savett.cc
 127.0.0.1 www.savett.pl
@@ -1386,6 +1406,7 @@
 127.0.0.1 www.snapdownloader.com
 127.0.0.1 www.snapreels.net
 127.0.0.1 www.snapsave.app
+127.0.0.1 www.snaptick.cc
 127.0.0.1 www.snaptik.ai
 127.0.0.1 www.snaptik.app
 127.0.0.1 www.snaptik.biz
@@ -1397,6 +1418,7 @@
 127.0.0.1 www.snaptik.red
 127.0.0.1 www.snaptik.tools
 127.0.0.1 www.snaptik.world
+127.0.0.1 www.snaptikapp.cc
 127.0.0.1 www.snaptikapp.me
 127.0.0.1 www.snaptikk.net
 127.0.0.1 www.snaptiktok.ai
@@ -1413,6 +1435,7 @@
 127.0.0.1 www.ssstik.link
 127.0.0.1 www.ssstik.live
 127.0.0.1 www.ssstik.net
+127.0.0.1 www.ssstik.today
 127.0.0.1 www.ssstik.tv
 127.0.0.1 www.ssstiktoc.io
 127.0.0.1 www.ssstiktok.ai
@@ -1427,6 +1450,7 @@
 127.0.0.1 www.ssstt.app
 127.0.0.1 www.sstik.de
 127.0.0.1 www.sstik.net
+127.0.0.1 www.ssvid.net
 127.0.0.1 www.ssyoutube.com
 127.0.0.1 www.stalk.gg
 127.0.0.1 www.starpets.gg
@@ -1443,6 +1467,7 @@
 127.0.0.1 www.sxbot.io
 127.0.0.1 www.tacobot.app
 127.0.0.1 www.taitiktok.net
+127.0.0.1 www.taksave.com
 127.0.0.1 www.taptik.app
 127.0.0.1 www.tatsu.gg
 127.0.0.1 www.tatsu.lol
@@ -1462,6 +1487,7 @@
 127.0.0.1 www.tik-saver.com
 127.0.0.1 www.tik.fail
 127.0.0.1 www.tik18.app
+127.0.0.1 www.tikcd.com
 127.0.0.1 www.tikclear.app
 127.0.0.1 www.tikd.cc
 127.0.0.1 www.tikdd.cc
@@ -1469,6 +1495,7 @@
 127.0.0.1 www.tikdown.org
 127.0.0.1 www.tikdownload.com
 127.0.0.1 www.tikdownloader.io
+127.0.0.1 www.tiker.cc
 127.0.0.1 www.tikfast.net
 127.0.0.1 www.tikget.net
 127.0.0.1 www.tikhunt.net
@@ -1488,6 +1515,7 @@
 127.0.0.1 www.tiktal.co
 127.0.0.1 www.tiktap.io
 127.0.0.1 www.tiktocplus.app
+127.0.0.1 www.tiktok-downloader.cc
 127.0.0.1 www.tiktok-downloader.pl
 127.0.0.1 www.tiktok-saver.net
 127.0.0.1 www.tiktok.com
@@ -1509,6 +1537,7 @@
 127.0.0.1 www.tiktokmate.io
 127.0.0.1 www.tiktokus.info
 127.0.0.1 www.tiktokvideo.live
+127.0.0.1 www.tiktokvideodownloader.cc
 127.0.0.1 www.tiktokvideodownloader.com.pk
 127.0.0.1 www.tiktokvideodownloader.net
 127.0.0.1 www.tiktokvideodownloader.one
@@ -1538,6 +1567,7 @@
 127.0.0.1 www.trending.tiktok.com
 127.0.0.1 www.truthordarebot.xyz
 127.0.0.1 www.ttdownloader.app
+127.0.0.1 www.ttdownloader.cc
 127.0.0.1 www.ttdownloader.com
 127.0.0.1 www.ttdownloader.net
 127.0.0.1 www.ttmate.io
