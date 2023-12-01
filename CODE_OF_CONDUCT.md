@@ -15,7 +15,8 @@ You may:
 
 You may not:
 
-* Post sexually suggestive comments, racial slurs, homophobic topics, sexist statements, or pornography of any kind. However, you can swear if it's not directed at someone.
+* Post sexually suggestive comments, racial slurs, homophobic topics, sexist statements, or pornography of any kind.
+* Swear
 * Be racist, sexist, homophobic, or mean.
 * Troll community members.
 * Spam posts in our repositories.
