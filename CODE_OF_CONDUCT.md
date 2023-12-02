@@ -2,24 +2,25 @@
 
 ## Our Pledge
 
-At Mordarski Networks, we strive to create a welcoming environment for everyone involved in our projects. Our community members must be truthful and be kind to everyone no matter what their race, ethnicity, sex, sexual orientation or religion.
+At Mordarski Networks, we strive to create a welcoming environment for everyone involved in our projects. Our community members must be truthful and be kind to everyone no matter what their age, disability, ethnicity, sex, gender, race, color, religion, or sexual orientation.
 
 ## Rules
 
 You may:
 
-* Constructively criticize anyone as long as it's constructive and not being mean. Constructive criticism means to criticize while being clear, direct, and honest to the recipient. Try not to be subjective while criticizing the recipient because it may cause problems.
-* Be kind to everyone.
-* Suggest features or new ideas.
-* Ask questions.
+* Be kind towards other people.
+* Be respectful of different opinions, viewpoints, and experiences.
+* Give and accept constructive feedback.
+* Accept that you have made a mistake and apologize to those who are affected by your mistake.
+* Focus on what is best for the community instead of yourself.
 
 You may not:
 
-* Post sexually suggestive comments, racial slurs, homophobic topics, sexist statements, or pornography of any kind.
-* Swear
-* Be racist, sexist, homophobic, or mean.
-* Troll community members.
-* Spam posts in our repositories.
+* Post sexualized content of any kind, which includes comments, images, videos, and sexual advances.
+* Troll, insult, use derogatory comments, and personally attack someone.
+* Harass someone publicly or privately.
+* Use other people's information for your own malicious gain.
+* Use inappropriate conduct in a professional setting.
 
 ## Enforcement
 
