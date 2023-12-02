@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Thursday, November 30, 2023 09:57:52 PM UTC
+# Last modified: Saturday, December 02, 2023 03:35:09 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -115,6 +115,7 @@
 127.0.0.1 botloader.io
 127.0.0.1 botpenguin.com
 127.0.0.1 bots.ondiscord.xyz
+127.0.0.1 brainbox.cc
 127.0.0.1 brawltools.net
 127.0.0.1 brussell.me
 127.0.0.1 btroblox.net
@@ -143,6 +144,7 @@
 127.0.0.1 bytetcc.com
 127.0.0.1 bytetos.com
 127.0.0.1 bytexservice.com
+127.0.0.1 cakey.bot
 127.0.0.1 cakeybot.app
 127.0.0.1 canute.gg
 127.0.0.1 capapkcut.com
@@ -158,6 +160,7 @@
 127.0.0.1 circlebot.xyz
 127.0.0.1 claimrbx.gg
 127.0.0.1 client.badlion.net
+127.0.0.1 cometbot.cc
 127.0.0.1 conductor.bot
 127.0.0.1 confessions.bot
 127.0.0.1 couch.bot
@@ -172,6 +175,7 @@
 127.0.0.1 dankmemer.lol
 127.0.0.1 dash.melonbot.io
 127.0.0.1 datahub.tiktok.com
+127.0.0.1 davidzeppy.net
 127.0.0.1 dddtik.com
 127.0.0.1 dfast.app
 127.0.0.1 disboard.org
@@ -238,6 +242,7 @@
 127.0.0.1 disforge.com
 127.0.0.1 disnake.dev
 127.0.0.1 divxland.org
+127.0.0.1 dlabs.cc
 127.0.0.1 dlandroid.com
 127.0.0.1 docs.midjourney.com
 127.0.0.1 download-tiktok.cc
@@ -270,6 +275,7 @@
 127.0.0.1 fliptok.app
 127.0.0.1 fmbot.xyz
 127.0.0.1 fmcpe.com
+127.0.0.1 fourk.cc
 127.0.0.1 fplbot.app
 127.0.0.1 fredboat.com
 127.0.0.1 free-modapk.com
@@ -287,6 +293,7 @@
 127.0.0.1 gamestats.io
 127.0.0.1 gamingbot.support
 127.0.0.1 garticbot.gg
+127.0.0.1 gatekeeperbot.net
 127.0.0.1 genai.bot
 127.0.0.1 gencord.lol
 127.0.0.1 getbetty.bot
@@ -322,6 +329,7 @@
 127.0.0.1 ibytedapm.com
 127.0.0.1 ibytedtos.com
 127.0.0.1 ibyteimg.com
+127.0.0.1 imber.cc
 127.0.0.1 impactclient.net
 127.0.0.1 in.tiktok.com
 127.0.0.1 inminecraft.ru
@@ -330,6 +338,7 @@
 127.0.0.1 intracord.com
 127.0.0.1 invite-tracker.com
 127.0.0.1 invitelogger.me
+127.0.0.1 invitemanager.cc
 127.0.0.1 inwerk-kuechen-news.de
 127.0.0.1 itranslator.app
 127.0.0.1 jeeves.bot
@@ -340,8 +349,10 @@
 127.0.0.1 jojoy.io
 127.0.0.1 juniper.bot
 127.0.0.1 keeptik.online
+127.0.0.1 kettu.cc
 127.0.0.1 kingmodapk.mobi
 127.0.0.1 kingmodapk.net
+127.0.0.1 kirobot.cc
 127.0.0.1 koya.gg
 127.0.0.1 kyubot.app
 127.0.0.1 laralove.gay
@@ -354,6 +365,7 @@
 127.0.0.1 linktik.net
 127.0.0.1 liquidbounce.net
 127.0.0.1 liteapks.com
+127.0.0.1 littlecloudbot.net
 127.0.0.1 livesend.tiktok.com
 127.0.0.1 lofi.bot
 127.0.0.1 logger.bot
@@ -362,6 +374,7 @@
 127.0.0.1 lovetik.com
 127.0.0.1 lunabot.vc
 127.0.0.1 lunarclient.com
+127.0.0.1 makeown.cc
 127.0.0.1 maki.bot
 127.0.0.1 maki.gg
 127.0.0.1 mantaro.site
@@ -426,6 +439,7 @@
 127.0.0.1 minehacks.net
 127.0.0.1 minesters.com
 127.0.0.1 minibot.app
+127.0.0.1 miona.cc
 127.0.0.1 mncrftmods.com
 127.0.0.1 mobalytics.gg
 127.0.0.1 mobdro.cam
@@ -470,6 +484,7 @@
 127.0.0.1 needle.gg
 127.0.0.1 nekotina.com
 127.0.0.1 nerobot.eu
+127.0.0.1 nexus.bot
 127.0.0.1 nft-bots.io
 127.0.0.1 nook.lol
 127.0.0.1 notibot.app
@@ -518,6 +533,7 @@
 127.0.0.1 playstore.one
 127.0.0.1 pluralkit.me
 127.0.0.1 points.bot
+127.0.0.1 pokebot.cc
 127.0.0.1 poketwo.net
 127.0.0.1 polnische-rechte.de
 127.0.0.1 prepi.io
@@ -597,6 +613,7 @@
 127.0.0.1 shadersmods.com
 127.0.0.1 sheri.bot
 127.0.0.1 shopbot.site
+127.0.0.1 shuvi.site
 127.0.0.1 siesta.red
 127.0.0.1 sirtaptap.com
 127.0.0.1 skinship.xyz
@@ -628,6 +645,7 @@
 127.0.0.1 socialdownload.net
 127.0.0.1 sofi.gg
 127.0.0.1 soulmusic.pro
+127.0.0.1 spectrebot.net
 127.0.0.1 spicybot.site
 127.0.0.1 spotigeek.com
 127.0.0.1 ssstik.com
@@ -747,6 +765,7 @@
 127.0.0.1 tikvid.io
 127.0.0.1 tikvideo.app
 127.0.0.1 tiky.app
+127.0.0.1 tip.cc
 127.0.0.1 tiqtod.xyz
 127.0.0.1 tk2dl.com
 127.0.0.1 tkdown.net
@@ -806,6 +825,7 @@
 127.0.0.1 wingsbot.net
 127.0.0.1 wipefest.gg
 127.0.0.1 wizardhax.com
+127.0.0.1 wizbot.cc
 127.0.0.1 wolfia.party
 127.0.0.1 wolframclient.net
 127.0.0.1 wuff.gay
@@ -919,6 +939,7 @@
 127.0.0.1 www.botloader.io
 127.0.0.1 www.botpenguin.com
 127.0.0.1 www.bots.ondiscord.xyz
+127.0.0.1 www.brainbox.cc
 127.0.0.1 www.brawltools.net
 127.0.0.1 www.brussell.me
 127.0.0.1 www.btroblox.net
@@ -947,6 +968,7 @@
 127.0.0.1 www.bytetcc.com
 127.0.0.1 www.bytetos.com
 127.0.0.1 www.bytexservice.com
+127.0.0.1 www.cakey.bot
 127.0.0.1 www.cakeybot.app
 127.0.0.1 www.canute.gg
 127.0.0.1 www.capapkcut.com
@@ -961,6 +983,7 @@
 127.0.0.1 www.circlebot.gay
 127.0.0.1 www.circlebot.xyz
 127.0.0.1 www.claimrbx.gg
+127.0.0.1 www.cometbot.cc
 127.0.0.1 www.conductor.bot
 127.0.0.1 www.confessions.bot
 127.0.0.1 www.couch.bot
@@ -974,6 +997,7 @@
 127.0.0.1 www.dankmemer.gg
 127.0.0.1 www.dankmemer.lol
 127.0.0.1 www.datahub.tiktok.com
+127.0.0.1 www.davidzeppy.net
 127.0.0.1 www.dddtik.com
 127.0.0.1 www.dfast.app
 127.0.0.1 www.disboard.org
@@ -1040,6 +1064,7 @@
 127.0.0.1 www.disforge.com
 127.0.0.1 www.disnake.dev
 127.0.0.1 www.divxland.org
+127.0.0.1 www.dlabs.cc
 127.0.0.1 www.dlandroid.com
 127.0.0.1 www.download-tiktok.cc
 127.0.0.1 www.downloader.bot
@@ -1071,6 +1096,7 @@
 127.0.0.1 www.fliptok.app
 127.0.0.1 www.fmbot.xyz
 127.0.0.1 www.fmcpe.com
+127.0.0.1 www.fourk.cc
 127.0.0.1 www.fplbot.app
 127.0.0.1 www.fredboat.com
 127.0.0.1 www.free-modapk.com
@@ -1088,6 +1114,7 @@
 127.0.0.1 www.gamestats.io
 127.0.0.1 www.gamingbot.support
 127.0.0.1 www.garticbot.gg
+127.0.0.1 www.gatekeeperbot.net
 127.0.0.1 www.genai.bot
 127.0.0.1 www.gencord.lol
 127.0.0.1 www.getbetty.bot
@@ -1122,6 +1149,7 @@
 127.0.0.1 www.ibytedapm.com
 127.0.0.1 www.ibytedtos.com
 127.0.0.1 www.ibyteimg.com
+127.0.0.1 www.imber.cc
 127.0.0.1 www.impactclient.net
 127.0.0.1 www.in.tiktok.com
 127.0.0.1 www.inminecraft.ru
@@ -1130,6 +1158,7 @@
 127.0.0.1 www.intracord.com
 127.0.0.1 www.invite-tracker.com
 127.0.0.1 www.invitelogger.me
+127.0.0.1 www.invitemanager.cc
 127.0.0.1 www.inwerk-kuechen-news.de
 127.0.0.1 www.itranslator.app
 127.0.0.1 www.jeeves.bot
@@ -1140,8 +1169,10 @@
 127.0.0.1 www.jojoy.io
 127.0.0.1 www.juniper.bot
 127.0.0.1 www.keeptik.online
+127.0.0.1 www.kettu.cc
 127.0.0.1 www.kingmodapk.mobi
 127.0.0.1 www.kingmodapk.net
+127.0.0.1 www.kirobot.cc
 127.0.0.1 www.koya.gg
 127.0.0.1 www.kyubot.app
 127.0.0.1 www.laralove.gay
@@ -1154,6 +1185,7 @@
 127.0.0.1 www.linktik.net
 127.0.0.1 www.liquidbounce.net
 127.0.0.1 www.liteapks.com
+127.0.0.1 www.littlecloudbot.net
 127.0.0.1 www.livesend.tiktok.com
 127.0.0.1 www.lofi.bot
 127.0.0.1 www.logger.bot
@@ -1162,6 +1194,7 @@
 127.0.0.1 www.lovetik.com
 127.0.0.1 www.lunabot.vc
 127.0.0.1 www.lunarclient.com
+127.0.0.1 www.makeown.cc
 127.0.0.1 www.maki.bot
 127.0.0.1 www.maki.gg
 127.0.0.1 www.mantaro.site
@@ -1226,6 +1259,7 @@
 127.0.0.1 www.minehacks.net
 127.0.0.1 www.minesters.com
 127.0.0.1 www.minibot.app
+127.0.0.1 www.miona.cc
 127.0.0.1 www.mncrftmods.com
 127.0.0.1 www.mobalytics.gg
 127.0.0.1 www.mobdro.cam
@@ -1270,6 +1304,7 @@
 127.0.0.1 www.needle.gg
 127.0.0.1 www.nekotina.com
 127.0.0.1 www.nerobot.eu
+127.0.0.1 www.nexus.bot
 127.0.0.1 www.nft-bots.io
 127.0.0.1 www.nook.lol
 127.0.0.1 www.notibot.app
@@ -1318,6 +1353,7 @@
 127.0.0.1 www.playstore.one
 127.0.0.1 www.pluralkit.me
 127.0.0.1 www.points.bot
+127.0.0.1 www.pokebot.cc
 127.0.0.1 www.poketwo.net
 127.0.0.1 www.polnische-rechte.de
 127.0.0.1 www.prepi.io
@@ -1397,6 +1433,7 @@
 127.0.0.1 www.shadersmods.com
 127.0.0.1 www.sheri.bot
 127.0.0.1 www.shopbot.site
+127.0.0.1 www.shuvi.site
 127.0.0.1 www.siesta.red
 127.0.0.1 www.sirtaptap.com
 127.0.0.1 www.skinship.xyz
@@ -1428,6 +1465,7 @@
 127.0.0.1 www.socialdownload.net
 127.0.0.1 www.sofi.gg
 127.0.0.1 www.soulmusic.pro
+127.0.0.1 www.spectrebot.net
 127.0.0.1 www.spicybot.site
 127.0.0.1 www.spotigeek.com
 127.0.0.1 www.ssstik.com
@@ -1546,6 +1584,7 @@
 127.0.0.1 www.tikvid.io
 127.0.0.1 www.tikvideo.app
 127.0.0.1 www.tiky.app
+127.0.0.1 www.tip.cc
 127.0.0.1 www.tiqtod.xyz
 127.0.0.1 www.tk2dl.com
 127.0.0.1 www.tkdown.net
@@ -1605,12 +1644,14 @@
 127.0.0.1 www.wingsbot.net
 127.0.0.1 www.wipefest.gg
 127.0.0.1 www.wizardhax.com
+127.0.0.1 www.wizbot.cc
 127.0.0.1 www.wolfia.party
 127.0.0.1 www.wolframclient.net
 127.0.0.1 www.wuff.gay
 127.0.0.1 www.wurstclient.net
 127.0.0.1 www.wzhub.gg
 127.0.0.1 www.xenon.bot
+127.0.0.1 www.xp-bot.net
 127.0.0.1 www.yagpdb.xyz
 127.0.0.1 www.ygg.fun
 127.0.0.1 www.yuibot.app
@@ -1621,6 +1662,7 @@
 127.0.0.1 www.zonacraft.net
 127.0.0.1 wzhub.gg
 127.0.0.1 xenon.bot
+127.0.0.1 xp-bot.net
 127.0.0.1 yagpdb.xyz
 127.0.0.1 ygg.fun
 127.0.0.1 yuibot.app

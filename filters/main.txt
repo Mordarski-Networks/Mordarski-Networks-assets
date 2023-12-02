@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Thursday, November 30, 2023 09:57:52 PM UTC
+! Last modified: Saturday, December 02, 2023 03:35:09 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -6050,6 +6050,174 @@ www.google.*##.g:has(a[href*="ssvid.net"])
 www.google.*##a[href*="ssvid.net"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="ssvid.net"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="ssvid.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(wizbot.cc):upward(li)
+bing.com#?#a[href*="wizbot.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="wizbot.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="wizbot.cc"]
+www.google.*##.g:has(a[href*="wizbot.cc"])
+www.google.*##a[href*="wizbot.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="wizbot.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="wizbot.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(brainbox.cc):upward(li)
+bing.com#?#a[href*="brainbox.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="brainbox.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="brainbox.cc"]
+www.google.*##.g:has(a[href*="brainbox.cc"])
+www.google.*##a[href*="brainbox.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="brainbox.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="brainbox.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(makeown.cc):upward(li)
+bing.com#?#a[href*="makeown.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="makeown.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="makeown.cc"]
+www.google.*##.g:has(a[href*="makeown.cc"])
+www.google.*##a[href*="makeown.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="makeown.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="makeown.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(dlabs.cc):upward(li)
+bing.com#?#a[href*="dlabs.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="dlabs.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="dlabs.cc"]
+www.google.*##.g:has(a[href*="dlabs.cc"])
+www.google.*##a[href*="dlabs.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="dlabs.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="dlabs.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(imber.cc):upward(li)
+bing.com#?#a[href*="imber.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="imber.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="imber.cc"]
+www.google.*##.g:has(a[href*="imber.cc"])
+www.google.*##a[href*="imber.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="imber.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="imber.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tip.cc):upward(li)
+bing.com#?#a[href*="tip.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tip.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="tip.cc"]
+www.google.*##.g:has(a[href*="tip.cc"])
+www.google.*##a[href*="tip.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tip.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tip.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(invitemanager.cc):upward(li)
+bing.com#?#a[href*="invitemanager.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="invitemanager.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="invitemanager.cc"]
+www.google.*##.g:has(a[href*="invitemanager.cc"])
+www.google.*##a[href*="invitemanager.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="invitemanager.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="invitemanager.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(kettu.cc):upward(li)
+bing.com#?#a[href*="kettu.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="kettu.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="kettu.cc"]
+www.google.*##.g:has(a[href*="kettu.cc"])
+www.google.*##a[href*="kettu.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="kettu.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="kettu.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(kirobot.cc):upward(li)
+bing.com#?#a[href*="kirobot.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="kirobot.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="kirobot.cc"]
+www.google.*##.g:has(a[href*="kirobot.cc"])
+www.google.*##a[href*="kirobot.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="kirobot.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="kirobot.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(cometbot.cc):upward(li)
+bing.com#?#a[href*="cometbot.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="cometbot.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="cometbot.cc"]
+www.google.*##.g:has(a[href*="cometbot.cc"])
+www.google.*##a[href*="cometbot.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="cometbot.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="cometbot.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(pokebot.cc):upward(li)
+bing.com#?#a[href*="pokebot.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="pokebot.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="pokebot.cc"]
+www.google.*##.g:has(a[href*="pokebot.cc"])
+www.google.*##a[href*="pokebot.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="pokebot.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="pokebot.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(miona.cc):upward(li)
+bing.com#?#a[href*="miona.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="miona.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="miona.cc"]
+www.google.*##.g:has(a[href*="miona.cc"])
+www.google.*##a[href*="miona.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="miona.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="miona.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(fourk.cc):upward(li)
+bing.com#?#a[href*="fourk.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="fourk.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="fourk.cc"]
+www.google.*##.g:has(a[href*="fourk.cc"])
+www.google.*##a[href*="fourk.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="fourk.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="fourk.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(gatekeeperbot.net):upward(li)
+bing.com#?#a[href*="gatekeeperbot.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="gatekeeperbot.net"]:upward(.dg_u)
+bing.com##.news-card[url*="gatekeeperbot.net"]
+www.google.*##.g:has(a[href*="gatekeeperbot.net"])
+www.google.*##a[href*="gatekeeperbot.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="gatekeeperbot.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="gatekeeperbot.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(davidzeppy.net):upward(li)
+bing.com#?#a[href*="davidzeppy.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="davidzeppy.net"]:upward(.dg_u)
+bing.com##.news-card[url*="davidzeppy.net"]
+www.google.*##.g:has(a[href*="davidzeppy.net"])
+www.google.*##a[href*="davidzeppy.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="davidzeppy.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="davidzeppy.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(xp-bot.net):upward(li)
+bing.com#?#a[href*="xp-bot.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="xp-bot.net"]:upward(.dg_u)
+bing.com##.news-card[url*="xp-bot.net"]
+www.google.*##.g:has(a[href*="xp-bot.net"])
+www.google.*##a[href*="xp-bot.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="xp-bot.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="xp-bot.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(spectrebot.net):upward(li)
+bing.com#?#a[href*="spectrebot.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="spectrebot.net"]:upward(.dg_u)
+bing.com##.news-card[url*="spectrebot.net"]
+www.google.*##.g:has(a[href*="spectrebot.net"])
+www.google.*##a[href*="spectrebot.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="spectrebot.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="spectrebot.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(littlecloudbot.net):upward(li)
+bing.com#?#a[href*="littlecloudbot.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="littlecloudbot.net"]:upward(.dg_u)
+bing.com##.news-card[url*="littlecloudbot.net"]
+www.google.*##.g:has(a[href*="littlecloudbot.net"])
+www.google.*##a[href*="littlecloudbot.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="littlecloudbot.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="littlecloudbot.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(shuvi.site):upward(li)
+bing.com#?#a[href*="shuvi.site"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="shuvi.site"]:upward(.dg_u)
+bing.com##.news-card[url*="shuvi.site"]
+www.google.*##.g:has(a[href*="shuvi.site"])
+www.google.*##a[href*="shuvi.site"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="shuvi.site"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="shuvi.site"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(cakey.bot):upward(li)
+bing.com#?#a[href*="cakey.bot"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="cakey.bot"]:upward(.dg_u)
+bing.com##.news-card[url*="cakey.bot"]
+www.google.*##.g:has(a[href*="cakey.bot"])
+www.google.*##a[href*="cakey.bot"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="cakey.bot"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="cakey.bot"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(nexus.bot):upward(li)
+bing.com#?#a[href*="nexus.bot"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="nexus.bot"]:upward(.dg_u)
+bing.com##.news-card[url*="nexus.bot"]
+www.google.*##.g:has(a[href*="nexus.bot"])
+www.google.*##a[href*="nexus.bot"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="nexus.bot"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="nexus.bot"]:upward(.tile)
 
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
@@ -6809,6 +6977,27 @@ duckduckgo.com##.tile-wrap a[href*="ssvid.net"]:upward(.tile)
 ||snaptick.cc^$all
 ||download-tiktok.cc^$all
 ||ssvid.net^$all
+||wizbot.cc^$all
+||brainbox.cc^$all
+||makeown.cc^$all
+||dlabs.cc^$all
+||imber.cc^$all
+||tip.cc^$all
+||invitemanager.cc^$all
+||kettu.cc^$all
+||kirobot.cc^$all
+||cometbot.cc^$all
+||pokebot.cc^$all
+||miona.cc^$all
+||fourk.cc^$all
+||gatekeeperbot.net^$all
+||davidzeppy.net^$all
+||xp-bot.net^$all
+||spectrebot.net^$all
+||littlecloudbot.net^$all
+||shuvi.site^$all
+||cakey.bot^$all
+||nexus.bot^$all
 
 !--- Remove Tracking from URLs ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam
