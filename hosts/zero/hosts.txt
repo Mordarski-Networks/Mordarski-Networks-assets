@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Saturday, December 02, 2023 03:35:09 PM UTC
+# Last modified: Sunday, December 03, 2023 04:41:32 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -27,6 +27,7 @@
 0.0.0.0 aleeva.io
 0.0.0.0 ali2.ru
 0.0.0.0 alice-bot.net
+0.0.0.0 allapkx.com
 0.0.0.0 allstar.gg
 0.0.0.0 alpha.bot
 0.0.0.0 an1.com
@@ -34,6 +35,7 @@
 0.0.0.0 andro-mod.com
 0.0.0.0 androidapksfree.com
 0.0.0.0 androidp1.com
+0.0.0.0 androidprog.com
 0.0.0.0 anibot.moe
 0.0.0.0 animeclap.com
 0.0.0.0 animesoul.com
@@ -58,9 +60,11 @@
 0.0.0.0 apkfiles.com
 0.0.0.0 apkflash.com
 0.0.0.0 apkfree.com
+0.0.0.0 apkgw.com
 0.0.0.0 apkhome.io
 0.0.0.0 apkinu.com
 0.0.0.0 apkkingo.com
+0.0.0.0 apkloo.com
 0.0.0.0 apkmb.com
 0.0.0.0 apkmod.cc
 0.0.0.0 apkmodget.com
@@ -79,7 +83,9 @@
 0.0.0.0 apksos.com
 0.0.0.0 apksum.com
 0.0.0.0 apktodo.io
+0.0.0.0 apktodo.net
 0.0.0.0 apktoy.com
+0.0.0.0 apkvision.org
 0.0.0.0 apollo.fyi
 0.0.0.0 appsapk.com
 0.0.0.0 aprilbot.me
@@ -290,10 +296,13 @@
 0.0.0.0 furaffinity.net
 0.0.0.0 gajdy.ru
 0.0.0.0 gamedva.com
+0.0.0.0 gamekillerapp.com
+0.0.0.0 gamekillermods.com
 0.0.0.0 gamestats.io
 0.0.0.0 gamingbot.support
 0.0.0.0 garticbot.gg
 0.0.0.0 gatekeeperbot.net
+0.0.0.0 gbmody.com
 0.0.0.0 genai.bot
 0.0.0.0 gencord.lol
 0.0.0.0 getbetty.bot
@@ -325,6 +334,7 @@
 0.0.0.0 hugebot.net
 0.0.0.0 hydra.bot
 0.0.0.0 hypex.lol
+0.0.0.0 i1apk.com
 0.0.0.0 ibeatkids.xyz
 0.0.0.0 ibytedapm.com
 0.0.0.0 ibytedtos.com
@@ -332,6 +342,7 @@
 0.0.0.0 imber.cc
 0.0.0.0 impactclient.net
 0.0.0.0 in.tiktok.com
+0.0.0.0 infinitemodapk.com
 0.0.0.0 inminecraft.ru
 0.0.0.0 instantmods.com
 0.0.0.0 instaupapk.com
@@ -453,6 +464,8 @@
 0.0.0.0 modcombo.com
 0.0.0.0 modcombo.io
 0.0.0.0 modded-1.com
+0.0.0.0 modder.me
+0.0.0.0 moddroid.io
 0.0.0.0 modhub.us
 0.0.0.0 modland.net
 0.0.0.0 modmail.xyz
@@ -462,6 +475,7 @@
 0.0.0.0 modscraft.net
 0.0.0.0 modscraft.ru
 0.0.0.0 modsofapk.com
+0.0.0.0 modxda.com
 0.0.0.0 modyla.com
 0.0.0.0 modyolo.com
 0.0.0.0 moebot.pro
@@ -517,6 +531,7 @@
 0.0.0.0 owobot.com
 0.0.0.0 pancake.gg
 0.0.0.0 pancakebot.org
+0.0.0.0 pandahelp.vip
 0.0.0.0 paru.app
 0.0.0.0 patchbot.io
 0.0.0.0 paw.bot
@@ -545,6 +560,7 @@
 0.0.0.0 purrbot.site
 0.0.0.0 pycord.dev
 0.0.0.0 pylon.bot
+0.0.0.0 queenapk.com
 0.0.0.0 quickvids.win
 0.0.0.0 ratingtool.xyz
 0.0.0.0 rbxadder.com
@@ -692,14 +708,18 @@
 0.0.0.0 tatsu.lol
 0.0.0.0 tatsumaki.xyz
 0.0.0.0 tattle.bot
+0.0.0.0 techbigs.com
 0.0.0.0 techloky.com
 0.0.0.0 techtodown.com
+0.0.0.0 techylist.com
+0.0.0.0 techzapk.net
 0.0.0.0 tekmods.com
 0.0.0.0 tempobot.net
 0.0.0.0 teraflare.app
 0.0.0.0 texture-packs.com
 0.0.0.0 the100.io
 0.0.0.0 thefreerobux.com
+0.0.0.0 theminecrftapk.com
 0.0.0.0 ticketsbot.net
 0.0.0.0 tickettool.xyz
 0.0.0.0 tik-downloader.io
@@ -851,6 +871,7 @@
 0.0.0.0 www.aleeva.io
 0.0.0.0 www.ali2.ru
 0.0.0.0 www.alice-bot.net
+0.0.0.0 www.allapkx.com
 0.0.0.0 www.allstar.gg
 0.0.0.0 www.alpha.bot
 0.0.0.0 www.an1.com
@@ -858,6 +879,7 @@
 0.0.0.0 www.andro-mod.com
 0.0.0.0 www.androidapksfree.com
 0.0.0.0 www.androidp1.com
+0.0.0.0 www.androidprog.com
 0.0.0.0 www.anibot.moe
 0.0.0.0 www.animeclap.com
 0.0.0.0 www.animesoul.com
@@ -882,9 +904,11 @@
 0.0.0.0 www.apkfiles.com
 0.0.0.0 www.apkflash.com
 0.0.0.0 www.apkfree.com
+0.0.0.0 www.apkgw.com
 0.0.0.0 www.apkhome.io
 0.0.0.0 www.apkinu.com
 0.0.0.0 www.apkkingo.com
+0.0.0.0 www.apkloo.com
 0.0.0.0 www.apkmb.com
 0.0.0.0 www.apkmod.cc
 0.0.0.0 www.apkmodget.com
@@ -903,7 +927,9 @@
 0.0.0.0 www.apksos.com
 0.0.0.0 www.apksum.com
 0.0.0.0 www.apktodo.io
+0.0.0.0 www.apktodo.net
 0.0.0.0 www.apktoy.com
+0.0.0.0 www.apkvision.org
 0.0.0.0 www.apollo.fyi
 0.0.0.0 www.appsapk.com
 0.0.0.0 www.aprilbot.me
@@ -1111,10 +1137,13 @@
 0.0.0.0 www.furaffinity.net
 0.0.0.0 www.gajdy.ru
 0.0.0.0 www.gamedva.com
+0.0.0.0 www.gamekillerapp.com
+0.0.0.0 www.gamekillermods.com
 0.0.0.0 www.gamestats.io
 0.0.0.0 www.gamingbot.support
 0.0.0.0 www.garticbot.gg
 0.0.0.0 www.gatekeeperbot.net
+0.0.0.0 www.gbmody.com
 0.0.0.0 www.genai.bot
 0.0.0.0 www.gencord.lol
 0.0.0.0 www.getbetty.bot
@@ -1145,6 +1174,7 @@
 0.0.0.0 www.hugebot.net
 0.0.0.0 www.hydra.bot
 0.0.0.0 www.hypex.lol
+0.0.0.0 www.i1apk.com
 0.0.0.0 www.ibeatkids.xyz
 0.0.0.0 www.ibytedapm.com
 0.0.0.0 www.ibytedtos.com
@@ -1152,6 +1182,7 @@
 0.0.0.0 www.imber.cc
 0.0.0.0 www.impactclient.net
 0.0.0.0 www.in.tiktok.com
+0.0.0.0 www.infinitemodapk.com
 0.0.0.0 www.inminecraft.ru
 0.0.0.0 www.instantmods.com
 0.0.0.0 www.instaupapk.com
@@ -1273,6 +1304,8 @@
 0.0.0.0 www.modcombo.com
 0.0.0.0 www.modcombo.io
 0.0.0.0 www.modded-1.com
+0.0.0.0 www.modder.me
+0.0.0.0 www.moddroid.io
 0.0.0.0 www.modhub.us
 0.0.0.0 www.modland.net
 0.0.0.0 www.modmail.xyz
@@ -1282,6 +1315,7 @@
 0.0.0.0 www.modscraft.net
 0.0.0.0 www.modscraft.ru
 0.0.0.0 www.modsofapk.com
+0.0.0.0 www.modxda.com
 0.0.0.0 www.modyla.com
 0.0.0.0 www.modyolo.com
 0.0.0.0 www.moebot.pro
@@ -1337,6 +1371,7 @@
 0.0.0.0 www.owobot.com
 0.0.0.0 www.pancake.gg
 0.0.0.0 www.pancakebot.org
+0.0.0.0 www.pandahelp.vip
 0.0.0.0 www.paru.app
 0.0.0.0 www.patchbot.io
 0.0.0.0 www.paw.bot
@@ -1365,6 +1400,7 @@
 0.0.0.0 www.purrbot.site
 0.0.0.0 www.pycord.dev
 0.0.0.0 www.pylon.bot
+0.0.0.0 www.queenapk.com
 0.0.0.0 www.quickvids.win
 0.0.0.0 www.ratingtool.xyz
 0.0.0.0 www.rbxadder.com
@@ -1511,14 +1547,18 @@
 0.0.0.0 www.tatsu.lol
 0.0.0.0 www.tatsumaki.xyz
 0.0.0.0 www.tattle.bot
+0.0.0.0 www.techbigs.com
 0.0.0.0 www.techloky.com
 0.0.0.0 www.techtodown.com
+0.0.0.0 www.techylist.com
+0.0.0.0 www.techzapk.net
 0.0.0.0 www.tekmods.com
 0.0.0.0 www.tempobot.net
 0.0.0.0 www.teraflare.app
 0.0.0.0 www.texture-packs.com
 0.0.0.0 www.the100.io
 0.0.0.0 www.thefreerobux.com
+0.0.0.0 www.theminecrftapk.com
 0.0.0.0 www.ticketsbot.net
 0.0.0.0 www.tickettool.xyz
 0.0.0.0 www.tik-downloader.io
