@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Sunday, December 03, 2023 04:41:32 PM UTC
+# Last modified: Monday, December 04, 2023 09:42:26 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -154,6 +154,7 @@
 0.0.0.0 cakeybot.app
 0.0.0.0 canute.gg
 0.0.0.0 capapkcut.com
+0.0.0.0 capcutmod.cc
 0.0.0.0 carl.gg
 0.0.0.0 censor.bot
 0.0.0.0 channelbot.xyz
@@ -251,9 +252,11 @@
 0.0.0.0 dlabs.cc
 0.0.0.0 dlandroid.com
 0.0.0.0 docs.midjourney.com
+0.0.0.0 douyin.com
 0.0.0.0 download-tiktok.cc
 0.0.0.0 downloader.bot
 0.0.0.0 downloadtiktokvideo.net
+0.0.0.0 downloadvideotiktok.org
 0.0.0.0 downtik.cc
 0.0.0.0 downtik.io
 0.0.0.0 downtik.net
@@ -352,6 +355,7 @@
 0.0.0.0 invitemanager.cc
 0.0.0.0 inwerk-kuechen-news.de
 0.0.0.0 itranslator.app
+0.0.0.0 ixigua.com
 0.0.0.0 jeeves.bot
 0.0.0.0 jenny-mod.com
 0.0.0.0 jennymod.dev
@@ -367,6 +371,7 @@
 0.0.0.0 koya.gg
 0.0.0.0 kyubot.app
 0.0.0.0 laralove.gay
+0.0.0.0 larksuite.com
 0.0.0.0 latestmodapks.com
 0.0.0.0 lawlietbot.xyz
 0.0.0.0 leetify.gg
@@ -505,6 +510,7 @@
 0.0.0.0 notifications.tiktok.com
 0.0.0.0 noxbot.gg
 0.0.0.0 nqn.blue
+0.0.0.0 nvsgames.com
 0.0.0.0 nvu.io
 0.0.0.0 o1.ptr3703.tiktok.com
 0.0.0.0 o13.ptr2902.service.tiktok.com
@@ -619,6 +625,7 @@
 0.0.0.0 savett.cc
 0.0.0.0 savett.pl
 0.0.0.0 sccb.us
+0.0.0.0 sealapk.net
 0.0.0.0 searchbot.app
 0.0.0.0 securitybot.gg
 0.0.0.0 securitybot.xyz
@@ -684,6 +691,7 @@
 0.0.0.0 ssstt.app
 0.0.0.0 sstik.de
 0.0.0.0 sstik.net
+0.0.0.0 sstiktok.org
 0.0.0.0 ssvid.net
 0.0.0.0 ssyoutube.com
 0.0.0.0 stalk.gg
@@ -709,6 +717,7 @@
 0.0.0.0 tatsumaki.xyz
 0.0.0.0 tattle.bot
 0.0.0.0 techbigs.com
+0.0.0.0 techbigs.site
 0.0.0.0 techloky.com
 0.0.0.0 techtodown.com
 0.0.0.0 techylist.com
@@ -736,6 +745,7 @@
 0.0.0.0 tikdownloader.io
 0.0.0.0 tiker.cc
 0.0.0.0 tikfast.net
+0.0.0.0 tikfuel.org
 0.0.0.0 tikget.net
 0.0.0.0 tikhunt.net
 0.0.0.0 tikin.app
@@ -762,6 +772,7 @@
 0.0.0.0 tiktokapp.cc
 0.0.0.0 tiktokbot.io
 0.0.0.0 tiktokd.com
+0.0.0.0 tiktokdown.org
 0.0.0.0 tiktokdownload.online
 0.0.0.0 tiktokdownload.tech
 0.0.0.0 tiktokdownloader.app
@@ -769,6 +780,7 @@
 0.0.0.0 tiktokdownloader.info
 0.0.0.0 tiktokdownloader.net
 0.0.0.0 tiktokdownloader.one
+0.0.0.0 tiktokdownloader.org
 0.0.0.0 tiktokdownloader.ru
 0.0.0.0 tiktokdownloadr.com
 0.0.0.0 tiktokindex.ro
@@ -776,6 +788,7 @@
 0.0.0.0 tiktokmate.io
 0.0.0.0 tiktokus.info
 0.0.0.0 tiktokvideo.live
+0.0.0.0 tiktokvideodowloader.site
 0.0.0.0 tiktokvideodownloader.cc
 0.0.0.0 tiktokvideodownloader.com.pk
 0.0.0.0 tiktokvideodownloader.net
@@ -801,6 +814,7 @@
 0.0.0.0 toksaver.net
 0.0.0.0 toolscord.com
 0.0.0.0 top.gg
+0.0.0.0 toutiao.com
 0.0.0.0 tracking.infobip.account.tiktok.com
 0.0.0.0 tracking.infobip.service.tiktok.com
 0.0.0.0 tradeit.gg
@@ -998,6 +1012,7 @@
 0.0.0.0 www.cakeybot.app
 0.0.0.0 www.canute.gg
 0.0.0.0 www.capapkcut.com
+0.0.0.0 www.capcutmod.cc
 0.0.0.0 www.carl.gg
 0.0.0.0 www.censor.bot
 0.0.0.0 www.channelbot.xyz
@@ -1092,9 +1107,11 @@
 0.0.0.0 www.divxland.org
 0.0.0.0 www.dlabs.cc
 0.0.0.0 www.dlandroid.com
+0.0.0.0 www.douyin.com
 0.0.0.0 www.download-tiktok.cc
 0.0.0.0 www.downloader.bot
 0.0.0.0 www.downloadtiktokvideo.net
+0.0.0.0 www.downloadvideotiktok.org
 0.0.0.0 www.downtik.cc
 0.0.0.0 www.downtik.io
 0.0.0.0 www.downtik.net
@@ -1192,6 +1209,7 @@
 0.0.0.0 www.invitemanager.cc
 0.0.0.0 www.inwerk-kuechen-news.de
 0.0.0.0 www.itranslator.app
+0.0.0.0 www.ixigua.com
 0.0.0.0 www.jeeves.bot
 0.0.0.0 www.jenny-mod.com
 0.0.0.0 www.jennymod.dev
@@ -1207,6 +1225,7 @@
 0.0.0.0 www.koya.gg
 0.0.0.0 www.kyubot.app
 0.0.0.0 www.laralove.gay
+0.0.0.0 www.larksuite.com
 0.0.0.0 www.latestmodapks.com
 0.0.0.0 www.lawlietbot.xyz
 0.0.0.0 www.leetify.gg
@@ -1345,6 +1364,7 @@
 0.0.0.0 www.notifications.tiktok.com
 0.0.0.0 www.noxbot.gg
 0.0.0.0 www.nqn.blue
+0.0.0.0 www.nvsgames.com
 0.0.0.0 www.nvu.io
 0.0.0.0 www.o1.ptr3703.tiktok.com
 0.0.0.0 www.o13.ptr2902.service.tiktok.com
@@ -1459,6 +1479,7 @@
 0.0.0.0 www.savett.cc
 0.0.0.0 www.savett.pl
 0.0.0.0 www.sccb.us
+0.0.0.0 www.sealapk.net
 0.0.0.0 www.searchbot.app
 0.0.0.0 www.securitybot.gg
 0.0.0.0 www.securitybot.xyz
@@ -1524,6 +1545,7 @@
 0.0.0.0 www.ssstt.app
 0.0.0.0 www.sstik.de
 0.0.0.0 www.sstik.net
+0.0.0.0 www.sstiktok.org
 0.0.0.0 www.ssvid.net
 0.0.0.0 www.ssyoutube.com
 0.0.0.0 www.stalk.gg
@@ -1548,6 +1570,7 @@
 0.0.0.0 www.tatsumaki.xyz
 0.0.0.0 www.tattle.bot
 0.0.0.0 www.techbigs.com
+0.0.0.0 www.techbigs.site
 0.0.0.0 www.techloky.com
 0.0.0.0 www.techtodown.com
 0.0.0.0 www.techylist.com
@@ -1575,6 +1598,7 @@
 0.0.0.0 www.tikdownloader.io
 0.0.0.0 www.tiker.cc
 0.0.0.0 www.tikfast.net
+0.0.0.0 www.tikfuel.org
 0.0.0.0 www.tikget.net
 0.0.0.0 www.tikhunt.net
 0.0.0.0 www.tikin.app
@@ -1601,6 +1625,7 @@
 0.0.0.0 www.tiktokapp.cc
 0.0.0.0 www.tiktokbot.io
 0.0.0.0 www.tiktokd.com
+0.0.0.0 www.tiktokdown.org
 0.0.0.0 www.tiktokdownload.online
 0.0.0.0 www.tiktokdownload.tech
 0.0.0.0 www.tiktokdownloader.app
@@ -1608,6 +1633,7 @@
 0.0.0.0 www.tiktokdownloader.info
 0.0.0.0 www.tiktokdownloader.net
 0.0.0.0 www.tiktokdownloader.one
+0.0.0.0 www.tiktokdownloader.org
 0.0.0.0 www.tiktokdownloader.ru
 0.0.0.0 www.tiktokdownloadr.com
 0.0.0.0 www.tiktokindex.ro
@@ -1615,6 +1641,7 @@
 0.0.0.0 www.tiktokmate.io
 0.0.0.0 www.tiktokus.info
 0.0.0.0 www.tiktokvideo.live
+0.0.0.0 www.tiktokvideodowloader.site
 0.0.0.0 www.tiktokvideodownloader.cc
 0.0.0.0 www.tiktokvideodownloader.com.pk
 0.0.0.0 www.tiktokvideodownloader.net
@@ -1640,6 +1667,7 @@
 0.0.0.0 www.toksaver.net
 0.0.0.0 www.toolscord.com
 0.0.0.0 www.top.gg
+0.0.0.0 www.toutiao.com
 0.0.0.0 www.tracking.infobip.account.tiktok.com
 0.0.0.0 www.tracking.infobip.service.tiktok.com
 0.0.0.0 www.tradeit.gg
