@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Sunday, December 03, 2023 04:41:32 PM UTC
+! Last modified: Monday, December 04, 2023 09:42:26 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -6378,6 +6378,118 @@ www.google.*##.g:has(a[href*="apkgw.com"])
 www.google.*##a[href*="apkgw.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="apkgw.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="apkgw.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(sealapk.net):upward(li)
+bing.com#?#a[href*="sealapk.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="sealapk.net"]:upward(.dg_u)
+bing.com##.news-card[url*="sealapk.net"]
+www.google.*##.g:has(a[href*="sealapk.net"])
+www.google.*##a[href*="sealapk.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="sealapk.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="sealapk.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktokvideodowloader.site):upward(li)
+bing.com#?#a[href*="tiktokvideodowloader.site"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktokvideodowloader.site"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktokvideodowloader.site"]
+www.google.*##.g:has(a[href*="tiktokvideodowloader.site"])
+www.google.*##a[href*="tiktokvideodowloader.site"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktokvideodowloader.site"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktokvideodowloader.site"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(techbigs.site):upward(li)
+bing.com#?#a[href*="techbigs.site"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="techbigs.site"]:upward(.dg_u)
+bing.com##.news-card[url*="techbigs.site"]
+www.google.*##.g:has(a[href*="techbigs.site"])
+www.google.*##a[href*="techbigs.site"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="techbigs.site"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="techbigs.site"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(capcutmod.cc):upward(li)
+bing.com#?#a[href*="capcutmod.cc"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="capcutmod.cc"]:upward(.dg_u)
+bing.com##.news-card[url*="capcutmod.cc"]
+www.google.*##.g:has(a[href*="capcutmod.cc"])
+www.google.*##a[href*="capcutmod.cc"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="capcutmod.cc"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="capcutmod.cc"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktokdownloader.org):upward(li)
+bing.com#?#a[href*="tiktokdownloader.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktokdownloader.org"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktokdownloader.org"]
+www.google.*##.g:has(a[href*="tiktokdownloader.org"])
+www.google.*##a[href*="tiktokdownloader.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktokdownloader.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktokdownloader.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(sstiktok.org):upward(li)
+bing.com#?#a[href*="sstiktok.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="sstiktok.org"]:upward(.dg_u)
+bing.com##.news-card[url*="sstiktok.org"]
+www.google.*##.g:has(a[href*="sstiktok.org"])
+www.google.*##a[href*="sstiktok.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="sstiktok.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="sstiktok.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktokdown.org):upward(li)
+bing.com#?#a[href*="tiktokdown.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktokdown.org"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktokdown.org"]
+www.google.*##.g:has(a[href*="tiktokdown.org"])
+www.google.*##a[href*="tiktokdown.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktokdown.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktokdown.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(downloadvideotiktok.org):upward(li)
+bing.com#?#a[href*="downloadvideotiktok.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="downloadvideotiktok.org"]:upward(.dg_u)
+bing.com##.news-card[url*="downloadvideotiktok.org"]
+www.google.*##.g:has(a[href*="downloadvideotiktok.org"])
+www.google.*##a[href*="downloadvideotiktok.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="downloadvideotiktok.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="downloadvideotiktok.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tikfuel.org):upward(li)
+bing.com#?#a[href*="tikfuel.org"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tikfuel.org"]:upward(.dg_u)
+bing.com##.news-card[url*="tikfuel.org"]
+www.google.*##.g:has(a[href*="tikfuel.org"])
+www.google.*##a[href*="tikfuel.org"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tikfuel.org"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tikfuel.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(douyin.com):upward(li)
+bing.com#?#a[href*="douyin.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="douyin.com"]:upward(.dg_u)
+bing.com##.news-card[url*="douyin.com"]
+www.google.*##.g:has(a[href*="douyin.com"])
+www.google.*##a[href*="douyin.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="douyin.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="douyin.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(larksuite.com):upward(li)
+bing.com#?#a[href*="larksuite.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="larksuite.com"]:upward(.dg_u)
+bing.com##.news-card[url*="larksuite.com"]
+www.google.*##.g:has(a[href*="larksuite.com"])
+www.google.*##a[href*="larksuite.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="larksuite.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="larksuite.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(toutiao.com):upward(li)
+bing.com#?#a[href*="toutiao.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="toutiao.com"]:upward(.dg_u)
+bing.com##.news-card[url*="toutiao.com"]
+www.google.*##.g:has(a[href*="toutiao.com"])
+www.google.*##a[href*="toutiao.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="toutiao.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="toutiao.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ixigua.com):upward(li)
+bing.com#?#a[href*="ixigua.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ixigua.com"]:upward(.dg_u)
+bing.com##.news-card[url*="ixigua.com"]
+www.google.*##.g:has(a[href*="ixigua.com"])
+www.google.*##a[href*="ixigua.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ixigua.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ixigua.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(nvsgames.com):upward(li)
+bing.com#?#a[href*="nvsgames.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="nvsgames.com"]:upward(.dg_u)
+bing.com##.news-card[url*="nvsgames.com"]
+www.google.*##.g:has(a[href*="nvsgames.com"])
+www.google.*##a[href*="nvsgames.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="nvsgames.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="nvsgames.com"]:upward(.tile)
 
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
@@ -7178,6 +7290,20 @@ duckduckgo.com##.tile-wrap a[href*="apkgw.com"]:upward(.tile)
 ||apkvision.org^$all
 ||infinitemodapk.com^$all
 ||apkgw.com^$all
+||sealapk.net^$all
+||tiktokvideodowloader.site^$all
+||techbigs.site^$all
+||capcutmod.cc^$all
+||tiktokdownloader.org^$all
+||sstiktok.org^$all
+||tiktokdown.org^$all
+||downloadvideotiktok.org^$all
+||tikfuel.org^$all
+||douyin.com^$all
+||larksuite.com^$all
+||toutiao.com^$all
+||ixigua.com^$all
+||nvsgames.com^$all
 
 !--- Remove Tracking from URLs ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam
