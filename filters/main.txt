@@ -6490,6 +6490,64 @@ www.google.*##.g:has(a[href*="nvsgames.com"])
 www.google.*##a[href*="nvsgames.com"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="nvsgames.com"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="nvsgames.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modfyp.com):upward(li)
+bing.com#?#a[href*="modfyp.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modfyp.com"]:upward(.dg_u)
+bing.com##.news-card[url*="modfyp.com"]
+www.google.*##.g:has(a[href*="modfyp.com"])
+www.google.*##a[href*="modfyp.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modfyp.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modfyp.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(unmediodigital.com):upward(li)
+bing.com#?#a[href*="unmediodigital.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="unmediodigital.com"]:upward(.dg_u)
+bing.com##.news-card[url*="unmediodigital.com"]
+www.google.*##.g:has(a[href*="unmediodigital.com"])
+www.google.*##a[href*="unmediodigital.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="unmediodigital.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="unmediodigital.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mundoperfecto.net):upward(li)
+bing.com#?#a[href*="mundoperfecto.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mundoperfecto.net"]:upward(.dg_u)
+bing.com##.news-card[url*="mundoperfecto.net"]
+www.google.*##.g:has(a[href*="mundoperfecto.net"])
+www.google.*##a[href*="mundoperfecto.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mundoperfecto.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mundoperfecto.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(modilimitado.com):upward(li)
+bing.com#?#a[href*="modilimitado.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="modilimitado.com"]:upward(.dg_u)
+bing.com##.news-card[url*="modilimitado.com"]
+www.google.*##.g:has(a[href*="modilimitado.com"])
+www.google.*##a[href*="modilimitado.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="modilimitado.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="modilimitado.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(mytruko.com):upward(li)
+bing.com#?#a[href*="mytruko.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="mytruko.com"]:upward(.dg_u)
+bing.com##.news-card[url*="mytruko.com"]
+www.google.*##.g:has(a[href*="mytruko.com"])
+www.google.*##a[href*="mytruko.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="mytruko.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="mytruko.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(semawur.com):upward(li)
+bing.com#?#a[href*="semawur.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="semawur.com"]:upward(.dg_u)
+bing.com##.news-card[url*="semawur.com"]
+www.google.*##.g:has(a[href*="semawur.com"])
+www.google.*##a[href*="semawur.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="semawur.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="semawur.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ekalefire.online):upward(li)
+bing.com#?#a[href*="ekalefire.online"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ekalefire.online"]:upward(.dg_u)
+bing.com##.news-card[url*="ekalefire.online"]
+www.google.*##.g:has(a[href*="ekalefire.online"])
+www.google.*##a[href*="ekalefire.online"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ekalefire.online"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ekalefire.online"]:upward(.tile)
+
+
 
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
@@ -7304,6 +7362,14 @@ duckduckgo.com##.tile-wrap a[href*="nvsgames.com"]:upward(.tile)
 ||toutiao.com^$all
 ||ixigua.com^$all
 ||nvsgames.com^$all
+||modfyp.com^$all
+||unmediodigital.com^$all
+||mundoperfecto.net^$all
+||modilimitado.com^$all
+||mytruko.com^$all
+||semawur.com^$all
+||ekalefire.online^$all
+
 
 !--- Remove Tracking from URLs ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam
