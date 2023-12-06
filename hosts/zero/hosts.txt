@@ -1739,3 +1739,10 @@
 0.0.0.0 zira.gg
 0.0.0.0 zoe-discord-bot.ch
 0.0.0.0 zonacraft.net
+0.0.0.0 modfyp.com
+0.0.0.0 unmediodigital.com
+0.0.0.0 mundoperfecto.net
+0.0.0.0 modilimitado.com
+0.0.0.0 mytruko.com
+0.0.0.0 semawur.com
+0.0.0.0 ekalefire.online
