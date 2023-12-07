@@ -18,7 +18,7 @@ You can create a pull request [here](https://github.com/Mordarski-Networks/Morda
 
 Each title should start with a name, followed by a info section and syntax usage section.
 
-```
+```adblock
 !--- Example Title ---!
 ! Info: example.com
 ! Syntax: ||example.net^$all
@@ -28,7 +28,7 @@ Each title should start with a name, followed by a info section and syntax usage
 
 After the title, there should be a subtitle for each sub section. This sub section is for issue numbers from GitHub or comments.
 
-```
+```adblock
 !--- Example Title ---!
 ! Info: example.com
 ! Syntax: ||example.net^$all
@@ -40,7 +40,7 @@ After the title, there should be a subtitle for each sub section. This sub secti
 
 Every filter rule should go below a subtitle and be correctly placed in the corresponding section.
 
-```
+```adblock
 !--- Domain Blocking ---!
 ! Info: example.com
 ! Syntax: ||example.net^$all
@@ -62,7 +62,16 @@ example.net##
 example.org##
 ```
 
-### Updating Last Modified Timestamp
+### Hosts File
+
+```hosts
+127.0.0.1 example.net
+127.0.0.1 www.example.net
+```
+
+The hosts file should have both the non www website and the www website because the hosts file does not understand that `example.net` is the same website as `www.example.net`.
+
+## Updating Last Modified Timestamp
 
 To update the last modified timestamp, run [get_utc_date.py](https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/scripts/get_utc_date.py) and replace the old timestamp by selecting it and pasting the new timestamp on the selected text.
 
