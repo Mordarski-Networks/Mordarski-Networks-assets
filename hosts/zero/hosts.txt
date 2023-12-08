@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Monday, December 04, 2023 09:42:26 PM UTC
+# Last modified: Friday, December 08, 2023 09:51:17 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -33,6 +33,7 @@
 0.0.0.0 an1.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 andro-mod.com
+0.0.0.0 androeed.ru
 0.0.0.0 androidapksfree.com
 0.0.0.0 androidp1.com
 0.0.0.0 androidprog.com
@@ -271,6 +272,7 @@
 0.0.0.0 earthlingbot.net
 0.0.0.0 easypoll.bot
 0.0.0.0 egress.gw.us.tiktok.com
+0.0.0.0 ekalefire.online
 0.0.0.0 elementalbot.com
 0.0.0.0 elitebgs.app
 0.0.0.0 ely.gg
@@ -471,7 +473,9 @@
 0.0.0.0 modded-1.com
 0.0.0.0 modder.me
 0.0.0.0 moddroid.io
+0.0.0.0 modfyp.com
 0.0.0.0 modhub.us
+0.0.0.0 modilimitado.com
 0.0.0.0 modland.net
 0.0.0.0 modmail.xyz
 0.0.0.0 modpackindex.com
@@ -489,6 +493,7 @@
 0.0.0.0 mrtranslate.bot
 0.0.0.0 mtls-fcdn.rtc-gw.tiktok.com
 0.0.0.0 mtls-row.rtc-gw.tiktok.com
+0.0.0.0 mundoperfecto.net
 0.0.0.0 mushroom.gg
 0.0.0.0 music.tiktok.com
 0.0.0.0 musicaldown.com
@@ -498,6 +503,7 @@
 0.0.0.0 mx3.tiktok.com
 0.0.0.0 mypornvid.fun
 0.0.0.0 myserver.gg
+0.0.0.0 mytruko.com
 0.0.0.0 nadeko.bot
 0.0.0.0 napkforpc.com
 0.0.0.0 needle.gg
@@ -629,6 +635,7 @@
 0.0.0.0 searchbot.app
 0.0.0.0 securitybot.gg
 0.0.0.0 securitybot.xyz
+0.0.0.0 semawur.com
 0.0.0.0 seniorenrecht-saar.de
 0.0.0.0 seraymeric.com
 0.0.0.0 serverstatsbot.com
@@ -651,6 +658,7 @@
 0.0.0.0 snaptik.app
 0.0.0.0 snaptik.biz
 0.0.0.0 snaptik.club
+0.0.0.0 snaptik.id
 0.0.0.0 snaptik.ink
 0.0.0.0 snaptik.io
 0.0.0.0 snaptik.ltd
@@ -672,6 +680,7 @@
 0.0.0.0 spicybot.site
 0.0.0.0 spotigeek.com
 0.0.0.0 ssstik.com
+0.0.0.0 ssstik.id
 0.0.0.0 ssstik.io
 0.0.0.0 ssstik.link
 0.0.0.0 ssstik.live
@@ -680,6 +689,7 @@
 0.0.0.0 ssstik.tv
 0.0.0.0 ssstiktoc.io
 0.0.0.0 ssstiktok.ai
+0.0.0.0 ssstiktok.id
 0.0.0.0 ssstiktok.lol
 0.0.0.0 ssstiktok.org
 0.0.0.0 ssstiktok.run
@@ -820,6 +830,7 @@
 0.0.0.0 tradeit.gg
 0.0.0.0 trending.tiktok.com
 0.0.0.0 truthordarebot.xyz
+0.0.0.0 ttdown.org
 0.0.0.0 ttdownloader.app
 0.0.0.0 ttdownloader.cc
 0.0.0.0 ttdownloader.com
@@ -835,6 +846,7 @@
 0.0.0.0 unb.gg
 0.0.0.0 unbelievaboat.com
 0.0.0.0 unknowncheats.me
+0.0.0.0 unmediodigital.com
 0.0.0.0 v3rmillion.net
 0.0.0.0 vag.gg
 0.0.0.0 vape.gg
@@ -891,6 +903,7 @@
 0.0.0.0 www.an1.com
 0.0.0.0 www.analytics.tiktok.com
 0.0.0.0 www.andro-mod.com
+0.0.0.0 www.androeed.ru
 0.0.0.0 www.androidapksfree.com
 0.0.0.0 www.androidp1.com
 0.0.0.0 www.androidprog.com
@@ -1126,6 +1139,7 @@
 0.0.0.0 www.earthlingbot.net
 0.0.0.0 www.easypoll.bot
 0.0.0.0 www.egress.gw.us.tiktok.com
+0.0.0.0 www.ekalefire.online
 0.0.0.0 www.elementalbot.com
 0.0.0.0 www.elitebgs.app
 0.0.0.0 www.ely.gg
@@ -1325,7 +1339,9 @@
 0.0.0.0 www.modded-1.com
 0.0.0.0 www.modder.me
 0.0.0.0 www.moddroid.io
+0.0.0.0 www.modfyp.com
 0.0.0.0 www.modhub.us
+0.0.0.0 www.modilimitado.com
 0.0.0.0 www.modland.net
 0.0.0.0 www.modmail.xyz
 0.0.0.0 www.modpackindex.com
@@ -1343,6 +1359,7 @@
 0.0.0.0 www.mrtranslate.bot
 0.0.0.0 www.mtls-fcdn.rtc-gw.tiktok.com
 0.0.0.0 www.mtls-row.rtc-gw.tiktok.com
+0.0.0.0 www.mundoperfecto.net
 0.0.0.0 www.mushroom.gg
 0.0.0.0 www.music.tiktok.com
 0.0.0.0 www.musicaldown.com
@@ -1352,6 +1369,7 @@
 0.0.0.0 www.mx3.tiktok.com
 0.0.0.0 www.mypornvid.fun
 0.0.0.0 www.myserver.gg
+0.0.0.0 www.mytruko.com
 0.0.0.0 www.nadeko.bot
 0.0.0.0 www.napkforpc.com
 0.0.0.0 www.needle.gg
@@ -1483,6 +1501,7 @@
 0.0.0.0 www.searchbot.app
 0.0.0.0 www.securitybot.gg
 0.0.0.0 www.securitybot.xyz
+0.0.0.0 www.semawur.com
 0.0.0.0 www.seniorenrecht-saar.de
 0.0.0.0 www.seraymeric.com
 0.0.0.0 www.serverstatsbot.com
@@ -1505,6 +1524,7 @@
 0.0.0.0 www.snaptik.app
 0.0.0.0 www.snaptik.biz
 0.0.0.0 www.snaptik.club
+0.0.0.0 www.snaptik.id
 0.0.0.0 www.snaptik.ink
 0.0.0.0 www.snaptik.io
 0.0.0.0 www.snaptik.ltd
@@ -1526,6 +1546,7 @@
 0.0.0.0 www.spicybot.site
 0.0.0.0 www.spotigeek.com
 0.0.0.0 www.ssstik.com
+0.0.0.0 www.ssstik.id
 0.0.0.0 www.ssstik.io
 0.0.0.0 www.ssstik.link
 0.0.0.0 www.ssstik.live
@@ -1534,6 +1555,7 @@
 0.0.0.0 www.ssstik.tv
 0.0.0.0 www.ssstiktoc.io
 0.0.0.0 www.ssstiktok.ai
+0.0.0.0 www.ssstiktok.id
 0.0.0.0 www.ssstiktok.lol
 0.0.0.0 www.ssstiktok.org
 0.0.0.0 www.ssstiktok.run
@@ -1673,6 +1695,7 @@
 0.0.0.0 www.tradeit.gg
 0.0.0.0 www.trending.tiktok.com
 0.0.0.0 www.truthordarebot.xyz
+0.0.0.0 www.ttdown.org
 0.0.0.0 www.ttdownloader.app
 0.0.0.0 www.ttdownloader.cc
 0.0.0.0 www.ttdownloader.com
@@ -1688,6 +1711,7 @@
 0.0.0.0 www.unb.gg
 0.0.0.0 www.unbelievaboat.com
 0.0.0.0 www.unknowncheats.me
+0.0.0.0 www.unmediodigital.com
 0.0.0.0 www.v3rmillion.net
 0.0.0.0 www.vag.gg
 0.0.0.0 www.vape.gg
