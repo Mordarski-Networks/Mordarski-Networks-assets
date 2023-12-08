@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Monday, December 04, 2023 09:42:26 PM UTC
+# Last modified: Friday, December 08, 2023 09:51:17 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -33,6 +33,7 @@
 127.0.0.1 an1.com
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 andro-mod.com
+127.0.0.1 androeed.ru
 127.0.0.1 androidapksfree.com
 127.0.0.1 androidp1.com
 127.0.0.1 androidprog.com
@@ -271,6 +272,7 @@
 127.0.0.1 earthlingbot.net
 127.0.0.1 easypoll.bot
 127.0.0.1 egress.gw.us.tiktok.com
+127.0.0.1 ekalefire.online
 127.0.0.1 elementalbot.com
 127.0.0.1 elitebgs.app
 127.0.0.1 ely.gg
@@ -471,7 +473,9 @@
 127.0.0.1 modded-1.com
 127.0.0.1 modder.me
 127.0.0.1 moddroid.io
+127.0.0.1 modfyp.com
 127.0.0.1 modhub.us
+127.0.0.1 modilimitado.com
 127.0.0.1 modland.net
 127.0.0.1 modmail.xyz
 127.0.0.1 modpackindex.com
@@ -489,6 +493,7 @@
 127.0.0.1 mrtranslate.bot
 127.0.0.1 mtls-fcdn.rtc-gw.tiktok.com
 127.0.0.1 mtls-row.rtc-gw.tiktok.com
+127.0.0.1 mundoperfecto.net
 127.0.0.1 mushroom.gg
 127.0.0.1 music.tiktok.com
 127.0.0.1 musicaldown.com
@@ -498,6 +503,7 @@
 127.0.0.1 mx3.tiktok.com
 127.0.0.1 mypornvid.fun
 127.0.0.1 myserver.gg
+127.0.0.1 mytruko.com
 127.0.0.1 nadeko.bot
 127.0.0.1 napkforpc.com
 127.0.0.1 needle.gg
@@ -629,6 +635,7 @@
 127.0.0.1 searchbot.app
 127.0.0.1 securitybot.gg
 127.0.0.1 securitybot.xyz
+127.0.0.1 semawur.com
 127.0.0.1 seniorenrecht-saar.de
 127.0.0.1 seraymeric.com
 127.0.0.1 serverstatsbot.com
@@ -651,6 +658,7 @@
 127.0.0.1 snaptik.app
 127.0.0.1 snaptik.biz
 127.0.0.1 snaptik.club
+127.0.0.1 snaptik.id
 127.0.0.1 snaptik.ink
 127.0.0.1 snaptik.io
 127.0.0.1 snaptik.ltd
@@ -672,6 +680,7 @@
 127.0.0.1 spicybot.site
 127.0.0.1 spotigeek.com
 127.0.0.1 ssstik.com
+127.0.0.1 ssstik.id
 127.0.0.1 ssstik.io
 127.0.0.1 ssstik.link
 127.0.0.1 ssstik.live
@@ -680,6 +689,7 @@
 127.0.0.1 ssstik.tv
 127.0.0.1 ssstiktoc.io
 127.0.0.1 ssstiktok.ai
+127.0.0.1 ssstiktok.id
 127.0.0.1 ssstiktok.lol
 127.0.0.1 ssstiktok.org
 127.0.0.1 ssstiktok.run
@@ -820,6 +830,7 @@
 127.0.0.1 tradeit.gg
 127.0.0.1 trending.tiktok.com
 127.0.0.1 truthordarebot.xyz
+127.0.0.1 ttdown.org
 127.0.0.1 ttdownloader.app
 127.0.0.1 ttdownloader.cc
 127.0.0.1 ttdownloader.com
@@ -835,6 +846,7 @@
 127.0.0.1 unb.gg
 127.0.0.1 unbelievaboat.com
 127.0.0.1 unknowncheats.me
+127.0.0.1 unmediodigital.com
 127.0.0.1 v3rmillion.net
 127.0.0.1 vag.gg
 127.0.0.1 vape.gg
@@ -891,6 +903,7 @@
 127.0.0.1 www.an1.com
 127.0.0.1 www.analytics.tiktok.com
 127.0.0.1 www.andro-mod.com
+127.0.0.1 www.androeed.ru
 127.0.0.1 www.androidapksfree.com
 127.0.0.1 www.androidp1.com
 127.0.0.1 www.androidprog.com
@@ -1126,6 +1139,7 @@
 127.0.0.1 www.earthlingbot.net
 127.0.0.1 www.easypoll.bot
 127.0.0.1 www.egress.gw.us.tiktok.com
+127.0.0.1 www.ekalefire.online
 127.0.0.1 www.elementalbot.com
 127.0.0.1 www.elitebgs.app
 127.0.0.1 www.ely.gg
@@ -1325,7 +1339,9 @@
 127.0.0.1 www.modded-1.com
 127.0.0.1 www.modder.me
 127.0.0.1 www.moddroid.io
+127.0.0.1 www.modfyp.com
 127.0.0.1 www.modhub.us
+127.0.0.1 www.modilimitado.com
 127.0.0.1 www.modland.net
 127.0.0.1 www.modmail.xyz
 127.0.0.1 www.modpackindex.com
@@ -1343,6 +1359,7 @@
 127.0.0.1 www.mrtranslate.bot
 127.0.0.1 www.mtls-fcdn.rtc-gw.tiktok.com
 127.0.0.1 www.mtls-row.rtc-gw.tiktok.com
+127.0.0.1 www.mundoperfecto.net
 127.0.0.1 www.mushroom.gg
 127.0.0.1 www.music.tiktok.com
 127.0.0.1 www.musicaldown.com
@@ -1352,6 +1369,7 @@
 127.0.0.1 www.mx3.tiktok.com
 127.0.0.1 www.mypornvid.fun
 127.0.0.1 www.myserver.gg
+127.0.0.1 www.mytruko.com
 127.0.0.1 www.nadeko.bot
 127.0.0.1 www.napkforpc.com
 127.0.0.1 www.needle.gg
@@ -1483,6 +1501,7 @@
 127.0.0.1 www.searchbot.app
 127.0.0.1 www.securitybot.gg
 127.0.0.1 www.securitybot.xyz
+127.0.0.1 www.semawur.com
 127.0.0.1 www.seniorenrecht-saar.de
 127.0.0.1 www.seraymeric.com
 127.0.0.1 www.serverstatsbot.com
@@ -1505,6 +1524,7 @@
 127.0.0.1 www.snaptik.app
 127.0.0.1 www.snaptik.biz
 127.0.0.1 www.snaptik.club
+127.0.0.1 www.snaptik.id
 127.0.0.1 www.snaptik.ink
 127.0.0.1 www.snaptik.io
 127.0.0.1 www.snaptik.ltd
@@ -1526,6 +1546,7 @@
 127.0.0.1 www.spicybot.site
 127.0.0.1 www.spotigeek.com
 127.0.0.1 www.ssstik.com
+127.0.0.1 www.ssstik.id
 127.0.0.1 www.ssstik.io
 127.0.0.1 www.ssstik.link
 127.0.0.1 www.ssstik.live
@@ -1534,6 +1555,7 @@
 127.0.0.1 www.ssstik.tv
 127.0.0.1 www.ssstiktoc.io
 127.0.0.1 www.ssstiktok.ai
+127.0.0.1 www.ssstiktok.id
 127.0.0.1 www.ssstiktok.lol
 127.0.0.1 www.ssstiktok.org
 127.0.0.1 www.ssstiktok.run
@@ -1673,6 +1695,7 @@
 127.0.0.1 www.tradeit.gg
 127.0.0.1 www.trending.tiktok.com
 127.0.0.1 www.truthordarebot.xyz
+127.0.0.1 www.ttdown.org
 127.0.0.1 www.ttdownloader.app
 127.0.0.1 www.ttdownloader.cc
 127.0.0.1 www.ttdownloader.com
@@ -1688,6 +1711,7 @@
 127.0.0.1 www.unb.gg
 127.0.0.1 www.unbelievaboat.com
 127.0.0.1 www.unknowncheats.me
+127.0.0.1 www.unmediodigital.com
 127.0.0.1 www.v3rmillion.net
 127.0.0.1 www.vag.gg
 127.0.0.1 www.vape.gg
