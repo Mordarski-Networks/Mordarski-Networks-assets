@@ -1763,3 +1763,10 @@
 0.0.0.0 zira.gg
 0.0.0.0 zoe-discord-bot.ch
 0.0.0.0 zonacraft.net
+0.0.0.0 cactusfire.xyz
+0.0.0.0 emote.management
+0.0.0.0 wolf.live
+0.0.0.0 raid-helper.dev
+0.0.0.0 discordextremelist.xyz
+0.0.0.0 typical-utility.typedream.app
+0.0.0.0 wordpractice.principle.sh
