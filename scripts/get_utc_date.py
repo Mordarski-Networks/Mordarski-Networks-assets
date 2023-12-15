@@ -35,7 +35,7 @@ def get_utc_date():
         subprocess.run("clip", check=False, shell=True, input=utc_time.encode())
         print("Copied UTC time to the clipboard.")
     elif platform.system() == "Linux":
-        subprocess.run("xclip", check=False, shell=True, input=utc_time.encode())
+        subprocess.run("xclip -sel clip", check=False, shell=True, input=utc_time.encode())
         print("Copied UTC time to the clipboard.")
     elif platform.system() == "Darwin":
         subprocess.run("pbcopy", check=False, shell=True, input=utc_time.encode())
