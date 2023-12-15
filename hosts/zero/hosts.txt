@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Friday, December 08, 2023 09:51:17 PM UTC
+# Friday, December 15, 2023 04:28:14 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -1763,6 +1763,13 @@
 0.0.0.0 zira.gg
 0.0.0.0 zoe-discord-bot.ch
 0.0.0.0 zonacraft.net
+0.0.0.0 www.cactusfire.xyz
+0.0.0.0 www.emote.management
+0.0.0.0 www.wolf.live
+0.0.0.0 www.raid-helper.dev
+0.0.0.0 www.discordextremelist.xyz
+0.0.0.0 www.typical-utility.typedream.app
+0.0.0.0 www.wordpractice.principle.sh
 0.0.0.0 cactusfire.xyz
 0.0.0.0 emote.management
 0.0.0.0 wolf.live
