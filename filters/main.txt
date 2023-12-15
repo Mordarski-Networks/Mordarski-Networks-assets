@@ -6586,6 +6586,62 @@ www.google.*##.g:has(a[href*="ttdown.org"])
 www.google.*##a[href*="ttdown.org"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="ttdown.org"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="ttdown.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(cactusfire.xyz):upward(li)
+bing.com#?#a[href*="cactusfire.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="cactusfire.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="cactusfire.xyz"]
+www.google.*##.g:has(a[href*="cactusfire.xyz"])
+www.google.*##a[href*="cactusfire.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="cactusfire.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="cactusfire.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(emote.management):upward(li)
+bing.com#?#a[href*="emote.management"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="emote.management"]:upward(.dg_u)
+bing.com##.news-card[url*="emote.management"]
+www.google.*##.g:has(a[href*="emote.management"])
+www.google.*##a[href*="emote.management"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="emote.management"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="emote.management"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(wolf.live):upward(li)
+bing.com#?#a[href*="wolf.live"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="wolf.live"]:upward(.dg_u)
+bing.com##.news-card[url*="wolf.live"]
+www.google.*##.g:has(a[href*="wolf.live"])
+www.google.*##a[href*="wolf.live"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="wolf.live"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="wolf.live"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(raid-helper.dev):upward(li)
+bing.com#?#a[href*="raid-helper.dev"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="raid-helper.dev"]:upward(.dg_u)
+bing.com##.news-card[url*="raid-helper.dev"]
+www.google.*##.g:has(a[href*="raid-helper.dev"])
+www.google.*##a[href*="raid-helper.dev"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="raid-helper.dev"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="raid-helper.dev"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordextremelist.xyz):upward(li)
+bing.com#?#a[href*="discordextremelist.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordextremelist.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="discordextremelist.xyz"]
+www.google.*##.g:has(a[href*="discordextremelist.xyz"])
+www.google.*##a[href*="discordextremelist.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordextremelist.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordextremelist.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(typical-utility.typedream.app):upward(li)
+bing.com#?#a[href*="typical-utility.typedream.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="typical-utility.typedream.app"]:upward(.dg_u)
+bing.com##.news-card[url*="typical-utility.typedream.app"]
+www.google.*##.g:has(a[href*="typical-utility.typedream.app"])
+www.google.*##a[href*="typical-utility.typedream.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="typical-utility.typedream.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="typical-utility.typedream.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(wordpractice.principle.sh):upward(li)
+bing.com#?#a[href*="wordpractice.principle.sh"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="wordpractice.principle.sh"]:upward(.dg_u)
+bing.com##.news-card[url*="wordpractice.principle.sh"]
+www.google.*##.g:has(a[href*="wordpractice.principle.sh"])
+www.google.*##a[href*="wordpractice.principle.sh"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="wordpractice.principle.sh"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="wordpractice.principle.sh"]:upward(.tile)
 
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
@@ -7412,6 +7468,13 @@ duckduckgo.com##.tile-wrap a[href*="ttdown.org"]:upward(.tile)
 ||ssstik.id^$all
 ||androeed.ru^$all
 ||ttdown.org^$all
+||cactusfire.xyz^$all
+||emote.management^$all
+||wolf.live^$all
+||raid-helper.dev^$all
+||discordextremelist.xyz^$all
+||typical-utility.typedream.app^$all
+||wordpractice.principle.sh^$all
 
 !--- Remove Tracking from URLs ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam
