@@ -1,5 +1,5 @@
 # Mordarski Networks assets hosts file
-# Last modified: Friday, December 08, 2023 09:51:17 PM UTC
+# Last modified: Monday, December 18, 2023 06:37:55 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -7,6 +7,7 @@
 # GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
 
 127.0.0.1 123tik.net
+127.0.0.1 3moji.app
 127.0.0.1 5play.app
 127.0.0.1 7minecraft.net
 127.0.0.1 99minecraft.com
@@ -40,6 +41,7 @@
 127.0.0.1 anibot.moe
 127.0.0.1 animeclap.com
 127.0.0.1 animesoul.com
+127.0.0.1 anniemusic.app
 127.0.0.1 aperture.bot
 127.0.0.1 apk-dl.com
 127.0.0.1 apk-store.org
@@ -151,6 +153,7 @@
 127.0.0.1 bytetcc.com
 127.0.0.1 bytetos.com
 127.0.0.1 bytexservice.com
+127.0.0.1 cactusfire.xyz
 127.0.0.1 cakey.bot
 127.0.0.1 cakeybot.app
 127.0.0.1 canute.gg
@@ -188,6 +191,7 @@
 127.0.0.1 dfast.app
 127.0.0.1 disboard.org
 127.0.0.1 discadia.com
+127.0.0.1 discbot.app
 127.0.0.1 discohook.app
 127.0.0.1 discohook.org
 127.0.0.1 discord-api-types.dev
@@ -222,6 +226,7 @@
 127.0.0.1 discordbots.org
 127.0.0.1 discordbotstudio.org
 127.0.0.1 discordemoji.com
+127.0.0.1 discordextremelist.xyz
 127.0.0.1 discordfonts.net
 127.0.0.1 discordhome.com
 127.0.0.1 discordjs.guide
@@ -255,6 +260,7 @@
 127.0.0.1 docs.midjourney.com
 127.0.0.1 douyin.com
 127.0.0.1 download-tiktok.cc
+127.0.0.1 downloadatoz.com
 127.0.0.1 downloader.bot
 127.0.0.1 downloadtiktokvideo.net
 127.0.0.1 downloadvideotiktok.org
@@ -266,6 +272,7 @@
 127.0.0.1 drs.gw.us.tiktok.com
 127.0.0.1 duncte.bot
 127.0.0.1 dyno.gg
+127.0.0.1 dynobot.app
 127.0.0.1 dytik.net
 127.0.0.1 e.tiktok.com
 127.0.0.1 eartensifier.net
@@ -278,10 +285,12 @@
 127.0.0.1 ely.gg
 127.0.0.1 embedinator.net
 127.0.0.1 emoji.gg
+127.0.0.1 emote.management
 127.0.0.1 eren.si
 127.0.0.1 esmbot.net
 127.0.0.1 eu.safety-enforcement.tiktok.com
 127.0.0.1 fasttok.net
+127.0.0.1 fizzbot.app
 127.0.0.1 flavibot.xyz
 127.0.0.1 fliptok.app
 127.0.0.1 fmbot.xyz
@@ -327,6 +336,7 @@
 127.0.0.1 guide.melonbot.io
 127.0.0.1 guild.xyz
 127.0.0.1 gw2bot.info
+127.0.0.1 happymod.com
 127.0.0.1 happymod.to
 127.0.0.1 happymodpro.com
 127.0.0.1 helio.lol
@@ -334,6 +344,7 @@
 127.0.0.1 helper.gg
 127.0.0.1 helper.wtf
 127.0.0.1 hey.xyz
+127.0.0.1 hivetools.app
 127.0.0.1 horion.download
 127.0.0.1 huge.bot
 127.0.0.1 hugebot.net
@@ -390,6 +401,7 @@
 127.0.0.1 loritta.website
 127.0.0.1 lotr.gg
 127.0.0.1 lovetik.com
+127.0.0.1 luckymodapk.com
 127.0.0.1 lunabot.vc
 127.0.0.1 lunarclient.com
 127.0.0.1 makeown.cc
@@ -574,6 +586,7 @@
 127.0.0.1 pylon.bot
 127.0.0.1 queenapk.com
 127.0.0.1 quickvids.win
+127.0.0.1 raid-helper.dev
 127.0.0.1 ratingtool.xyz
 127.0.0.1 rbxadder.com
 127.0.0.1 rbxgum.com
@@ -648,6 +661,7 @@
 127.0.0.1 sirtaptap.com
 127.0.0.1 skinship.xyz
 127.0.0.1 skuld.bot
+127.0.0.1 sledgehammer.app
 127.0.0.1 smods.ru
 127.0.0.1 snapdouyin.app
 127.0.0.1 snapdownloader.com
@@ -828,6 +842,7 @@
 127.0.0.1 tracking.infobip.account.tiktok.com
 127.0.0.1 tracking.infobip.service.tiktok.com
 127.0.0.1 tradeit.gg
+127.0.0.1 translatebot.app
 127.0.0.1 trending.tiktok.com
 127.0.0.1 truthordarebot.xyz
 127.0.0.1 ttdown.org
@@ -849,8 +864,10 @@
 127.0.0.1 unmediodigital.com
 127.0.0.1 v3rmillion.net
 127.0.0.1 vag.gg
+127.0.0.1 valkyrja.app
 127.0.0.1 vape.gg
 127.0.0.1 vayna.app
+127.0.0.1 veebot.app
 127.0.0.1 vencord.dev
 127.0.0.1 vexera.io
 127.0.0.1 vexera.pro
@@ -865,6 +882,7 @@
 127.0.0.1 warmind.io
 127.0.0.1 wearedevs.net
 127.0.0.1 welcomer.gg
+127.0.0.1 wenbot.app
 127.0.0.1 wick.bot
 127.0.0.1 wickbot.com
 127.0.0.1 widgetbot.io
@@ -877,6 +895,7 @@
 127.0.0.1 wuff.gay
 127.0.0.1 wurstclient.net
 127.0.0.1 www.123tik.net
+127.0.0.1 www.3moji.app
 127.0.0.1 www.5play.app
 127.0.0.1 www.7minecraft.net
 127.0.0.1 www.99minecraft.com
@@ -910,6 +929,7 @@
 127.0.0.1 www.anibot.moe
 127.0.0.1 www.animeclap.com
 127.0.0.1 www.animesoul.com
+127.0.0.1 www.anniemusic.app
 127.0.0.1 www.aperture.bot
 127.0.0.1 www.apk-dl.com
 127.0.0.1 www.apk-store.org
@@ -1021,6 +1041,7 @@
 127.0.0.1 www.bytetcc.com
 127.0.0.1 www.bytetos.com
 127.0.0.1 www.bytexservice.com
+127.0.0.1 www.cactusfire.xyz
 127.0.0.1 www.cakey.bot
 127.0.0.1 www.cakeybot.app
 127.0.0.1 www.canute.gg
@@ -1056,6 +1077,7 @@
 127.0.0.1 www.dfast.app
 127.0.0.1 www.disboard.org
 127.0.0.1 www.discadia.com
+127.0.0.1 www.discbot.app
 127.0.0.1 www.discohook.app
 127.0.0.1 www.discohook.org
 127.0.0.1 www.discord-api-types.dev
@@ -1090,6 +1112,7 @@
 127.0.0.1 www.discordbots.org
 127.0.0.1 www.discordbotstudio.org
 127.0.0.1 www.discordemoji.com
+127.0.0.1 www.discordextremelist.xyz
 127.0.0.1 www.discordfonts.net
 127.0.0.1 www.discordhome.com
 127.0.0.1 www.discordjs.guide
@@ -1122,6 +1145,7 @@
 127.0.0.1 www.dlandroid.com
 127.0.0.1 www.douyin.com
 127.0.0.1 www.download-tiktok.cc
+127.0.0.1 www.downloadatoz.com
 127.0.0.1 www.downloader.bot
 127.0.0.1 www.downloadtiktokvideo.net
 127.0.0.1 www.downloadvideotiktok.org
@@ -1133,6 +1157,7 @@
 127.0.0.1 www.drs.gw.us.tiktok.com
 127.0.0.1 www.duncte.bot
 127.0.0.1 www.dyno.gg
+127.0.0.1 www.dynobot.app
 127.0.0.1 www.dytik.net
 127.0.0.1 www.e.tiktok.com
 127.0.0.1 www.eartensifier.net
@@ -1145,10 +1170,12 @@
 127.0.0.1 www.ely.gg
 127.0.0.1 www.embedinator.net
 127.0.0.1 www.emoji.gg
+127.0.0.1 www.emote.management
 127.0.0.1 www.eren.si
 127.0.0.1 www.esmbot.net
 127.0.0.1 www.eu.safety-enforcement.tiktok.com
 127.0.0.1 www.fasttok.net
+127.0.0.1 www.fizzbot.app
 127.0.0.1 www.flavibot.xyz
 127.0.0.1 www.fliptok.app
 127.0.0.1 www.fmbot.xyz
@@ -1193,6 +1220,7 @@
 127.0.0.1 www.guide-minecraft.com
 127.0.0.1 www.guild.xyz
 127.0.0.1 www.gw2bot.info
+127.0.0.1 www.happymod.com
 127.0.0.1 www.happymod.to
 127.0.0.1 www.happymodpro.com
 127.0.0.1 www.helio.lol
@@ -1200,6 +1228,7 @@
 127.0.0.1 www.helper.gg
 127.0.0.1 www.helper.wtf
 127.0.0.1 www.hey.xyz
+127.0.0.1 www.hivetools.app
 127.0.0.1 www.horion.download
 127.0.0.1 www.huge.bot
 127.0.0.1 www.hugebot.net
@@ -1256,6 +1285,7 @@
 127.0.0.1 www.loritta.website
 127.0.0.1 www.lotr.gg
 127.0.0.1 www.lovetik.com
+127.0.0.1 www.luckymodapk.com
 127.0.0.1 www.lunabot.vc
 127.0.0.1 www.lunarclient.com
 127.0.0.1 www.makeown.cc
@@ -1440,6 +1470,7 @@
 127.0.0.1 www.pylon.bot
 127.0.0.1 www.queenapk.com
 127.0.0.1 www.quickvids.win
+127.0.0.1 www.raid-helper.dev
 127.0.0.1 www.ratingtool.xyz
 127.0.0.1 www.rbxadder.com
 127.0.0.1 www.rbxgum.com
@@ -1514,6 +1545,7 @@
 127.0.0.1 www.sirtaptap.com
 127.0.0.1 www.skinship.xyz
 127.0.0.1 www.skuld.bot
+127.0.0.1 www.sledgehammer.app
 127.0.0.1 www.smods.ru
 127.0.0.1 www.snapdouyin.app
 127.0.0.1 www.snapdownloader.com
@@ -1693,6 +1725,7 @@
 127.0.0.1 www.tracking.infobip.account.tiktok.com
 127.0.0.1 www.tracking.infobip.service.tiktok.com
 127.0.0.1 www.tradeit.gg
+127.0.0.1 www.translatebot.app
 127.0.0.1 www.trending.tiktok.com
 127.0.0.1 www.truthordarebot.xyz
 127.0.0.1 www.ttdown.org
@@ -1714,8 +1747,10 @@
 127.0.0.1 www.unmediodigital.com
 127.0.0.1 www.v3rmillion.net
 127.0.0.1 www.vag.gg
+127.0.0.1 www.valkyrja.app
 127.0.0.1 www.vape.gg
 127.0.0.1 www.vayna.app
+127.0.0.1 www.veebot.app
 127.0.0.1 www.vencord.dev
 127.0.0.1 www.vexera.io
 127.0.0.1 www.vexera.pro
@@ -1730,6 +1765,7 @@
 127.0.0.1 www.warmind.io
 127.0.0.1 www.wearedevs.net
 127.0.0.1 www.welcomer.gg
+127.0.0.1 www.wenbot.app
 127.0.0.1 www.wick.bot
 127.0.0.1 www.wickbot.com
 127.0.0.1 www.widgetbot.io

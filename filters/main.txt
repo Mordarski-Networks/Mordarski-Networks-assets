@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks assets filter list
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Saturday, December 16, 2023 04:14:51 PM UTC
+! Last modified: Monday, December 18, 2023 06:37:55 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -6586,6 +6586,150 @@ www.google.*##.g:has(a[href*="ttdown.org"])
 www.google.*##a[href*="ttdown.org"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="ttdown.org"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="ttdown.org"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(cactusfire.xyz):upward(li)
+bing.com#?#a[href*="cactusfire.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="cactusfire.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="cactusfire.xyz"]
+www.google.*##.g:has(a[href*="cactusfire.xyz"])
+www.google.*##a[href*="cactusfire.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="cactusfire.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="cactusfire.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(emote.management):upward(li)
+bing.com#?#a[href*="emote.management"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="emote.management"]:upward(.dg_u)
+bing.com##.news-card[url*="emote.management"]
+www.google.*##.g:has(a[href*="emote.management"])
+www.google.*##a[href*="emote.management"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="emote.management"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="emote.management"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(raid-helper.dev):upward(li)
+bing.com#?#a[href*="raid-helper.dev"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="raid-helper.dev"]:upward(.dg_u)
+bing.com##.news-card[url*="raid-helper.dev"]
+www.google.*##.g:has(a[href*="raid-helper.dev"])
+www.google.*##a[href*="raid-helper.dev"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="raid-helper.dev"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="raid-helper.dev"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discordextremelist.xyz):upward(li)
+bing.com#?#a[href*="discordextremelist.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discordextremelist.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="discordextremelist.xyz"]
+www.google.*##.g:has(a[href*="discordextremelist.xyz"])
+www.google.*##a[href*="discordextremelist.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discordextremelist.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discordextremelist.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(happymod.com):upward(li)
+bing.com#?#a[href*="happymod.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="happymod.com"]:upward(.dg_u)
+bing.com##.news-card[url*="happymod.com"]
+www.google.*##.g:has(a[href*="happymod.com"])
+www.google.*##a[href*="happymod.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="happymod.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="happymod.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(luckymodapk.com):upward(li)
+bing.com#?#a[href*="luckymodapk.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="luckymodapk.com"]:upward(.dg_u)
+bing.com##.news-card[url*="luckymodapk.com"]
+www.google.*##.g:has(a[href*="luckymodapk.com"])
+www.google.*##a[href*="luckymodapk.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="luckymodapk.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="luckymodapk.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(downloadatoz.com):upward(li)
+bing.com#?#a[href*="downloadatoz.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="downloadatoz.com"]:upward(.dg_u)
+bing.com##.news-card[url*="downloadatoz.com"]
+www.google.*##.g:has(a[href*="downloadatoz.com"])
+www.google.*##a[href*="downloadatoz.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="downloadatoz.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="downloadatoz.com"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(dynobot.app):upward(li)
+bing.com#?#a[href*="dynobot.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="dynobot.app"]:upward(.dg_u)
+bing.com##.news-card[url*="dynobot.app"]
+www.google.*##.g:has(a[href*="dynobot.app"])
+www.google.*##a[href*="dynobot.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="dynobot.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="dynobot.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(hivetools.app):upward(li)
+bing.com#?#a[href*="hivetools.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="hivetools.app"]:upward(.dg_u)
+bing.com##.news-card[url*="hivetools.app"]
+www.google.*##.g:has(a[href*="hivetools.app"])
+www.google.*##a[href*="hivetools.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="hivetools.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="hivetools.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(sledgehammer.app):upward(li)
+bing.com#?#a[href*="sledgehammer.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="sledgehammer.app"]:upward(.dg_u)
+bing.com##.news-card[url*="sledgehammer.app"]
+www.google.*##.g:has(a[href*="sledgehammer.app"])
+www.google.*##a[href*="sledgehammer.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="sledgehammer.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="sledgehammer.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(translatebot.app):upward(li)
+bing.com#?#a[href*="translatebot.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="translatebot.app"]:upward(.dg_u)
+bing.com##.news-card[url*="translatebot.app"]
+www.google.*##.g:has(a[href*="translatebot.app"])
+www.google.*##a[href*="translatebot.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="translatebot.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="translatebot.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(veebot.app):upward(li)
+bing.com#?#a[href*="veebot.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="veebot.app"]:upward(.dg_u)
+bing.com##.news-card[url*="veebot.app"]
+www.google.*##.g:has(a[href*="veebot.app"])
+www.google.*##a[href*="veebot.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="veebot.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="veebot.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(valkyrja.app):upward(li)
+bing.com#?#a[href*="valkyrja.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="valkyrja.app"]:upward(.dg_u)
+bing.com##.news-card[url*="valkyrja.app"]
+www.google.*##.g:has(a[href*="valkyrja.app"])
+www.google.*##a[href*="valkyrja.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="valkyrja.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="valkyrja.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(anniemusic.app):upward(li)
+bing.com#?#a[href*="anniemusic.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="anniemusic.app"]:upward(.dg_u)
+bing.com##.news-card[url*="anniemusic.app"]
+www.google.*##.g:has(a[href*="anniemusic.app"])
+www.google.*##a[href*="anniemusic.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="anniemusic.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="anniemusic.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(discbot.app):upward(li)
+bing.com#?#a[href*="discbot.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="discbot.app"]:upward(.dg_u)
+bing.com##.news-card[url*="discbot.app"]
+www.google.*##.g:has(a[href*="discbot.app"])
+www.google.*##a[href*="discbot.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="discbot.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="discbot.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(wenbot.app):upward(li)
+bing.com#?#a[href*="wenbot.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="wenbot.app"]:upward(.dg_u)
+bing.com##.news-card[url*="wenbot.app"]
+www.google.*##.g:has(a[href*="wenbot.app"])
+www.google.*##a[href*="wenbot.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="wenbot.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="wenbot.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(3moji.app):upward(li)
+bing.com#?#a[href*="3moji.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="3moji.app"]:upward(.dg_u)
+bing.com##.news-card[url*="3moji.app"]
+www.google.*##.g:has(a[href*="3moji.app"])
+www.google.*##a[href*="3moji.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="3moji.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="3moji.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(fizzbot.app):upward(li)
+bing.com#?#a[href*="fizzbot.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="fizzbot.app"]:upward(.dg_u)
+bing.com##.news-card[url*="fizzbot.app"]
+www.google.*##.g:has(a[href*="fizzbot.app"])
+www.google.*##a[href*="fizzbot.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="fizzbot.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="fizzbot.app"]:upward(.tile)
 
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
@@ -7412,6 +7556,24 @@ duckduckgo.com##.tile-wrap a[href*="ttdown.org"]:upward(.tile)
 ||ssstik.id^$all
 ||androeed.ru^$all
 ||ttdown.org^$all
+||cactusfire.xyz^$all
+||emote.management^$all
+||raid-helper.dev^$all
+||discordextremelist.xyz^$all
+||happymod.com^$all
+||luckymodapk.com^$all
+||downloadatoz.com^$all
+||dynobot.app^$all
+||hivetools.app^$all
+||sledgehammer.app^$all
+||translatebot.app^$all
+||veebot.app^$all
+||valkyrja.app^$all
+||anniemusic.app^$all
+||discbot.app^$all
+||wenbot.app^$all
+||3moji.app^$all
+||fizzbot.app^$all
 
 !--- Remove Tracking from URLs ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam
