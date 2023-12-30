@@ -1,4 +1,4 @@
-! Title: Mordarski Networks assets developer filter list
+! Title: Mordarski Networks development filters
 ! Description: This filter list is for development and testing only. You should use the main filter list instead.
 ! Expires: 5 days
 ! Last modified: Friday, October 13, 2023 09:48:28 PM UTC
@@ -11,7 +11,7 @@
 !--- Filter out certain embeds on steamcommunity.com ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#specifichide
 ! Syntax: example.com##.ad-class
- 
+
 steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(tiktok)
 steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(discord)
 steamcommunity.com##.Focusable.Panel.ChatMessageOpenGraph:has-text(roblox)

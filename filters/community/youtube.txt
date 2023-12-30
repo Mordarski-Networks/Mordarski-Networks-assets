@@ -1,4 +1,4 @@
-! Title: Mordarski Networks assets community filter list for YouTube
+! Title: Mordarski Networks community filters (YouTube)
 ! Description: Community backed filter list for YouTube
 ! Expires: 2 days
 ! Last modified: Saturday, December 30, 2023 05:53:40 PM UTC

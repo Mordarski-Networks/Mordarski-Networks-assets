@@ -1,4 +1,4 @@
-! Title: Mordarski Networks assets extra filter list
+! Title: Mordarski Networks extra filters
 ! Description: Blocks extra websites that our company deems unsafe or bad but shouldn't be put into the main filter list.
 ! Expires: 5 days
 ! Last modified: Wednesday, November 22, 2023 11:40:11 PM UTC

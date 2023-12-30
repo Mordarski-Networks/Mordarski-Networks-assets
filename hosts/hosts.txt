@@ -1,5 +1,5 @@
-# Mordarski Networks assets hosts file
-# Last modified: Monday, December 18, 2023 06:37:55 PM UTC
+# Mordarski Networks hosts file
+# Last modified: Saturday, December 30, 2023 08:23:29 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -25,6 +25,7 @@
 127.0.0.1 acepicturebot.com
 127.0.0.1 ads-service.tiktok.com
 127.0.0.1 ads.tiktok.com
+127.0.0.1 aero.bot
 127.0.0.1 aleeva.io
 127.0.0.1 ali2.ru
 127.0.0.1 alice-bot.net
@@ -98,6 +99,7 @@
 127.0.0.1 arkbuddy.app
 127.0.0.1 asphaltbot.com
 127.0.0.1 astra.bot
+127.0.0.1 athena.bot
 127.0.0.1 atlas.bot
 127.0.0.1 autocode.gg
 127.0.0.1 autopurger.net
@@ -109,6 +111,7 @@
 127.0.0.1 beetvapk.org
 127.0.0.1 bestminecraftmods.net
 127.0.0.1 betterdiscord.app
+127.0.0.1 blackmesa.bot
 127.0.0.1 bleed.bot
 127.0.0.1 blog.trending.tiktok.com
 127.0.0.1 blox.bot
@@ -116,6 +119,7 @@
 127.0.0.1 bloxearn.com
 127.0.0.1 bluecord.lol
 127.0.0.1 bnder.net
+127.0.0.1 boob.bot
 127.0.0.1 bot-hosting.net
 127.0.0.1 botdisco.com
 127.0.0.1 botghost.com
@@ -160,6 +164,7 @@
 127.0.0.1 capapkcut.com
 127.0.0.1 capcutmod.cc
 127.0.0.1 carl.gg
+127.0.0.1 castlemania.bot
 127.0.0.1 censor.bot
 127.0.0.1 channelbot.xyz
 127.0.0.1 cheater.fun
@@ -175,11 +180,13 @@
 127.0.0.1 conductor.bot
 127.0.0.1 confessions.bot
 127.0.0.1 couch.bot
+127.0.0.1 count.bot
 127.0.0.1 counting.bot
 127.0.0.1 countr.xyz
 127.0.0.1 craftmods.fun
 127.0.0.1 craig.chat
 127.0.0.1 crbt.app
+127.0.0.1 crimso.bot
 127.0.0.1 csgoskins.gg
 127.0.0.1 cuno.bot
 127.0.0.1 dankmemer.gg
@@ -258,6 +265,7 @@
 127.0.0.1 dlabs.cc
 127.0.0.1 dlandroid.com
 127.0.0.1 docs.midjourney.com
+127.0.0.1 dotnotify.io
 127.0.0.1 douyin.com
 127.0.0.1 download-tiktok.cc
 127.0.0.1 downloadatoz.com
@@ -277,7 +285,9 @@
 127.0.0.1 e.tiktok.com
 127.0.0.1 eartensifier.net
 127.0.0.1 earthlingbot.net
+127.0.0.1 easyapps.bot
 127.0.0.1 easypoll.bot
+127.0.0.1 eft.bot
 127.0.0.1 egress.gw.us.tiktok.com
 127.0.0.1 ekalefire.online
 127.0.0.1 elementalbot.com
@@ -325,6 +335,7 @@
 127.0.0.1 ghosty.bot
 127.0.0.1 gid-minecraft.ru
 127.0.0.1 giveawaybot.party
+127.0.0.1 gmbot.io
 127.0.0.1 gotik.app
 127.0.0.1 gow.gg
 127.0.0.1 gptassistant.app
@@ -378,6 +389,7 @@
 127.0.0.1 juniper.bot
 127.0.0.1 keeptik.online
 127.0.0.1 kettu.cc
+127.0.0.1 kick.bot
 127.0.0.1 kingmodapk.mobi
 127.0.0.1 kingmodapk.net
 127.0.0.1 kirobot.cc
@@ -526,6 +538,7 @@
 127.0.0.1 nook.lol
 127.0.0.1 notibot.app
 127.0.0.1 notifications.tiktok.com
+127.0.0.1 notifyme.bot
 127.0.0.1 noxbot.gg
 127.0.0.1 nqn.blue
 127.0.0.1 nvsgames.com
@@ -584,6 +597,7 @@
 127.0.0.1 purrbot.site
 127.0.0.1 pycord.dev
 127.0.0.1 pylon.bot
+127.0.0.1 quark.bot
 127.0.0.1 queenapk.com
 127.0.0.1 quickvids.win
 127.0.0.1 raid-helper.dev
@@ -611,6 +625,7 @@
 127.0.0.1 robuxcodes.us
 127.0.0.1 robuxhack.us
 127.0.0.1 rocash.com
+127.0.0.1 rodbot.io
 127.0.0.1 rogold.live
 127.0.0.1 roles.bot
 127.0.0.1 rolimons.com
@@ -627,6 +642,7 @@
 127.0.0.1 rubx.us
 127.0.0.1 ruleslawyer.app
 127.0.0.1 rustlink.io
+127.0.0.1 rustplus.io
 127.0.0.1 rynobot.net
 127.0.0.1 rythm.fm
 127.0.0.1 sanha.gay
@@ -686,8 +702,10 @@
 127.0.0.1 snaptiktok.ai
 127.0.0.1 snaptiktok.io
 127.0.0.1 snaptikvideo.com
+127.0.0.1 snaptt.app
 127.0.0.1 snapvid.net
 127.0.0.1 socialdownload.net
+127.0.0.1 soda.bot
 127.0.0.1 sofi.gg
 127.0.0.1 soulmusic.pro
 127.0.0.1 spectrebot.net
@@ -723,6 +741,7 @@
 127.0.0.1 startit.bot
 127.0.0.1 statbot.net
 127.0.0.1 status.melonbot.io
+127.0.0.1 stfc.bot
 127.0.0.1 stickers.gg
 127.0.0.1 stockbot.us
 127.0.0.1 strawpoll.bot
@@ -740,6 +759,7 @@
 127.0.0.1 tatsu.lol
 127.0.0.1 tatsumaki.xyz
 127.0.0.1 tattle.bot
+127.0.0.1 taunt.bot
 127.0.0.1 techbigs.com
 127.0.0.1 techbigs.site
 127.0.0.1 techloky.com
@@ -755,6 +775,7 @@
 127.0.0.1 theminecrftapk.com
 127.0.0.1 ticketsbot.net
 127.0.0.1 tickettool.xyz
+127.0.0.1 tier.bot
 127.0.0.1 tik-downloader.io
 127.0.0.1 tik-saver.com
 127.0.0.1 tik.fail
@@ -765,6 +786,7 @@
 127.0.0.1 tikdd.cc
 127.0.0.1 tikdown.net
 127.0.0.1 tikdown.org
+127.0.0.1 tikdownload.app
 127.0.0.1 tikdownload.com
 127.0.0.1 tikdownloader.io
 127.0.0.1 tiker.cc
@@ -844,6 +866,7 @@
 127.0.0.1 tradeit.gg
 127.0.0.1 translatebot.app
 127.0.0.1 trending.tiktok.com
+127.0.0.1 triton.bot
 127.0.0.1 truthordarebot.xyz
 127.0.0.1 ttdown.org
 127.0.0.1 ttdownloader.app
@@ -913,6 +936,7 @@
 127.0.0.1 www.acepicturebot.com
 127.0.0.1 www.ads-service.tiktok.com
 127.0.0.1 www.ads.tiktok.com
+127.0.0.1 www.aero.bot
 127.0.0.1 www.aleeva.io
 127.0.0.1 www.ali2.ru
 127.0.0.1 www.alice-bot.net
@@ -986,6 +1010,7 @@
 127.0.0.1 www.arkbuddy.app
 127.0.0.1 www.asphaltbot.com
 127.0.0.1 www.astra.bot
+127.0.0.1 www.athena.bot
 127.0.0.1 www.atlas.bot
 127.0.0.1 www.autocode.gg
 127.0.0.1 www.autopurger.net
@@ -997,6 +1022,7 @@
 127.0.0.1 www.beetvapk.org
 127.0.0.1 www.bestminecraftmods.net
 127.0.0.1 www.betterdiscord.app
+127.0.0.1 www.blackmesa.bot
 127.0.0.1 www.bleed.bot
 127.0.0.1 www.blog.trending.tiktok.com
 127.0.0.1 www.blox.bot
@@ -1004,6 +1030,7 @@
 127.0.0.1 www.bloxearn.com
 127.0.0.1 www.bluecord.lol
 127.0.0.1 www.bnder.net
+127.0.0.1 www.boob.bot
 127.0.0.1 www.bot-hosting.net
 127.0.0.1 www.botdisco.com
 127.0.0.1 www.botghost.com
@@ -1048,6 +1075,7 @@
 127.0.0.1 www.capapkcut.com
 127.0.0.1 www.capcutmod.cc
 127.0.0.1 www.carl.gg
+127.0.0.1 www.castlemania.bot
 127.0.0.1 www.censor.bot
 127.0.0.1 www.channelbot.xyz
 127.0.0.1 www.cheater.fun
@@ -1062,11 +1090,13 @@
 127.0.0.1 www.conductor.bot
 127.0.0.1 www.confessions.bot
 127.0.0.1 www.couch.bot
+127.0.0.1 www.count.bot
 127.0.0.1 www.counting.bot
 127.0.0.1 www.countr.xyz
 127.0.0.1 www.craftmods.fun
 127.0.0.1 www.craig.chat
 127.0.0.1 www.crbt.app
+127.0.0.1 www.crimso.bot
 127.0.0.1 www.csgoskins.gg
 127.0.0.1 www.cuno.bot
 127.0.0.1 www.dankmemer.gg
@@ -1143,6 +1173,7 @@
 127.0.0.1 www.divxland.org
 127.0.0.1 www.dlabs.cc
 127.0.0.1 www.dlandroid.com
+127.0.0.1 www.dotnotify.io
 127.0.0.1 www.douyin.com
 127.0.0.1 www.download-tiktok.cc
 127.0.0.1 www.downloadatoz.com
@@ -1162,7 +1193,9 @@
 127.0.0.1 www.e.tiktok.com
 127.0.0.1 www.eartensifier.net
 127.0.0.1 www.earthlingbot.net
+127.0.0.1 www.easyapps.bot
 127.0.0.1 www.easypoll.bot
+127.0.0.1 www.eft.bot
 127.0.0.1 www.egress.gw.us.tiktok.com
 127.0.0.1 www.ekalefire.online
 127.0.0.1 www.elementalbot.com
@@ -1210,6 +1243,7 @@
 127.0.0.1 www.ghosty.bot
 127.0.0.1 www.gid-minecraft.ru
 127.0.0.1 www.giveawaybot.party
+127.0.0.1 www.gmbot.io
 127.0.0.1 www.gotik.app
 127.0.0.1 www.gow.gg
 127.0.0.1 www.gptassistant.app
@@ -1262,6 +1296,7 @@
 127.0.0.1 www.juniper.bot
 127.0.0.1 www.keeptik.online
 127.0.0.1 www.kettu.cc
+127.0.0.1 www.kick.bot
 127.0.0.1 www.kingmodapk.mobi
 127.0.0.1 www.kingmodapk.net
 127.0.0.1 www.kirobot.cc
@@ -1410,6 +1445,7 @@
 127.0.0.1 www.nook.lol
 127.0.0.1 www.notibot.app
 127.0.0.1 www.notifications.tiktok.com
+127.0.0.1 www.notifyme.bot
 127.0.0.1 www.noxbot.gg
 127.0.0.1 www.nqn.blue
 127.0.0.1 www.nvsgames.com
@@ -1468,6 +1504,7 @@
 127.0.0.1 www.purrbot.site
 127.0.0.1 www.pycord.dev
 127.0.0.1 www.pylon.bot
+127.0.0.1 www.quark.bot
 127.0.0.1 www.queenapk.com
 127.0.0.1 www.quickvids.win
 127.0.0.1 www.raid-helper.dev
@@ -1495,6 +1532,7 @@
 127.0.0.1 www.robuxcodes.us
 127.0.0.1 www.robuxhack.us
 127.0.0.1 www.rocash.com
+127.0.0.1 www.rodbot.io
 127.0.0.1 www.rogold.live
 127.0.0.1 www.roles.bot
 127.0.0.1 www.rolimons.com
@@ -1511,6 +1549,7 @@
 127.0.0.1 www.rubx.us
 127.0.0.1 www.ruleslawyer.app
 127.0.0.1 www.rustlink.io
+127.0.0.1 www.rustplus.io
 127.0.0.1 www.rynobot.net
 127.0.0.1 www.rythm.fm
 127.0.0.1 www.sanha.gay
@@ -1570,8 +1609,10 @@
 127.0.0.1 www.snaptiktok.ai
 127.0.0.1 www.snaptiktok.io
 127.0.0.1 www.snaptikvideo.com
+127.0.0.1 www.snaptt.app
 127.0.0.1 www.snapvid.net
 127.0.0.1 www.socialdownload.net
+127.0.0.1 www.soda.bot
 127.0.0.1 www.sofi.gg
 127.0.0.1 www.soulmusic.pro
 127.0.0.1 www.spectrebot.net
@@ -1606,6 +1647,7 @@
 127.0.0.1 www.starpets.gg
 127.0.0.1 www.startit.bot
 127.0.0.1 www.statbot.net
+127.0.0.1 www.stfc.bot
 127.0.0.1 www.stickers.gg
 127.0.0.1 www.stockbot.us
 127.0.0.1 www.strawpoll.bot
@@ -1623,6 +1665,7 @@
 127.0.0.1 www.tatsu.lol
 127.0.0.1 www.tatsumaki.xyz
 127.0.0.1 www.tattle.bot
+127.0.0.1 www.taunt.bot
 127.0.0.1 www.techbigs.com
 127.0.0.1 www.techbigs.site
 127.0.0.1 www.techloky.com
@@ -1638,6 +1681,7 @@
 127.0.0.1 www.theminecrftapk.com
 127.0.0.1 www.ticketsbot.net
 127.0.0.1 www.tickettool.xyz
+127.0.0.1 www.tier.bot
 127.0.0.1 www.tik-downloader.io
 127.0.0.1 www.tik-saver.com
 127.0.0.1 www.tik.fail
@@ -1648,6 +1692,7 @@
 127.0.0.1 www.tikdd.cc
 127.0.0.1 www.tikdown.net
 127.0.0.1 www.tikdown.org
+127.0.0.1 www.tikdownload.app
 127.0.0.1 www.tikdownload.com
 127.0.0.1 www.tikdownloader.io
 127.0.0.1 www.tiker.cc
@@ -1727,6 +1772,7 @@
 127.0.0.1 www.tradeit.gg
 127.0.0.1 www.translatebot.app
 127.0.0.1 www.trending.tiktok.com
+127.0.0.1 www.triton.bot
 127.0.0.1 www.truthordarebot.xyz
 127.0.0.1 www.ttdown.org
 127.0.0.1 www.ttdownloader.app

@@ -1,4 +1,4 @@
-! Title: Mordarski Networks assets everything filter list
+! Title: Mordarski Networks everything filters
 ! Description: Contains all of Mordarski Networks filter lists
 ! Expires: 5 days
 ! Last modified: Tuesday, November 14, 2023 02:46:21 AM UTC
