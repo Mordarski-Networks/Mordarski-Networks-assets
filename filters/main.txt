@@ -14,12 +14,6 @@
 ! https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md
 ! https://github.com/gorhill/uBlock/wiki/Static-filter-syntax
 
-!--- Import Filter Lists ---!
-! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#include-file-name
-! Syntax: !#include example.txt
-
-!#include archive/main-2023.txt
-
 !--- Filter Search Results ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#specifichide
 ! Syntax: example.com##.ad-class
@@ -40,3 +34,9 @@
 *$removeparam=utm_content
 *$removeparam=utm_medium
 *$removeparam=utm_source
+
+!--- Import Filter Lists ---!
+! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#include-file-name
+! Syntax: !#include example.txt
+
+!#include archive/main-2023.txt
