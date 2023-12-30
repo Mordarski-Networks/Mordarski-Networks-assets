@@ -3,7 +3,7 @@
     <img src="https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/images/MNassets2023.svg" height="128" width="128">
 </p>
 <h1 align="center">
-    Mordarski Networks assets filter list
+    Mordarski Networks assets
 </h1>
 <p align="center">
     A uBlock Origin compliant filter list that blocks websites that our company deems bad.
