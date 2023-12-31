@@ -1,5 +1,5 @@
 # Mordarski Networks hosts file
-# Last modified: Saturday, December 30, 2023 08:23:29 PM UTC
+# Last modified: Sunday, December 31, 2023 08:58:13 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -37,6 +37,7 @@
 127.0.0.1 andro-mod.com
 127.0.0.1 androeed.ru
 127.0.0.1 androidapksfree.com
+127.0.0.1 androidhackers.io
 127.0.0.1 androidp1.com
 127.0.0.1 androidprog.com
 127.0.0.1 anibot.moe
@@ -83,6 +84,7 @@
 127.0.0.1 apkpureapp.net
 127.0.0.1 apkrabi.com
 127.0.0.1 apkremix.com
+127.0.0.1 apkshop.io
 127.0.0.1 apkshub.com
 127.0.0.1 apksos.com
 127.0.0.1 apksum.com
@@ -362,6 +364,7 @@
 127.0.0.1 hydra.bot
 127.0.0.1 hypex.lol
 127.0.0.1 i1apk.com
+127.0.0.1 iapk.io
 127.0.0.1 ibeatkids.xyz
 127.0.0.1 ibytedapm.com
 127.0.0.1 ibytedtos.com
@@ -520,6 +523,7 @@
 127.0.0.1 mundoperfecto.net
 127.0.0.1 mushroom.gg
 127.0.0.1 music.tiktok.com
+127.0.0.1 musical.ly
 127.0.0.1 musicaldown.com
 127.0.0.1 musicallydown.cc
 127.0.0.1 mx1.tiktok.com
@@ -727,6 +731,7 @@
 127.0.0.1 ssstiktok.run
 127.0.0.1 ssstiktok.tools
 127.0.0.1 ssstiktok.ws
+127.0.0.1 ssstiktok.xyz
 127.0.0.1 ssstiktokio.com
 127.0.0.1 ssstikvideo.com
 127.0.0.1 ssstok.net
@@ -751,6 +756,7 @@
 127.0.0.1 swap.gg
 127.0.0.1 sweetrbx.com
 127.0.0.1 sxbot.io
+127.0.0.1 szuer.cn
 127.0.0.1 tacobot.app
 127.0.0.1 taitiktok.net
 127.0.0.1 taksave.com
@@ -786,6 +792,7 @@
 127.0.0.1 tikdd.cc
 127.0.0.1 tikdown.net
 127.0.0.1 tikdown.org
+127.0.0.1 tikdown.xyz
 127.0.0.1 tikdownload.app
 127.0.0.1 tikdownload.com
 127.0.0.1 tikdownloader.io
@@ -799,7 +806,9 @@
 127.0.0.1 tikmate.app
 127.0.0.1 tikmate.cc
 127.0.0.1 tikmate.online
+127.0.0.1 tikmate.xyz
 127.0.0.1 tikmates.net
+127.0.0.1 tiknomark.net
 127.0.0.1 tiksave.io
 127.0.0.1 tiksave.lol
 127.0.0.1 tiksaver.net
@@ -815,9 +824,11 @@
 127.0.0.1 tiktok-saver.net
 127.0.0.1 tiktok.com
 127.0.0.1 tiktok.shop
+127.0.0.1 tiktok2.xyz
 127.0.0.1 tiktokapp.cc
 127.0.0.1 tiktokbot.io
 127.0.0.1 tiktokd.com
+127.0.0.1 tiktokdl.xyz
 127.0.0.1 tiktokdown.org
 127.0.0.1 tiktokdownload.online
 127.0.0.1 tiktokdownload.tech
@@ -832,13 +843,17 @@
 127.0.0.1 tiktokindex.ro
 127.0.0.1 tiktokio.com
 127.0.0.1 tiktokmate.io
+127.0.0.1 tiktokmp3.net
+127.0.0.1 tiktoksaver.io
 127.0.0.1 tiktokus.info
 127.0.0.1 tiktokvideo.live
 127.0.0.1 tiktokvideodowloader.site
 127.0.0.1 tiktokvideodownloader.cc
 127.0.0.1 tiktokvideodownloader.com.pk
+127.0.0.1 tiktokvideodownloader.io
 127.0.0.1 tiktokvideodownloader.net
 127.0.0.1 tiktokvideodownloader.one
+127.0.0.1 tiktoky.io
 127.0.0.1 tiktop.app
 127.0.0.1 tikvid.cc
 127.0.0.1 tikvid.io
@@ -906,6 +921,7 @@
 127.0.0.1 wearedevs.net
 127.0.0.1 welcomer.gg
 127.0.0.1 wenbot.app
+127.0.0.1 wetik.net
 127.0.0.1 wick.bot
 127.0.0.1 wickbot.com
 127.0.0.1 widgetbot.io
@@ -948,6 +964,7 @@
 127.0.0.1 www.andro-mod.com
 127.0.0.1 www.androeed.ru
 127.0.0.1 www.androidapksfree.com
+127.0.0.1 www.androidhackers.io
 127.0.0.1 www.androidp1.com
 127.0.0.1 www.androidprog.com
 127.0.0.1 www.anibot.moe
@@ -994,6 +1011,7 @@
 127.0.0.1 www.apkpureapp.net
 127.0.0.1 www.apkrabi.com
 127.0.0.1 www.apkremix.com
+127.0.0.1 www.apkshop.io
 127.0.0.1 www.apkshub.com
 127.0.0.1 www.apksos.com
 127.0.0.1 www.apksum.com
@@ -1269,6 +1287,7 @@
 127.0.0.1 www.hydra.bot
 127.0.0.1 www.hypex.lol
 127.0.0.1 www.i1apk.com
+127.0.0.1 www.iapk.io
 127.0.0.1 www.ibeatkids.xyz
 127.0.0.1 www.ibytedapm.com
 127.0.0.1 www.ibytedtos.com
@@ -1427,6 +1446,7 @@
 127.0.0.1 www.mundoperfecto.net
 127.0.0.1 www.mushroom.gg
 127.0.0.1 www.music.tiktok.com
+127.0.0.1 www.musical.ly
 127.0.0.1 www.musicaldown.com
 127.0.0.1 www.musicallydown.cc
 127.0.0.1 www.mx1.tiktok.com
@@ -1634,6 +1654,7 @@
 127.0.0.1 www.ssstiktok.run
 127.0.0.1 www.ssstiktok.tools
 127.0.0.1 www.ssstiktok.ws
+127.0.0.1 www.ssstiktok.xyz
 127.0.0.1 www.ssstiktokio.com
 127.0.0.1 www.ssstikvideo.com
 127.0.0.1 www.ssstok.net
@@ -1657,6 +1678,7 @@
 127.0.0.1 www.swap.gg
 127.0.0.1 www.sweetrbx.com
 127.0.0.1 www.sxbot.io
+127.0.0.1 www.szuer.cn
 127.0.0.1 www.tacobot.app
 127.0.0.1 www.taitiktok.net
 127.0.0.1 www.taksave.com
@@ -1692,6 +1714,7 @@
 127.0.0.1 www.tikdd.cc
 127.0.0.1 www.tikdown.net
 127.0.0.1 www.tikdown.org
+127.0.0.1 www.tikdown.xyz
 127.0.0.1 www.tikdownload.app
 127.0.0.1 www.tikdownload.com
 127.0.0.1 www.tikdownloader.io
@@ -1705,7 +1728,9 @@
 127.0.0.1 www.tikmate.app
 127.0.0.1 www.tikmate.cc
 127.0.0.1 www.tikmate.online
+127.0.0.1 www.tikmate.xyz
 127.0.0.1 www.tikmates.net
+127.0.0.1 www.tiknomark.net
 127.0.0.1 www.tiksave.io
 127.0.0.1 www.tiksave.lol
 127.0.0.1 www.tiksaver.net
@@ -1721,9 +1746,11 @@
 127.0.0.1 www.tiktok-saver.net
 127.0.0.1 www.tiktok.com
 127.0.0.1 www.tiktok.shop
+127.0.0.1 www.tiktok2.xyz
 127.0.0.1 www.tiktokapp.cc
 127.0.0.1 www.tiktokbot.io
 127.0.0.1 www.tiktokd.com
+127.0.0.1 www.tiktokdl.xyz
 127.0.0.1 www.tiktokdown.org
 127.0.0.1 www.tiktokdownload.online
 127.0.0.1 www.tiktokdownload.tech
@@ -1738,13 +1765,17 @@
 127.0.0.1 www.tiktokindex.ro
 127.0.0.1 www.tiktokio.com
 127.0.0.1 www.tiktokmate.io
+127.0.0.1 www.tiktokmp3.net
+127.0.0.1 www.tiktoksaver.io
 127.0.0.1 www.tiktokus.info
 127.0.0.1 www.tiktokvideo.live
 127.0.0.1 www.tiktokvideodowloader.site
 127.0.0.1 www.tiktokvideodownloader.cc
 127.0.0.1 www.tiktokvideodownloader.com.pk
+127.0.0.1 www.tiktokvideodownloader.io
 127.0.0.1 www.tiktokvideodownloader.net
 127.0.0.1 www.tiktokvideodownloader.one
+127.0.0.1 www.tiktoky.io
 127.0.0.1 www.tiktop.app
 127.0.0.1 www.tikvid.cc
 127.0.0.1 www.tikvid.io
@@ -1812,6 +1843,7 @@
 127.0.0.1 www.wearedevs.net
 127.0.0.1 www.welcomer.gg
 127.0.0.1 www.wenbot.app
+127.0.0.1 www.wetik.net
 127.0.0.1 www.wick.bot
 127.0.0.1 www.wickbot.com
 127.0.0.1 www.widgetbot.io

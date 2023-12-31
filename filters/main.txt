@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks filters
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Saturday, December 30, 2023 08:23:29 PM UTC
+! Last modified: Sunday, December 31, 2023 08:58:13 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -18,13 +18,155 @@
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#specifichide
 ! Syntax: example.com##.ad-class
 
-
+bing.com#?#[id$="results"] cite:has-text(tiktoksaver.io):upward(li)
+bing.com#?#a[href*="tiktoksaver.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktoksaver.io"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktoksaver.io"]
+www.google.*##.g:has(a[href*="tiktoksaver.io"])
+www.google.*##a[href*="tiktoksaver.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktoksaver.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktoksaver.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktoky.io):upward(li)
+bing.com#?#a[href*="tiktoky.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktoky.io"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktoky.io"]
+www.google.*##.g:has(a[href*="tiktoky.io"])
+www.google.*##a[href*="tiktoky.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktoky.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktoky.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktokvideodownloader.io):upward(li)
+bing.com#?#a[href*="tiktokvideodownloader.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktokvideodownloader.io"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktokvideodownloader.io"]
+www.google.*##.g:has(a[href*="tiktokvideodownloader.io"])
+www.google.*##a[href*="tiktokvideodownloader.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktokvideodownloader.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktokvideodownloader.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(apkshop.io):upward(li)
+bing.com#?#a[href*="apkshop.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="apkshop.io"]:upward(.dg_u)
+bing.com##.news-card[url*="apkshop.io"]
+www.google.*##.g:has(a[href*="apkshop.io"])
+www.google.*##a[href*="apkshop.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="apkshop.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="apkshop.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(androidhackers.io):upward(li)
+bing.com#?#a[href*="androidhackers.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="androidhackers.io"]:upward(.dg_u)
+bing.com##.news-card[url*="androidhackers.io"]
+www.google.*##.g:has(a[href*="androidhackers.io"])
+www.google.*##a[href*="androidhackers.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="androidhackers.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="androidhackers.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(iapk.io):upward(li)
+bing.com#?#a[href*="iapk.io"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="iapk.io"]:upward(.dg_u)
+bing.com##.news-card[url*="iapk.io"]
+www.google.*##.g:has(a[href*="iapk.io"])
+www.google.*##a[href*="iapk.io"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="iapk.io"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="iapk.io"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktok2.xyz):upward(li)
+bing.com#?#a[href*="tiktok2.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktok2.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktok2.xyz"]
+www.google.*##.g:has(a[href*="tiktok2.xyz"])
+www.google.*##a[href*="tiktok2.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktok2.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktok2.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktokdl.xyz):upward(li)
+bing.com#?#a[href*="tiktokdl.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktokdl.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktokdl.xyz"]
+www.google.*##.g:has(a[href*="tiktokdl.xyz"])
+www.google.*##a[href*="tiktokdl.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktokdl.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktokdl.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tikdown.xyz):upward(li)
+bing.com#?#a[href*="tikdown.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tikdown.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="tikdown.xyz"]
+www.google.*##.g:has(a[href*="tikdown.xyz"])
+www.google.*##a[href*="tikdown.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tikdown.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tikdown.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tikmate.xyz):upward(li)
+bing.com#?#a[href*="tikmate.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tikmate.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="tikmate.xyz"]
+www.google.*##.g:has(a[href*="tikmate.xyz"])
+www.google.*##a[href*="tikmate.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tikmate.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tikmate.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ssstiktok.xyz):upward(li)
+bing.com#?#a[href*="ssstiktok.xyz"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ssstiktok.xyz"]:upward(.dg_u)
+bing.com##.news-card[url*="ssstiktok.xyz"]
+www.google.*##.g:has(a[href*="ssstiktok.xyz"])
+www.google.*##a[href*="ssstiktok.xyz"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ssstiktok.xyz"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ssstiktok.xyz"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(musical.ly):upward(li)
+bing.com#?#a[href*="musical.ly"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="musical.ly"]:upward(.dg_u)
+bing.com##.news-card[url*="musical.ly"]
+www.google.*##.g:has(a[href*="musical.ly"])
+www.google.*##a[href*="musical.ly"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="musical.ly"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="musical.ly"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(szuer.cn):upward(li)
+bing.com#?#a[href*="szuer.cn"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="szuer.cn"]:upward(.dg_u)
+bing.com##.news-card[url*="szuer.cn"]
+www.google.*##.g:has(a[href*="szuer.cn"])
+www.google.*##a[href*="szuer.cn"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="szuer.cn"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="szuer.cn"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(wetik.net):upward(li)
+bing.com#?#a[href*="wetik.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="wetik.net"]:upward(.dg_u)
+bing.com##.news-card[url*="wetik.net"]
+www.google.*##.g:has(a[href*="wetik.net"])
+www.google.*##a[href*="wetik.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="wetik.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="wetik.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktokmp3.net):upward(li)
+bing.com#?#a[href*="tiktokmp3.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktokmp3.net"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktokmp3.net"]
+www.google.*##.g:has(a[href*="tiktokmp3.net"])
+www.google.*##a[href*="tiktokmp3.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktokmp3.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktokmp3.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiknomark.net):upward(li)
+bing.com#?#a[href*="tiknomark.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiknomark.net"]:upward(.dg_u)
+bing.com##.news-card[url*="tiknomark.net"]
+www.google.*##.g:has(a[href*="tiknomark.net"])
+www.google.*##a[href*="tiknomark.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiknomark.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiknomark.net"]:upward(.tile)
 
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
 ! Syntax: ||example.com^$all
 
-
+||tiktoksaver.io^$all
+||tiktoky.io^$all
+||tiktokvideodownloader.io^$all
+||apkshop.io^$all
+||androidhackers.io^$all
+||iapk.io^$all
+||tiktok2.xyz^$all
+||tiktokdl.xyz^$all
+||tikdown.xyz^$all
+||tikmate.xyz^$all
+||ssstiktok.xyz^$all
+||musical.ly^$all
+||szuer.cn^$all
+||wetik.net^$all
+||tiktokmp3.net^$all
+||tiknomark.net^$all
 
 !--- Remove Tracking from URLs ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam
