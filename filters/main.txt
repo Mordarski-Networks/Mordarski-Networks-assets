@@ -7,12 +7,6 @@
 !
 ! GitHub issues: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues
 ! GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
-!
-! People & websites that helped me create this list:
-! https://letsblock.it/filters/search-results
-! https://github.com/letsblockit/letsblockit
-! https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md
-! https://github.com/gorhill/uBlock/wiki/Static-filter-syntax
 
 !--- Filter Search Results ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#specifichide
