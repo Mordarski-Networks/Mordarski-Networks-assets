@@ -1,5 +1,5 @@
 # Mordarski Networks hosts file
-# Last modified: Saturday, December 30, 2023 08:23:29 PM UTC
+# Last modified: Sunday, December 31, 2023 08:58:13 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -37,6 +37,7 @@
 0.0.0.0 andro-mod.com
 0.0.0.0 androeed.ru
 0.0.0.0 androidapksfree.com
+0.0.0.0 androidhackers.io
 0.0.0.0 androidp1.com
 0.0.0.0 androidprog.com
 0.0.0.0 anibot.moe
@@ -83,6 +84,7 @@
 0.0.0.0 apkpureapp.net
 0.0.0.0 apkrabi.com
 0.0.0.0 apkremix.com
+0.0.0.0 apkshop.io
 0.0.0.0 apkshub.com
 0.0.0.0 apksos.com
 0.0.0.0 apksum.com
@@ -362,6 +364,7 @@
 0.0.0.0 hydra.bot
 0.0.0.0 hypex.lol
 0.0.0.0 i1apk.com
+0.0.0.0 iapk.io
 0.0.0.0 ibeatkids.xyz
 0.0.0.0 ibytedapm.com
 0.0.0.0 ibytedtos.com
@@ -520,6 +523,7 @@
 0.0.0.0 mundoperfecto.net
 0.0.0.0 mushroom.gg
 0.0.0.0 music.tiktok.com
+0.0.0.0 musical.ly
 0.0.0.0 musicaldown.com
 0.0.0.0 musicallydown.cc
 0.0.0.0 mx1.tiktok.com
@@ -727,6 +731,7 @@
 0.0.0.0 ssstiktok.run
 0.0.0.0 ssstiktok.tools
 0.0.0.0 ssstiktok.ws
+0.0.0.0 ssstiktok.xyz
 0.0.0.0 ssstiktokio.com
 0.0.0.0 ssstikvideo.com
 0.0.0.0 ssstok.net
@@ -751,6 +756,7 @@
 0.0.0.0 swap.gg
 0.0.0.0 sweetrbx.com
 0.0.0.0 sxbot.io
+0.0.0.0 szuer.cn
 0.0.0.0 tacobot.app
 0.0.0.0 taitiktok.net
 0.0.0.0 taksave.com
@@ -786,6 +792,7 @@
 0.0.0.0 tikdd.cc
 0.0.0.0 tikdown.net
 0.0.0.0 tikdown.org
+0.0.0.0 tikdown.xyz
 0.0.0.0 tikdownload.app
 0.0.0.0 tikdownload.com
 0.0.0.0 tikdownloader.io
@@ -799,7 +806,9 @@
 0.0.0.0 tikmate.app
 0.0.0.0 tikmate.cc
 0.0.0.0 tikmate.online
+0.0.0.0 tikmate.xyz
 0.0.0.0 tikmates.net
+0.0.0.0 tiknomark.net
 0.0.0.0 tiksave.io
 0.0.0.0 tiksave.lol
 0.0.0.0 tiksaver.net
@@ -815,9 +824,11 @@
 0.0.0.0 tiktok-saver.net
 0.0.0.0 tiktok.com
 0.0.0.0 tiktok.shop
+0.0.0.0 tiktok2.xyz
 0.0.0.0 tiktokapp.cc
 0.0.0.0 tiktokbot.io
 0.0.0.0 tiktokd.com
+0.0.0.0 tiktokdl.xyz
 0.0.0.0 tiktokdown.org
 0.0.0.0 tiktokdownload.online
 0.0.0.0 tiktokdownload.tech
@@ -832,13 +843,17 @@
 0.0.0.0 tiktokindex.ro
 0.0.0.0 tiktokio.com
 0.0.0.0 tiktokmate.io
+0.0.0.0 tiktokmp3.net
+0.0.0.0 tiktoksaver.io
 0.0.0.0 tiktokus.info
 0.0.0.0 tiktokvideo.live
 0.0.0.0 tiktokvideodowloader.site
 0.0.0.0 tiktokvideodownloader.cc
 0.0.0.0 tiktokvideodownloader.com.pk
+0.0.0.0 tiktokvideodownloader.io
 0.0.0.0 tiktokvideodownloader.net
 0.0.0.0 tiktokvideodownloader.one
+0.0.0.0 tiktoky.io
 0.0.0.0 tiktop.app
 0.0.0.0 tikvid.cc
 0.0.0.0 tikvid.io
@@ -906,6 +921,7 @@
 0.0.0.0 wearedevs.net
 0.0.0.0 welcomer.gg
 0.0.0.0 wenbot.app
+0.0.0.0 wetik.net
 0.0.0.0 wick.bot
 0.0.0.0 wickbot.com
 0.0.0.0 widgetbot.io
@@ -948,6 +964,7 @@
 0.0.0.0 www.andro-mod.com
 0.0.0.0 www.androeed.ru
 0.0.0.0 www.androidapksfree.com
+0.0.0.0 www.androidhackers.io
 0.0.0.0 www.androidp1.com
 0.0.0.0 www.androidprog.com
 0.0.0.0 www.anibot.moe
@@ -994,6 +1011,7 @@
 0.0.0.0 www.apkpureapp.net
 0.0.0.0 www.apkrabi.com
 0.0.0.0 www.apkremix.com
+0.0.0.0 www.apkshop.io
 0.0.0.0 www.apkshub.com
 0.0.0.0 www.apksos.com
 0.0.0.0 www.apksum.com
@@ -1269,6 +1287,7 @@
 0.0.0.0 www.hydra.bot
 0.0.0.0 www.hypex.lol
 0.0.0.0 www.i1apk.com
+0.0.0.0 www.iapk.io
 0.0.0.0 www.ibeatkids.xyz
 0.0.0.0 www.ibytedapm.com
 0.0.0.0 www.ibytedtos.com
@@ -1427,6 +1446,7 @@
 0.0.0.0 www.mundoperfecto.net
 0.0.0.0 www.mushroom.gg
 0.0.0.0 www.music.tiktok.com
+0.0.0.0 www.musical.ly
 0.0.0.0 www.musicaldown.com
 0.0.0.0 www.musicallydown.cc
 0.0.0.0 www.mx1.tiktok.com
@@ -1634,6 +1654,7 @@
 0.0.0.0 www.ssstiktok.run
 0.0.0.0 www.ssstiktok.tools
 0.0.0.0 www.ssstiktok.ws
+0.0.0.0 www.ssstiktok.xyz
 0.0.0.0 www.ssstiktokio.com
 0.0.0.0 www.ssstikvideo.com
 0.0.0.0 www.ssstok.net
@@ -1657,6 +1678,7 @@
 0.0.0.0 www.swap.gg
 0.0.0.0 www.sweetrbx.com
 0.0.0.0 www.sxbot.io
+0.0.0.0 www.szuer.cn
 0.0.0.0 www.tacobot.app
 0.0.0.0 www.taitiktok.net
 0.0.0.0 www.taksave.com
@@ -1692,6 +1714,7 @@
 0.0.0.0 www.tikdd.cc
 0.0.0.0 www.tikdown.net
 0.0.0.0 www.tikdown.org
+0.0.0.0 www.tikdown.xyz
 0.0.0.0 www.tikdownload.app
 0.0.0.0 www.tikdownload.com
 0.0.0.0 www.tikdownloader.io
@@ -1705,7 +1728,9 @@
 0.0.0.0 www.tikmate.app
 0.0.0.0 www.tikmate.cc
 0.0.0.0 www.tikmate.online
+0.0.0.0 www.tikmate.xyz
 0.0.0.0 www.tikmates.net
+0.0.0.0 www.tiknomark.net
 0.0.0.0 www.tiksave.io
 0.0.0.0 www.tiksave.lol
 0.0.0.0 www.tiksaver.net
@@ -1721,9 +1746,11 @@
 0.0.0.0 www.tiktok-saver.net
 0.0.0.0 www.tiktok.com
 0.0.0.0 www.tiktok.shop
+0.0.0.0 www.tiktok2.xyz
 0.0.0.0 www.tiktokapp.cc
 0.0.0.0 www.tiktokbot.io
 0.0.0.0 www.tiktokd.com
+0.0.0.0 www.tiktokdl.xyz
 0.0.0.0 www.tiktokdown.org
 0.0.0.0 www.tiktokdownload.online
 0.0.0.0 www.tiktokdownload.tech
@@ -1738,13 +1765,17 @@
 0.0.0.0 www.tiktokindex.ro
 0.0.0.0 www.tiktokio.com
 0.0.0.0 www.tiktokmate.io
+0.0.0.0 www.tiktokmp3.net
+0.0.0.0 www.tiktoksaver.io
 0.0.0.0 www.tiktokus.info
 0.0.0.0 www.tiktokvideo.live
 0.0.0.0 www.tiktokvideodowloader.site
 0.0.0.0 www.tiktokvideodownloader.cc
 0.0.0.0 www.tiktokvideodownloader.com.pk
+0.0.0.0 www.tiktokvideodownloader.io
 0.0.0.0 www.tiktokvideodownloader.net
 0.0.0.0 www.tiktokvideodownloader.one
+0.0.0.0 www.tiktoky.io
 0.0.0.0 www.tiktop.app
 0.0.0.0 www.tikvid.cc
 0.0.0.0 www.tikvid.io
@@ -1812,6 +1843,7 @@
 0.0.0.0 www.wearedevs.net
 0.0.0.0 www.welcomer.gg
 0.0.0.0 www.wenbot.app
+0.0.0.0 www.wetik.net
 0.0.0.0 www.wick.bot
 0.0.0.0 www.wickbot.com
 0.0.0.0 www.widgetbot.io
