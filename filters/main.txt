@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks filters
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Sunday, December 31, 2023 08:58:13 PM UTC
+! Last modified: Monday, January 01, 2024 05:49:48 AM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -242,6 +242,15 @@ duckduckgo.com##.tile-wrap a[href*="sonx.xyz"]:upward(.tile)
 ||wetik.net^$all
 ||tiktokmp3.net^$all
 ||tiknomark.net^$all
+||cloud-botlist.xyz^$all
+||darling-bot.xyz^$all
+||excla.xyz^$all
+||mizarbot.xyz^$all
+||tetrabot.xyz^$all
+||uzox.xyz^$all
+||emotebot^$all
+||mycoolbot.xyz^$all
+||sonx.xyz^$all
 
 !--- Remove Tracking from URLs ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam
