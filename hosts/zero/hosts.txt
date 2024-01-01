@@ -1,5 +1,5 @@
 # Mordarski Networks hosts file
-# Last modified: Sunday, December 31, 2023 08:58:13 PM UTC
+# Last modified: Monday, January 01, 2024 05:52:24 AM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -1877,3 +1877,12 @@
 0.0.0.0 zira.gg
 0.0.0.0 zoe-discord-bot.ch
 0.0.0.0 zonacraft.net
+0.0.0.0 cloud-botlist.xyz
+0.0.0.0 darling-bot.xyz
+0.0.0.0 excla.xyz
+0.0.0.0 mizarbot.xyz
+0.0.0.0 tetrabot.xyz
+0.0.0.0 uzox.xyz
+0.0.0.0 emotebot
+0.0.0.0 mycoolbot.xyz
+0.0.0.0 sonx.xyz
