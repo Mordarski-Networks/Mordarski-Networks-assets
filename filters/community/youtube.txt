@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks community filters (YouTube)
 ! Description: Community backed filter list for YouTube
 ! Expires: 2 days
-! Last modified: Thursday, January 18, 2024 04:59:14 AM UTC
+! Last modified: Thursday, January 18, 2024 09:58:12 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
