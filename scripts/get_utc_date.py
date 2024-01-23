@@ -1,32 +1,46 @@
 """
-SPDX-License-Identifier: MIT
-Copyright (c) 2024 Mordarski Networks
+MIT License
+
+Copyright (c) 2023 Mordarski Networks
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 """
 
-# Modules
 import platform
 import subprocess
 from datetime import datetime, timezone
 
-# Functions
-def main():
+def get_utc_date():
     """Copies UTC date to the clipboard"""
+
     utc_time = datetime.now(timezone.utc).strftime('%A, %B %d, %Y %I:%M:%S %p %Z')
 
     if platform.system() == "Windows":
         subprocess.run("clip", check=False, shell=True, input=utc_time.encode())
-        return True
-    if platform.system() == "Linux":
+        print("Copied UTC time to the clipboard.")
+    elif platform.system() == "Linux":
         subprocess.run("xclip -sel clip", check=False, shell=True, input=utc_time.encode())
-        return True
-    if platform.system() == "Darwin":
+        print("Copied UTC time to the clipboard.")
+    elif platform.system() == "Darwin":
         subprocess.run("pbcopy", check=False, shell=True, input=utc_time.encode())
-        return True
-    return False
-
-# Main
-if __name__ == "__main__":
-    if main():
         print("Copied UTC time to the clipboard.")
     else:
         print("This OS is not supported.")
+
+get_utc_date()
