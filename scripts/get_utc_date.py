@@ -23,6 +23,6 @@ def main():
 
 if __name__ == "__main__":
     if main():
-        print("Copied UTC time to clipboard")
+        print("Copied UTC time to the clipboard")
     else:
         print("This OS is not supported.")
