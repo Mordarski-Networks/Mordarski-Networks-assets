@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks community filters (YouTube)
 ! Description: Community backed filter list for YouTube
 ! Expires: 2 days
-! Last modified: Friday, January 19, 2024 03:46:34 PM UTC
+! Last modified: Monday, January 29, 2024 12:40:54 AM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -1230,3 +1230,9 @@ m.youtube.com##ytm-search ytm-video-with-context-renderer:has(.media-item-headli
 m.youtube.com##.watch-below-the-player ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMonster School\b/i))
 www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer #video-title[title]:has-text(/\bMonster School\b/i):upward(ytd-item-section-renderer)
 m.youtube.com##ytm-browse div[tab-identifier="FEsubscriptions"] ytm-video-with-context-renderer:has(.media-item-headline:has-text(/\bMonster School\b/i))
+www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@Cyphrz1"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href*="@Cyphrz1"]:upward(ytd-video-renderer,ytd-channel-renderer)
+www.youtube.com##ytd-shorts:matches-path(/shorts) a.ytd-reel-player-header-renderer[href*="@Cyphrz1"]:upward(ytd-reel-video-renderer)
+m.youtube.com##ytm-browse a[href*="@Cyphrz1"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href*="@Cyphrz1"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+
