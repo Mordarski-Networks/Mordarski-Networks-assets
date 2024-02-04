@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks filters
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Friday, January 19, 2024 03:25:28 PM UTC
+! Last modified: Sunday, February 04, 2024 08:06:18 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
