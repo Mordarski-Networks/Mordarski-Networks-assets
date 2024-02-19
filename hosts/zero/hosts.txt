@@ -1,5 +1,5 @@
 # Mordarski Networks hosts file
-# Last modified: Friday, January 19, 2024 03:25:28 PM UTC
+# Last modified: Monday, February 19, 2024 12:57:06 AM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -547,6 +547,7 @@
 0.0.0.0 musical.ly
 0.0.0.0 musicaldown.com
 0.0.0.0 musicallydown.cc
+0.0.0.0 musicallydownn.net
 0.0.0.0 mx1.tiktok.com
 0.0.0.0 mx2.tiktok.com
 0.0.0.0 mx3.tiktok.com
@@ -730,6 +731,7 @@
 0.0.0.0 snaptikk.net
 0.0.0.0 snaptiktok.ai
 0.0.0.0 snaptiktok.io
+0.0.0.0 snaptiktok.me
 0.0.0.0 snaptikvideo.com
 0.0.0.0 snaptt.app
 0.0.0.0 snapvid.net
@@ -754,6 +756,7 @@
 0.0.0.0 ssstiktok.lol
 0.0.0.0 ssstiktok.org
 0.0.0.0 ssstiktok.run
+0.0.0.0 ssstiktok.su
 0.0.0.0 ssstiktok.tools
 0.0.0.0 ssstiktok.ws
 0.0.0.0 ssstiktok.xyz
@@ -871,6 +874,7 @@
 0.0.0.0 tiktokio.com
 0.0.0.0 tiktokmate.io
 0.0.0.0 tiktokmp3.net
+0.0.0.0 tiktoknowatermark.app
 0.0.0.0 tiktoksaver.io
 0.0.0.0 tiktokus.info
 0.0.0.0 tiktokvideo.live
@@ -1500,6 +1504,7 @@
 0.0.0.0 www.musical.ly
 0.0.0.0 www.musicaldown.com
 0.0.0.0 www.musicallydown.cc
+0.0.0.0 www.musicallydownn.net
 0.0.0.0 www.mx1.tiktok.com
 0.0.0.0 www.mx2.tiktok.com
 0.0.0.0 www.mx3.tiktok.com
@@ -1683,6 +1688,7 @@
 0.0.0.0 www.snaptikk.net
 0.0.0.0 www.snaptiktok.ai
 0.0.0.0 www.snaptiktok.io
+0.0.0.0 www.snaptiktok.me
 0.0.0.0 www.snaptikvideo.com
 0.0.0.0 www.snaptt.app
 0.0.0.0 www.snapvid.net
@@ -1707,6 +1713,7 @@
 0.0.0.0 www.ssstiktok.lol
 0.0.0.0 www.ssstiktok.org
 0.0.0.0 www.ssstiktok.run
+0.0.0.0 www.ssstiktok.su
 0.0.0.0 www.ssstiktok.tools
 0.0.0.0 www.ssstiktok.ws
 0.0.0.0 www.ssstiktok.xyz
@@ -1823,6 +1830,7 @@
 0.0.0.0 www.tiktokio.com
 0.0.0.0 www.tiktokmate.io
 0.0.0.0 www.tiktokmp3.net
+0.0.0.0 www.tiktoknowatermark.app
 0.0.0.0 www.tiktoksaver.io
 0.0.0.0 www.tiktokus.info
 0.0.0.0 www.tiktokvideo.live
