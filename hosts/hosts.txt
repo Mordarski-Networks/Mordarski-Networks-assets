@@ -1,5 +1,5 @@
 # Mordarski Networks hosts file
-# Last modified: Friday, January 19, 2024 03:25:28 PM UTC
+# Last modified: Monday, February 19, 2024 12:57:06 AM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -547,6 +547,7 @@
 127.0.0.1 musical.ly
 127.0.0.1 musicaldown.com
 127.0.0.1 musicallydown.cc
+127.0.0.1 musicallydownn.net
 127.0.0.1 mx1.tiktok.com
 127.0.0.1 mx2.tiktok.com
 127.0.0.1 mx3.tiktok.com
@@ -730,6 +731,7 @@
 127.0.0.1 snaptikk.net
 127.0.0.1 snaptiktok.ai
 127.0.0.1 snaptiktok.io
+127.0.0.1 snaptiktok.me
 127.0.0.1 snaptikvideo.com
 127.0.0.1 snaptt.app
 127.0.0.1 snapvid.net
@@ -754,6 +756,7 @@
 127.0.0.1 ssstiktok.lol
 127.0.0.1 ssstiktok.org
 127.0.0.1 ssstiktok.run
+127.0.0.1 ssstiktok.su
 127.0.0.1 ssstiktok.tools
 127.0.0.1 ssstiktok.ws
 127.0.0.1 ssstiktok.xyz
@@ -871,6 +874,7 @@
 127.0.0.1 tiktokio.com
 127.0.0.1 tiktokmate.io
 127.0.0.1 tiktokmp3.net
+127.0.0.1 tiktoknowatermark.app
 127.0.0.1 tiktoksaver.io
 127.0.0.1 tiktokus.info
 127.0.0.1 tiktokvideo.live
@@ -1500,6 +1504,7 @@
 127.0.0.1 www.musical.ly
 127.0.0.1 www.musicaldown.com
 127.0.0.1 www.musicallydown.cc
+127.0.0.1 www.musicallydownn.net
 127.0.0.1 www.mx1.tiktok.com
 127.0.0.1 www.mx2.tiktok.com
 127.0.0.1 www.mx3.tiktok.com
@@ -1683,6 +1688,7 @@
 127.0.0.1 www.snaptikk.net
 127.0.0.1 www.snaptiktok.ai
 127.0.0.1 www.snaptiktok.io
+127.0.0.1 www.snaptiktok.me
 127.0.0.1 www.snaptikvideo.com
 127.0.0.1 www.snaptt.app
 127.0.0.1 www.snapvid.net
@@ -1707,6 +1713,7 @@
 127.0.0.1 www.ssstiktok.lol
 127.0.0.1 www.ssstiktok.org
 127.0.0.1 www.ssstiktok.run
+127.0.0.1 www.ssstiktok.su
 127.0.0.1 www.ssstiktok.tools
 127.0.0.1 www.ssstiktok.ws
 127.0.0.1 www.ssstiktok.xyz
@@ -1823,6 +1830,7 @@
 127.0.0.1 www.tiktokio.com
 127.0.0.1 www.tiktokmate.io
 127.0.0.1 www.tiktokmp3.net
+127.0.0.1 www.tiktoknowatermark.app
 127.0.0.1 www.tiktoksaver.io
 127.0.0.1 www.tiktokus.info
 127.0.0.1 www.tiktokvideo.live

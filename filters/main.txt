@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks filters
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Sunday, February 04, 2024 08:06:18 PM UTC
+! Last modified: Monday, February 19, 2024 12:57:06 AM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -380,6 +380,38 @@ www.google.*##.g:has(a[href*="frodo.fun"])
 www.google.*##a[href*="frodo.fun"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="frodo.fun"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="frodo.fun"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ssstiktok.su):upward(li)
+bing.com#?#a[href*="ssstiktok.su"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ssstiktok.su"]:upward(.dg_u)
+bing.com##.news-card[url*="ssstiktok.su"]
+www.google.*##.g:has(a[href*="ssstiktok.su"])
+www.google.*##a[href*="ssstiktok.su"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ssstiktok.su"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ssstiktok.su"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(snaptiktok.me):upward(li)
+bing.com#?#a[href*="snaptiktok.me"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="snaptiktok.me"]:upward(.dg_u)
+bing.com##.news-card[url*="snaptiktok.me"]
+www.google.*##.g:has(a[href*="snaptiktok.me"])
+www.google.*##a[href*="snaptiktok.me"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="snaptiktok.me"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="snaptiktok.me"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(musicallydownn.net):upward(li)
+bing.com#?#a[href*="musicallydownn.net"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="musicallydownn.net"]:upward(.dg_u)
+bing.com##.news-card[url*="musicallydownn.net"]
+www.google.*##.g:has(a[href*="musicallydownn.net"])
+www.google.*##a[href*="musicallydownn.net"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="musicallydownn.net"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="musicallydownn.net"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tiktoknowatermark.app):upward(li)
+bing.com#?#a[href*="tiktoknowatermark.app"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tiktoknowatermark.app"]:upward(.dg_u)
+bing.com##.news-card[url*="tiktoknowatermark.app"]
+www.google.*##.g:has(a[href*="tiktoknowatermark.app"])
+www.google.*##a[href*="tiktoknowatermark.app"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tiktoknowatermark.app"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tiktoknowatermark.app"]:upward(.tile)
 
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
@@ -431,6 +463,10 @@ duckduckgo.com##.tile-wrap a[href*="frodo.fun"]:upward(.tile)
 ||brobot.fun^$all
 ||lori.fun^$all
 ||frodo.fun^$all
+||ssstiktok.su^$all
+||snaptiktok.me^$all
+||musicallydownn.net^$all
+||tiktoknowatermark.app^$all
 
 !--- Remove Tracking from URLs ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam
