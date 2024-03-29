@@ -1,7 +1,7 @@
 ! Title: Mordarski Networks filters
 ! Description: A uBlock Origin compliant filter list that blocks websites that our company deems bad
 ! Expires: 5 days
-! Last modified: Monday, February 19, 2024 12:57:06 AM UTC
+! Last modified: Friday, March 29, 2024 06:44:32 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 !
@@ -412,6 +412,22 @@ www.google.*##.g:has(a[href*="tiktoknowatermark.app"])
 www.google.*##a[href*="tiktoknowatermark.app"]:upward(1)
 duckduckgo.com##ol.react-results--main a[href*="tiktoknowatermark.app"]:upward(article)
 duckduckgo.com##.tile-wrap a[href*="tiktoknowatermark.app"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(ttdl.online):upward(li)
+bing.com#?#a[href*="ttdl.online"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="ttdl.online"]:upward(.dg_u)
+bing.com##.news-card[url*="ttdl.online"]
+www.google.*##.g:has(a[href*="ttdl.online"])
+www.google.*##a[href*="ttdl.online"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="ttdl.online"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="ttdl.online"]:upward(.tile)
+bing.com#?#[id$="results"] cite:has-text(tik2mate.com):upward(li)
+bing.com#?#a[href*="tik2mate.com"]:upward(li[data-idx][style^="width"])
+bing.com#?#[id*="video"] > [href*="tik2mate.com"]:upward(.dg_u)
+bing.com##.news-card[url*="tik2mate.com"]
+www.google.*##.g:has(a[href*="tik2mate.com"])
+www.google.*##a[href*="tik2mate.com"]:upward(1)
+duckduckgo.com##ol.react-results--main a[href*="tik2mate.com"]:upward(article)
+duckduckgo.com##.tile-wrap a[href*="tik2mate.com"]:upward(.tile)
 
 !--- Domain Blocking ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#domain
@@ -467,6 +483,8 @@ duckduckgo.com##.tile-wrap a[href*="tiktoknowatermark.app"]:upward(.tile)
 ||snaptiktok.me^$all
 ||musicallydownn.net^$all
 ||tiktoknowatermark.app^$all
+||ttdl.online^$all
+||tik2mate.com^$all
 
 !--- Remove Tracking from URLs ---!
 ! Info: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam
