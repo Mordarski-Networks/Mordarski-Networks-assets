@@ -1,5 +1,5 @@
 # Mordarski Networks hosts file
-# Last modified: Monday, February 19, 2024 12:57:06 AM UTC
+# Last modified: Friday, March 29, 2024 06:44:32 PM UTC
 # Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 # License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
 #
@@ -816,6 +816,7 @@
 0.0.0.0 tik-saver.com
 0.0.0.0 tik.fail
 0.0.0.0 tik18.app
+0.0.0.0 tik2mate.com
 0.0.0.0 tikcd.com
 0.0.0.0 tikclear.app
 0.0.0.0 tikd.cc
@@ -915,6 +916,7 @@
 0.0.0.0 trending.tiktok.com
 0.0.0.0 triton.bot
 0.0.0.0 truthordarebot.xyz
+0.0.0.0 ttdl.online
 0.0.0.0 ttdown.org
 0.0.0.0 ttdownloader.app
 0.0.0.0 ttdownloader.cc
@@ -1772,6 +1774,7 @@
 0.0.0.0 www.tik-saver.com
 0.0.0.0 www.tik.fail
 0.0.0.0 www.tik18.app
+0.0.0.0 www.tik2mate.com
 0.0.0.0 www.tikcd.com
 0.0.0.0 www.tikclear.app
 0.0.0.0 www.tikd.cc
@@ -1871,6 +1874,7 @@
 0.0.0.0 www.trending.tiktok.com
 0.0.0.0 www.triton.bot
 0.0.0.0 www.truthordarebot.xyz
+0.0.0.0 www.ttdl.online
 0.0.0.0 www.ttdown.org
 0.0.0.0 www.ttdownloader.app
 0.0.0.0 www.ttdownloader.cc
