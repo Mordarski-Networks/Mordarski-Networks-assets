@@ -1,10 +1,10 @@
 ! Title: Mordarski Networks community filters (YouTube)
 ! Description: Community backed filter list for YouTube
 ! Expires: 2 days
-! Last modified: Saturday, February 17, 2024 08:52:07 PM UTC
+! Last modified: Thursday, April 04, 2024 05:57:52 PM UTC
 ! Homepage: https://github.com/Mordarski-Networks/Mordarski-Networks-assets
 ! License: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/blob/main/LICENSE
-!
+! AAA
 ! GitHub issues: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/issues
 ! GitHub pull requests: https://github.com/Mordarski-Networks/Mordarski-Networks-assets/pulls
 
@@ -1259,3 +1259,9 @@ m.youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-s
 m.youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer)
 m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer,ytm-video-with-context-renderer)
 m.youtube.com##ytm-single-column-watch-next-results-renderer ytm-thumbnail-overlay-time-status-renderer span:has-text(/^(0:\d\d|1:0\d)$/):upward(ytm-video-with-context-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] a[href$="@beckbrojack"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search a[href$="@beckbrojack"]:upward(ytd-video-renderer,ytd-channel-renderer)
+www.youtube.com##ytd-shorts:matches-path(/shorts) a.ytd-reel-player-header-renderer[href$="@beckbrojack"]:upward(ytd-reel-video-renderer)
+m.youtube.com##ytm-browse a[href$="@beckbrojack"]:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search a[href$="@beckbrojack"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)
+
