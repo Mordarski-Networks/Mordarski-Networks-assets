@@ -6,8 +6,11 @@ import platform
 import subprocess
 import re
 
-def main():
-    """This function generates a filter."""
+def generate_filter():
+    """Generate a filter.
+
+    Give a sequence of websites separated by a space to generate the filter.
+    """
     websites = input("Enter websites separated by spaces: ")
     websites_list = re.sub(" ", " ", websites).lower().split()
     filter_list = []
@@ -29,19 +32,26 @@ def main():
 
     filter_list = "\n".join(filter_list)
 
+    return filter_list
+
+def copy(string):
+    """Copy a given argument to the clipboard.
+
+    The argument should be a string.
+    """
     if platform.system() == "Windows":
-        subprocess.run("clip", check=False, shell=True, input=filter_list.encode())
+        subprocess.run("clip", check=False, shell=False, input=string.encode())
         return True
     if platform.system() == "Linux":
-        subprocess.run("xclip -sel clip", check=False, shell=True, input=filter_list.encode())
+        subprocess.run("xclip -sel clip", check=False, shell=False, input=string.encode())
         return True
     if platform.system() == "Darwin":
-        subprocess.run("pbcopy", check=False, shell=True, input=filter_list.encode())
+        subprocess.run("pbcopy", check=False, shell=False, input=string.encode())
         return True
     return False
 
 if __name__ == "__main__":
-    if main():
+    if copy(generate_filter()):
         print("Copied filter to the clipboard.")
     else:
         print("This OS is not supported.")
