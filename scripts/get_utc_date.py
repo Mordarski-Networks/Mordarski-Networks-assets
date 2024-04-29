@@ -2,9 +2,9 @@
 # Copyright (c) 2024 Mordarski Networks
 
 """This script copies UTC date to the clipboard."""
+from datetime import datetime, timezone
 import platform
 import subprocess
-from datetime import datetime, timezone
 
 def main():
     """Copies UTC date to the clipboard"""
@@ -23,6 +23,6 @@ def main():
 
 if __name__ == "__main__":
     if main():
-        print("Copied UTC time to the clipboard")
+        print("Copied UTC time to the clipboard.")
     else:
         print("This OS is not supported.")

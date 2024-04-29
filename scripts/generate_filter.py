@@ -2,20 +2,20 @@
 # Copyright (c) 2024 Mordarski Networks
 
 """This script generates a filter and copies it to the clipboard."""
+import argparse
 import platform
-import subprocess
 import re
+import subprocess
+import sys
 
-def generate_filter():
+def generate_filter(website):
     """Generate a filter.
 
     Give a sequence of websites separated by a space to generate the filter.
     """
-    websites = input("Enter websites separated by spaces: ")
-    websites_list = re.sub(" ", " ", websites).lower().split()
+    website_list = re.sub(" ", " ", website).lower().split()
     filter_list = []
-
-    for i in websites_list:
+    for i in website_list:
         filter_list.extend(
             [
                 f"bing.com#?#[id$=\"results\"] cite:has-text({i}):upward(li)",
@@ -29,9 +29,7 @@ def generate_filter():
                 f"duckduckgo.com##.tile-wrap a[href*=\"{i}\"]:upward(.tile)"
             ]
         )
-
     filter_list = "\n".join(filter_list)
-
     return filter_list
 
 def copy(string):
@@ -51,7 +49,19 @@ def copy(string):
     return False
 
 if __name__ == "__main__":
-    if copy(generate_filter()):
+    parser = argparse.ArgumentParser(
+        prog = "generate_filter",
+        description = "Generate a filter."
+    )
+    parser.add_argument(
+        "-w", "--website",
+        help="Give a sequence of websites separated by a space to generate the filter."
+    )
+    args = parser.parse_args()
+    if len(sys.argv) == 1:
+        parser.print_help()
+        sys.exit()
+    if copy(generate_filter(args.website)):
         print("Copied filter to the clipboard.")
     else:
         print("This OS is not supported.")
