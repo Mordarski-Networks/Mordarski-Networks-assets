@@ -1,0 +1,25 @@
+name: Documentation
+description: Report documentation issues.
+assignees: ["smordarski", "gmordarski"]
+labels: ["documention"]
+title: "[Documentation]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Report documentation issues."
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      options:
+        - label: Check this box if you have read our Code of Conduct.
+          required: true
+        - label: Make sure you have looked for other issues in our repository before posting this issue.
+          required: true
+  - type: textarea
+    attributes:
+      label: Description
+      description: "Describe the documentation issue."
+      value: |
+        Enter information about the documentation issue here.
+    validations:
+      required: true
