@@ -11,9 +11,9 @@ body:
     attributes:
       options:
         - label: Check this box if you have read our Code of Conduct.
-        required: true
+          required: true
         - label: Make sure you have looked for other issues in our repository before posting this issue.
-        required: true
+          required: true
   - type: textarea
     attributes:
       label: Reproduction steps
