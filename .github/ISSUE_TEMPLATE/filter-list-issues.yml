@@ -1,0 +1,25 @@
+name: Filter List Issues
+description: Report issues with filter lists or broken website functionality.
+assignees: ["smordarski", "gmordarski"]
+labels: ["site issue"]
+title: "[Filter List Issues]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Report issues with filter lists or broken website functionality."
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      options:
+        - label: Check this box if you have read our Code of Conduct.
+          required: true
+        - label: Make sure you have looked for other issues in our repository before posting this issue.
+          required: true
+  - type: textarea
+    attributes:
+      label: Description
+      description: "Describe the filter list issue."
+      value: |
+        Enter information about the filter list issue here.
+    validations:
+      required: true
