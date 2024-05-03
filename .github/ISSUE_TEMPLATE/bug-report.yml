@@ -9,6 +9,7 @@ body:
       value: "This issue template is for reporting bugs related to our software."
   - type: checkboxes
     attributes:
+      label: Please read the following.
       options:
         - label: Check this box if you have read our Code of Conduct.
           required: true
@@ -24,8 +25,8 @@ body:
         3.
         ...
         render: bash
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: Addional information
