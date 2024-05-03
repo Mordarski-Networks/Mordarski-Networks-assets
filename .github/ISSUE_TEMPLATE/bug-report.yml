@@ -1,12 +1,12 @@
 name: Bug Report
-description: File a bug report related to our software.
+description: File a bug report.
 assignees: ["smordarski", "gmordarski"]
 labels: ["bug"]
 title: "[Bug Report]: "
 body:
   - type: markdown
     attributes:
-      value: "This issue template is for reporting bugs related to our software."
+      value: "File a bug report."
   - type: checkboxes
     attributes:
       label: Prerequisites
