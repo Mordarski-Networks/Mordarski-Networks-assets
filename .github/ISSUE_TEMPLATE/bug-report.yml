@@ -1,0 +1,21 @@
+name: Bug Report
+description: File a bug report.
+title: "[Bug Report]: "
+labels: ["bug"]
+assignees: ["smordarski", "gmordarski"]
+body:
+  - type: markdown
+    attributes:
+      value: "Bug Report"
+  - type: markdown
+    attributes:
+      value: |
+        This issue template is for reporting bugs in our software.
+  - type: textarea
+    id: bug-report
+    attributes:
+      label: Bug Report
+      description: "Describe the bug here."
+      value: "Describe the bug here."
+    validations:
+      required: true
