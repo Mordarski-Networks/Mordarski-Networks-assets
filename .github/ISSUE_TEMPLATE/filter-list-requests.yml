@@ -1,0 +1,25 @@
+name: Filter List Requests
+description: Request for a website to be added, removed, or moved.
+assignees: ["smordarski", "gmordarski"]
+labels: ["enhancement"]
+title: "[Filter List Requests]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Request for a website to be added, removed, or moved."
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      options:
+        - label: Check this box if you have read our Code of Conduct.
+          required: true
+        - label: Make sure you have looked for other issues in our repository before posting this issue.
+          required: true
+  - type: textarea
+    attributes:
+      label: Description
+      description: "Describe the filter list request."
+      value: |
+        Enter information about the filter list request here.
+    validations:
+      required: true
