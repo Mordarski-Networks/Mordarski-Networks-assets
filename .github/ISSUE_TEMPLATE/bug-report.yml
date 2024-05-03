@@ -9,7 +9,7 @@ body:
       value: "This issue template is for reporting bugs related to our software."
   - type: checkboxes
     attributes:
-      label: Please read the following.
+      label: Prerequisites
       options:
         - label: Check this box if you have read our Code of Conduct.
           required: true
@@ -17,22 +17,9 @@ body:
           required: true
   - type: textarea
     attributes:
-      label: Reproduction steps
-      description: "How did you trigger this bug?"
+      label: Description
+      description: "Describe the bug."
       value: |
-        1.
-        2.
-        3.
-        ...
-      render: bash
-    validations:
-      required: true
-  - type: textarea
-    attributes:
-      label: Addional information
-      description: "Is there any other information about the bug you want to tell us?"
-      value: |
-        Enter any addional information here.
-      render: bash
+        Enter information about the bug here.
     validations:
       required: true
