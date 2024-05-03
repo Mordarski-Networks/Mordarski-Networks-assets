@@ -1,21 +1,37 @@
 name: Bug Report
-description: File a bug report.
-title: "[Bug Report]: "
-labels: ["bug"]
+description: File a bug report related to our software.
 assignees: ["smordarski", "gmordarski"]
+labels: ["bug"]
+title: "[Bug Report]: "
 body:
   - type: markdown
     attributes:
-      value: "Bug Report"
-  - type: markdown
+      value: "This issue template is for reporting bugs related to our software."
+  - type: checkboxes
     attributes:
-      value: |
-        This issue template is for reporting bugs in our software.
+      options:
+        - label: Check this box if you have read our Code of Conduct.
+        required: true
+        - label: Make sure you have looked for other issues in our repository before posting this issue.
+        required: true
   - type: textarea
-    id: bug-report
     attributes:
-      label: Bug Report
-      description: "Describe the bug here."
-      value: "Describe the bug here."
+      label: Reproduction steps
+      description: "How did you trigger this bug?"
+      value: |
+        1.
+        2.
+        3.
+        ...
+        render: bash
+      validations:
+        required: true
+  - type: textarea
+    attributes:
+      label: Addional information
+      description: "Is there any other information about the bug you want to tell us?"
+      value: |
+        Enter any addional information here.
+      render: bash
     validations:
       required: true
