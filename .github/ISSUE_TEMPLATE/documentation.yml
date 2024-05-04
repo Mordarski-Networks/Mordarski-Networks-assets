@@ -1,7 +1,7 @@
 name: Documentation
 description: Report documentation issues.
 assignees: ["smordarski", "gmordarski"]
-labels: ["documention"]
+labels: ["documentation"]
 title: "[Documentation]: "
 body:
   - type: markdown
