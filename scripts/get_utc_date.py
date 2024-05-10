@@ -7,22 +7,20 @@ import subprocess
 from datetime import datetime, timezone
 
 
-def copy(string):
-    """Copy a given argument to the clipboard.
+def main():
+    """Copies UTC date to the clipboard."""
+    utc_time = datetime.now(timezone.utc).strftime("%A, %B %d, %Y %I:%M:%S %p %Z")
 
-    The argument should be a string.
-    """
     os_dictionary = {"Windows": "clip", "Linux": "xclip -sel clip", "Darwin": "pbcopy"}
     for keys, values in os_dictionary.items():
         if platform.system() == keys:
-            subprocess.run(values, check=False, shell=False, input=string.encode())
+            subprocess.run(values, check=False, shell=False, input=utc_time.encode())
             return True
     return False
 
 
 if __name__ == "__main__":
-    utc_time = datetime.now(timezone.utc).strftime("%A, %B %d, %Y %I:%M:%S %p %Z")
-    if copy(utc_time):
+    if main():
         print("Copied UTC time to the clipboard.")
     else:
         print("This OS is not supported.")
