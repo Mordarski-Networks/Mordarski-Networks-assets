@@ -9,6 +9,27 @@ import subprocess
 import sys
 
 
+def main():
+    """Parse command line arguments."""
+    parser = argparse.ArgumentParser(
+        prog="generate_filter", description="Generate a filter."
+    )
+    parser.add_argument(
+        "-w",
+        "--website",
+        help="Give a sequence of websites separated by a space to generate the filter.",
+    )
+    args = parser.parse_args()
+
+    if len(sys.argv) == 1:
+        parser.print_help()
+        sys.exit()
+    if copy(generate_filter(args.website)):
+        print("Copied filter to the clipboard.")
+    else:
+        print("This OS is not supported.")
+
+
 def generate_filter(website):
     """Generate a filter.
 
@@ -16,6 +37,7 @@ def generate_filter(website):
     """
     website_list = re.sub(" ", " ", website).lower().split()
     filter_list = []
+
     for i in website_list:
         filter_list.extend(
             [
@@ -30,6 +52,7 @@ def generate_filter(website):
                 f'duckduckgo.com##.tile-wrap a[href*="{i}"]:upward(.tile)',
             ]
         )
+
     filter_list = "\n".join(filter_list)
     return filter_list
 
@@ -40,27 +63,14 @@ def copy(string):
     The argument should be a string.
     """
     os_dictionary = {"Windows": "clip", "Linux": "xclip -sel clip", "Darwin": "pbcopy"}
+
     for keys, values in os_dictionary.items():
         if platform.system() == keys:
             subprocess.run(values, check=False, shell=False, input=string.encode())
             return True
+
     return False
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(
-        prog="generate_filter", description="Generate a filter."
-    )
-    parser.add_argument(
-        "-w",
-        "--website",
-        help="Give a sequence of websites separated by a space to generate the filter.",
-    )
-    args = parser.parse_args()
-    if len(sys.argv) == 1:
-        parser.print_help()
-        sys.exit()
-    if copy(generate_filter(args.website)):
-        print("Copied filter to the clipboard.")
-    else:
-        print("This OS is not supported.")
+    main()
