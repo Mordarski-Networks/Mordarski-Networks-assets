@@ -10,5 +10,5 @@
         },
       },
       "isort.args":["--profile", "black"],
-    "pylint.args": ["--disable=C0301"]
+      "pylint.args": ["--disable=C0301"]
 }
