@@ -15,63 +15,43 @@ def main():
         prog="generate_filter", description="Generate a filter."
     )
     parser.add_argument(
-        "-f",
-        "--filter",
-        nargs=2,
-        type=str,
-        help="Choose a filter. You should separate the filters by a space.",
+        "-w",
+        "--website",
+        help="Give a sequence of websites separated by a space to generate the filter.",
     )
     args = parser.parse_args()
 
     if len(sys.argv) == 1:
         parser.print_help()
         sys.exit()
-    if args.filter[0] != ["search", "youtube"]:
-        parser.error(
-            "The argument is incorrect. The argument should be search or youtube."
-        )
-    elif args.filter:
-        copy(generate_filter(args.filter[0], args.filter[1]))
+    if copy(generate_filter(args.website)):
         print("Copied filter to the clipboard.")
     else:
         print("This OS is not supported.")
 
 
-def generate_filter(arg1, arg2):
+def generate_filter(website):
     """Generate a filter.
 
     Give a sequence of websites separated by a space to generate the filter.
     """
-    string = re.sub(" ", " ", arg2).lower().split()
+    website_list = re.sub(" ", " ", website).lower().split()
     filter_list = []
 
-    if arg1 == "search":
-        for i in string:
-            filter_list.extend(
-                [
-                    f'bing.com#?#[id$="results"] cite:has-text({i}):upward(li)',
-                    f'bing.com#?#a[href*="{i}"]:upward(li[data-idx][style^="width"])',
-                    f'bing.com#?#[id*="video"] > [href*="{i}"]:upward(.dg_u)',
-                    f'bing.com##.news-card[url*="{i}"]',
-                    f'www.google.*##.g:has(a[href*="{i}"])',
-                    f'www.google.*##a[href*="{i}"]:upward(1)',
-                    f'www.google.*##[data-lpage*="{i}"]',
-                    f'duckduckgo.com##ol.react-results--main a[href*="{i}"]:upward(article)',
-                    f'duckduckgo.com##.tile-wrap a[href*="{i}"]:upward(.tile)',
-                ]
-            )
-    if arg1 == "youtube":
-        for i in string:
-            filter_list.extend(
-                [
-                    f'www.youtube.com##ytd-browse[page-subtype="home"] a[href*="@{i}"]:upward(ytd-rich-item-renderer)',
-                    f'www.youtube.com##ytd-search a[href*="@{i}"]:upward(ytd-video-renderer,ytd-channel-renderer)',
-                    f'www.youtube.com##ytd-shorts:matches-path(/shorts) a.ytd-reel-player-header-renderer[href*="@{i}"]:upward(ytd-reel-video-renderer)',
-                    f'm.youtube.com##ytm-browse a[href*="@{i}"]:upward(ytm-rich-item-renderer)',
-                    f'm.youtube.com##ytm-search a[href*="@{i}"]:upward(ytm-video-with-context-renderer,ytm-compact-channel-renderer)',
-                    "youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)",
-                ]
-            )
+    for i in website_list:
+        filter_list.extend(
+            [
+                f'bing.com#?#[id$="results"] cite:has-text({i}):upward(li)',
+                f'bing.com#?#a[href*="{i}"]:upward(li[data-idx][style^="width"])',
+                f'bing.com#?#[id*="video"] > [href*="{i}"]:upward(.dg_u)',
+                f'bing.com##.news-card[url*="{i}"]',
+                f'www.google.*##.g:has(a[href*="{i}"])',
+                f'www.google.*##a[href*="{i}"]:upward(1)',
+                f'www.google.*##[data-lpage*="{i}"]',
+                f'duckduckgo.com##ol.react-results--main a[href*="{i}"]:upward(article)',
+                f'duckduckgo.com##.tile-wrap a[href*="{i}"]:upward(.tile)',
+            ]
+        )
 
     filter_list = "\n".join(filter_list)
     return filter_list
