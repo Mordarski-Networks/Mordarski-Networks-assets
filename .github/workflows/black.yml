@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332
-      - uses: psf/black@b677a643c5322b6af2dbca1f8f7a4f8c98e732aa
+      - uses: psf/black@b1f7b9f87d51c1335bea9b1415369bab4459092a
